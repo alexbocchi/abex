@@ -1,9 +1,22 @@
 {
-  "atualizado_em": "2026-03-26T18:32:30.921Z",
+  "atualizado_em": "2026-03-26T18:34:30.891Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 37.39,
+      "foto": "",
+      "item_id": "MLB1775787624",
+      "shipping_id": 46731104709,
+      "envio": "N/A",
+      "data": "2026-03-26T14:34:01.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715096752
+    },
     {
       "sku": "DC64-01538B",
       "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
@@ -640,19 +653,6 @@
       "data": "2026-03-26T12:57:53.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713736728
-    },
-    {
-      "sku": "ABQ74883808",
-      "produto": "Placa Receptora Ar Condicionado LG 9000 S4nq09wa51a Original 127/220v Abq74883808",
-      "quantidade": 1,
-      "valor": 205,
-      "foto": "",
-      "item_id": "MLB4806728174",
-      "shipping_id": 46730437517,
-      "envio": "N/A",
-      "data": "2026-03-26T12:57:10.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713742462
     }
   ]
 }
