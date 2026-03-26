@@ -1,9 +1,22 @@
 {
-  "atualizado_em": "2026-03-26T18:35:12.815Z",
+  "atualizado_em": "2026-03-26T18:36:31.286Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC60-00104A",
+      "produto": "Chave De Ajuste Pé Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "",
+      "item_id": "MLB1387354270",
+      "shipping_id": 46731388140,
+      "envio": "N/A",
+      "data": "2026-03-26T14:35:08.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715097396
+    },
     {
       "sku": "DC64-01538A",
       "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
@@ -16,6 +29,19 @@
       "data": "2026-03-26T14:34:01.000-04:00",
       "status": "paid",
       "pedido_id": 2000015715096752
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3920495205",
+      "shipping_id": 46731097293,
+      "envio": "N/A",
+      "data": "2026-03-26T14:32:51.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715065634
     },
     {
       "sku": "DC64-01538B",
@@ -627,32 +653,6 @@
       "data": "2026-03-26T12:58:16.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713732950
-    },
-    {
-      "sku": "DC60-00104A",
-      "produto": "Chave De Ajuste Pé Lavadora Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 35,
-      "foto": "",
-      "item_id": "MLB1490250265",
-      "shipping_id": 46730715868,
-      "envio": "N/A",
-      "data": "2026-03-26T12:58:11.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713745130
-    },
-    {
-      "sku": "DC62-10289C",
-      "produto": "Mangueira Entrada Agua Lavadora Panasonic 1 Metro Original",
-      "quantidade": 1,
-      "valor": 31.66,
-      "foto": "",
-      "item_id": "MLB4219406306",
-      "shipping_id": 46730713436,
-      "envio": "N/A",
-      "data": "2026-03-26T12:57:53.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713736728
     }
   ]
 }
