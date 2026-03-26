@@ -1,10 +1,49 @@
 {
-  "atualizado_em": "2026-03-26T19:22:26.722Z",
+  "atualizado_em": "2026-03-26T19:27:09.157Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 100,
-  "proxima_pagina": 18,
+  "total_pedidos": 104,
+  "proxima_pagina": 21,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 37.39,
+      "foto": "",
+      "item_id": "MLB1775787624",
+      "shipping_id": 46731464745,
+      "envio": "N/A",
+      "data": "2026-03-26T15:24:57.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715820898
+    },
+    {
+      "sku": "25906085",
+      "produto": "Motor Ventilador Condensadora Split 220v Springer 12000 Btus",
+      "quantidade": 3,
+      "valor": 201,
+      "foto": "",
+      "item_id": "MLB4507938757",
+      "shipping_id": 46731461951,
+      "envio": "N/A",
+      "data": "2026-03-26T15:24:38.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715812858
+    },
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Interface Ar Condicionado LG Asnq092wsa0 Abq73301301 220v",
+      "quantidade": 1,
+      "valor": 250,
+      "foto": "",
+      "item_id": "MLB5677344346",
+      "shipping_id": 46731461115,
+      "envio": "N/A",
+      "data": "2026-03-26T15:24:26.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715789570
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lavadora Lava E Seca Samsung Original Nf",
@@ -30,6 +69,19 @@
       "data": "2026-03-26T15:13:20.000-04:00",
       "status": "paid",
       "pedido_id": 2000015715627724
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "",
+      "item_id": "MLB4057130417",
+      "shipping_id": 46731640924,
+      "envio": "N/A",
+      "data": "2026-03-26T15:11:08.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715614984
     },
     {
       "sku": "021392",
