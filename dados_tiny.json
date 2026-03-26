@@ -1,10 +1,36 @@
 {
-  "atualizado_em": "2026-03-26T19:10:36.710Z",
+  "atualizado_em": "2026-03-26T19:12:22.335Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 55,
-  "total_mes": 11616,
+  "total_pedidos": 57,
+  "total_mes": 11618,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "021392",
+      "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
+      "quantidade": 2,
+      "valor": 35,
+      "foto": "",
+      "item_id": "MLB6154718234",
+      "shipping_id": 46731639126,
+      "envio": "N/A",
+      "data": "2026-03-26T15:10:53.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715630508
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
+      "quantidade": 1,
+      "valor": 27.72,
+      "foto": "",
+      "item_id": "MLB4041539053",
+      "shipping_id": 46731361113,
+      "envio": "N/A",
+      "data": "2026-03-26T15:10:33.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715587856
+    },
     {
       "sku": "25906085",
       "produto": "Motor Ventilador Condensa 25906085 Ar Split Springer 220v",
