@@ -1,10 +1,37 @@
 {
-  "atualizado_em": "2026-03-26T19:12:22.335Z",
+  "atualizado_em": "2026-03-26T19:15:56.065Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 57,
-  "total_mes": 11618,
+  "total_pedidos": 59,
+  "total_mes": 11620,
+  "proxima_pagina_antiga": 3,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lavadora Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 45.1,
+      "foto": "",
+      "item_id": "MLB1492739586",
+      "shipping_id": 46731391059,
+      "envio": "N/A",
+      "data": "2026-03-26T15:14:51.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715680354
+    },
+    {
+      "sku": "KITPRESSOSTATO",
+      "produto": "Kit Pressostato + Mangueira Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB5192927886",
+      "shipping_id": 46731655332,
+      "envio": "N/A",
+      "data": "2026-03-26T15:13:20.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715627724
+    },
     {
       "sku": "021392",
       "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
