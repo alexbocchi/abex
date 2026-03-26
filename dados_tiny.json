@@ -1,9 +1,35 @@
 {
-  "atualizado_em": "2026-03-26T18:20:44.444Z",
+  "atualizado_em": "2026-03-26T18:24:10.304Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB5506740256",
+      "shipping_id": 46731034601,
+      "envio": "N/A",
+      "data": "2026-03-26T14:23:47.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714955774
+    },
+    {
+      "sku": "DB96-24831H",
+      "produto": "Serpentina Ar Condicionado Samsung Windfree 9 E 12000 Btus",
+      "quantidade": 1,
+      "valor": 788,
+      "foto": "",
+      "item_id": "MLB4626022440",
+      "shipping_id": 46731309278,
+      "envio": "N/A",
+      "data": "2026-03-26T14:23:34.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714970136
+    },
     {
       "sku": "DC64-01524A",
       "produto": "Puxador Da Porta Lava E Seca Samsung Eco Bubble Original",
@@ -627,32 +653,6 @@
       "data": "2026-03-26T12:54:39.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713690794
-    },
-    {
-      "sku": "5214FR3188G",
-      "produto": "Mangueira Drenagem Saída Para Lava E Seca LG 5214fr3188g",
-      "quantidade": 1,
-      "valor": 45.65,
-      "foto": "",
-      "item_id": "MLB5506747680",
-      "shipping_id": 46730408745,
-      "envio": "N/A",
-      "data": "2026-03-26T12:53:47.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713694244
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "",
-      "item_id": "MLB5506740256",
-      "shipping_id": 46730401237,
-      "envio": "N/A",
-      "data": "2026-03-26T12:52:49.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713674282
     }
   ]
 }
