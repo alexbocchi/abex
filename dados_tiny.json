@@ -1,9 +1,117 @@
 {
-  "atualizado_em": "2026-03-26T17:03:45.437Z",
+  "atualizado_em": "2026-03-26T17:15:12.832Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3909444153",
+      "envio": "N/A",
+      "data": "2026-03-26T13:12:43.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713950726
+    },
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Dc64-01538a",
+      "quantidade": 1,
+      "valor": 28.45,
+      "foto": "",
+      "item_id": "MLB3951125433",
+      "envio": "N/A",
+      "data": "2026-03-26T13:12:25.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713950594
+    },
+    {
+      "sku": "DB31-00680A",
+      "produto": "Motor Ventilador Para Evaporadora Samsung Db31-00619b Ar12hs 220v",
+      "quantidade": 1,
+      "valor": 280,
+      "foto": "",
+      "item_id": "MLB4389183483",
+      "envio": "N/A",
+      "data": "2026-03-26T13:09:04.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713877248
+    },
+    {
+      "sku": "KITSM0002",
+      "produto": "Placa Receptora Ar Samsung Inverter 9 12 18 24.000 Btus 127/220v",
+      "quantidade": 1,
+      "valor": 141.41,
+      "foto": "",
+      "item_id": "MLB3911584039",
+      "envio": "N/A",
+      "data": "2026-03-26T13:07:48.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713884874
+    },
+    {
+      "sku": "DC64-01827A",
+      "produto": "Guarnição Borracha Da Porta Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 115.9,
+      "foto": "",
+      "item_id": "MLB1472112068",
+      "envio": "N/A",
+      "data": "2026-03-26T13:07:20.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713884418
+    },
+    {
+      "sku": "DB92-03442G",
+      "produto": "Placa Principal Potência Evaporadora Ar12jpsuawq Ar 220v",
+      "quantidade": 1,
+      "valor": 550,
+      "foto": "",
+      "item_id": "MLB3937897505",
+      "envio": "N/A",
+      "data": "2026-03-26T13:07:20.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713863918
+    },
+    {
+      "sku": "DB31-00680A",
+      "produto": "Motor Ventilador Evaporadora Ar Condicionado Samsung Asv12",
+      "quantidade": 1,
+      "valor": 280,
+      "foto": "",
+      "item_id": "MLB5278710800",
+      "envio": "N/A",
+      "data": "2026-03-26T13:07:07.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713884194
+    },
+    {
+      "sku": "783198",
+      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
+      "quantidade": 1,
+      "valor": 19,
+      "foto": "",
+      "item_id": "MLB5272637204",
+      "envio": "N/A",
+      "data": "2026-03-26T13:05:02.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713850266
+    },
+    {
+      "sku": "KITEIXOCOMPLETO",
+      "produto": "Eixo Tripé Dc97-14370c Retentor Rolamentos Parafusos Lava Seca Samsung",
+      "quantidade": 1,
+      "valor": 243,
+      "foto": "",
+      "item_id": "MLB3708018251",
+      "envio": "N/A",
+      "data": "2026-03-26T13:03:44.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713809964
+    },
     {
       "sku": "5900AR1266A",
       "produto": "Hélice Condensadora Para Ar Condicionado LG 9000 Original",
@@ -473,30 +581,6 @@
       "pedido_id": 2000015713131798
     },
     {
-      "sku": "25906088",
-      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
-      "quantidade": 1,
-      "valor": 204.95,
-      "foto": "",
-      "item_id": "MLB5676655880",
-      "envio": "N/A",
-      "data": "2026-03-26T12:15:46.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713131114
-    },
-    {
-      "sku": "ABQ74883808",
-      "produto": "Placa Display Receptora Ar LG S4uq09wa5 S4nq09wa51a",
-      "quantidade": 1,
-      "valor": 199,
-      "foto": "",
-      "item_id": "MLB6102100444",
-      "envio": "N/A",
-      "data": "2026-03-26T12:15:31.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713134568
-    },
-    {
       "sku": "DB90-11453B",
       "produto": "Suporte Evaporadora Windfree 9000 Ar Condicionado Samsung",
       "quantidade": 1,
@@ -519,90 +603,6 @@
       "data": "2026-03-26T12:15:23.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713130788
-    },
-    {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "",
-      "item_id": "MLB6242975798",
-      "envio": "N/A",
-      "data": "2026-03-26T12:11:33.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713055424
-    },
-    {
-      "sku": "KITSM1173",
-      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
-      "quantidade": 1,
-      "valor": 29.5,
-      "foto": "",
-      "item_id": "MLB5347106848",
-      "envio": "N/A",
-      "data": "2026-03-26T12:10:15.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713047078
-    },
-    {
-      "sku": "EAU64082902",
-      "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
-      "quantidade": 1,
-      "valor": 59.36,
-      "foto": "",
-      "item_id": "MLB5303104460",
-      "envio": "N/A",
-      "data": "2026-03-26T12:08:40.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713001952
-    },
-    {
-      "sku": "KITSM1077",
-      "produto": "Pé Regulável Lava E Seca E Lavadora Samsung 4 Peças",
-      "quantidade": 1,
-      "valor": 29.4,
-      "foto": "",
-      "item_id": "MLB5461527358",
-      "envio": "N/A",
-      "data": "2026-03-26T12:07:05.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713026088
-    },
-    {
-      "sku": "41044029",
-      "produto": "Saco Para Aspirador De Pó Electrolux A20s Gt3000 Original Nf",
-      "quantidade": 1,
-      "valor": 42.9,
-      "foto": "",
-      "item_id": "MLB5792445044",
-      "envio": "N/A",
-      "data": "2026-03-26T12:05:30.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015712998614
-    },
-    {
-      "sku": "EBR64620701",
-      "produto": "Placa Display Receptora Ar Condicionado LG 9000 A 24000 Btus",
-      "quantidade": 1,
-      "valor": 199.89,
-      "foto": "",
-      "item_id": "MLB5173152694",
-      "envio": "N/A",
-      "data": "2026-03-26T12:05:27.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015712997434
-    },
-    {
-      "sku": "021061",
-      "produto": "Hélice Ventilador Britânia Philco B30 Turbo 6 Pás 30cm Cinza-escuro",
-      "quantidade": 1,
-      "valor": 23.75,
-      "foto": "",
-      "item_id": "MLB6419662282",
-      "envio": "N/A",
-      "data": "2026-03-26T12:02:32.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015712966070
     }
   ]
 }
