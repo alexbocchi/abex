@@ -1,9 +1,22 @@
 {
-  "atualizado_em": "2026-03-26T18:30:30.965Z",
+  "atualizado_em": "2026-03-26T18:32:30.921Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
+      "quantidade": 1,
+      "valor": 27.72,
+      "foto": "",
+      "item_id": "MLB4041539053",
+      "shipping_id": 46731080847,
+      "envio": "N/A",
+      "data": "2026-03-26T14:30:22.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715050548
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
@@ -640,19 +653,6 @@
       "data": "2026-03-26T12:57:10.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713742462
-    },
-    {
-      "sku": "KITSM1118",
-      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
-      "quantidade": 1,
-      "valor": 29.77,
-      "foto": "",
-      "item_id": "MLB1613568329",
-      "shipping_id": 46730689672,
-      "envio": "N/A",
-      "data": "2026-03-26T12:54:39.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713690794
     }
   ]
 }
