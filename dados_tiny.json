@@ -1,10 +1,49 @@
 {
-  "atualizado_em": "2026-03-26T19:28:00.165Z",
+  "atualizado_em": "2026-03-26T19:34:59.912Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 105,
-  "proxima_pagina": 27,
+  "total_pedidos": 108,
+  "proxima_pagina": 30,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "",
+      "item_id": "MLB1584616358",
+      "shipping_id": 46731529399,
+      "envio": "N/A",
+      "data": "2026-03-26T15:34:09.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715946378
+    },
+    {
+      "sku": "3L-210",
+      "produto": "Correia Para Lavadora Panasonic Na-f140 Na-f160",
+      "quantidade": 1,
+      "valor": 21.44,
+      "foto": "",
+      "item_id": "MLB5293987380",
+      "shipping_id": 46731767668,
+      "envio": "N/A",
+      "data": "2026-03-26T15:28:52.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715870688
+    },
+    {
+      "sku": "DC64-03988C",
+      "produto": "Gaxeta Borracha Porta Lavadora Samsung - Peça Dc64-03988a Nf",
+      "quantidade": 1,
+      "valor": 353.58,
+      "foto": "",
+      "item_id": "MLB5957014662",
+      "shipping_id": 46731491085,
+      "envio": "N/A",
+      "data": "2026-03-26T15:28:44.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715853352
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
