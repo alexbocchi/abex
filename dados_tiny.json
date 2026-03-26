@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-26T17:15:12.832Z",
+  "atualizado_em": "2026-03-26T17:26:01.752Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Para Uso Em Lava E Seca Samsung Dc66-421b Wd10m44530w Wd0854w Wd103u4sawq Wd106uhsagd Wd10j6410 Wd11a4453 Wd856uhsasd Wd90j6410 Wf106u4sa Wf8854ljf1 Ww85j4273mw",
+      "quantidade": 1,
+      "valor": 42,
+      "foto": "",
+      "item_id": "MLB6153610258",
+      "envio": "N/A",
+      "data": "2026-03-26T13:18:32.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713999784
+    },
+    {
+      "sku": "DB31-00636C",
+      "produto": "Motor Evaporadora Para Uso Em Ar Condicionado Samsung Inverter 12000 Btus Db31-00636c Rd-310-25-8b-3 Ar09mvshcwkned Ar12mvspbgm Ar12tv5pawknna Ar07ksfpewqneu Ar12kvspbgmnaz 220v",
+      "quantidade": 1,
+      "valor": 270,
+      "foto": "",
+      "item_id": "MLB6288690094",
+      "envio": "N/A",
+      "data": "2026-03-26T13:18:29.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714044062
+    },
     {
       "sku": "EAU61383506",
       "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
@@ -557,18 +581,6 @@
       "pedido_id": 2000015713163638
     },
     {
-      "sku": "5900AR1266A",
-      "produto": "Hélice Condensadora Ar LG Tsuh092yma0 / Nw0 Tsuc072yma0 Cinza",
-      "quantidade": 1,
-      "valor": 119,
-      "foto": "",
-      "item_id": "MLB5289057726",
-      "envio": "N/A",
-      "data": "2026-03-26T12:16:34.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713146438
-    },
-    {
       "sku": "AKB75215403",
       "produto": "Controle Remoto P Ar Condicionado LG Dual Inveter Original",
       "quantidade": 1,
@@ -591,18 +603,6 @@
       "data": "2026-03-26T12:15:24.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713140024
-    },
-    {
-      "sku": "783198",
-      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
-      "quantidade": 1,
-      "valor": 19,
-      "foto": "",
-      "item_id": "MLB5272637204",
-      "envio": "N/A",
-      "data": "2026-03-26T12:15:23.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713130788
     }
   ]
 }
