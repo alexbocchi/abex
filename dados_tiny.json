@@ -1,10 +1,23 @@
 {
-  "atualizado_em": "2026-03-26T19:27:09.157Z",
+  "atualizado_em": "2026-03-26T19:27:29.404Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 104,
-  "proxima_pagina": 21,
+  "total_pedidos": 105,
+  "proxima_pagina": 24,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 1,
+      "valor": 35.5,
+      "foto": "",
+      "item_id": "MLB3791029185",
+      "shipping_id": 46731754636,
+      "envio": "N/A",
+      "data": "2026-03-26T15:27:00.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715844488
+    },
     {
       "sku": "DC64-01538A",
       "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
