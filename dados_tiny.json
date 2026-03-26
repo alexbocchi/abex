@@ -1,10 +1,23 @@
 {
-  "atualizado_em": "2026-03-26T19:44:19.051Z",
+  "atualizado_em": "2026-03-26T19:47:20.359Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 114,
-  "proxima_pagina": 39,
+  "total_pedidos": 115,
+  "proxima_pagina": 42,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1078",
+      "produto": "Pezinho Alto Lava Seca Samsung Original Ecobubble Wd10 Wd103",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB4008193225",
+      "shipping_id": 46731616477,
+      "envio": "N/A",
+      "data": "2026-03-26T15:46:54.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015716116526
+    },
     {
       "sku": "DB95-01990D",
       "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
