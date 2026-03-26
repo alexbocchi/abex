@@ -1,10 +1,23 @@
 {
-  "atualizado_em": "2026-03-26T20:12:01.863Z",
+  "atualizado_em": "2026-03-26T20:16:16.078Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 123,
-  "proxima_pagina": 60,
+  "total_pedidos": 124,
+  "proxima_pagina": 65,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485/wd1403",
+      "quantidade": 1,
+      "valor": 78.9,
+      "foto": "",
+      "item_id": "MLB5339811136",
+      "shipping_id": 46731799323,
+      "envio": "N/A",
+      "data": "2026-03-26T16:13:31.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015716459432
+    },
     {
       "sku": "DC62-00233C",
       "produto": "Válvula Tripla Lava E Seca Samsung Wd136 Wd106 Wd856 Nf",
