@@ -1,9 +1,22 @@
 {
-  "atualizado_em": "2026-03-26T18:26:30.860Z",
+  "atualizado_em": "2026-03-26T18:28:30.816Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "",
+      "item_id": "MLB1584616358",
+      "shipping_id": 46731325712,
+      "envio": "N/A",
+      "data": "2026-03-26T14:26:03.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714959988
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
@@ -627,19 +640,6 @@
       "data": "2026-03-26T12:57:10.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713742462
-    },
-    {
-      "sku": "727908",
-      "produto": "Jarra Cafeteira Caf Bcf32a Britania Preto",
-      "quantidade": 1,
-      "valor": 51.3,
-      "foto": "",
-      "item_id": "MLB6444636096",
-      "shipping_id": 46730415177,
-      "envio": "N/A",
-      "data": "2026-03-26T12:54:53.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713669556
     },
     {
       "sku": "KITSM1118",
