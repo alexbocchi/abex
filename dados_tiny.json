@@ -1,9 +1,35 @@
 {
-  "atualizado_em": "2026-03-26T18:48:30.916Z",
+  "atualizado_em": "2026-03-26T18:50:31.160Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "",
+      "item_id": "MLB1868780838",
+      "shipping_id": 46731494306,
+      "envio": "N/A",
+      "data": "2026-03-26T14:50:12.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715334382
+    },
+    {
+      "sku": "25906085",
+      "produto": "Motor Condensador Springer 9 A 12kbtu 25906085 / 25906089",
+      "quantidade": 2,
+      "valor": 218,
+      "foto": "",
+      "item_id": "MLB4260032161",
+      "shipping_id": 46731482176,
+      "envio": "N/A",
+      "data": "2026-03-26T14:48:32.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715318418
+    },
     {
       "sku": "KITSM0003",
       "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original",
@@ -627,32 +653,6 @@
       "data": "2026-03-26T13:07:20.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713863918
-    },
-    {
-      "sku": "DB31-00680A",
-      "produto": "Motor Ventilador Evaporadora Ar Condicionado Samsung Asv12",
-      "quantidade": 1,
-      "valor": 280,
-      "foto": "",
-      "item_id": "MLB5278710800",
-      "shipping_id": 46730502321,
-      "envio": "N/A",
-      "data": "2026-03-26T13:07:07.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713884194
-    },
-    {
-      "sku": "783198",
-      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
-      "quantidade": 1,
-      "valor": 19,
-      "foto": "",
-      "item_id": "MLB5272637204",
-      "shipping_id": 46730487385,
-      "envio": "N/A",
-      "data": "2026-03-26T13:05:02.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713850266
     }
   ]
 }
