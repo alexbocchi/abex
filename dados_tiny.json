@@ -1,9 +1,48 @@
 {
-  "atualizado_em": "2026-03-26T18:56:30.489Z",
+  "atualizado_em": "2026-03-26T18:58:31.567Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1118",
+      "produto": "Kit Puxador Porta + Mola Para Lava Seca Samsung Wd103u4sawq",
+      "quantidade": 1,
+      "valor": 32.6,
+      "foto": "",
+      "item_id": "MLB5751310180",
+      "shipping_id": 46731547204,
+      "envio": "N/A",
+      "data": "2026-03-26T14:57:47.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715448338
+    },
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava De Tampa Samsung Lava E Seca Dc64-01538a 220v Modelos Compatíveis",
+      "quantidade": 1,
+      "valor": 45.49,
+      "foto": "",
+      "item_id": "MLB5476650842",
+      "shipping_id": 46731533650,
+      "envio": "N/A",
+      "data": "2026-03-26T14:55:51.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715416672
+    },
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd10j6410ax",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "",
+      "item_id": "MLB4307274841",
+      "shipping_id": 46731532900,
+      "envio": "N/A",
+      "data": "2026-03-26T14:55:47.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715416562
+    },
     {
       "sku": "DC93-00139A",
       "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
@@ -614,45 +653,6 @@
       "data": "2026-03-26T13:12:25.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713950594
-    },
-    {
-      "sku": "DB31-00680A",
-      "produto": "Motor Ventilador Para Evaporadora Samsung Db31-00619b Ar12hs 220v",
-      "quantidade": 1,
-      "valor": 280,
-      "foto": "",
-      "item_id": "MLB4389183483",
-      "shipping_id": 46730514883,
-      "envio": "N/A",
-      "data": "2026-03-26T13:09:04.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713877248
-    },
-    {
-      "sku": "KITSM0002",
-      "produto": "Placa Receptora Ar Samsung Inverter 9 12 18 24.000 Btus 127/220v",
-      "quantidade": 1,
-      "valor": 141.41,
-      "foto": "",
-      "item_id": "MLB3911584039",
-      "shipping_id": 46730513097,
-      "envio": "N/A",
-      "data": "2026-03-26T13:07:48.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713884874
-    },
-    {
-      "sku": "DC64-01827A",
-      "produto": "Guarnição Borracha Da Porta Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 115.9,
-      "foto": "",
-      "item_id": "MLB1472112068",
-      "shipping_id": 46730779154,
-      "envio": "N/A",
-      "data": "2026-03-26T13:07:20.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713884418
     }
   ]
 }
