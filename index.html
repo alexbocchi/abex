@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Dashboard de Estoque — Tiny ERP</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<style>
+:root {
+  --bg: #0f0f11;
+  --surface: #17171a;
+  --surface2: #1e1e23;
+  --border: rgba(255,255,255,0.07);
+  --border2: rgba(255,255,255,0.12);
+  --text: #f0eff5;
+  --muted: #7c7b8a;
+  --accent: #c8f04a;
+  --accent2: #7b5cfa;
+  --danger: #ff5f5f;
+  --warn: #ffb547;
+  --ok: #4affa0;
+  --font-head: 'Syne', sans-serif;
+  --font-mono: 'DM Mono', monospace;
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text); font-family: var(--font-head); min-height: 100vh; }
+
+/* Layout */
+.shell { display: grid; grid-template-columns: 220px 1fr; min-height: 100vh; }
+.sidebar { background: var(--surface); border-right: 1px solid var(--border); padding: 28px 0; display: flex; flex-direction: column; position: sticky; top: 0; height: 100vh; }
+.logo { padding: 0 24px 28px; border-bottom: 1px solid var(--border); }
+.logo span { font-size: 15px; font-weight: 700; letter-spacing: 0.04em; color: var(--accent); }
+.logo p { font-size: 11px; color: var(--muted); margin-top: 2px; font-family: var(--font-mono); }
+.nav { flex: 1; padding: 20px 12px 0; }
+.nav-item { display: flex; align-items: center; gap: 10px; padding: 9px 12px; border-radius: var(--radius-sm); font-size: 13px; font-weight: 500; color: var(--muted); cursor: pointer; transition: all 0.15s; margin-bottom: 2px; }
+.nav-item:hover { background: var(--surface2); color: var(--text); }
+.nav-item.active { background: rgba(200,240,74,0.1); color: var(--accent); }
+.nav-item .icon { width: 16px; height: 16px; opacity: 0.7; }
+.nav-item.active .icon { opacity: 1; }
+.sidebar-footer { padding: 20px 24px; border-top: 1px solid var(--border); }
+.status-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--muted); margin-right: 6px; }
+.status-dot.connected { background: var(--ok); box-shadow: 0 0 6px var(--ok); }
+.sidebar-footer p { font-size: 11px; color: var(--muted); font-family: var(--font-mono); }
+
+.main { padding: 36px 40px; overflow-x: hidden; }
+.page { display: none; }
+.page.active { display: block; }
+
+/* Header */
+.page-header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 32px; gap: 16px; flex-wrap: wrap; }
+.page-title { font-size: 26px; font-weight: 700; letter-spacing: -0.02em; }
+.page-subtitle { font-size: 13px; color: var(--muted); margin-top: 4px; font-family: var(--font-mono); }
+
+/* Upload zone */
+.upload-zone { border: 1.5px dashed var(--border2); border-radius: var(--radius); padding: 40px; text-align: center; cursor: pointer; transition: all 0.2s; background: var(--surface); margin-bottom: 16px; }
+.upload-zone:hover, .upload-zone.drag { border-color: var(--accent); background: rgba(200,240,74,0.04); }
+.upload-icon { font-size: 32px; margin-bottom: 12px; }
+.upload-zone h3 { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
+.upload-zone p { font-size: 12px; color: var(--muted); font-family: var(--font-mono); }
+input[type=file] { display: none; }
+
+.upload-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 32px; }
+@media(max-width:700px){ .upload-cards { grid-template-columns: 1fr; } }
+
+.upload-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; }
+.upload-card h4 { font-size: 13px; font-weight: 600; margin-bottom: 6px; color: var(--text); }
+.upload-card p { font-size: 11px; color: var(--muted); font-family: var(--font-mono); line-height: 1.6; margin-bottom: 14px; }
+.upload-card .cols { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 14px; }
+.col-tag { font-size: 10px; font-family: var(--font-mono); background: var(--surface2); border: 1px solid var(--border2); border-radius: 4px; padding: 2px 7px; color: var(--muted); }
+.col-tag.req { border-color: rgba(200,240,74,0.3); color: var(--accent); background: rgba(200,240,74,0.06); }
+.file-input-label { display: inline-flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 600; padding: 8px 16px; border-radius: var(--radius-sm); border: 1px solid var(--border2); background: var(--surface2); color: var(--text); cursor: pointer; transition: all 0.15s; font-family: var(--font-head); }
+.file-input-label:hover { border-color: var(--accent); color: var(--accent); }
+.file-status { font-size: 11px; font-family: var(--font-mono); margin-top: 8px; color: var(--muted); }
+.file-status.ok { color: var(--ok); }
+
+/* Stats grid */
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-bottom: 32px; }
+.stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px 20px; transition: border-color 0.2s; }
+.stat-card:hover { border-color: var(--border2); }
+.stat-label { font-size: 11px; font-family: var(--font-mono); color: var(--muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.05em; }
+.stat-val { font-size: 28px; font-weight: 700; letter-spacing: -0.02em; }
+.stat-val.accent { color: var(--accent); }
+.stat-val.danger { color: var(--danger); }
+.stat-val.warn { color: var(--warn); }
+.stat-val.ok { color: var(--ok); }
+.stat-change { font-size: 11px; font-family: var(--font-mono); color: var(--muted); margin-top: 4px; }
+
+/* Section titles */
+.section-title { font-size: 13px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; display: flex; align-items: center; gap: 8px; }
+.section-title::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+
+/* Charts */
+.charts-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 28px; }
+@media(max-width:900px){ .charts-row { grid-template-columns: 1fr; } }
+.chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; }
+.chart-card h3 { font-size: 13px; font-weight: 600; margin-bottom: 16px; color: var(--muted); font-family: var(--font-mono); }
+.chart-wrap { position: relative; height: 220px; }
+
+/* Table */
+.table-toolbar { display: flex; gap: 10px; margin-bottom: 12px; flex-wrap: wrap; }
+.search-input { flex: 1; min-width: 180px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 8px 14px; font-size: 13px; color: var(--text); font-family: var(--font-head); outline: none; transition: border-color 0.15s; }
+.search-input:focus { border-color: var(--accent); }
+.search-input::placeholder { color: var(--muted); }
+.filter-btn { font-size: 12px; padding: 8px 14px; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--surface); color: var(--muted); cursor: pointer; font-family: var(--font-head); font-weight: 500; transition: all 0.15s; }
+.filter-btn:hover, .filter-btn.active { border-color: var(--accent); color: var(--accent); background: rgba(200,240,74,0.07); }
+.export-btn { font-size: 12px; padding: 8px 14px; border-radius: var(--radius-sm); border: 1px solid var(--border2); background: var(--surface2); color: var(--text); cursor: pointer; font-family: var(--font-head); font-weight: 600; transition: all 0.15s; }
+.export-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+.table-wrap { overflow-x: auto; border-radius: var(--radius); border: 1px solid var(--border); }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+thead th { background: var(--surface2); padding: 10px 14px; text-align: left; font-size: 11px; font-weight: 600; color: var(--muted); font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 0.04em; white-space: nowrap; cursor: pointer; user-select: none; }
+thead th:hover { color: var(--text); }
+tbody td { padding: 10px 14px; border-top: 1px solid var(--border); color: var(--text); font-family: var(--font-mono); font-size: 12px; white-space: nowrap; }
+tbody tr:hover td { background: var(--surface2); }
+.badge { display: inline-flex; align-items: center; gap: 4px; font-size: 10px; font-weight: 600; padding: 3px 8px; border-radius: 20px; font-family: var(--font-mono); letter-spacing: 0.03em; }
+.badge::before { content: ''; width: 5px; height: 5px; border-radius: 50%; }
+.badge.ok { background: rgba(74,255,160,0.1); color: var(--ok); }
+.badge.ok::before { background: var(--ok); }
+.badge.low { background: rgba(255,181,71,0.12); color: var(--warn); }
+.badge.low::before { background: var(--warn); }
+.badge.out { background: rgba(255,95,95,0.12); color: var(--danger); }
+.badge.out::before { background: var(--danger); }
+.progress-bar { width: 80px; height: 4px; background: var(--surface2); border-radius: 2px; overflow: hidden; }
+.progress-fill { height: 100%; border-radius: 2px; transition: width 0.3s; }
+
+/* Alerts */
+.alerts-list { display: flex; flex-direction: column; gap: 8px; margin-bottom: 28px; }
+.alert-item { display: flex; align-items: center; gap: 14px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 12px 16px; }
+.alert-item.critical { border-left: 3px solid var(--danger); }
+.alert-item.warning { border-left: 3px solid var(--warn); }
+.alert-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.alert-dot.critical { background: var(--danger); box-shadow: 0 0 6px var(--danger); }
+.alert-dot.warning { background: var(--warn); }
+.alert-info { flex: 1; }
+.alert-name { font-size: 13px; font-weight: 600; }
+.alert-sub { font-size: 11px; color: var(--muted); font-family: var(--font-mono); margin-top: 2px; }
+.alert-qty { font-family: var(--font-mono); font-size: 13px; font-weight: 500; }
+.alert-qty.critical { color: var(--danger); }
+.alert-qty.warning { color: var(--warn); }
+.alert-dias { font-size: 10px; font-family: var(--font-mono); color: var(--muted); text-align: right; }
+
+/* Ranking */
+.ranking-list { display: flex; flex-direction: column; gap: 6px; }
+.rank-item { display: flex; align-items: center; gap: 12px; padding: 10px 14px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); }
+.rank-num { font-size: 11px; font-family: var(--font-mono); color: var(--muted); width: 20px; text-align: center; }
+.rank-num.top { color: var(--accent); font-weight: 700; }
+.rank-info { flex: 1; }
+.rank-name { font-size: 13px; font-weight: 500; }
+.rank-sku { font-size: 10px; font-family: var(--font-mono); color: var(--muted); }
+.rank-bar-wrap { width: 120px; }
+.rank-bar { height: 3px; background: var(--surface2); border-radius: 2px; overflow: hidden; }
+.rank-fill { height: 100%; border-radius: 2px; background: var(--accent); }
+.rank-qty { font-family: var(--font-mono); font-size: 12px; color: var(--text); min-width: 50px; text-align: right; }
+
+/* Previsão */
+.prev-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; }
+.prev-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+.prev-card.critical { border-color: rgba(255,95,95,0.35); }
+.prev-card.warning { border-color: rgba(255,181,71,0.35); }
+.prev-name { font-size: 13px; font-weight: 600; margin-bottom: 2px; }
+.prev-sku { font-size: 10px; font-family: var(--font-mono); color: var(--muted); margin-bottom: 12px; }
+.prev-row { display: flex; justify-content: space-between; font-size: 11px; font-family: var(--font-mono); color: var(--muted); margin-bottom: 4px; }
+.prev-row span:last-child { color: var(--text); font-weight: 500; }
+.prev-ruptura { margin-top: 10px; font-size: 12px; font-weight: 600; }
+.prev-ruptura.critical { color: var(--danger); }
+.prev-ruptura.warning { color: var(--warn); }
+.prev-ruptura.ok { color: var(--ok); }
+
+/* Empty state */
+.empty-state { text-align: center; padding: 60px 20px; }
+.empty-state .em-icon { font-size: 40px; margin-bottom: 16px; opacity: 0.4; }
+.empty-state h3 { font-size: 16px; font-weight: 600; margin-bottom: 6px; color: var(--muted); }
+.empty-state p { font-size: 12px; color: var(--muted); font-family: var(--font-mono); }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--surface2); border-radius: 3px; }
+
+/* Pagination */
+.pagination { display: flex; align-items: center; gap: 8px; margin-top: 12px; justify-content: flex-end; }
+.page-btn { font-size: 12px; padding: 5px 11px; border-radius: var(--radius-sm); border: 1px solid var(--border); background: var(--surface); color: var(--muted); cursor: pointer; font-family: var(--font-mono); transition: all 0.15s; }
+.page-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.page-btn:disabled { opacity: 0.3; cursor: default; }
+.page-info { font-size: 11px; font-family: var(--font-mono); color: var(--muted); }
+
+/* Responsive sidebar toggle */
+@media(max-width:768px){
+  .shell { grid-template-columns: 1fr; }
+  .sidebar { position: relative; height: auto; flex-direction: row; flex-wrap: wrap; padding: 16px; }
+  .logo { padding: 0 16px 0 0; border-bottom: none; border-right: 1px solid var(--border); }
+  .nav { padding: 0; display: flex; flex-direction: row; gap: 4px; }
+  .sidebar-footer { display: none; }
+  .main { padding: 20px 16px; }
+}
+</style>
+</head>
+<body>
+<div class="shell">
+  <aside class="sidebar">
+    <div class="logo">
+      <span>ESTOQUE</span>
+      <p>Tiny ERP Dashboard</p>
+    </div>
+    <nav class="nav">
+      <div class="nav-item active" onclick="goPage('dashboard')">
+        <svg class="icon" viewBox="0 0 16 16" fill="none"><rect x="1" y="1" width="6" height="6" rx="1" fill="currentColor" opacity=".9"/><rect x="9" y="1" width="6" height="6" rx="1" fill="currentColor" opacity=".5"/><rect x="1" y="9" width="6" height="6" rx="1" fill="currentColor" opacity=".5"/><rect x="9" y="9" width="6" height="6" rx="1" fill="currentColor" opacity=".9"/></svg>
+        Visão Geral
+      </div>
+      <div class="nav-item" onclick="goPage('produtos')">
+        <svg class="icon" viewBox="0 0 16 16" fill="none"><path d="M8 1L14 4.5V11.5L8 15L2 11.5V4.5L8 1Z" stroke="currentColor" stroke-width="1.2" fill="none"/><path d="M8 1V15M2 4.5L14 4.5" stroke="currentColor" stroke-width="1.2" opacity=".5"/></svg>
+        Produtos
+      </div>
+      <div class="nav-item" onclick="goPage('alertas')">
+        <svg class="icon" viewBox="0 0 16 16" fill="none"><path d="M8 1L15 13H1L8 1Z" stroke="currentColor" stroke-width="1.2" fill="none"/><line x1="8" y1="6" x2="8" y2="9" stroke="currentColor" stroke-width="1.2"/><circle cx="8" cy="11" r="0.7" fill="currentColor"/></svg>
+        Alertas
+      </div>
+      <div class="nav-item" onclick="goPage('ranking')">
+        <svg class="icon" viewBox="0 0 16 16" fill="none"><rect x="1" y="8" width="3" height="7" rx="1" fill="currentColor" opacity=".5"/><rect x="6" y="5" width="3" height="10" rx="1" fill="currentColor" opacity=".75"/><rect x="11" y="2" width="3" height="13" rx="1" fill="currentColor"/></svg>
+        Mais Vendidos
+      </div>
+      <div class="nav-item" onclick="goPage('previsao')">
+        <svg class="icon" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="6.5" stroke="currentColor" stroke-width="1.2" fill="none"/><path d="M8 4.5V8L10.5 10" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>
+        Previsão
+      </div>
+      <div class="nav-item" onclick="goPage('importar')">
+        <svg class="icon" viewBox="0 0 16 16" fill="none"><path d="M8 2V10M5 7L8 10L11 7" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/><path d="M2 12H14" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" opacity=".5"/></svg>
+        Importar CSV
+      </div>
+    </nav>
+    <div class="sidebar-footer">
+      <p><span class="status-dot" id="status-dot"></span><span id="status-text">Sem dados</span></p>
+    </div>
+  </aside>
+
+  <main class="main">
+
+    <!-- DASHBOARD -->
+    <div class="page active" id="page-dashboard">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Visão Geral</div>
+          <div class="page-subtitle" id="dash-updated">Nenhum dado importado</div>
+        </div>
+        <label class="file-input-label" for="quick-upload-prod" style="font-size:12px">
+          ↑ Upload rápido
+        </label>
+        <input type="file" id="quick-upload-prod" accept=".csv" onchange="handleQuickUpload(event)" />
+      </div>
+      <div id="dash-content">
+        <div class="empty-state">
+          <div class="em-icon">📦</div>
+          <h3>Nenhum dado carregado</h3>
+          <p>Vá em "Importar CSV" e carregue os dados do Tiny ERP</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- PRODUTOS -->
+    <div class="page" id="page-produtos">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Catálogo de Produtos</div>
+          <div class="page-subtitle" id="prod-count">0 produtos</div>
+        </div>
+        <button class="export-btn" onclick="exportarCSV()">↓ Exportar CSV</button>
+      </div>
+      <div class="table-toolbar">
+        <input type="text" class="search-input" id="prod-search" placeholder="Buscar por nome, SKU ou categoria…" oninput="renderTabela()" />
+        <button class="filter-btn active" id="f-todos" onclick="setFilter('todos')">Todos</button>
+        <button class="filter-btn" id="f-ok" onclick="setFilter('ok')">Normal</button>
+        <button class="filter-btn" id="f-low" onclick="setFilter('low')">Baixo</button>
+        <button class="filter-btn" id="f-out" onclick="setFilter('out')">Zerado</button>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th onclick="sortBy('sku')">SKU ↕</th>
+              <th onclick="sortBy('nome')">Produto ↕</th>
+              <th onclick="sortBy('categoria')">Categoria ↕</th>
+              <th onclick="sortBy('estoque')">Estoque ↕</th>
+              <th onclick="sortBy('minimo')">Mínimo ↕</th>
+              <th onclick="sortBy('preco')">Preço R$ ↕</th>
+              <th>Cobertura</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="tbody-produtos"></tbody>
+        </table>
+      </div>
+      <div class="pagination">
+        <button class="page-btn" id="btn-prev" onclick="changePage(-1)">← Ant</button>
+        <span class="page-info" id="page-info">1 / 1</span>
+        <button class="page-btn" id="btn-next" onclick="changePage(1)">Prox →</button>
+      </div>
+    </div>
+
+    <!-- ALERTAS -->
+    <div class="page" id="page-alertas">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Alertas de Estoque</div>
+          <div class="page-subtitle">Produtos que precisam de atenção</div>
+        </div>
+      </div>
+      <div class="section-title">Crítico — Estoque zerado</div>
+      <div class="alerts-list" id="alerts-critical"></div>
+      <div class="section-title" style="margin-top:24px">Atenção — Abaixo do mínimo</div>
+      <div class="alerts-list" id="alerts-warning"></div>
+    </div>
+
+    <!-- RANKING -->
+    <div class="page" id="page-ranking">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Produtos Mais Vendidos</div>
+          <div class="page-subtitle">Baseado nos pedidos importados</div>
+        </div>
+      </div>
+      <div class="ranking-list" id="ranking-list"></div>
+    </div>
+
+    <!-- PREVISÃO -->
+    <div class="page" id="page-previsao">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Previsão de Ruptura</div>
+          <div class="page-subtitle">Estimativa com base na média de vendas diária</div>
+        </div>
+      </div>
+      <div class="prev-grid" id="prev-grid"></div>
+    </div>
+
+    <!-- IMPORTAR -->
+    <div class="page" id="page-importar">
+      <div class="page-header">
+        <div>
+          <div class="page-title">Importar Dados do Tiny</div>
+          <div class="page-subtitle">Carregue os arquivos exportados do Olist Tiny ERP</div>
+        </div>
+      </div>
+
+      <div class="upload-cards">
+        <div class="upload-card">
+          <h4>📦 Planilha de Produtos / Estoque</h4>
+          <p>Exporte do Tiny: Produtos → Listar → Exportar CSV<br>Precisa conter nome, SKU, estoque atual e preço.</p>
+          <div class="cols">
+            <span class="col-tag req">nome</span>
+            <span class="col-tag req">codigo / sku</span>
+            <span class="col-tag req">estoque / saldo</span>
+            <span class="col-tag">preco / valor</span>
+            <span class="col-tag">categoria</span>
+            <span class="col-tag">estoque_minimo</span>
+          </div>
+          <label class="file-input-label" for="file-produtos">↑ Selecionar arquivo</label>
+          <input type="file" id="file-produtos" accept=".csv" onchange="loadProdutos(event)" />
+          <div class="file-status" id="status-produtos">Nenhum arquivo selecionado</div>
+        </div>
+
+        <div class="upload-card">
+          <h4>🧾 Planilha de Pedidos / Vendas</h4>
+          <p>Exporte do Tiny: Pedidos de Venda → Listar → Exportar CSV<br>Usada para calcular giro e ranking.</p>
+          <div class="cols">
+            <span class="col-tag req">produto / descricao</span>
+            <span class="col-tag req">quantidade / qtd</span>
+            <span class="col-tag">data</span>
+            <span class="col-tag">codigo / sku</span>
+            <span class="col-tag">valor_total</span>
+          </div>
+          <label class="file-input-label" for="file-pedidos">↑ Selecionar arquivo</label>
+          <input type="file" id="file-pedidos" accept=".csv" onchange="loadPedidos(event)" />
+          <div class="file-status" id="status-pedidos">Nenhum arquivo selecionado</div>
+        </div>
+      </div>
+
+      <div class="section-title">Ou teste com dados de exemplo</div>
+      <button class="export-btn" style="margin-bottom:24px" onclick="carregarExemplo()">▶ Carregar dados de demonstração</button>
+
+      <div class="section-title">Instruções — Como exportar do Tiny ERP</div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:20px;font-size:12px;font-family:var(--font-mono);color:var(--muted);line-height:2">
+        <b style="color:var(--text)">Produtos:</b><br>
+        1. No Tiny, acesse <b style="color:var(--accent)">Produtos → Listar Produtos</b><br>
+        2. Filtre se necessário, clique em <b style="color:var(--accent)">Exportar → CSV</b><br>
+        3. Salve o arquivo e faça o upload acima<br><br>
+        <b style="color:var(--text)">Pedidos de Venda:</b><br>
+        1. Acesse <b style="color:var(--accent)">Vendas → Pedidos de Venda</b><br>
+        2. Defina o período desejado, clique em <b style="color:var(--accent)">Exportar → CSV</b><br>
+        3. Faça o upload acima<br><br>
+        <b style="color:var(--text)">Dica:</b> O dashboard detecta automaticamente os nomes das colunas — não precisa renomear o arquivo.
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<script>
+// ─── State ───────────────────────────────────────────────────────────────────
+let produtos = [];
+let pedidos  = [];
+let filtroAtivo = 'todos';
+let sortCol = 'estoque';
+let sortDir = 1;
+let paginaAtual = 1;
+const POR_PAGINA = 50;
+let chartVendas = null;
+let chartStatus = null;
+
+// ─── Navigation ──────────────────────────────────────────────────────────────
+function goPage(id) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  document.getElementById('page-' + id).classList.add('active');
+  event.currentTarget.classList.add('active');
+  if(id === 'dashboard') renderDashboard();
+  if(id === 'produtos') renderTabela();
+  if(id === 'alertas') renderAlertas();
+  if(id === 'ranking') renderRanking();
+  if(id === 'previsao') renderPrevisao();
+}
+
+// ─── CSV helpers ─────────────────────────────────────────────────────────────
+function normalizeHeaders(obj) {
+  const out = {};
+  for(const k in obj) {
+    out[k.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[\s\/\-]+/g,'_')] = obj[k];
+  }
+  return out;
+}
+function findCol(obj, ...candidates) {
+  for(const c of candidates) {
+    if(obj[c] !== undefined && obj[c] !== '') return obj[c];
+  }
+  return '';
+}
+function parseNum(v) {
+  if(v === undefined || v === null || v === '') return 0;
+  return parseFloat(String(v).replace(/[^\d,.\-]/g,'').replace(',','.')) || 0;
+}
+function parseDate(v) {
+  if(!v) return null;
+  const parts = String(v).match(/(\d{2})[\/\-](\d{2})[\/\-](\d{4})/);
+  if(parts) return new Date(parts[3], parts[2]-1, parts[1]);
+  const iso = new Date(v);
+  return isNaN(iso) ? null : iso;
+}
+
+// ─── Tiny CSV format fixer ───────────────────────────────────────────────────
+function fixTinyCSV(text) {
+  // Detect Tiny's wrapped format: each line is "col1,col2,..." with "" escaping and ;; junk at end
+  const firstLine = text.split('\n')[0] || '';
+  const isTinyFormat = firstLine.startsWith('"') && firstLine.includes(';;') && firstLine.includes('""');
+  if (!isTinyFormat) return text;
+  const lines = text.split('\n');
+  const clean = lines.map(line => {
+    line = line.trim();
+    if (!line) return '';
+    if (line.includes(';;')) line = line.split(';;')[0];
+    if (line.startsWith('"') && line.endsWith('"') && line.includes('""')) {
+      line = line.slice(1, -1).replace(/""/g, '"');
+    }
+    return line;
+  }).filter(Boolean);
+  return clean.join('\n');
+}
+
+// ─── Load produtos ────────────────────────────────────────────────────────────
+function loadProdutos(event) {
+  const file = event.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = e => {
+    const fixed = fixTinyCSV(e.target.result);
+    Papa.parse(fixed, {
+      header: true, skipEmptyLines: true,
+      complete: res => {
+        processarProdutos(res.data);
+        document.getElementById('status-produtos').className = 'file-status ok';
+        document.getElementById('status-produtos').textContent = '✓ ' + file.name + ' — ' + produtos.length + ' produtos carregados';
+        atualizarStatus();
+        renderDashboard();
+        goPageSilent('dashboard');
+      }
+    });
+  };
+  reader.readAsText(file, 'UTF-8');
+}
+function processarProdutos(rows) {
+  produtos = rows.map(r => {
+    const n = normalizeHeaders(r);
+    const situacao = findCol(n,'situacao','situation','status');
+    return {
+      sku: findCol(n,'codigo_sku_','codigo','sku','cod','code','codigo_sku') || '—',
+      nome: findCol(n,'descricao','nome','produto','name','description','titulo'),
+      categoria: findCol(n,'categoria','category','grupo','tipo') || 'Geral',
+      estoque: parseNum(findCol(n,'estoque','saldo','quantidade','qtd','stock','qty','saldo_estoque')),
+      minimo: parseNum(findCol(n,'estoque_minimo','minimo','min','quantidade_minima','estoque_min')) || 5,
+      preco: parseNum(findCol(n,'preco','valor','price','preco_venda','vlr_venda','valor_venda')),
+      situacao: situacao || 'Ativo',
+    };
+  }).filter(p => p.nome && p.situacao !== 'Inativo');
+}
+
+// ─── Load pedidos ─────────────────────────────────────────────────────────────
+function loadPedidos(event) {
+  const file = event.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = e => {
+    const fixed = fixTinyCSV(e.target.result);
+    Papa.parse(fixed, {
+      header: true, skipEmptyLines: true,
+      complete: res => {
+        processarPedidos(res.data);
+        document.getElementById('status-pedidos').className = 'file-status ok';
+        document.getElementById('status-pedidos').textContent = '✓ ' + file.name + ' — ' + pedidos.length + ' itens carregados';
+        atualizarStatus();
+      }
+    });
+  };
+  reader.readAsText(file, 'UTF-8');
+}
+function processarPedidos(rows) {
+  pedidos = rows.map(r => {
+    // Formato da API (já vem estruturado com sku, produto, quantidade, valor, data)
+    if (r.sku !== undefined && r.produto !== undefined) {
+      return {
+        produto: r.produto || '',
+        sku: r.sku || '',
+        quantidade: parseNum(r.quantidade),
+        valor: parseNum(r.valor),
+        data: parseDate(r.data),
+        situacao: 'Faturado',
+      };
+    }
+    // Formato CSV
+    const n = normalizeHeaders(r);
+    return {
+      produto: findCol(n,"descricao","produto","nome","description","item","name"),
+      sku: findCol(n,"codigo_sku_","codigo_sku","sku","cod","codigo"),
+      quantidade: parseNum(findCol(n,"quantidade","qtd","qty","quantidade_vendida")),
+      valor: parseNum(findCol(n,"valor_unitario","valor_unit","valor_total","total","valor","price")),
+      data: parseDate(findCol(n,"data","date","data_venda","data_pedido")),
+      situacao: findCol(n,"situacao","situation","status") || "Faturado",
+    };
+  }).filter(p => p.produto && p.quantidade > 0);
+}
+
+// ─── Quick upload ─────────────────────────────────────────────────────────────
+function handleQuickUpload(event) {
+  loadProdutos(event);
+}
+
+function goPageSilent(id) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  document.getElementById('page-' + id).classList.add('active');
+  document.querySelector('.nav-item')?.classList.add('active');
+}
+
+// ─── Exemplo ──────────────────────────────────────────────────────────────────
+function carregarExemplo() {
+  const nomes = ['Cabo USB-C 2m','Fone Bluetooth Pro','Teclado Mecânico TKL','Mouse Ergonômico','Webcam Full HD','Hub USB 7 Portas','Suporte Notebook','Headset Gamer','SSD Externo 1TB','Adaptador HDMI 4K','Mousepad XL','Monitor LED 24"','Caixa de Som BT','Carregador Turbo 65W','Luz Ring LED','Impressora Térmica','Scanner Portátil','Câmera IP WiFi','No-break 600VA','Estabilizador 1000W'];
+  const cats = ['Cabos','Áudio','Periféricos','Periféricos','Vídeo','Conectividade','Acessórios','Áudio','Armazenamento','Adaptadores','Acessórios','Monitores','Áudio','Energia','Iluminação','Impressão','Digitalização','Segurança','Energia','Energia'];
+  const precos = [45,189,320,220,380,120,95,280,399,35,68,1290,145,180,220,850,680,430,560,340];
+  const mins   = [20,10,5,8,5,15,10,8,5,25,15,3,10,12,8,3,4,5,4,4];
+  const estoques=[180,4,0,32,2,45,23,0,12,8,67,1,18,6,14,2,5,9,3,7];
+  produtos = nomes.map((n,i) => ({sku:'SKU-'+String(i+1).padStart(3,'0'), nome:n, categoria:cats[i], estoque:estoques[i], minimo:mins[i], preco:precos[i]}));
+
+  const hoje = new Date();
+  pedidos = [];
+  for(let d=0; d<60; d++) {
+    const dt = new Date(hoje); dt.setDate(dt.getDate()-d);
+    const num = Math.floor(Math.random()*6)+2;
+    for(let j=0;j<num;j++) {
+      const idx = Math.floor(Math.pow(Math.random(),1.5)*nomes.length);
+      const qty = Math.floor(Math.random()*4)+1;
+      pedidos.push({produto:nomes[idx], sku:'SKU-'+String(idx+1).padStart(3,'0'), quantidade:qty, valor:precos[idx]*qty, data:new Date(dt)});
+    }
+  }
+
+  document.getElementById('status-produtos').className='file-status ok';
+  document.getElementById('status-produtos').textContent='✓ Dados de demonstração — '+produtos.length+' produtos';
+  document.getElementById('status-pedidos').className='file-status ok';
+  document.getElementById('status-pedidos').textContent='✓ Dados de demonstração — '+pedidos.length+' pedidos';
+  atualizarStatus();
+  goPage('dashboard');
+  renderDashboard();
+}
+
+function atualizarStatus() {
+  const dot = document.getElementById('status-dot');
+  const txt = document.getElementById('status-text');
+  if(produtos.length) {
+    dot.className='status-dot connected';
+    txt.textContent = produtos.length+' produtos · '+pedidos.length+' pedidos';
+  }
+}
+
+// ─── Dashboard ────────────────────────────────────────────────────────────────
+function renderDashboard() {
+  if(!produtos.length) return;
+  const cont = document.getElementById('dash-content');
+  const total = produtos.length;
+  const zerado = produtos.filter(p=>p.estoque===0).length;
+  const baixo = produtos.filter(p=>p.estoque>0 && p.estoque<p.minimo).length;
+  const normal = total - zerado - baixo;
+  const valorTotal = produtos.reduce((s,p)=>s+p.estoque*p.preco,0);
+
+  // Vendas últimos 7 dias
+  const hoje = new Date(); hoje.setHours(0,0,0,0);
+  const dias7 = Array.from({length:7},(_,i)=>{
+    const d=new Date(hoje); d.setDate(d.getDate()-6+i); return d;
+  });
+  const labels7 = dias7.map(d=>d.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'}));
+  const vals7 = dias7.map(d=>{
+    return pedidos.filter(p=>{
+      if(!p.data) return false;
+      const pd=new Date(p.data); pd.setHours(0,0,0,0);
+      return pd.getTime()===d.getTime();
+    }).reduce((s,p)=>s+p.quantidade,0);
+  });
+
+  document.getElementById('dash-updated').textContent = 'Atualizado agora · '+total+' produtos';
+
+  cont.innerHTML = `
+    <div class="stats-grid">
+      <div class="stat-card"><div class="stat-label">Total de produtos</div><div class="stat-val accent">${total}</div></div>
+      <div class="stat-card"><div class="stat-label">Estoque normal</div><div class="stat-val ok">${normal}</div></div>
+      <div class="stat-card"><div class="stat-label">Estoque baixo</div><div class="stat-val warn">${baixo}</div></div>
+      <div class="stat-card"><div class="stat-label">Sem estoque</div><div class="stat-val danger">${zerado}</div></div>
+      <div class="stat-card"><div class="stat-label">Valor total em estoque</div><div class="stat-val" style="font-size:20px">${valorTotal.toLocaleString('pt-BR',{style:'currency',currency:'BRL'})}</div></div>
+      <div class="stat-card"><div class="stat-label">Itens vendidos (60d)</div><div class="stat-val">${pedidos.reduce((s,p)=>s+p.quantidade,0).toLocaleString('pt-BR')}</div></div>
+    </div>
+    <div class="charts-row">
+      <div class="chart-card">
+        <h3>Unidades vendidas — últimos 7 dias</h3>
+        <div class="chart-wrap"><canvas id="chart-vendas"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>Distribuição de status de estoque</h3>
+        <div class="chart-wrap"><canvas id="chart-status"></canvas></div>
+      </div>
+    </div>
+  `;
+
+  setTimeout(() => {
+    const cv = document.getElementById('chart-vendas');
+    if(cv) {
+      if(chartVendas) chartVendas.destroy();
+      chartVendas = new Chart(cv, {
+        type:'bar',
+        data:{
+          labels:labels7,
+          datasets:[{label:'Unidades',data:vals7,backgroundColor:'rgba(200,240,74,0.75)',borderRadius:4,borderSkipped:false}]
+        },
+        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,0.04)'},ticks:{color:'#7c7b8a',font:{size:11}}},y:{grid:{color:'rgba(255,255,255,0.04)'},ticks:{color:'#7c7b8a',font:{size:11}}}}}
+      });
+    }
+    const cs = document.getElementById('chart-status');
+    if(cs) {
+      if(chartStatus) chartStatus.destroy();
+      chartStatus = new Chart(cs, {
+        type:'doughnut',
+        data:{
+          labels:['Normal','Baixo','Zerado'],
+          datasets:[{data:[normal,baixo,zerado],backgroundColor:['rgba(74,255,160,0.8)','rgba(255,181,71,0.8)','rgba(255,95,95,0.8)'],borderWidth:0,hoverOffset:4}]
+        },
+        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'right',labels:{color:'#7c7b8a',font:{size:12},padding:12}}},cutout:'65%'}
+      });
+    }
+  },100);
+}
+
+// ─── Tabela produtos ──────────────────────────────────────────────────────────
+function setFilter(f) {
+  filtroAtivo = f;
+  paginaAtual = 1;
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  document.getElementById('f-'+f).classList.add('active');
+  renderTabela();
+}
+function sortBy(col) {
+  if(sortCol===col) sortDir*=-1; else { sortCol=col; sortDir=1; }
+  renderTabela();
+}
+function statusProd(p) {
+  if(p.estoque===0) return 'out';
+  if(p.estoque<p.minimo) return 'low';
+  return 'ok';
+}
+function mediaVendasDiaria(sku, nome) {
+  const vendas = pedidos.filter(p=>p.sku===sku||p.produto===nome);
+  if(!vendas.length) return 0;
+  const total = vendas.reduce((s,p)=>s+p.quantidade,0);
+  const datas = vendas.map(p=>p.data).filter(Boolean).map(d=>d.getTime());
+  if(!datas.length) return total/30;
+  const span = Math.max(1,(Math.max(...datas)-Math.min(...datas))/(1000*60*60*24)+1);
+  return total/span;
+}
+function renderTabela() {
+  if(!produtos.length) { document.getElementById('tbody-produtos').innerHTML='<tr><td colspan="8" style="text-align:center;padding:40px;color:var(--muted)">Importe os dados primeiro</td></tr>'; return; }
+  const q = (document.getElementById('prod-search')||{}).value?.toLowerCase()||'';
+  let lista = produtos.filter(p=>{
+    const st=statusProd(p);
+    if(filtroAtivo!=='todos'&&st!==filtroAtivo) return false;
+    return !q||p.nome.toLowerCase().includes(q)||p.sku.toLowerCase().includes(q)||p.categoria.toLowerCase().includes(q);
+  });
+  lista.sort((a,b)=>{
+    let va=a[sortCol]??'', vb=b[sortCol]??'';
+    if(typeof va==='string') va=va.toLowerCase(); if(typeof vb==='string') vb=vb.toLowerCase();
+    return (va<vb?-1:va>vb?1:0)*sortDir;
+  });
+  const total = lista.length;
+  const pages = Math.max(1,Math.ceil(total/POR_PAGINA));
+  if(paginaAtual>pages) paginaAtual=pages;
+  const slice = lista.slice((paginaAtual-1)*POR_PAGINA, paginaAtual*POR_PAGINA);
+  document.getElementById('prod-count').textContent=total+' produto'+(total!==1?'s':'');
+  document.getElementById('page-info').textContent=paginaAtual+' / '+pages;
+  document.getElementById('btn-prev').disabled=paginaAtual<=1;
+  document.getElementById('btn-next').disabled=paginaAtual>=pages;
+  const badges={ok:'<span class="badge ok">Normal</span>',low:'<span class="badge low">Baixo</span>',out:'<span class="badge out">Zerado</span>'};
+  const avg = lista.map(p=>mediaVendasDiaria(p.sku,p.nome));
+  const maxAvg = Math.max(...avg,0.01);
+  document.getElementById('tbody-produtos').innerHTML = slice.map((p,i)=>{
+    const st=statusProd(p);
+    const mv=mediaVendasDiaria(p.sku,p.nome);
+    const pct=Math.min(100,Math.round((mv/maxAvg)*100));
+    const fillColor = st==='out'?'var(--danger)':st==='low'?'var(--warn)':'var(--ok)';
+    const cobPct = p.minimo>0?Math.min(100,Math.round((p.estoque/p.minimo)*100)):100;
+    return `<tr>
+      <td style="color:var(--muted)">${p.sku}</td>
+      <td style="font-family:var(--font-head);font-size:13px;font-weight:500;white-space:normal;max-width:200px">${p.nome}</td>
+      <td>${p.categoria}</td>
+      <td style="font-weight:600;color:${st==='out'?'var(--danger)':st==='low'?'var(--warn)':'var(--text)'}">${p.estoque.toLocaleString('pt-BR')}</td>
+      <td style="color:var(--muted)">${p.minimo}</td>
+      <td>${p.preco>0?p.preco.toLocaleString('pt-BR',{style:'currency',currency:'BRL'}):'—'}</td>
+      <td><div class="progress-bar"><div class="progress-fill" style="width:${cobPct}%;background:${fillColor}"></div></div></td>
+      <td>${badges[st]}</td>
+    </tr>`;
+  }).join('');
+}
+function changePage(dir) {
+  paginaAtual+=dir;
+  renderTabela();
+}
+function exportarCSV() {
+  if(!produtos.length) return;
+  const rows = [['SKU','Nome','Categoria','Estoque','Minimo','Preco','Status']];
+  produtos.forEach(p=>rows.push([p.sku,p.nome,p.categoria,p.estoque,p.minimo,p.preco,statusProd(p)]));
+  const csv = rows.map(r=>r.join(';')).join('\n');
+  const a=document.createElement('a');
+  a.href='data:text/csv;charset=utf-8,\uFEFF'+encodeURIComponent(csv);
+  a.download='estoque_'+new Date().toISOString().slice(0,10)+'.csv';
+  a.click();
+}
+
+// ─── Alertas ──────────────────────────────────────────────────────────────────
+function renderAlertas() {
+  const criticos = produtos.filter(p=>p.estoque===0);
+  const avisos   = produtos.filter(p=>p.estoque>0&&p.estoque<p.minimo).sort((a,b)=>(a.estoque/a.minimo)-(b.estoque/b.minimo));
+  const mkAlert=(p,cls)=>{
+    const mv=mediaVendasDiaria(p.sku,p.nome);
+    const dias = mv>0?Math.floor(p.estoque/mv):null;
+    return `<div class="alert-item ${cls}">
+      <div class="alert-dot ${cls}"></div>
+      <div class="alert-info">
+        <div class="alert-name">${p.nome}</div>
+        <div class="alert-sub">${p.sku} · ${p.categoria}</div>
+      </div>
+      <div>
+        <div class="alert-qty ${cls}">${p.estoque} un</div>
+        <div class="alert-dias">${dias!==null?'~'+dias+'d restantes':'sem histórico'}</div>
+      </div>
+    </div>`;
+  };
+  const cc = document.getElementById('alerts-critical');
+  const cw = document.getElementById('alerts-warning');
+  cc.innerHTML = criticos.length ? criticos.map(p=>mkAlert(p,'critical')).join('') : '<div class="empty-state" style="padding:24px"><p>Nenhum produto zerado ✓</p></div>';
+  cw.innerHTML = avisos.length ? avisos.map(p=>mkAlert(p,'warning')).join('') : '<div class="empty-state" style="padding:24px"><p>Nenhum produto abaixo do mínimo ✓</p></div>';
+}
+
+// ─── Ranking ──────────────────────────────────────────────────────────────────
+function renderRanking() {
+  if(!pedidos.length) { document.getElementById('ranking-list').innerHTML='<div class="empty-state"><div class="em-icon">📊</div><h3>Sem dados de pedidos</h3><p>Importe a planilha de pedidos</p></div>'; return; }
+  const map = {};
+  pedidos.forEach(p=>{ const k=p.produto||(p.sku||'?'); map[k]=(map[k]||0)+p.quantidade; });
+  const sorted = Object.entries(map).sort((a,b)=>b[1]-a[1]).slice(0,20);
+  const max = sorted[0]?.[1]||1;
+  document.getElementById('ranking-list').innerHTML = sorted.map(([nome,qty],i)=>{
+    const prd = produtos.find(p=>p.nome===nome||p.sku===nome);
+    return `<div class="rank-item">
+      <div class="rank-num ${i<3?'top':''}">${i+1}</div>
+      <div class="rank-info">
+        <div class="rank-name">${prd?prd.nome:nome}</div>
+        <div class="rank-sku">${prd?prd.sku:''}</div>
+      </div>
+      <div class="rank-bar-wrap"><div class="rank-bar"><div class="rank-fill" style="width:${Math.round((qty/max)*100)}%"></div></div></div>
+      <div class="rank-qty">${qty.toLocaleString('pt-BR')} un</div>
+    </div>`;
+  }).join('');
+}
+
+// ─── Previsão ─────────────────────────────────────────────────────────────────
+function renderPrevisao() {
+  const comVendas = produtos.filter(p=>{
+    const mv=mediaVendasDiaria(p.sku,p.nome);
+    return mv>0 && p.estoque>=0;
+  });
+  if(!comVendas.length) { document.getElementById('prev-grid').innerHTML='<div class="empty-state"><div class="em-icon">🔮</div><h3>Sem histórico de vendas</h3><p>Importe a planilha de pedidos para ver a previsão</p></div>'; return; }
+  const items = comVendas.map(p=>{
+    const mv=mediaVendasDiaria(p.sku,p.nome);
+    const dias=mv>0?Math.floor(p.estoque/mv):999;
+    return {...p,mv,dias};
+  }).sort((a,b)=>a.dias-b.dias).slice(0,24);
+  document.getElementById('prev-grid').innerHTML = items.map(p=>{
+    const cls=p.dias<=3?'critical':p.dias<=10?'warning':'ok';
+    const label=p.dias===0?'Ruptura hoje':p.dias===1?'Ruptura amanhã':p.dias<999?'Ruptura em ~'+p.dias+'d':'Estoque ok';
+    return `<div class="prev-card ${cls}">
+      <div class="prev-name">${p.nome}</div>
+      <div class="prev-sku">${p.sku}</div>
+      <div class="prev-row"><span>Estoque atual</span><span>${p.estoque} un</span></div>
+      <div class="prev-row"><span>Venda média/dia</span><span>${p.mv.toFixed(1)} un</span></div>
+      <div class="prev-row"><span>Mínimo</span><span>${p.minimo} un</span></div>
+      <div class="prev-ruptura ${cls}">${label}</div>
+    </div>`;
+  }).join('');
+}
+
+
+// ─── Auto-load JSON do n8n ────────────────────────────────────────────────────
+async function tentarCarregarJSON() {
+  try {
+    const res = await fetch('https://raw.githubusercontent.com/alexbocchi/abex/main/dados_tiny.json?t=' + Date.now());
+    if (!res.ok) return false;
+    const dados = await res.json();
+    if (!dados.produtos || !dados.produtos.length) return false;
+    processarProdutos(dados.produtos);
+    if (dados.pedidos && dados.pedidos.length) { processarPedidos(dados.pedidos); console.log("[dash] pedidos:", pedidos.length); }
+    const dt = dados.atualizado_em ? new Date(dados.atualizado_em).toLocaleString('pt-BR') : 'agora';
+    document.getElementById('dash-updated').textContent = 'API Tiny · atualizado em ' + dt;
+    document.getElementById('status-dot').className = 'status-dot connected';
+    document.getElementById('status-text').textContent = dados.total_produtos + ' produtos · API ativa';
+    renderDashboard();
+    goPageSilent('dashboard');
+    return true;
+  } catch(e) { return false; }
+}
+
+// Polling: atualiza a cada 60 segundos se estiver usando JSON
+let autoMode = false;
+async function iniciar() {
+  const ok = await tentarCarregarJSON();
+  if (ok) {
+    autoMode = true;
+    setInterval(async () => { await tentarCarregarJSON(); }, 60000);
+  }
+}
+
+window.addEventListener('load', () => { iniciar(); });
+
+</script>
+</body>
+</html>
