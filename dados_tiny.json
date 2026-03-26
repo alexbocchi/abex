@@ -1,9 +1,35 @@
 {
-  "atualizado_em": "2026-03-26T18:40:31.031Z",
+  "atualizado_em": "2026-03-26T18:42:02.911Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU64082902",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
+      "quantidade": 1,
+      "valor": 59.36,
+      "foto": "",
+      "item_id": "MLB5303104460",
+      "shipping_id": 46731149395,
+      "envio": "N/A",
+      "data": "2026-03-26T14:40:31.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715200876
+    },
+    {
+      "sku": "KITSM1078",
+      "produto": "Kit 4 Pés Niveladores Borracha Antiderrapante Samsung Wd103",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3995489049",
+      "shipping_id": 46731424892,
+      "envio": "N/A",
+      "data": "2026-03-26T14:40:28.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715198324
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd8854rjf1",
@@ -627,32 +653,6 @@
       "data": "2026-03-26T13:02:57.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713805400
-    },
-    {
-      "sku": "KITSM1173",
-      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung Preto",
-      "quantidade": 1,
-      "valor": 29.5,
-      "foto": "",
-      "item_id": "MLB1868896373",
-      "shipping_id": 46730464119,
-      "envio": "N/A",
-      "data": "2026-03-26T13:01:27.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713797742
-    },
-    {
-      "sku": "KITGUARNICAO01",
-      "produto": "Borracha Porta Lava Seca Samsung Wd10 Wd11 + Vedação Filtro",
-      "quantidade": 1,
-      "valor": 150,
-      "foto": "",
-      "item_id": "MLB5732926726",
-      "shipping_id": 46730464079,
-      "envio": "N/A",
-      "data": "2026-03-26T13:01:26.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713797730
     }
   ]
 }
