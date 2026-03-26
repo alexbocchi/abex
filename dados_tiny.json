@@ -1,10 +1,23 @@
 {
-  "atualizado_em": "2026-03-26T19:01:17.562Z",
+  "atualizado_em": "2026-03-26T19:02:23.657Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 52,
-  "total_mes": 11614,
+  "total_pedidos": 53,
+  "total_mes": 11615,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-06080E",
+      "produto": "Parafuso Polia Eixo Cesto Lavadora Samsung Dc97-06080e Orig",
+      "quantidade": 1,
+      "valor": 29.9,
+      "foto": "",
+      "item_id": "MLB3917874297",
+      "shipping_id": 46731565510,
+      "envio": "N/A",
+      "data": "2026-03-26T15:00:24.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715484084
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
