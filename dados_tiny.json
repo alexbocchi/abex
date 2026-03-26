@@ -1,9 +1,35 @@
 {
-  "atualizado_em": "2026-03-26T18:36:31.286Z",
+  "atualizado_em": "2026-03-26T18:38:31.028Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBR71522401",
+      "produto": "Placa Botão Ligar Ar Condicionado LG Dual Inverter 220v",
+      "quantidade": 2,
+      "valor": 40,
+      "foto": "",
+      "item_id": "MLB4196682061",
+      "shipping_id": 46731131819,
+      "envio": "N/A",
+      "data": "2026-03-26T14:37:56.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715159546
+    },
+    {
+      "sku": "733219",
+      "produto": "Batedor Clara Em Neve Batedeira Planetária Philco Php500 Nf",
+      "quantidade": 1,
+      "valor": 74.1,
+      "foto": "",
+      "item_id": "MLB3947411781",
+      "shipping_id": 46731131541,
+      "envio": "N/A",
+      "data": "2026-03-26T14:37:51.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715141470
+    },
     {
       "sku": "DC60-00104A",
       "produto": "Chave De Ajuste Pé Lavadora Lava E Seca Samsung Original",
@@ -627,32 +653,6 @@
       "data": "2026-03-26T13:00:56.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713786908
-    },
-    {
-      "sku": "DC62-10289C",
-      "produto": "Mangueira Entrada Água Lava Seca LG Samsung Super Resistente Unidade 120cm",
-      "quantidade": 1,
-      "valor": 30.6,
-      "foto": "",
-      "item_id": "MLB5840773712",
-      "shipping_id": 46730732768,
-      "envio": "N/A",
-      "data": "2026-03-26T13:00:26.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713769238
-    },
-    {
-      "sku": "KIT181C",
-      "produto": "Kit 2 Eletrobombas Lava E Seca 110v Dc31-00181c Wd103 Wd90j 110/127v",
-      "quantidade": 1,
-      "valor": 74,
-      "foto": "",
-      "item_id": "MLB6045573614",
-      "shipping_id": 46730715200,
-      "envio": "N/A",
-      "data": "2026-03-26T12:58:16.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713732950
     }
   ]
 }
