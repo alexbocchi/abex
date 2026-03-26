@@ -1,9 +1,22 @@
 {
-  "atualizado_em": "2026-03-26T18:46:30.883Z",
+  "atualizado_em": "2026-03-26T18:48:30.916Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM0003",
+      "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB1357816142",
+      "shipping_id": 46731476118,
+      "envio": "N/A",
+      "data": "2026-03-26T14:47:39.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715300714
+    },
     {
       "sku": "EAU64082902",
       "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
@@ -289,6 +302,19 @@
       "data": "2026-03-26T14:00:53.000-04:00",
       "status": "paid",
       "pedido_id": 2000015714640616
+    },
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd10m44530w Wd90m Wd85m Wd11m Dc64-03235",
+      "quantidade": 1,
+      "valor": 133,
+      "foto": "",
+      "item_id": "MLB3948817535",
+      "shipping_id": 46731469736,
+      "envio": "N/A",
+      "data": "2026-03-26T14:00:27.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714617484
     },
     {
       "sku": "KITTERMOSTATO",
@@ -627,32 +653,6 @@
       "data": "2026-03-26T13:05:02.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713850266
-    },
-    {
-      "sku": "KITEIXOCOMPLETO",
-      "produto": "Eixo Tripé Dc97-14370c Retentor Rolamentos Parafusos Lava Seca Samsung",
-      "quantidade": 1,
-      "valor": 243,
-      "foto": "",
-      "item_id": "MLB3708018251",
-      "shipping_id": 46730479631,
-      "envio": "N/A",
-      "data": "2026-03-26T13:03:44.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713809964
-    },
-    {
-      "sku": "5900AR1266A",
-      "produto": "Hélice Condensadora Para Ar Condicionado LG 9000 Original",
-      "quantidade": 1,
-      "valor": 171.6,
-      "foto": "",
-      "item_id": "MLB1863977646",
-      "shipping_id": 46730477849,
-      "envio": "N/A",
-      "data": "2026-03-26T13:02:57.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713805400
     }
   ]
 }
