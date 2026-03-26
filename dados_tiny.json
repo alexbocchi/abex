@@ -1,0 +1,408 @@
+{
+  "atualizado_em": "2026-03-26T13:38:56.859Z",
+  "fonte": "Mercado Livre",
+  "total_pedidos": 50,
+  "produtos": [],
+  "pedidos": [
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 49,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
+      "quantidade": 1,
+      "valor": 150,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DB93-10943F",
+      "produto": "Cabo Flat Max Plus E Inverter Samsung Ar18kcfuawqnx Original",
+      "quantidade": 1,
+      "valor": 50,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "EAU61383506",
+      "produto": "Eletrobomba Lava E Seca LG 127v Originial Eau62263306 Nova",
+      "quantidade": 1,
+      "valor": 74.1,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "AHA75113324",
+      "produto": "Bomba Dreno Sensor Nível Ar Cassete LG Atnw36 Atnw48 Atnw60",
+      "quantidade": 1,
+      "valor": 570,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "783198",
+      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
+      "quantidade": 1,
+      "valor": 19,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITSM0003",
+      "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 78,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Samsung Do Cesto Lava E Seca Cor Preto",
+      "quantidade": 2,
+      "valor": 35.32,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "530626065",
+      "produto": "Serra Copo Diamantada 65mm Braskoki Para Alvenaria E Cerâmica",
+      "quantidade": 1,
+      "valor": 231,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC61-03510A",
+      "produto": "Guia Recipiente Sabão Liquido Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 25.09,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
+      "quantidade": 1,
+      "valor": 204.95,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITLG02",
+      "produto": "Kit Placa Receptora + Rabicho Ar Condicionado LG Inverter 127/220v",
+      "quantidade": 1,
+      "valor": 224.9,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC31-00181B",
+      "produto": "Eletrobomba De Drenagem Lava E Seca Samsung Dc31-00030b 220v 220v",
+      "quantidade": 1,
+      "valor": 170,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "783198",
+      "produto": "Filtro Permanente Cafeteira Britânia Cp30 Cp38 Ph30 Original",
+      "quantidade": 1,
+      "valor": 19.9,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
+      "quantidade": 1,
+      "valor": 235,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "6324W1A003E",
+      "produto": "Magnetron 2m214 Microondas LG Ms3052 Ms3057 Ms309 Mh7053",
+      "quantidade": 1,
+      "valor": 170,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "EBF49827801",
+      "produto": "Trava Da Porta Lava E Seca LG Wd-1403rd5 110v",
+      "quantidade": 1,
+      "valor": 78,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DB96-24901C",
+      "produto": "Controle Remoto Ar Condicionado Samsung Wind Free Original Branco",
+      "quantidade": 1,
+      "valor": 70,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "783198",
+      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
+      "quantidade": 1,
+      "valor": 19,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "AXBX01",
+      "produto": "Controle Remoto Universal Ar Condicionado Todas As Marcas Branco",
+      "quantidade": 1,
+      "valor": 39.9,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "5988JA1001E",
+      "produto": "Motor Ice Maker Refrigerador LG Gc-l216bsk Lr-21spt Lr-21spw",
+      "quantidade": 1,
+      "valor": 553.79,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "4280A20004M",
+      "produto": "Bucha Mancal Rolamento Ar Condicionado LG 4280a20004m",
+      "quantidade": 2,
+      "valor": 50,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "EAU61383506",
+      "produto": "Bomba Drenagem 110v/127v Lava Seca LG Wd1403 Wd1409 Original 127v",
+      "quantidade": 1,
+      "valor": 78,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC62-10289C",
+      "produto": "Mangueira Entrada De Agua Para Lavadora Original Samsung",
+      "quantidade": 1,
+      "valor": 47.8,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC61-03510A",
+      "produto": "Guia Recipiente Sabão Liquido Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 25.09,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITSM1077",
+      "produto": "Pé Nivelador Regulável Lava Seca Midea Lsd10 Lsd12",
+      "quantidade": 1,
+      "valor": 50,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "EBR71522401",
+      "produto": "Botão Liga Desliga Ar Condicionado LG Dual Inverter Original",
+      "quantidade": 1,
+      "valor": 40,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC31-00181B",
+      "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
+      "quantidade": 1,
+      "valor": 163,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
+      "quantidade": 1,
+      "valor": 55,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 78,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "420613675721",
+      "produto": "Faca Branca P/ Liquidificador Philips Walita Ri2244 Original",
+      "quantidade": 3,
+      "valor": 64.24,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "420613675721",
+      "produto": "Faca Branca P/ Liquidificador Philips Walita Ri2242 Original",
+      "quantidade": 3,
+      "valor": 64.24,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "EBR82870712",
+      "produto": "Placa Condensador Ar Condicionado LG S4uq12ja3ad S4uq12ja315 127/220v",
+      "quantidade": 1,
+      "valor": 500,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "W2921-28801",
+      "produto": "Válvula Dupla Lavadora Panasonic 110v Amarela / W2921-28801  127v",
+      "quantidade": 1,
+      "valor": 70.2,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Bomba De Drenagem Lava E Seca Samsung Wd856 Dc31-00181c 127v",
+      "quantidade": 2,
+      "valor": 68.73,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "772498",
+      "produto": "Termostato Kst201-2a Forno Eletrico Philco 46l Original Nf",
+      "quantidade": 1,
+      "valor": 37.62,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC67-00230E",
+      "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
+      "quantidade": 1,
+      "valor": 30,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 4,
+      "valor": 196.8,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.8,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DB32-00272A",
+      "produto": "Sensor Triplo Temperatura Evaporadora Samsung Db32-00272a",
+      "quantidade": 1,
+      "valor": 250,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DB32-00204A",
+      "produto": "Sensor Temperatura Evaporadora Ar Cond Samsung 9 12 18 Btus",
+      "quantidade": 1,
+      "valor": 148.07,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC60-00104A",
+      "produto": "Chave De Ajuste Pé Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 35,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 1,
+      "valor": 35.5,
+      "data": "2026-03-26",
+      "status": "paid"
+    }
+  ]
+}
