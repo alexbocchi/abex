@@ -1,9 +1,22 @@
 {
-  "atualizado_em": "2026-03-26T18:38:31.028Z",
+  "atualizado_em": "2026-03-26T18:40:31.031Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd8854rjf1",
+      "quantidade": 3,
+      "valor": 45,
+      "foto": "",
+      "item_id": "MLB5973397360",
+      "shipping_id": 46731144875,
+      "envio": "N/A",
+      "data": "2026-03-26T14:39:52.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715185700
+    },
     {
       "sku": "EBR71522401",
       "produto": "Placa Botão Ligar Ar Condicionado LG Dual Inverter 220v",
@@ -640,19 +653,6 @@
       "data": "2026-03-26T13:01:26.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713797730
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
-      "quantidade": 1,
-      "valor": 235,
-      "foto": "",
-      "item_id": "MLB3661822075",
-      "shipping_id": 46730736446,
-      "envio": "N/A",
-      "data": "2026-03-26T13:00:56.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713786908
     }
   ]
 }
