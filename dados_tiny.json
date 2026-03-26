@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-26T13:38:56.859Z",
+  "atualizado_em": "2026-03-26T13:45:46.575Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 37.39,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
+    {
+      "sku": "41037245",
+      "produto": "Filtro Refil De Água Electrolux Purificador Modelo Pe11b",
+      "quantidade": 1,
+      "valor": 145,
+      "data": "2026-03-26",
+      "status": "paid"
+    },
     {
       "sku": "KITTERMOSTATO",
       "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
@@ -377,30 +401,6 @@
       "produto": "Sensor Triplo Temperatura Evaporadora Samsung Db32-00272a",
       "quantidade": 1,
       "valor": 250,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DB32-00204A",
-      "produto": "Sensor Temperatura Evaporadora Ar Cond Samsung 9 12 18 Btus",
-      "quantidade": 1,
-      "valor": 148.07,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC60-00104A",
-      "produto": "Chave De Ajuste Pé Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 35,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
-      "quantidade": 1,
-      "valor": 35.5,
       "data": "2026-03-26",
       "status": "paid"
     }
