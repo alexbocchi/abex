@@ -1,9 +1,61 @@
 {
-  "atualizado_em": "2026-03-26T18:05:10.260Z",
+  "atualizado_em": "2026-03-26T18:15:48.329Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-10861D",
+      "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
+      "quantidade": 1,
+      "valor": 74.86,
+      "foto": "",
+      "item_id": "MLB1464885381",
+      "shipping_id": 46731231838,
+      "envio": "N/A",
+      "data": "2026-03-26T14:12:44.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714787548
+    },
+    {
+      "sku": "AWW024CA4X20",
+      "produto": "Placa Aww024ca4x20 Panasonic Na-f140b6 110v Original 127v",
+      "quantidade": 1,
+      "valor": 400,
+      "foto": "",
+      "item_id": "MLB5433516756",
+      "shipping_id": 46731213434,
+      "envio": "N/A",
+      "data": "2026-03-26T14:09:58.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714778312
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a",
+      "quantidade": 1,
+      "valor": 65.48,
+      "foto": "",
+      "item_id": "MLB5339837380",
+      "shipping_id": 46730936211,
+      "envio": "N/A",
+      "data": "2026-03-26T14:09:42.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714776142
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
+      "quantidade": 1,
+      "valor": 227,
+      "foto": "",
+      "item_id": "MLB5886754752",
+      "shipping_id": 46730921071,
+      "envio": "N/A",
+      "data": "2026-03-26T14:07:10.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015714707766
+    },
     {
       "sku": "DC67-00230E",
       "produto": "Mangueira Pressostato Samsung Wd103 Wd106 Wd856 65cm Borracha",
@@ -601,58 +653,6 @@
       "data": "2026-03-26T12:45:30.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713533876
-    },
-    {
-      "sku": "AXBX01",
-      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
-      "quantidade": 1,
-      "valor": 39.9,
-      "foto": "",
-      "item_id": "MLB5122979702",
-      "shipping_id": 46730346273,
-      "envio": "N/A",
-      "data": "2026-03-26T12:44:39.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713560062
-    },
-    {
-      "sku": "12638100000288",
-      "produto": "Retentor Do Tanque Lava E Seca Midea 12638100000288 Original",
-      "quantidade": 1,
-      "valor": 50,
-      "foto": "",
-      "item_id": "MLB5225414326",
-      "shipping_id": 46730599608,
-      "envio": "N/A",
-      "data": "2026-03-26T12:40:54.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713481924
-    },
-    {
-      "sku": "DB96-24901C",
-      "produto": "Controle Remoto Ar Condicionado Samsung Wind Free Original Branco",
-      "quantidade": 1,
-      "valor": 70,
-      "foto": "",
-      "item_id": "MLB2933189700",
-      "shipping_id": 46730312399,
-      "envio": "N/A",
-      "data": "2026-03-26T12:39:51.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713476842
-    },
-    {
-      "sku": "ABQ74883808",
-      "produto": "Placa Receptora Ar Condicionado LG 9000 S4nq09wa51a Original 127/220v Abq74883808",
-      "quantidade": 1,
-      "valor": 205,
-      "foto": "",
-      "item_id": "MLB4806728174",
-      "shipping_id": 46730576778,
-      "envio": "N/A",
-      "data": "2026-03-26T12:38:19.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713457342
     }
   ]
 }
