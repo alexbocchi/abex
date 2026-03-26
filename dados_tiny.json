@@ -1,9 +1,22 @@
 {
-  "atualizado_em": "2026-03-26T18:54:30.447Z",
+  "atualizado_em": "2026-03-26T18:56:30.489Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC93-00139A",
+      "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78.4,
+      "foto": "",
+      "item_id": "MLB1387386786",
+      "shipping_id": 46731522110,
+      "envio": "N/A",
+      "data": "2026-03-26T14:54:10.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715390354
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
@@ -640,19 +653,6 @@
       "data": "2026-03-26T13:07:20.000-04:00",
       "status": "paid",
       "pedido_id": 2000015713884418
-    },
-    {
-      "sku": "DB92-03442G",
-      "produto": "Placa Principal Potência Evaporadora Ar12jpsuawq Ar 220v",
-      "quantidade": 1,
-      "valor": 550,
-      "foto": "",
-      "item_id": "MLB3937897505",
-      "shipping_id": 46730779014,
-      "envio": "N/A",
-      "data": "2026-03-26T13:07:20.000-04:00",
-      "status": "paid",
-      "pedido_id": 2000015713863918
     }
   ]
 }
