@@ -1,10 +1,36 @@
 {
-  "atualizado_em": "2026-03-26T19:02:23.657Z",
+  "atualizado_em": "2026-03-26T19:04:23.473Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 53,
-  "total_mes": 11615,
+  "total_pedidos": 55,
+  "total_mes": 11617,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906085",
+      "produto": "Motor Ventilador Condensa 25906085 Ar Split Springer 220v",
+      "quantidade": 1,
+      "valor": 229.5,
+      "foto": "",
+      "item_id": "MLB5823326684",
+      "shipping_id": 46731314173,
+      "envio": "N/A",
+      "data": "2026-03-26T15:03:45.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715511210
+    },
+    {
+      "sku": "EAD64108410",
+      "produto": "Cabo De Força Tipo 8 Tv LG Smart 32/43/49/50/55/65 Polegadas 127/220v",
+      "quantidade": 1,
+      "valor": 35.2,
+      "foto": "",
+      "item_id": "MLB3490025733",
+      "shipping_id": 46731585950,
+      "envio": "N/A",
+      "data": "2026-03-26T15:03:14.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015715514668
+    },
     {
       "sku": "DC97-06080E",
       "produto": "Parafuso Polia Eixo Cesto Lavadora Samsung Dc97-06080e Orig",
