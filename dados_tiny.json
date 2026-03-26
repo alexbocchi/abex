@@ -1,408 +1,558 @@
 {
-  "atualizado_em": "2026-03-26T13:45:46.575Z",
+  "atualizado_em": "2026-03-26T16:55:05.207Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
     {
-      "sku": "DC64-01538A",
-      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "sku": "5214FR3188G",
+      "produto": "Mangueira Drenagem Saída Para Lava E Seca LG 5214fr3188g",
       "quantidade": 1,
-      "valor": 37.39,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITSM1173",
-      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
-      "quantidade": 1,
-      "valor": 29.5,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "41037245",
-      "produto": "Filtro Refil De Água Electrolux Purificador Modelo Pe11b",
-      "quantidade": 1,
-      "valor": 145,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITTERMOSTATO",
-      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
-      "quantidade": 1,
-      "valor": 49,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "AKB75215403",
-      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
-      "quantidade": 1,
-      "valor": 150,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DB93-10943F",
-      "produto": "Cabo Flat Max Plus E Inverter Samsung Ar18kcfuawqnx Original",
-      "quantidade": 1,
-      "valor": 50,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "EAU61383506",
-      "produto": "Eletrobomba Lava E Seca LG 127v Originial Eau62263306 Nova",
-      "quantidade": 1,
-      "valor": 74.1,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "AHA75113324",
-      "produto": "Bomba Dreno Sensor Nível Ar Cassete LG Atnw36 Atnw48 Atnw60",
-      "quantidade": 1,
-      "valor": 570,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITSM1118",
-      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
-      "quantidade": 1,
-      "valor": 29.77,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "783198",
-      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
-      "quantidade": 1,
-      "valor": 19,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITSM0003",
-      "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 78,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Samsung Do Cesto Lava E Seca Cor Preto",
-      "quantidade": 2,
-      "valor": 35.32,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "530626065",
-      "produto": "Serra Copo Diamantada 65mm Braskoki Para Alvenaria E Cerâmica",
-      "quantidade": 1,
-      "valor": 231,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC61-03510A",
-      "produto": "Guia Recipiente Sabão Liquido Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 25.09,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
-      "quantidade": 1,
-      "valor": 204.95,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITLG02",
-      "produto": "Kit Placa Receptora + Rabicho Ar Condicionado LG Inverter 127/220v",
-      "quantidade": 1,
-      "valor": 224.9,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC31-00181B",
-      "produto": "Eletrobomba De Drenagem Lava E Seca Samsung Dc31-00030b 220v 220v",
-      "quantidade": 1,
-      "valor": 170,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "783198",
-      "produto": "Filtro Permanente Cafeteira Britânia Cp30 Cp38 Ph30 Original",
-      "quantidade": 1,
-      "valor": 19.9,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
-      "quantidade": 1,
-      "valor": 235,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "6324W1A003E",
-      "produto": "Magnetron 2m214 Microondas LG Ms3052 Ms3057 Ms309 Mh7053",
-      "quantidade": 1,
-      "valor": 170,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "EBF49827801",
-      "produto": "Trava Da Porta Lava E Seca LG Wd-1403rd5 110v",
-      "quantidade": 1,
-      "valor": 78,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DB96-24901C",
-      "produto": "Controle Remoto Ar Condicionado Samsung Wind Free Original Branco",
-      "quantidade": 1,
-      "valor": 70,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITSM1118",
-      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
-      "quantidade": 1,
-      "valor": 29.77,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "783198",
-      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
-      "quantidade": 1,
-      "valor": 19,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "AXBX01",
-      "produto": "Controle Remoto Universal Ar Condicionado Todas As Marcas Branco",
-      "quantidade": 1,
-      "valor": 39.9,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "5988JA1001E",
-      "produto": "Motor Ice Maker Refrigerador LG Gc-l216bsk Lr-21spt Lr-21spw",
-      "quantidade": 1,
-      "valor": 553.79,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "4280A20004M",
-      "produto": "Bucha Mancal Rolamento Ar Condicionado LG 4280a20004m",
-      "quantidade": 2,
-      "valor": 50,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "EAU61383506",
-      "produto": "Bomba Drenagem 110v/127v Lava Seca LG Wd1403 Wd1409 Original 127v",
-      "quantidade": 1,
-      "valor": 78,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC62-10289C",
-      "produto": "Mangueira Entrada De Agua Para Lavadora Original Samsung",
-      "quantidade": 1,
-      "valor": 47.8,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC61-03510A",
-      "produto": "Guia Recipiente Sabão Liquido Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 25.09,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITSM1118",
-      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
-      "quantidade": 1,
-      "valor": 29.77,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "KITSM1077",
-      "produto": "Pé Nivelador Regulável Lava Seca Midea Lsd10 Lsd12",
-      "quantidade": 1,
-      "valor": 50,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "EBR71522401",
-      "produto": "Botão Liga Desliga Ar Condicionado LG Dual Inverter Original",
-      "quantidade": 1,
-      "valor": 40,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "739388",
-      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
-      "quantidade": 1,
-      "valor": 78,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC31-00181B",
-      "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
-      "quantidade": 1,
-      "valor": 163,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC64-01538B",
-      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
-      "quantidade": 1,
-      "valor": 55,
-      "data": "2026-03-26",
-      "status": "paid"
+      "valor": 45.65,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:53:47.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713694244
     },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
       "quantidade": 1,
       "valor": 78,
-      "data": "2026-03-26",
-      "status": "paid"
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:52:49.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713674282
     },
     {
-      "sku": "420613675721",
-      "produto": "Faca Branca P/ Liquidificador Philips Walita Ri2244 Original",
-      "quantidade": 3,
-      "valor": 64.24,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "420613675721",
-      "produto": "Faca Branca P/ Liquidificador Philips Walita Ri2242 Original",
-      "quantidade": 3,
-      "valor": 64.24,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "EBR82870712",
-      "produto": "Placa Condensador Ar Condicionado LG S4uq12ja3ad S4uq12ja315 127/220v",
+      "sku": "DC64-01524A",
+      "produto": "Puxador Da Porta Lava E Seca E Lavadora Samsung Original ¿",
       "quantidade": 1,
-      "valor": 500,
-      "data": "2026-03-26",
-      "status": "paid"
+      "valor": 30.98,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:50:33.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713646486
     },
     {
-      "sku": "W2921-28801",
-      "produto": "Válvula Dupla Lavadora Panasonic 110v Amarela / W2921-28801  127v",
+      "sku": "5220FR2008N",
+      "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG Cv30 Cv50",
       "quantidade": 1,
-      "valor": 70.2,
-      "data": "2026-03-26",
-      "status": "paid"
+      "valor": 200,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:50:30.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713640570
+    },
+    {
+      "sku": "KITSM0003",
+      "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:46:04.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713578320
+    },
+    {
+      "sku": "KIT1SM1128",
+      "produto": "Kit Motor + Turbina De Secagem Lava Seca Samsung Wd106uhsawq",
+      "quantidade": 1,
+      "valor": 551,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:45:32.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713574296
+    },
+    {
+      "sku": "EAU61383504",
+      "produto": "Bomba Drenagem Eau61383504 LG Wd1403 Wd1409 220v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:45:30.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713533876
+    },
+    {
+      "sku": "AXBX01",
+      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
+      "quantidade": 1,
+      "valor": 39.9,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:44:39.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713560062
+    },
+    {
+      "sku": "12638100000288",
+      "produto": "Retentor Do Tanque Lava E Seca Midea 12638100000288 Original",
+      "quantidade": 1,
+      "valor": 50,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:40:54.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713481924
+    },
+    {
+      "sku": "DB96-24901C",
+      "produto": "Controle Remoto Ar Condicionado Samsung Wind Free Original Branco",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:39:51.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713476842
+    },
+    {
+      "sku": "ABQ74883808",
+      "produto": "Placa Receptora Ar Condicionado LG 9000 S4nq09wa51a Original 127/220v Abq74883808",
+      "quantidade": 1,
+      "valor": 205,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:38:19.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713457342
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:37:20.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713433766
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:37:11.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713443060
     },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
       "quantidade": 1,
       "valor": 78,
-      "data": "2026-03-26",
-      "status": "paid"
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:36:31.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713437498
     },
     {
-      "sku": "DC31-00181C",
-      "produto": "Bomba De Drenagem Lava E Seca Samsung Wd856 Dc31-00181c 127v",
+      "sku": "12338100000185",
+      "produto": "Dobradiça Lavadora Lava E Seca Midea Lsa081 Lse10x2 Original",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:35:12.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713403260
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "2x Amortecedor Cesto Lava E Seca Samsung Dc66-00421b",
+      "quantidade": 1,
+      "valor": 34.65,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:32:32.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713353194
+    },
+    {
+      "sku": "DC91-12077G",
+      "produto": "Arame Aro Abraçadeira Lava E Seca Samsung Dc91-12077g",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:32:29.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713386138
+    },
+    {
+      "sku": "KIT1SM1118",
+      "produto": "Kit Puxador Mola Trinco E Pino Porta Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 121.32,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:32:04.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713384032
+    },
+    {
+      "sku": "BN59-01432B",
+      "produto": "Controle Remoto Energia Solar Smart Tv Samsung Bn59-01432b",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:31:43.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713351362
+    },
+    {
+      "sku": "DC93-00634A",
+      "produto": "Roldana Esticador Para Secadora Samsung Original Dc93-00634a",
+      "quantidade": 1,
+      "valor": 141.14,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:29:59.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713342742
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:28:36.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713324602
+    },
+    {
+      "sku": "FIAPOS01",
+      "produto": "Kit 6 Sacos Anti Fiapos Lavanderia Axbx Roupas Delicadas Zíper Poliéster Branco",
+      "quantidade": 1,
+      "valor": 27.48,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:28:32.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713297904
+    },
+    {
+      "sku": "DB31-00636C",
+      "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
+      "quantidade": 1,
+      "valor": 258,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:27:57.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713301170
+    },
+    {
+      "sku": "765136",
+      "produto": "Copo Preto Aspirador De Pó Philco Rapid Ph1100 Original",
+      "quantidade": 1,
+      "valor": 61.75,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:26:48.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713302054
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus Original 220v 65w Ar Barril Split 25906088 Ydk65-6d",
+      "quantidade": 1,
+      "valor": 210,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:21:50.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713220998
+    },
+    {
+      "sku": "780540",
+      "produto": "Jarra De Reposição Para Cafeteira Philco Ph14 Inox / Ph14 Plus Preto",
+      "quantidade": 1,
+      "valor": 32.26,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:17:31.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713163638
+    },
+    {
+      "sku": "5900AR1266A",
+      "produto": "Hélice Condensadora Ar LG Tsuh092yma0 / Nw0 Tsuc072yma0 Cinza",
+      "quantidade": 1,
+      "valor": 119,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:16:34.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713146438
+    },
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto P Ar Condicionado LG Dual Inveter Original",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:16:31.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713131798
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
+      "quantidade": 1,
+      "valor": 204.95,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:15:46.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713131114
+    },
+    {
+      "sku": "ABQ74883808",
+      "produto": "Placa Display Receptora Ar LG S4uq09wa5 S4nq09wa51a",
+      "quantidade": 1,
+      "valor": 199,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:15:31.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713134568
+    },
+    {
+      "sku": "DB90-11453B",
+      "produto": "Suporte Evaporadora Windfree 9000 Ar Condicionado Samsung",
+      "quantidade": 1,
+      "valor": 75,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:15:24.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713140024
+    },
+    {
+      "sku": "783198",
+      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
+      "quantidade": 1,
+      "valor": 19,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:15:23.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713130788
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:11:33.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713055424
+    },
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:10:15.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713047078
+    },
+    {
+      "sku": "EAU64082902",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
+      "quantidade": 1,
+      "valor": 59.36,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:08:40.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713001952
+    },
+    {
+      "sku": "KITSM1077",
+      "produto": "Pé Regulável Lava E Seca E Lavadora Samsung 4 Peças",
+      "quantidade": 1,
+      "valor": 29.4,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:07:05.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015713026088
+    },
+    {
+      "sku": "41044029",
+      "produto": "Saco Para Aspirador De Pó Electrolux A20s Gt3000 Original Nf",
+      "quantidade": 1,
+      "valor": 42.9,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:05:30.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712998614
+    },
+    {
+      "sku": "EBR64620701",
+      "produto": "Placa Display Receptora Ar Condicionado LG 9000 A 24000 Btus",
+      "quantidade": 1,
+      "valor": 199.89,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:05:27.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712997434
+    },
+    {
+      "sku": "ARAGSD100120",
+      "produto": "Sensor Defrost Degelo Refrigerador Panasonic Original",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:02:59.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712940008
+    },
+    {
+      "sku": "021061",
+      "produto": "Hélice Ventilador Britânia Philco B30 Turbo 6 Pás 30cm Cinza-escuro",
+      "quantidade": 1,
+      "valor": 23.75,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:02:32.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712966070
+    },
+    {
+      "sku": "727908",
+      "produto": "Jarra Cafeteira Caf Bcf32a Britania Preto",
+      "quantidade": 1,
+      "valor": 51.3,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:02:03.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712944900
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
       "quantidade": 2,
-      "valor": 68.73,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "772498",
-      "produto": "Termostato Kst201-2a Forno Eletrico Philco 46l Original Nf",
-      "quantidade": 1,
-      "valor": 37.62,
-      "data": "2026-03-26",
-      "status": "paid"
-    },
-    {
-      "sku": "DC67-00230E",
-      "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
-      "quantidade": 1,
-      "valor": 30,
-      "data": "2026-03-26",
-      "status": "paid"
+      "valor": 204.95,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:01:23.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712943138
     },
     {
       "sku": "25906088",
       "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
-      "quantidade": 4,
+      "quantidade": 2,
       "valor": 196.8,
-      "data": "2026-03-26",
-      "status": "paid"
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T12:01:20.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712950302
     },
     {
-      "sku": "25906088",
-      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "sku": "781241",
+      "produto": "Resistência Para Cafeteira 220v 800w Original Britânia",
       "quantidade": 1,
-      "valor": 196.8,
-      "data": "2026-03-26",
-      "status": "paid"
+      "valor": 42,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T11:57:41.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712876578
     },
     {
-      "sku": "DB32-00272A",
-      "produto": "Sensor Triplo Temperatura Evaporadora Samsung Db32-00272a",
+      "sku": "DC62-00233K",
+      "produto": "Válvula 3 Vias Samsung Eletrônica Da Amazônia Dc62-00233k 12v",
       "quantidade": 1,
       "valor": 250,
-      "data": "2026-03-26",
-      "status": "paid"
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T11:53:15.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712814944
+    },
+    {
+      "sku": "AXBX01",
+      "produto": "Controle Remoto Universal Ar Condicionado Gree 9000 12000",
+      "quantidade": 1,
+      "valor": 39.9,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T11:41:26.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712656234
+    },
+    {
+      "sku": "DB96-24831H",
+      "produto": "Serpentina Ar Condicionado Samsung Windfree 9 E 12000 Btus",
+      "quantidade": 1,
+      "valor": 788,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T11:39:41.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712620878
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T11:37:34.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712598334
+    },
+    {
+      "sku": "KITSM1078",
+      "produto": "Pezinho Alto Lava Seca Samsung Original Ecobubble Wd10 Wd103",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T11:37:28.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712592766
+    },
+    {
+      "sku": "DB95-01990D",
+      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
+      "quantidade": 2,
+      "valor": 70.2,
+      "foto": "",
+      "envio": "N/A",
+      "data": "2026-03-26T11:33:08.000-04:00",
+      "status": "paid",
+      "pedido_id": 2000015712542034
     }
   ]
 }
