@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:10:30.843Z",
+  "atualizado_em": "2026-03-27T20:12:30.452Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA32-10104N",
+      "produto": "Sensor Temperatura 5k Refrigerador Samsung Da32-10104n",
+      "quantidade": 3,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_894576-MLB77245484754_072024-O.jpg",
+      "item_id": "MLB3766983523",
+      "shipping_id": "46738597184",
+      "envio": "Full",
+      "data": "2026-03-27T16:12:02.000-04:00",
+      "pedido_id": "2000015730245442",
+      "comprador": "RT20251104160811",
+      "pagamento": "account_money"
+    },
     {
       "sku": "5220FR2008N",
       "produto": "Válvula Entrada De Água 4 Vias Lava Seca 110/220v LG 5220fr2008n Aju75412412 Cv3011bc4 Cv3011wg4 Cv5010ts4 Cv5010wg4 Cv5011ts4 Cv5011wg4 Cv5013bc4 Cv5013ec4 Cv5013wc4 Cv5014mc4 Cv5014pc4 12v",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015726439292",
       "comprador": "EITORFERREIRA",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "EBG63935701",
-      "produto": "Termostato Para Lava E Seca LG Wd-1403rd 1409rd 1412rt",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_739543-MLB53707686227_022023-O.jpg",
-      "item_id": "MLB1889116982",
-      "shipping_id": "46736451679",
-      "envio": "Full",
-      "data": "2026-03-27T11:19:43.000-04:00",
-      "pedido_id": "2000015726396458",
-      "comprador": "CSOUZAJOANA1978",
-      "pagamento": "credit_card"
     },
     {
       "sku": "ABQ73301301",
