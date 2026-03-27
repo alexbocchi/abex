@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T19:48:30.614Z",
+  "atualizado_em": "2026-03-27T19:50:30.688Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ABQ74883808",
+      "produto": "Placa Receptora Ar Condicionado LG 9000 S4nq09wa51a Original 127/220v Abq74883808",
+      "quantidade": 1,
+      "valor": 205,
+      "foto": "https://http2.mlstatic.com/D_703525-MLB106183483763_012026-O.jpg",
+      "item_id": "MLB4806728174",
+      "shipping_id": "46738453120",
+      "envio": "Full",
+      "data": "2026-03-27T15:47:50.000-04:00",
+      "pedido_id": "2000015729931174",
+      "comprador": "REFTAGLIAFERRO",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1078",
       "produto": "Pezinho Alto Lava Seca Samsung Original Ecobubble Wd10 Wd103",
@@ -1461,20 +1475,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -1486,6 +1486,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015726190462",
       "comprador": "KAIQUEGINAS",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "AXBX01",
-      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
-      "quantidade": 1,
-      "valor": 39.9,
-      "foto": "https://http2.mlstatic.com/D_618047-MLB79773766608_102024-O.jpg",
-      "item_id": "MLB5122979702",
-      "shipping_id": "46736616458",
-      "envio": "Full",
-      "data": "2026-03-27T11:02:06.000-04:00",
-      "pedido_id": "2000015726174458",
-      "comprador": "MURTALUCIANNE20221205150642",
-      "pagamento": "account_money"
     }
   ]
 }
