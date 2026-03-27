@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T23:38:30.965Z",
+  "atualizado_em": "2026-03-27T23:40:30.765Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC61-03423A",
+      "produto": "Gabinete Inferior Duto Secagem Lava Seca Samsung Wd103u4sawq",
+      "quantidade": 1,
+      "valor": 470,
+      "foto": "https://http2.mlstatic.com/D_980016-MLB93301932951_092025-O.jpg",
+      "item_id": "MLB4220832201",
+      "shipping_id": "46739705918",
+      "envio": "Coleta",
+      "data": "2026-03-27T19:39:10.000-04:00",
+      "pedido_id": "2000015732644574",
+      "comprador": "DEMA140765",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1078",
       "produto": "Pezinho Alto Lava Seca Samsung Original Ecobubble Wd10 Wd103",
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015728611600",
       "comprador": "CASADASMAQUINASPL",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "EAU61383504",
-      "produto": "Bomba Drenagem Eau61383504 LG Wd1403 Wd1409 220v",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_833083-MLA100048719911_122025-O.jpg",
-      "item_id": "MLB5314101166",
-      "shipping_id": "46737508671",
-      "envio": "Full",
-      "data": "2026-03-27T14:04:17.000-04:00",
-      "pedido_id": "2000015728575558",
-      "comprador": "SADIEMERSON",
-      "pagamento": "digital_currency"
     }
   ]
 }
