@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T15:40:06.898Z",
+  "atualizado_em": "2026-03-27T15:42:06.703Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Tripla Lava E Seca Samsung Wd136 Wd106 Wd856 Nf",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_943133-MLB80853152111_112024-O.jpg",
+      "item_id": "MLB1492277330",
+      "shipping_id": "46736584725",
+      "envio": "Flex",
+      "data": "2026-03-27T11:40:20.000-04:00",
+      "pedido_id": "2000015726670958"
+    },
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "https://http2.mlstatic.com/D_762730-MLB89090811517_082025-O.jpg",
+      "item_id": "MLB3935360223",
+      "shipping_id": "46736854502",
+      "envio": "Full",
+      "data": "2026-03-27T11:39:35.000-04:00",
+      "pedido_id": "2000015726643646"
+    },
     {
       "sku": "AHA75113322",
       "produto": "Bomba Dreno Sensor Nível Para Ar Condicionado LG Original Nf",
@@ -1745,18 +1769,6 @@
       "pedido_id": "2000015723576596"
     },
     {
-      "sku": "EAD64108410",
-      "produto": "Cabo De Força Tv LG Smart 32/43/49/50/55/65/70 Polegadas 127/220v",
-      "quantidade": 1,
-      "valor": 33.44,
-      "foto": "https://http2.mlstatic.com/D_887603-MLB105332868115_012026-O.jpg",
-      "item_id": "MLB3490051209",
-      "shipping_id": "46735045827",
-      "envio": "Full",
-      "data": "2026-03-27T07:21:02.000-04:00",
-      "pedido_id": "2000015723564678"
-    },
-    {
       "sku": "W024T-04400",
       "produto": "Pressostato Lavadora Panasonic 14kg 16kg Original",
       "quantidade": 1,
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:16:29.000-04:00",
       "pedido_id": "2000015723517274"
-    },
-    {
-      "sku": "KITGUARNICAO01",
-      "produto": "Guarnição Porta Lava E Seca Samsung Original Wd11m44530w",
-      "quantidade": 1,
-      "valor": 145,
-      "foto": "https://http2.mlstatic.com/D_947892-MLB77186462006_072024-O.jpg",
-      "item_id": "MLB1766426463",
-      "shipping_id": "46735301202",
-      "envio": "Full",
-      "data": "2026-03-27T07:15:31.000-04:00",
-      "pedido_id": "2000015723532436"
     },
     {
       "sku": "DC64-03235A",
