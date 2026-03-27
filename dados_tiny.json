@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T18:56:30.813Z",
+  "atualizado_em": "2026-03-27T18:58:30.783Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
+      "item_id": "MLB1613568329",
+      "shipping_id": "46738123528",
+      "envio": "Full",
+      "data": "2026-03-27T14:56:55.000-04:00",
+      "pedido_id": "2000015729280384",
+      "comprador": "RUDINEIPIEN",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAU62004011",
       "produto": "Motor Evaporadora LG 7/9/12 Original E Novo Eau62004011",
@@ -1223,20 +1237,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -1248,6 +1248,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015725722974",
       "comprador": "SIDA3455188",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus Original 220v 65w Ar Barril Split 25906088 Ydk65-6d",
-      "quantidade": 1,
-      "valor": 210,
-      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
-      "item_id": "MLB6107728210",
-      "shipping_id": "46736390476",
-      "envio": "Flex",
-      "data": "2026-03-27T10:27:27.000-04:00",
-      "pedido_id": "2000015725677020",
-      "comprador": "IDIVALDO R.BAPTISTA",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "3502-000115",
