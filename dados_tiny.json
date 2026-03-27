@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-27T18:12:30.822Z",
+  "atualizado_em": "2026-03-27T18:14:30.879Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00032D",
+      "produto": "Motor Ventilador De Secagem Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 120,
+      "foto": "https://http2.mlstatic.com/D_753434-MLB81866415278_012025-O.jpg",
+      "item_id": "MLB1863921914",
+      "shipping_id": "46737569001",
+      "envio": "Full",
+      "data": "2026-03-27T14:13:45.000-04:00",
+      "pedido_id": "2000015728718578",
+      "comprador": "R20260220095956",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46737561607",
+      "envio": "Full",
+      "data": "2026-03-27T14:12:41.000-04:00",
+      "pedido_id": "2000015728697138",
+      "comprador": "HALLERSONARTHUR",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd106uhsawq",
+      "quantidade": 1,
+      "valor": 54.6,
+      "foto": "https://http2.mlstatic.com/D_847757-MLB74794549153_022024-O.jpg",
+      "item_id": "MLB1775791497",
+      "shipping_id": "46737560771",
+      "envio": "Full",
+      "data": "2026-03-27T14:12:32.000-04:00",
+      "pedido_id": "2000015728706714",
+      "comprador": "ROD_YAMADA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Ventilador Condensadora Midea 18 A 30000btus 25906088 220v",
@@ -957,20 +999,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -982,6 +1010,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2033,48 +2075,6 @@
       "pedido_id": "2000015725228644",
       "comprador": "RMORAESCOSTA",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC67-00230E",
-      "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
-      "quantidade": 1,
-      "valor": 30,
-      "foto": "https://http2.mlstatic.com/D_811317-MLB70622251378_072023-O.jpg",
-      "item_id": "MLB3320638231",
-      "shipping_id": "46735853023",
-      "envio": "Full",
-      "data": "2026-03-27T09:48:05.000-04:00",
-      "pedido_id": "2000015725135846",
-      "comprador": "KESAVANMENON",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "DB92-02796A",
-      "produto": "Placa Evaporadora Fjm Multi Split Original Am009knqdch + Nfa",
-      "quantidade": 1,
-      "valor": 780,
-      "foto": "https://http2.mlstatic.com/D_699463-MLB93924798403_102025-O.jpg",
-      "item_id": "MLB4231532631",
-      "shipping_id": "46736124908",
-      "envio": "Coleta",
-      "data": "2026-03-27T09:46:59.000-04:00",
-      "pedido_id": "2000015725135024",
-      "comprador": "GUSTAVOTANERZ",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC31-00181C",
-      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 121.8,
-      "foto": "https://http2.mlstatic.com/D_652191-MLB74716787185_022024-O.jpg",
-      "item_id": "MLB1491074149",
-      "shipping_id": "46736112606",
-      "envio": "Flex",
-      "data": "2026-03-27T09:45:07.000-04:00",
-      "pedido_id": "2000015725116270",
-      "comprador": "KELPIRESFERNANDES",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC64-03235A",
