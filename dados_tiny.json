@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T15:46:07.005Z",
+  "atualizado_em": "2026-03-27T15:48:06.769Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -27,6 +27,18 @@
       "envio": "Full",
       "data": "2026-03-27T11:45:34.000-04:00",
       "pedido_id": "2000015726723826"
+    },
+    {
+      "sku": "796349",
+      "produto": "Filtro Hepa Aspirador De Pó Philco Pas4000v Power Clean Orig",
+      "quantidade": 1,
+      "valor": 25.19,
+      "foto": "https://http2.mlstatic.com/D_859767-MLA81489839173_122024-O.jpg",
+      "item_id": "MLB6428265412",
+      "shipping_id": "46736622375",
+      "envio": "Coleta",
+      "data": "2026-03-27T11:45:12.000-04:00",
+      "pedido_id": "2000015726744476"
     },
     {
       "sku": "DC64-01524A",
@@ -75,18 +87,6 @@
       "envio": "Full",
       "data": "2026-03-27T11:39:35.000-04:00",
       "pedido_id": "2000015726643646"
-    },
-    {
-      "sku": "AHA75113322",
-      "produto": "Bomba Dreno Sensor Nível Para Ar Condicionado LG Original Nf",
-      "quantidade": 1,
-      "valor": 350,
-      "foto": "https://http2.mlstatic.com/D_801293-MLB91648084746_092025-O.jpg",
-      "item_id": "MLB4198470271",
-      "shipping_id": "46736566455",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:37:33.000-04:00",
-      "pedido_id": "2000015726640506"
     },
     {
       "sku": "DC61-03510A",
