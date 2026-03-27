@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:18:30.862Z",
+  "atualizado_em": "2026-03-27T22:20:30.967Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC93-00139A",
+      "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78.4,
+      "foto": "https://http2.mlstatic.com/D_963949-MLB106751819602_022026-O.jpg",
+      "item_id": "MLB1387386786",
+      "shipping_id": "46739287546",
+      "envio": "Flex",
+      "data": "2026-03-27T18:18:17.000-04:00",
+      "pedido_id": "2000015731687092",
+      "comprador": "BYANCARODRIGUESDEMELO",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAU61383506",
       "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
@@ -2088,20 +2102,6 @@
       "data": "2026-03-27T12:51:08.000-04:00",
       "pedido_id": "2000015727620604",
       "comprador": "SILVAWILLIAMOSMIR",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DA32-10104N",
-      "produto": "Sensor Temperatura Geladeira Samsung Rt38 Rt43 Rt46 Original",
-      "quantidade": 1,
-      "valor": 38,
-      "foto": "https://http2.mlstatic.com/D_897616-MLB76288652959_052024-O.jpg",
-      "item_id": "MLB4670094768",
-      "shipping_id": "46737298384",
-      "envio": "Full",
-      "data": "2026-03-27T12:49:08.000-04:00",
-      "pedido_id": "2000015727577438",
-      "comprador": "DEREINALDO20211231144729",
       "pagamento": "bank_transfer"
     }
   ]
