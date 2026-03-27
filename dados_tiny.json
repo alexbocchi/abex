@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T22:32:30.915Z",
+  "atualizado_em": "2026-03-27T22:34:30.850Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -101,20 +101,6 @@
       "pedido_id": "2000015731687092",
       "comprador": "BYANCARODRIGUESDEMELO",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "EAU61383506",
-      "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_715996-MLA99453481652_112025-O.jpg",
-      "item_id": "MLB3909444153",
-      "shipping_id": "46739270646",
-      "envio": "Full",
-      "data": "2026-03-27T18:16:00.000-04:00",
-      "pedido_id": "2000015731657658",
-      "comprador": "MEZENGA003",
-      "pagamento": "digital_currency"
     },
     {
       "sku": "12638100000288",
@@ -2089,6 +2075,20 @@
       "pedido_id": "2000015727758902",
       "comprador": "SIMOESMILENA20230720075646",
       "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
+      "item_id": "MLB5347106848",
+      "shipping_id": "46737093143",
+      "envio": "Flex",
+      "data": "2026-03-27T12:59:35.000-04:00",
+      "pedido_id": "2000015727738668",
+      "comprador": "SARKISTHAIS",
+      "pagamento": "credit_card"
     },
     {
       "sku": "D144612",
