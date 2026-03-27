@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T18:34:30.639Z",
+  "atualizado_em": "2026-03-27T18:36:30.787Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saída Lava E Seca Samsung Original Wd106uhsawq",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_612331-MLB107341507277_022026-O.jpg",
+      "item_id": "MLB1773086960",
+      "shipping_id": "46737987728",
+      "envio": "Full",
+      "data": "2026-03-27T14:35:37.000-04:00",
+      "pedido_id": "2000015728973948",
+      "comprador": "JAVS89245",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1150",
       "produto": "Kit 3 Pas Batedor Do Cesto Lava E Seca Samsung Wd856uhsawqfa Cor Cinza-escuro",
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015725438074",
       "comprador": "ANDREAUGRINMAGALHAES",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "DC31-00181C",
-      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 121.8,
-      "foto": "https://http2.mlstatic.com/D_652191-MLB74716787185_022024-O.jpg",
-      "item_id": "MLB1491074149",
-      "shipping_id": "46735985451",
-      "envio": "Flex",
-      "data": "2026-03-27T10:08:16.000-04:00",
-      "pedido_id": "2000015725428330",
-      "comprador": "RITMAG",
-      "pagamento": "credit_card"
     },
     {
       "sku": "3502-000115",
