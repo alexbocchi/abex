@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T20:30:30.635Z",
+  "atualizado_em": "2026-03-27T20:32:30.587Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Bomba Drenagem 110v/127v Lava Seca LG Wd1403 Wd1409 Original 127v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_909322-MLB107347564989_022026-O.jpg",
+      "item_id": "MLB3867823514",
+      "shipping_id": "46738436429",
+      "envio": "Flex",
+      "data": "2026-03-27T16:31:51.000-04:00",
+      "pedido_id": "2000015730467106",
+      "comprador": "EKURZ",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DA97-13501C",
+      "produto": "Forma De Gelo Geladeira Samsung Rt46k6361sl/bz Original",
+      "quantidade": 1,
+      "valor": 71.25,
+      "foto": "https://http2.mlstatic.com/D_863566-MLB106895240352_022026-O.jpg",
+      "item_id": "MLB4071539271",
+      "shipping_id": "46738428853",
+      "envio": "Full",
+      "data": "2026-03-27T16:30:33.000-04:00",
+      "pedido_id": "2000015730435852",
+      "comprador": "GUEDES.DAN",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "020219",
       "produto": "Suporte Faca Para Multiprocessador Britânia Bmp900p Original",
@@ -2060,34 +2088,6 @@
       "data": "2026-03-27T11:36:28.000-04:00",
       "pedido_id": "2000015726606006",
       "comprador": "4I REFRIGERACAO",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "DB93-11009A",
-      "produto": "Placa Receptora Display Ar Condicionado Samsung 9000 A 24000 Btus",
-      "quantidade": 1,
-      "valor": 130,
-      "foto": "https://http2.mlstatic.com/D_716084-MLA99487004002_112025-O.jpg",
-      "item_id": "MLB3983977357",
-      "shipping_id": "46736549537",
-      "envio": "Full",
-      "data": "2026-03-27T11:33:37.000-04:00",
-      "pedido_id": "2000015726567842",
-      "comprador": "FEHI8900371",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "727908",
-      "produto": "Jarra Cafeteira Caf Bcf32a Britania Preto",
-      "quantidade": 1,
-      "valor": 51.3,
-      "foto": "https://http2.mlstatic.com/D_941685-MLA100086184219_122025-O.jpg",
-      "item_id": "MLB6444636096",
-      "shipping_id": "46736530993",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:32:07.000-04:00",
-      "pedido_id": "2000015726561072",
-      "comprador": "2009MNJ",
       "pagamento": "credit_card"
     },
     {
