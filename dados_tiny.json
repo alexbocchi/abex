@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T18:04:30.679Z",
+  "atualizado_em": "2026-03-27T18:06:31.629Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
+      "quantidade": 2,
+      "valor": 27.72,
+      "foto": "https://http2.mlstatic.com/D_961117-MLA102610137716_122025-O.jpg",
+      "item_id": "MLB4041539053",
+      "shipping_id": "46737790222",
+      "envio": "Full",
+      "data": "2026-03-27T14:05:17.000-04:00",
+      "pedido_id": "2000015728611600",
+      "comprador": "CASADASMAQUINASPL",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EAU61383504",
+      "produto": "Bomba Drenagem Eau61383504 LG Wd1403 Wd1409 220v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_833083-MLA100048719911_122025-O.jpg",
+      "item_id": "MLB5314101166",
+      "shipping_id": "46737508671",
+      "envio": "Full",
+      "data": "2026-03-27T14:04:17.000-04:00",
+      "pedido_id": "2000015728575558",
+      "comprador": "SADIEMERSON",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "17438100002242",
       "produto": "17438100002242  Motor Duto Secagem Lava E Seca Midea Novo",
@@ -887,20 +915,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -912,6 +926,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2047,34 +2075,6 @@
       "pedido_id": "2000015725106778",
       "comprador": "DD20251130192627",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "EBF49827801",
-      "produto": "Trava Da Porta Lava E Seca LG Wd-1410rd Wd-1403 Ebf49827801",
-      "quantidade": 1,
-      "valor": 66.92,
-      "foto": "https://http2.mlstatic.com/D_678512-MLA99412764884_112025-O.jpg",
-      "item_id": "MLB3955177781",
-      "shipping_id": "46735823599",
-      "envio": "Full",
-      "data": "2026-03-27T09:43:37.000-04:00",
-      "pedido_id": "2000015725108018",
-      "comprador": "JOÃOVICTORLS",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "DC34-00026B",
-      "produto": "Trava Porta Lava E Seca Samsung Wd10 Wd90 Wd11 Dc34-00026b",
-      "quantidade": 1,
-      "valor": 146.04,
-      "foto": "https://http2.mlstatic.com/D_952530-MLA106592330160_022026-O.jpg",
-      "item_id": "MLB5385062544",
-      "shipping_id": "46736076196",
-      "envio": "Coleta",
-      "data": "2026-03-27T09:40:12.000-04:00",
-      "pedido_id": "2000015725037120",
-      "comprador": "ROAD4113325",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC64-03235A",
