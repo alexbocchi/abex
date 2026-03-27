@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:08:30.565Z",
+  "atualizado_em": "2026-03-27T20:10:30.843Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5220FR2008N",
+      "produto": "Válvula Entrada De Água 4 Vias Lava Seca 110/220v LG 5220fr2008n Aju75412412 Cv3011bc4 Cv3011wg4 Cv5010ts4 Cv5010wg4 Cv5011ts4 Cv5011wg4 Cv5013bc4 Cv5013ec4 Cv5013wc4 Cv5014mc4 Cv5014pc4 12v",
+      "quantidade": 1,
+      "valor": 200,
+      "foto": "https://http2.mlstatic.com/D_663097-MLA107939635674_032026-O.jpg",
+      "item_id": "MLB4529593901",
+      "shipping_id": "46738305267",
+      "envio": "Coleta",
+      "data": "2026-03-27T16:08:50.000-04:00",
+      "pedido_id": "2000015730198920",
+      "comprador": "FERNANDABAGATINICBSILVA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DB93-10861D",
       "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
@@ -1601,20 +1615,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -1626,6 +1626,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2074,20 +2088,6 @@
       "data": "2026-03-27T11:19:43.000-04:00",
       "pedido_id": "2000015726396458",
       "comprador": "CSOUZAJOANA1978",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "3L-210",
-      "produto": "Correia Para Lavadora Panasonic Na-f140 Na-f160",
-      "quantidade": 1,
-      "valor": 21.44,
-      "foto": "https://http2.mlstatic.com/D_727520-MLA82301977428_022025-O.jpg",
-      "item_id": "MLB5293987380",
-      "shipping_id": "46736720306",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:18:53.000-04:00",
-      "pedido_id": "2000015726382976",
-      "comprador": "SRA MUNIZ",
       "pagamento": "credit_card"
     },
     {
