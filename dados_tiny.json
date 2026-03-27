@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T23:06:30.726Z",
+  "atualizado_em": "2026-03-27T23:08:30.686Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung Preto",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_644020-MLB51194105290_082022-O.jpg",
+      "item_id": "MLB1868896373",
+      "shipping_id": "46739270201",
+      "envio": "Flex",
+      "data": "2026-03-27T19:08:14.000-04:00",
+      "pedido_id": "2000015732286292",
+      "comprador": "BOECHATJULIO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "ADQ72910911",
+      "produto": "Filtro De Água Premium Filter Adq72910901 Refrigerador LG",
+      "quantidade": 1,
+      "valor": 220,
+      "foto": "https://http2.mlstatic.com/D_637805-MLA99447721432_112025-O.jpg",
+      "item_id": "MLB3746589189",
+      "shipping_id": "46739542642",
+      "envio": "Flex",
+      "data": "2026-03-27T19:07:55.000-04:00",
+      "pedido_id": "2000015732249988",
+      "comprador": "CALA8348699",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DB96-24901V",
       "produto": "Controle Remoto Ar Condicionado Wind Free Db96-24901f  Branco",
@@ -2075,34 +2103,6 @@
       "pedido_id": "2000015728206144",
       "comprador": "EDIONAYDANTASEDIONAYDANTAS",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "EBF61315802",
-      "produto": "Trava Porta 110v Lava Seca LG Original Ebf61315802",
-      "quantidade": 1,
-      "valor": 70,
-      "foto": "https://http2.mlstatic.com/D_950001-MLB73303838997_122023-O.jpg",
-      "item_id": "MLB1894253875",
-      "shipping_id": "46737543840",
-      "envio": "Full",
-      "data": "2026-03-27T13:27:04.000-04:00",
-      "pedido_id": "2000015728108306",
-      "comprador": "BARROSRODRIGUESCAMILA",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
-      "quantidade": 1,
-      "valor": 196.8,
-      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
-      "item_id": "MLB5173925130",
-      "shipping_id": "46737585530",
-      "envio": "Full",
-      "data": "2026-03-27T13:25:06.000-04:00",
-      "pedido_id": "2000015728065316",
-      "comprador": "COMPANYONDONTO20230513101859",
-      "pagamento": "bank_transfer"
     }
   ]
 }
