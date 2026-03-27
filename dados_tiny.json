@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T15:10:06.888Z",
+  "atualizado_em": "2026-03-27T15:12:07.137Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-00920U",
+      "produto": "Pé Nivelador Para Lavadora De Roupas Samsung",
+      "quantidade": 1,
+      "valor": 20,
+      "foto": "https://http2.mlstatic.com/D_811361-MLA99641716285_112025-O.jpg",
+      "item_id": "MLB5985800172",
+      "shipping_id": "46736675696",
+      "envio": "Flex",
+      "data": "2026-03-27T11:10:10.000-04:00",
+      "pedido_id": "2000015726261342"
+    },
     {
       "sku": "DB93-10861D",
       "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T04:06:18.000-04:00",
       "pedido_id": "2000015722882226"
-    },
-    {
-      "sku": "DC31-00181C",
-      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 121.8,
-      "foto": "https://http2.mlstatic.com/D_652191-MLB74716787185_022024-O.jpg",
-      "item_id": "MLB1491074149",
-      "shipping_id": "46734580433",
-      "envio": "Full",
-      "data": "2026-03-27T02:11:42.000-04:00",
-      "pedido_id": "2000015722623756"
     },
     {
       "sku": "DC64-03235A",
