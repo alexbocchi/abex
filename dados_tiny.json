@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:24:30.520Z",
+  "atualizado_em": "2026-03-27T20:26:30.560Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "17438100002242",
+      "produto": "Motor Duto Secagem Lava E Seca Midea 17438100002242 Original",
+      "quantidade": 1,
+      "valor": 420,
+      "foto": "https://http2.mlstatic.com/D_905815-MLB81201571948_122024-O.jpg",
+      "item_id": "MLB3935604035",
+      "shipping_id": null,
+      "envio": "N/A",
+      "data": "2026-03-27T16:25:17.000-04:00",
+      "pedido_id": "2000015730387142",
+      "comprador": "KATIASILVABREDESEN",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015726541054",
       "comprador": "CAUANBATERA",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
-      "item_id": "MLB4057130417",
-      "shipping_id": "46736772858",
-      "envio": "Full",
-      "data": "2026-03-27T11:26:53.000-04:00",
-      "pedido_id": "2000015726489154",
-      "comprador": "LIREMIMAMA",
-      "pagamento": "credit_card"
     },
     {
       "sku": "DC61-02029B",
