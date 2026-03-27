@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-03-27T16:00:07.522Z",
+  "atualizado_em": "2026-03-27T16:02:06.963Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit Amortecedor Lava E Seca LG 4901er2003a Wd1485 Wd1403 C/3",
+      "quantidade": 1,
+      "valor": 66.02,
+      "foto": "https://http2.mlstatic.com/D_859283-MLA99621022740_122025-O.jpg",
+      "item_id": "MLB5339934854",
+      "shipping_id": "46736710025",
+      "envio": "Full",
+      "data": "2026-03-27T12:00:08.000-04:00",
+      "pedido_id": "2000015726946734"
+    },
+    {
+      "sku": "4434ER1008A",
+      "produto": "Eixo Do Cesto Lavadora E Lava Seca LG Wd-1409rda, Wd-1410rda",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_830136-MLB104885090094_012026-O.jpg",
+      "item_id": "MLB1889695896",
+      "shipping_id": "46736709875",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:00:07.000-04:00",
+      "pedido_id": "2000015726943658"
+    },
+    {
+      "sku": "ABQ74883808",
+      "produto": "Placa Display Receptora Ar LG S4uq09wa5 S4nq09wa51a",
+      "quantidade": 1,
+      "valor": 199,
+      "foto": "https://http2.mlstatic.com/D_998864-MLA105886497944_022026-O.jpg",
+      "item_id": "MLB6102100444",
+      "shipping_id": "46736984150",
+      "envio": "Full",
+      "data": "2026-03-27T11:59:54.000-04:00",
+      "pedido_id": "2000015726929466"
+    },
     {
       "sku": "EBR73980402",
       "produto": "Placa Principal Ar Condicionado LG Asnq182csa1 Ebr73980409 220v",
@@ -351,6 +387,18 @@
       "envio": "Full",
       "data": "2026-03-27T11:15:52.000-04:00",
       "pedido_id": "2000015726358232"
+    },
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_977418-MLA105567224550_012026-O.jpg",
+      "item_id": "MLB5677380018",
+      "shipping_id": "46736716829",
+      "envio": "Full",
+      "data": "2026-03-27T11:10:50.000-04:00",
+      "pedido_id": "2000015726280734"
     },
     {
       "sku": "DC97-00920U",
@@ -1731,54 +1779,6 @@
       "envio": "Flex",
       "data": "2026-03-27T07:38:39.000-04:00",
       "pedido_id": "2000015723679816"
-    },
-    {
-      "sku": "DB31-00636C",
-      "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
-      "quantidade": 1,
-      "valor": 258,
-      "foto": "https://http2.mlstatic.com/D_750454-MLA99949090031_112025-O.jpg",
-      "item_id": "MLB4145061133",
-      "shipping_id": "46735387470",
-      "envio": "Full",
-      "data": "2026-03-27T07:37:33.000-04:00",
-      "pedido_id": "2000015723696514"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
-      "quantidade": 1,
-      "valor": 227,
-      "foto": "https://http2.mlstatic.com/D_737002-MLA99943156387_112025-O.jpg",
-      "item_id": "MLB5886754752",
-      "shipping_id": "46735385944",
-      "envio": "Full",
-      "data": "2026-03-27T07:37:12.000-04:00",
-      "pedido_id": "2000015723696348"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "2x Amortecedor Cesto Lava E Seca Samsung Dc66-00421b",
-      "quantidade": 1,
-      "valor": 34.65,
-      "foto": "https://http2.mlstatic.com/D_881497-MLA99619497368_122025-O.jpg",
-      "item_id": "MLB5461532516",
-      "shipping_id": "46735108139",
-      "envio": "Full",
-      "data": "2026-03-27T07:36:44.000-04:00",
-      "pedido_id": "2000015723686424"
-    },
-    {
-      "sku": "DC92-01119D",
-      "produto": "Placa Lavadora Samsung Eco Bubble Dc92-01119d 220v Original",
-      "quantidade": 1,
-      "valor": 950,
-      "foto": "https://http2.mlstatic.com/D_641509-MLB106599991128_022026-O.jpg",
-      "item_id": "MLB3937572131",
-      "shipping_id": "46735102691",
-      "envio": "Coleta",
-      "data": "2026-03-27T07:35:15.000-04:00",
-      "pedido_id": "2000015723667376"
     },
     {
       "sku": "DC64-03235A",
