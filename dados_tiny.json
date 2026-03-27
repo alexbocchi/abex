@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-27T17:50:30.901Z",
+  "atualizado_em": "2026-03-27T17:52:30.901Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46737699456",
+      "envio": "Flex",
+      "data": "2026-03-27T13:51:25.000-04:00",
+      "pedido_id": "2000015728403816",
+      "comprador": "CARVALAG",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Ventilador LG Arnu12gtuc2 9mm 4681a20091v 127/220v",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_791003-MLB105754754455_012026-O.jpg",
+      "item_id": "MLB1865076268",
+      "shipping_id": "46737419235",
+      "envio": "Full",
+      "data": "2026-03-27T13:50:45.000-04:00",
+      "pedido_id": "2000015728399296",
+      "comprador": "FEDERALBUS",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "D150946",
+      "produto": "Capacitor Duplo Ar Condicionad Midea 9000 12000 35+2,5uf440v",
+      "quantidade": 1,
+      "valor": 48,
+      "foto": "https://http2.mlstatic.com/D_964009-MLB101657732314_122025-O.jpg",
+      "item_id": "MLB5108057610",
+      "shipping_id": "46737700848",
+      "envio": "Full",
+      "data": "2026-03-27T13:50:35.000-04:00",
+      "pedido_id": "2000015728418418",
+      "comprador": "CAJO4120043",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
@@ -761,20 +803,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -786,6 +814,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2033,48 +2075,6 @@
       "pedido_id": "2000015724988096",
       "comprador": "JS20241202125407",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "AKB75675304",
-      "produto": "Controle Remoto Tv Smart LG Tecla Netflix Amazon Original",
-      "quantidade": 1,
-      "valor": 55,
-      "foto": "https://http2.mlstatic.com/D_843492-MLB106188850687_012026-O.jpg",
-      "item_id": "MLB2000609580",
-      "shipping_id": "46736031146",
-      "envio": "Full",
-      "data": "2026-03-27T09:33:12.000-04:00",
-      "pedido_id": "2000015724974028",
-      "comprador": "FEJO9624331",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "EBR82870714",
-      "produto": "Placa Condensadora Ar Condicionad LG S4nw09wa5wa S4uw09wa5wa 220v",
-      "quantidade": 1,
-      "valor": 495,
-      "foto": "https://http2.mlstatic.com/D_669984-MLA99505289468_112025-O.jpg",
-      "item_id": "MLB6102115690",
-      "shipping_id": "46736028466",
-      "envio": "Full",
-      "data": "2026-03-27T09:32:40.000-04:00",
-      "pedido_id": "2000015724950710",
-      "comprador": "RUKKA33GMAIL",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "EBR82870714",
-      "produto": "Placa Condensadora Ar Condicionad LG S4nw09wa5wa S4uw09wa5wa 220v",
-      "quantidade": 1,
-      "valor": 495,
-      "foto": "https://http2.mlstatic.com/D_669984-MLA99505289468_112025-O.jpg",
-      "item_id": "MLB6102115690",
-      "shipping_id": "46735762043",
-      "envio": "Full",
-      "data": "2026-03-27T09:32:01.000-04:00",
-      "pedido_id": "2000015724938898",
-      "comprador": "WILLYAMCDUTRA",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC64-03235A",
