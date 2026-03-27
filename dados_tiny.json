@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:26:30.560Z",
+  "atualizado_em": "2026-03-27T20:28:30.484Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "756750",
+      "produto": "Puxador Air Fryer Saúde Philco Inox Ph3,2l Alça Original",
+      "quantidade": 1,
+      "valor": 50.39,
+      "foto": "https://http2.mlstatic.com/D_854612-MLB104426721998_012026-O.jpg",
+      "item_id": "MLB5233269630",
+      "shipping_id": "46738406495",
+      "envio": "Flex",
+      "data": "2026-03-27T16:26:52.000-04:00",
+      "pedido_id": "2000015730422272",
+      "comprador": "PREFERIDO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "17438100002242",
       "produto": "Motor Duto Secagem Lava E Seca Midea 17438100002242 Original",
@@ -11,8 +25,8 @@
       "valor": 420,
       "foto": "https://http2.mlstatic.com/D_905815-MLB81201571948_122024-O.jpg",
       "item_id": "MLB3935604035",
-      "shipping_id": null,
-      "envio": "N/A",
+      "shipping_id": "46738403347",
+      "envio": "Full",
       "data": "2026-03-27T16:25:17.000-04:00",
       "pedido_id": "2000015730387142",
       "comprador": "KATIASILVABREDESEN",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015726541054",
       "comprador": "CAUANBATERA",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "DC61-02029B",
-      "produto": "Mola De Suspensão Do Tanque Lava E Seca Samsung Dc61-02029b",
-      "quantidade": 1,
-      "valor": 55.5,
-      "foto": "https://http2.mlstatic.com/D_799862-MLB107570931609_022026-O.jpg",
-      "item_id": "MLB1958120338",
-      "shipping_id": "46736765666",
-      "envio": "Full",
-      "data": "2026-03-27T11:25:51.000-04:00",
-      "pedido_id": "2000015726451792",
-      "comprador": "AA20260306143555",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "ABQ73301301",
