@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T19:20:30.722Z",
+  "atualizado_em": "2026-03-27T19:22:30.710Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-10289C",
+      "produto": "Mangueira Entrada Água Lava Seca LG Samsung Super Resistente Unidade 120cm",
+      "quantidade": 1,
+      "valor": 30.6,
+      "foto": "https://http2.mlstatic.com/D_875101-MLA99630125872_122025-O.jpg",
+      "item_id": "MLB5840773712",
+      "shipping_id": "46738282932",
+      "envio": "Full",
+      "data": "2026-03-27T15:20:53.000-04:00",
+      "pedido_id": "2000015729610046",
+      "comprador": "JAVS89245",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC62-00214Q",
       "produto": "Valvula 4 Vias Lava E Seca Samsung 110v Original Wd10 Wd90",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015725990996",
       "comprador": "LS20250222184331",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
-      "quantidade": 2,
-      "valor": 227,
-      "foto": "https://http2.mlstatic.com/D_737002-MLA99943156387_112025-O.jpg",
-      "item_id": "MLB5886754752",
-      "shipping_id": "46736236225",
-      "envio": "Full",
-      "data": "2026-03-27T10:46:16.000-04:00",
-      "pedido_id": "2000015725945558",
-      "comprador": "CARLOSSERGIOSOBRINHOGOMESGO",
-      "pagamento": "account_money"
     },
     {
       "sku": "EAU62983004",
