@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T23:20:30.829Z",
+  "atualizado_em": "2026-03-27T23:22:30.607Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46739611122",
+      "envio": "Full",
+      "data": "2026-03-27T19:21:01.000-04:00",
+      "pedido_id": "2000015732440156",
+      "comprador": "BANDEIRAALE2009",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
@@ -2074,20 +2088,6 @@
       "data": "2026-03-27T13:51:25.000-04:00",
       "pedido_id": "2000015728403816",
       "comprador": "CARVALAG",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Ventilador LG Arnu12gtuc2 9mm 4681a20091v 127/220v",
-      "quantidade": 1,
-      "valor": 230,
-      "foto": "https://http2.mlstatic.com/D_791003-MLB105754754455_012026-O.jpg",
-      "item_id": "MLB1865076268",
-      "shipping_id": "46737419235",
-      "envio": "Full",
-      "data": "2026-03-27T13:50:45.000-04:00",
-      "pedido_id": "2000015728399296",
-      "comprador": "FEDERALBUS",
       "pagamento": "credit_card"
     },
     {
