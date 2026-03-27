@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-27T16:46:30.799Z",
+  "atualizado_em": "2026-03-27T16:48:30.953Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "MDS66651606",
+      "produto": "Guarnição Borracha Porta Lava E Seca LG Cv5011wg4a",
+      "quantidade": 1,
+      "valor": 200,
+      "foto": "https://http2.mlstatic.com/D_653147-MLA96416366367_102025-O.jpg",
+      "item_id": "MLB3984056517",
+      "shipping_id": "46737288628",
+      "envio": "Full",
+      "data": "2026-03-27T12:47:38.000-04:00",
+      "pedido_id": "2000015727575772",
+      "comprador": "CF20250424152724",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EBR75234883",
+      "produto": "Placa Micro-ondas LG Mh7044 Mh7053 Ebr75234883",
+      "quantidade": 1,
+      "valor": 178.58,
+      "foto": "https://http2.mlstatic.com/D_708842-MLA99478467004_112025-O.jpg",
+      "item_id": "MLB5183132542",
+      "shipping_id": "46737287480",
+      "envio": "Full",
+      "data": "2026-03-27T12:47:28.000-04:00",
+      "pedido_id": "2000015727541896",
+      "comprador": "RBMARTINS2012",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
+      "quantidade": 1,
+      "valor": 227,
+      "foto": "https://http2.mlstatic.com/D_737002-MLA99943156387_112025-O.jpg",
+      "item_id": "MLB5886754752",
+      "shipping_id": "46737008619",
+      "envio": "Full",
+      "data": "2026-03-27T12:45:07.000-04:00",
+      "pedido_id": "2000015727529296",
+      "comprador": "NILDODANIELDESOUZA",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DB93-10861D",
       "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
@@ -243,20 +285,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -268,6 +296,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2021,20 +2063,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "MDS66651606",
-      "produto": "Guarnição Borracha Porta Lava Seca LG Cv3011 Cv5011 Cv7011",
-      "quantidade": 1,
-      "valor": 200,
-      "foto": "https://http2.mlstatic.com/D_932130-MLA95405127706_102025-O.jpg",
-      "item_id": "MLB3983875841",
-      "shipping_id": "46735625672",
-      "envio": "Full",
-      "data": "2026-03-27T08:26:11.000-04:00",
-      "pedido_id": "2000015724158618",
-      "comprador": "ALLTECCASCAVEL",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "KITGUARNICAO01",
       "produto": "Borracha Da Porta Guarnição Para Uso Em Lava E Seca Samsung E Vedação Do Filtro De Fiapos Wd10m44530w Wd90m4453 Wd85m4453 Wd11m4473 Wd10k6410 Wd90j6410ax Dc73-00022a Dc64-03235 Dc64-03235b",
       "quantidade": 1,
@@ -2046,34 +2074,6 @@
       "data": "2026-03-27T08:24:03.000-04:00",
       "pedido_id": "2000015724136542",
       "comprador": "ALLE1927670",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC66-00421B",
-      "produto": "Amortecedor Do Cesto Lava E Seca - Dc66-00421b Samsung",
-      "quantidade": 2,
-      "valor": 40,
-      "foto": "https://http2.mlstatic.com/D_678284-MLA99445333366_112025-O.jpg",
-      "item_id": "MLB4028833179",
-      "shipping_id": "46735328885",
-      "envio": "Full",
-      "data": "2026-03-27T08:22:27.000-04:00",
-      "pedido_id": "2000015724114004",
-      "comprador": "ARAKEN3",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "DB93-11009A",
-      "produto": "Placa Receptora Display Ar Condicionado Samsung 9000 A 24000 Btus",
-      "quantidade": 1,
-      "valor": 130,
-      "foto": "https://http2.mlstatic.com/D_716084-MLA99487004002_112025-O.jpg",
-      "item_id": "MLB3983977357",
-      "shipping_id": "46735317961",
-      "envio": "Full",
-      "data": "2026-03-27T08:18:18.000-04:00",
-      "pedido_id": "2000015724057566",
-      "comprador": "JAIRDUARTEJ",
       "pagamento": "bank_transfer"
     },
     {
