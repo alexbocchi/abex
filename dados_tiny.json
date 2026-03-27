@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:40:30.731Z",
+  "atualizado_em": "2026-03-27T22:42:30.689Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Para Ar Condicionado LG Inverter Compatível Akb75215401 Branco",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "https://http2.mlstatic.com/D_997874-MLA107179175189_022026-O.jpg",
+      "item_id": "MLB5504456798",
+      "shipping_id": "46739133465",
+      "envio": "Full",
+      "data": "2026-03-27T18:42:06.000-04:00",
+      "pedido_id": "2000015731959640",
+      "comprador": "CAIAPC_LK",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DB61-03649A",
       "produto": "Aleta Defletor Evaporadora Samsung 9 12 Original Db61-03649a",
@@ -2088,20 +2102,6 @@
       "data": "2026-03-27T13:01:47.000-04:00",
       "pedido_id": "2000015727758902",
       "comprador": "SIMOESMILENA20230720075646",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "D144612",
-      "produto": "Capacitor Duplo Ar Condicionado LG 9000 12000 30+2,5uf",
-      "quantidade": 1,
-      "valor": 39,
-      "foto": "https://http2.mlstatic.com/D_874126-MLB104899999992_012026-O.jpg",
-      "item_id": "MLB5107716200",
-      "shipping_id": "46737364548",
-      "envio": "Full",
-      "data": "2026-03-27T12:59:14.000-04:00",
-      "pedido_id": "2000015727719042",
-      "comprador": "BOTA7705371",
       "pagamento": "bank_transfer"
     }
   ]
