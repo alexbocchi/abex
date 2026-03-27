@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:56:30.868Z",
+  "atualizado_em": "2026-03-27T22:58:30.840Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "4781JR2005W",
+      "produto": "Sensor De Degelo Side By Side LG 4781jr2005w Gc-l207 Gc-l213",
+      "quantidade": 1,
+      "valor": 178,
+      "foto": "https://http2.mlstatic.com/D_972575-MLB75906163248_042024-O.jpg",
+      "item_id": "MLB1959618362",
+      "shipping_id": "46739481192",
+      "envio": "Coleta",
+      "data": "2026-03-27T18:56:09.000-04:00",
+      "pedido_id": "2000015732136780",
+      "comprador": "FABIANO0UTEIRO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC64-03312B",
       "produto": "Botão Seletor Knob Lava Seca Samsung Dc64-03312b Original",
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015728074634",
       "comprador": "MIMI706063",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "739388",
-      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
-      "item_id": "MLB3920495205",
-      "shipping_id": "46737506520",
-      "envio": "Full",
-      "data": "2026-03-27T13:21:21.000-04:00",
-      "pedido_id": "2000015728001776",
-      "comprador": "SILVANAZANATA2015",
-      "pagamento": "account_money"
     }
   ]
 }
