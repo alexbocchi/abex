@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-27T20:16:30.505Z",
+  "atualizado_em": "2026-03-27T20:18:30.412Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB75675304",
+      "produto": "Controle Remoto Tv LG Smart 32/43/49/50/55/65/70 Polegadas",
+      "quantidade": 1,
+      "valor": 60.75,
+      "foto": "https://http2.mlstatic.com/D_620222-MLB105590026846_012026-O.jpg",
+      "item_id": "MLB1865157598",
+      "shipping_id": "46738625600",
+      "envio": "Full",
+      "data": "2026-03-27T16:17:04.000-04:00",
+      "pedido_id": "2000015730281740",
+      "comprador": "PELU2661695",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1090",
+      "produto": "Kit 3 Parafusos Do Eixo/tripé Lavadora E Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 22.04,
+      "foto": "https://http2.mlstatic.com/D_825975-MLB81502995862_012025-O.jpg",
+      "item_id": "MLB5243902668",
+      "shipping_id": "46738623700",
+      "envio": "Full",
+      "data": "2026-03-27T16:16:43.000-04:00",
+      "pedido_id": "2000015730281572",
+      "comprador": "MARCOANTONIOOLIVEIRAPINHO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC67-00230E",
+      "produto": "Mangueira Pressostato Lava Seca Samsung Dc67-00230e Wd90",
+      "quantidade": 1,
+      "valor": 32,
+      "foto": "https://http2.mlstatic.com/D_854316-MLB99400855475_112025-O.jpg",
+      "item_id": "MLB5966109172",
+      "shipping_id": "46738622764",
+      "envio": "Full",
+      "data": "2026-03-27T16:16:39.000-04:00",
+      "pedido_id": "2000015730275550",
+      "comprador": "ALNEOKAEDA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "MDS55242601",
       "produto": "Guarnição Borracha Lava E Seca LG Wd-c1485 - Mds55242601",
@@ -2037,20 +2079,6 @@
     {
       "sku": "D144612",
       "produto": "Capacitor Duplo Ar Condicionado LG 9000 12000 30+2,5uf",
-      "quantidade": 1,
-      "valor": 39,
-      "foto": "https://http2.mlstatic.com/D_874126-MLB104899999992_012026-O.jpg",
-      "item_id": "MLB5107716200",
-      "shipping_id": "46736483113",
-      "envio": "Full",
-      "data": "2026-03-27T11:24:49.000-04:00",
-      "pedido_id": "2000015726469470",
-      "comprador": "FRANCOAGONCALVES",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "D144612",
-      "produto": "Capacitor Duplo Ar Condicionado LG 9000 12000 30+2,5uf",
       "quantidade": 3,
       "valor": 39,
       "foto": "https://http2.mlstatic.com/D_874126-MLB104899999992_012026-O.jpg",
@@ -2061,34 +2089,6 @@
       "pedido_id": "2000015726480040",
       "comprador": "FRANCOAGONCALVES",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "D144612",
-      "produto": "Capacitor Duplo Ar Condicionado LG 9000 12000 30+2,5uf",
-      "quantidade": 1,
-      "valor": 39,
-      "foto": "https://http2.mlstatic.com/D_874126-MLB104899999992_012026-O.jpg",
-      "item_id": "MLB5107716200",
-      "shipping_id": "46736483069",
-      "envio": "Full",
-      "data": "2026-03-27T11:24:48.000-04:00",
-      "pedido_id": "2000015726476114",
-      "comprador": "FRANCOAGONCALVES",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "797263",
-      "produto": "Copo Original Para Liquidificador Philco Samurai",
-      "quantidade": 1,
-      "valor": 145.34,
-      "foto": "https://http2.mlstatic.com/D_700498-MLB107635194412_032026-O.jpg",
-      "item_id": "MLB4026157113",
-      "shipping_id": "46736755808",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:24:19.000-04:00",
-      "pedido_id": "2000015726443428",
-      "comprador": "VANESSARINALDOOMETTO",
-      "pagamento": "credit_card"
     },
     {
       "sku": "ABQ73301301",
