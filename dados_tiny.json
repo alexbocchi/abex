@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T23:26:30.817Z",
+  "atualizado_em": "2026-03-27T23:28:30.657Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 150,
+  "total_pedidos": 149,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Ventilador Evaporadora Ar LG S4nq18kl3wb",
+      "quantidade": 1,
+      "valor": 222,
+      "foto": "https://http2.mlstatic.com/D_805496-MLA99376151044_112025-O.jpg",
+      "item_id": "MLB4135368041",
+      "shipping_id": "46739648780",
+      "envio": "Full",
+      "data": "2026-03-27T19:27:38.000-04:00",
+      "pedido_id": "2000015732493168",
+      "comprador": "ABVI9290350",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITTERMOSTATO",
       "produto": "Kit Termostatos Lava E Seca Samsung Wd11a4453bx/az Original",
@@ -660,20 +674,6 @@
       "data": "2026-03-27T17:44:13.000-04:00",
       "pedido_id": "2000015731310756",
       "comprador": "CARMOALVESANAPAULA",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC31-00181C",
-      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
-      "quantidade": 1,
-      "valor": 69.73,
-      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
-      "item_id": "MLB4106668967",
-      "shipping_id": "46738822679",
-      "envio": "Flex",
-      "data": "2026-03-27T17:42:37.000-04:00",
-      "pedido_id": "2000015731277732",
-      "comprador": "LUIZSCANDURA",
       "pagamento": "credit_card"
     },
     {
@@ -2088,20 +2088,6 @@
       "data": "2026-03-27T14:01:01.000-04:00",
       "pedido_id": "2000015728531884",
       "comprador": "DALE3815207",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "KITLG0002",
-      "produto": "Kit Amortecedor Lava E Seca LG 4901er2003a Wd1485 Wd1403 C/3",
-      "quantidade": 1,
-      "valor": 66.02,
-      "foto": "https://http2.mlstatic.com/D_859283-MLA99621022740_122025-O.jpg",
-      "item_id": "MLB5339934854",
-      "shipping_id": "46737745266",
-      "envio": "Full",
-      "data": "2026-03-27T13:58:20.000-04:00",
-      "pedido_id": "2000015728516516",
-      "comprador": "DIRO8066644",
       "pagamento": "credit_card"
     }
   ]
