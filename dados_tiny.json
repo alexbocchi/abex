@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T23:02:30.642Z",
+  "atualizado_em": "2026-03-27T23:04:30.761Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB96-24901V",
+      "produto": "Controle Remoto Ar Condicionado Wind Free Db96-24901f  Branco",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_897270-MLB92291978204_092025-O.jpg",
+      "item_id": "MLB2933158141",
+      "shipping_id": "46739518544",
+      "envio": "Full",
+      "data": "2026-03-27T19:03:19.000-04:00",
+      "pedido_id": "2000015732221444",
+      "comprador": "GUIGADASILVA03",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DB31-00636C",
       "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015728206144",
       "comprador": "EDIONAYDANTASEDIONAYDANTAS",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "EBX64329206",
-      "produto": "Controle LG Smart Magic Thinq Ai Modelo An-mr18ba",
-      "quantidade": 1,
-      "valor": 159.9,
-      "foto": "https://http2.mlstatic.com/D_910993-MLA99514916032_112025-O.jpg",
-      "item_id": "MLB6200289824",
-      "shipping_id": "46737553804",
-      "envio": "Full",
-      "data": "2026-03-27T13:28:45.000-04:00",
-      "pedido_id": "2000015728109258",
-      "comprador": "PSIGIGIO1000",
-      "pagamento": "account_money"
     },
     {
       "sku": "EBF61315802",
