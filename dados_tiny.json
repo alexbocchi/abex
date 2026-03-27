@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T16:04:06.962Z",
+  "atualizado_em": "2026-03-27T16:06:07.283Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Ventilador 10 Pás Bvt495 Pvt492 Pvc491 Turbo Original Azul-celeste",
+      "quantidade": 1,
+      "valor": 38.42,
+      "foto": "https://http2.mlstatic.com/D_849743-MLB108104220342_032026-O.jpg",
+      "item_id": "MLB4537172489",
+      "shipping_id": "46736745791",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:05:43.000-04:00",
+      "pedido_id": "2000015727012834"
+    },
     {
       "sku": "EAU61383506",
       "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:48:51.000-04:00",
       "pedido_id": "2000015723779008"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora Ar Condicionado LG S4nq12ja31c Usnq122hsg3 220v",
-      "quantidade": 1,
-      "valor": 230,
-      "foto": "https://http2.mlstatic.com/D_957106-MLA99935936501_112025-O.jpg",
-      "item_id": "MLB4145100667",
-      "shipping_id": "46735396700",
-      "envio": "Full",
-      "data": "2026-03-27T07:39:46.000-04:00",
-      "pedido_id": "2000015723714364"
     },
     {
       "sku": "DC64-03235A",
