@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T21:40:30.809Z",
+  "atualizado_em": "2026-03-27T21:42:30.673Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA32-10104N",
+      "produto": "Sensor Temperatura Geladeira Samsung Rt38 Rt43 Rt46 Original",
+      "quantidade": 2,
+      "valor": 38,
+      "foto": "https://http2.mlstatic.com/D_897616-MLB76288652959_052024-O.jpg",
+      "item_id": "MLB4670094768",
+      "shipping_id": "46738811919",
+      "envio": "Full",
+      "data": "2026-03-27T17:40:34.000-04:00",
+      "pedido_id": "2000015731280400",
+      "comprador": "PEDROREGGIANI",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC67-00230E",
       "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015727419532",
       "comprador": "MARCOSROBERTOPEREIRA7328",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "022431",
-      "produto": "Hélice Ventilador Philco Pvt400 Pvt400 40cm Original Azul-celeste",
-      "quantidade": 1,
-      "valor": 33.25,
-      "foto": "https://http2.mlstatic.com/D_956721-MLB108364422791_032026-O.jpg",
-      "item_id": "MLB6419837428",
-      "shipping_id": "46736947015",
-      "envio": "Flex",
-      "data": "2026-03-27T12:37:05.000-04:00",
-      "pedido_id": "2000015727419478",
-      "comprador": "MARVI1804",
-      "pagamento": "digital_currency"
     }
   ]
 }
