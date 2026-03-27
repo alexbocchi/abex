@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T22:30:30.991Z",
+  "atualizado_em": "2026-03-27T22:32:30.915Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
+      "item_id": "MLB1613568329",
+      "shipping_id": "46739077853",
+      "envio": "Full",
+      "data": "2026-03-27T18:31:31.000-04:00",
+      "pedido_id": "2000015731848820",
+      "comprador": "HUGONATALINOORSI",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181B",
+      "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
+      "quantidade": 1,
+      "valor": 163,
+      "foto": "https://http2.mlstatic.com/D_792957-MLB74588719570_022024-O.jpg",
+      "item_id": "MLB1595657205",
+      "shipping_id": "46739069789",
+      "envio": "Full",
+      "data": "2026-03-27T18:30:24.000-04:00",
+      "pedido_id": "2000015731832604",
+      "comprador": "FLANKLINDAVIDDESOUZAMELO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DB93-15882Q",
       "produto": "Controle Ar Condicionado Split Samsung Virus Doctor Inverter Branco",
@@ -2063,20 +2091,6 @@
       "pagamento": "bank_transfer"
     },
     {
-      "sku": "KITSM1173",
-      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
-      "quantidade": 1,
-      "valor": 29.5,
-      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
-      "item_id": "MLB5347106848",
-      "shipping_id": "46737093143",
-      "envio": "Flex",
-      "data": "2026-03-27T12:59:35.000-04:00",
-      "pedido_id": "2000015727738668",
-      "comprador": "SARKISTHAIS",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "D144612",
       "produto": "Capacitor Duplo Ar Condicionado LG 9000 12000 30+2,5uf",
       "quantidade": 1,
@@ -2088,20 +2102,6 @@
       "data": "2026-03-27T12:59:14.000-04:00",
       "pedido_id": "2000015727719042",
       "comprador": "BOTA7705371",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "ABQ73301301",
-      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
-      "quantidade": 1,
-      "valor": 230,
-      "foto": "https://http2.mlstatic.com/D_977418-MLA105567224550_012026-O.jpg",
-      "item_id": "MLB5677380018",
-      "shipping_id": "46737085225",
-      "envio": "Full",
-      "data": "2026-03-27T12:57:34.000-04:00",
-      "pedido_id": "2000015727687850",
-      "comprador": "FACL1068418",
       "pagamento": "bank_transfer"
     }
   ]
