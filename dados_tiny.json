@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:22:30.897Z",
+  "atualizado_em": "2026-03-27T22:24:30.847Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 1,
+      "valor": 35.5,
+      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
+      "item_id": "MLB3791029185",
+      "shipping_id": null,
+      "envio": "N/A",
+      "data": "2026-03-27T18:24:13.000-04:00",
+      "pedido_id": "2000015731764832",
+      "comprador": "TORRESMICHELLE20231122151948",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
@@ -17,6 +31,20 @@
       "pedido_id": "2000015731736838",
       "comprador": "DAFE9000554",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "797618",
+      "produto": "Bocal Piso Aspirador Philco Pas1300 Pas1300c Multi Clean",
+      "quantidade": 1,
+      "valor": 53.63,
+      "foto": "https://http2.mlstatic.com/D_945314-MLA99632345994_122025-O.jpg",
+      "item_id": "MLB4526975503",
+      "shipping_id": "46739035523",
+      "envio": "Coleta",
+      "data": "2026-03-27T18:18:27.000-04:00",
+      "pedido_id": "2000015731683468",
+      "comprador": "TEDA3348216",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC93-00139A",
@@ -2074,34 +2102,6 @@
       "data": "2026-03-27T12:56:44.000-04:00",
       "pedido_id": "2000015727679444",
       "comprador": "THIAGOPBORGES",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "ARAHCJA00132",
-      "produto": "Gaveta Inferior Freezer Panasonic Bb51 Bb52 Bb53 Bb71",
-      "quantidade": 1,
-      "valor": 290,
-      "foto": "https://http2.mlstatic.com/D_837120-MLB106379530512_022026-O.jpg",
-      "item_id": "MLB4469982209",
-      "shipping_id": "46737336316",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:54:41.000-04:00",
-      "pedido_id": "2000015727661134",
-      "comprador": "MARLONBARCELOS",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
-      "quantidade": 1,
-      "valor": 204.95,
-      "foto": "https://http2.mlstatic.com/D_697027-MLA99594896114_122025-O.jpg",
-      "item_id": "MLB5676655880",
-      "shipping_id": "46737319532",
-      "envio": "Full",
-      "data": "2026-03-27T12:52:16.000-04:00",
-      "pedido_id": "2000015727632808",
-      "comprador": "ALRO20240410163923",
       "pagamento": "credit_card"
     }
   ]
