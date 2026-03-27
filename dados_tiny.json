@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T15:06:07.164Z",
+  "atualizado_em": "2026-03-27T15:08:07.828Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB96-24901V",
+      "produto": "Controle Remoto Ar Condicionado Wind Free Db96-24901f  Branco",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_897270-MLB92291978204_092025-O.jpg",
+      "item_id": "MLB2933158141",
+      "shipping_id": "46736370653",
+      "envio": "Full",
+      "data": "2026-03-27T11:06:46.000-04:00",
+      "pedido_id": "2000015726226776"
+    },
     {
       "sku": "022019",
       "produto": "Hélice 6 Pas 40cm Ventilador Ventus 40 Six Britânia 022019 Cinza-escuro",
@@ -1767,18 +1779,6 @@
       "envio": "Flex",
       "data": "2026-03-27T01:08:28.000-04:00",
       "pedido_id": "2000015722463090"
-    },
-    {
-      "sku": "ABQ73301301",
-      "produto": "Placa Interface Ar Condicionado LG Asnq092wsa0 Abq73301301",
-      "quantidade": 1,
-      "valor": 240,
-      "foto": "https://http2.mlstatic.com/D_704150-MLA106094521939_012026-O.jpg",
-      "item_id": "MLB5276510674",
-      "shipping_id": "46734268489",
-      "envio": "Full",
-      "data": "2026-03-26T23:36:39.000-04:00",
-      "pedido_id": "2000015721911674"
     },
     {
       "sku": "DC64-03235A",
