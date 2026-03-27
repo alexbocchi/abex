@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T22:52:31.030Z",
+  "atualizado_em": "2026-03-27T22:54:30.515Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-03312B",
+      "produto": "Botão Seletor Knob Lava Seca Samsung Dc64-03312b Original",
+      "quantidade": 1,
+      "valor": 139.99,
+      "foto": "https://http2.mlstatic.com/D_613766-MLB76139873039_052024-O.jpg",
+      "item_id": "MLB2903277928",
+      "shipping_id": "46739470066",
+      "envio": "Coleta",
+      "data": "2026-03-27T18:54:02.000-04:00",
+      "pedido_id": "2000015732093450",
+      "comprador": "DESERGIO20211202141528",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC93-00139A",
+      "produto": "Cabo De Força Lavadora Lava Seca Samsung Dc98-01976a Origina",
+      "quantidade": 1,
+      "valor": 78.31,
+      "foto": "https://http2.mlstatic.com/D_916230-MLB107420973105_022026-O.jpg",
+      "item_id": "MLB2109806057",
+      "shipping_id": "46739464858",
+      "envio": "Full",
+      "data": "2026-03-27T18:52:55.000-04:00",
+      "pedido_id": "2000015732100670",
+      "comprador": "HELMETHSOUSAESOUSA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC67-00230E",
       "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
@@ -2075,34 +2103,6 @@
       "pedido_id": "2000015728001776",
       "comprador": "SILVANAZANATA2015",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 74.7,
-      "foto": "https://http2.mlstatic.com/D_968242-MLB107340769115_022026-O.jpg",
-      "item_id": "MLB1584616358",
-      "shipping_id": "46737489458",
-      "envio": "Full",
-      "data": "2026-03-27T13:18:40.000-04:00",
-      "pedido_id": "2000015727953926",
-      "comprador": "4420241111143720",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC93-00139A",
-      "produto": "Cabo De Força Lavadora E Secadora Samsung Original",
-      "quantidade": 1,
-      "valor": 78.4,
-      "foto": "https://http2.mlstatic.com/D_684953-MLB76112589947_042024-O.jpg",
-      "item_id": "MLB1358526792",
-      "shipping_id": "46737490498",
-      "envio": "Flex",
-      "data": "2026-03-27T13:18:15.000-04:00",
-      "pedido_id": "2000015727984712",
-      "comprador": "G20250829135920",
-      "pagamento": "bank_transfer"
     }
   ]
 }
