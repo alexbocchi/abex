@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T18:06:31.629Z",
+  "atualizado_em": "2026-03-27T18:08:30.718Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ABQ74883808",
+      "produto": "Placa Display Receptora Ar LG S4nq09wa51c S4nq09wa5aa 127/220v",
+      "quantidade": 1,
+      "valor": 215,
+      "foto": "https://http2.mlstatic.com/D_674701-MLB105584066674_012026-O.jpg",
+      "item_id": "MLB4212953179",
+      "shipping_id": "46737801236",
+      "envio": "Coleta",
+      "data": "2026-03-27T14:06:16.000-04:00",
+      "pedido_id": "2000015728616828",
+      "comprador": "G20260317225257",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "021392",
+      "produto": "Tampa P/ Jarra Do Multiprocessador Philco Pmp 1600 Original",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_709443-MLB104353176745_012026-O.jpg",
+      "item_id": "MLB6154822190",
+      "shipping_id": "46737517483",
+      "envio": "Coleta",
+      "data": "2026-03-27T14:05:39.000-04:00",
+      "pedido_id": "2000015728626166",
+      "comprador": "ANDIARACANEO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC64-01538B",
       "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
@@ -915,20 +943,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -940,6 +954,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2035,20 +2063,6 @@
       "pagamento": "bank_transfer"
     },
     {
-      "sku": "796349",
-      "produto": "Filtro Hepa Aspirador Pas4000 Power Clean Philco",
-      "quantidade": 2,
-      "valor": 22.77,
-      "foto": "https://http2.mlstatic.com/D_703923-MLA100077396349_122025-O.jpg",
-      "item_id": "MLB6447756296",
-      "shipping_id": "46735828871",
-      "envio": "Flex",
-      "data": "2026-03-27T09:44:30.000-04:00",
-      "pedido_id": "2000015725114722",
-      "comprador": "EDNEIADUTRACARNEIRO",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
       "quantidade": 1,
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015725113156",
       "comprador": "EDNEIADUTRACARNEIRO",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
-      "item_id": "MLB4057130417",
-      "shipping_id": "46736103780",
-      "envio": "Full",
-      "data": "2026-03-27T09:44:24.000-04:00",
-      "pedido_id": "2000015725106778",
-      "comprador": "DD20251130192627",
-      "pagamento": "credit_card"
     },
     {
       "sku": "DC64-03235A",
