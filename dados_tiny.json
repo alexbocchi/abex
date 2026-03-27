@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T14:56:06.564Z",
+  "atualizado_em": "2026-03-27T14:58:07.110Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "4280A20004M",
+      "produto": "Bucha Mancal Rolamento Ar Condicionado LG 4280a20004m",
+      "quantidade": 1,
+      "valor": 50,
+      "foto": "https://http2.mlstatic.com/D_624502-MLB76085997281_042024-O.jpg",
+      "item_id": "MLB1964687155",
+      "shipping_id": "46736589810",
+      "envio": "Coleta",
+      "data": "2026-03-27T10:56:42.000-04:00",
+      "pedido_id": "2000015726090838"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_679004-MLB74664482446_022024-O.jpg",
+      "item_id": "MLB1470191674",
+      "shipping_id": "46736309749",
+      "envio": "Full",
+      "data": "2026-03-27T10:56:29.000-04:00",
+      "pedido_id": "2000015726100054"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
@@ -1755,30 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-26T23:14:37.000-04:00",
       "pedido_id": "2000015721768856"
-    },
-    {
-      "sku": "DB31-00636C",
-      "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
-      "quantidade": 1,
-      "valor": 258,
-      "foto": "https://http2.mlstatic.com/D_750454-MLA99949090031_112025-O.jpg",
-      "item_id": "MLB4145061133",
-      "shipping_id": "46734134757",
-      "envio": "Full",
-      "data": "2026-03-26T22:58:00.000-04:00",
-      "pedido_id": "2000015721656488"
-    },
-    {
-      "sku": "739388",
-      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
-      "item_id": "MLB3920495205",
-      "shipping_id": "46734405624",
-      "envio": "Full",
-      "data": "2026-03-26T22:56:42.000-04:00",
-      "pedido_id": "2000015721583976"
     },
     {
       "sku": "DC64-03235A",
