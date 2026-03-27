@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T23:32:30.745Z",
+  "atualizado_em": "2026-03-27T23:34:30.765Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1078",
+      "produto": "Pezinho Alto Lava Seca Samsung Original Ecobubble Wd10 Wd103",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_779993-MLB105344387233_012026-O.jpg",
+      "item_id": "MLB4008193225",
+      "shipping_id": "46739404941",
+      "envio": "Full",
+      "data": "2026-03-27T19:34:11.000-04:00",
+      "pedido_id": "2000015732590054",
+      "comprador": "JADERPEREYRA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "W024T-04400",
       "produto": "Pressostato Lavadora Panasonic 14kg 16kg Original",
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015728575558",
       "comprador": "SADIEMERSON",
       "pagamento": "digital_currency"
-    },
-    {
-      "sku": "17438100002242",
-      "produto": "17438100002242  Motor Duto Secagem Lava E Seca Midea Novo",
-      "quantidade": 1,
-      "valor": 420,
-      "foto": "https://http2.mlstatic.com/D_697177-MLB81201621484_122024-O.jpg",
-      "item_id": "MLB3935604097",
-      "shipping_id": "46737783670",
-      "envio": "Full",
-      "data": "2026-03-27T14:04:12.000-04:00",
-      "pedido_id": "2000015728575502",
-      "comprador": "OLJU4910039",
-      "pagamento": "credit_card"
     }
   ]
 }
