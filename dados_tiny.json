@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:12:30.452Z",
+  "atualizado_em": "2026-03-27T20:14:30.628Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "MDS55242601",
+      "produto": "Guarnição Borracha Lava E Seca LG Wd-c1485 - Mds55242601",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "https://http2.mlstatic.com/D_638082-MLB106099238039_012026-O.jpg",
+      "item_id": "MLB1863889056",
+      "shipping_id": "46738603898",
+      "envio": "Full",
+      "data": "2026-03-27T16:12:22.000-04:00",
+      "pedido_id": "2000015730239212",
+      "comprador": "JOSELUCIANODOSSMOREI",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DA32-10104N",
       "produto": "Sensor Temperatura 5k Refrigerador Samsung Da32-10104n",
@@ -1629,20 +1643,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -1654,6 +1654,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015726443428",
       "comprador": "VANESSARINALDOOMETTO",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
-      "quantidade": 1,
-      "valor": 196.8,
-      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
-      "item_id": "MLB5173925130",
-      "shipping_id": "46736480379",
-      "envio": "Full",
-      "data": "2026-03-27T11:23:51.000-04:00",
-      "pedido_id": "2000015726439292",
-      "comprador": "EITORFERREIRA",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "ABQ73301301",
