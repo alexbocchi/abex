@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T21:46:30.620Z",
+  "atualizado_em": "2026-03-27T21:48:30.685Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -129,20 +129,6 @@
       "pedido_id": "2000015731161162",
       "comprador": "DBORAFELIX2012",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "DB31-00680A",
-      "produto": "Motor Evaporadora Ar Condicionado Samsung 9000 E 12000 Nf",
-      "quantidade": 1,
-      "valor": 320,
-      "foto": "https://http2.mlstatic.com/D_821293-MLB78382784541_082024-O.jpg",
-      "item_id": "MLB1505141037",
-      "shipping_id": "46739030018",
-      "envio": "Full",
-      "data": "2026-03-27T17:29:42.000-04:00",
-      "pedido_id": "2000015731150178",
-      "comprador": "DOVE5393368",
-      "pagamento": "credit_card"
     },
     {
       "sku": "DC31-00181C",
@@ -2089,6 +2075,20 @@
       "pedido_id": "2000015727455366",
       "comprador": "LUAN75_MS",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 1,
+      "valor": 35.5,
+      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
+      "item_id": "MLB3791029185",
+      "shipping_id": "46737233158",
+      "envio": "Full",
+      "data": "2026-03-27T12:38:54.000-04:00",
+      "pedido_id": "2000015727464324",
+      "comprador": "K.IMPORTADOS",
+      "pagamento": "account_money"
     },
     {
       "sku": "022019",
