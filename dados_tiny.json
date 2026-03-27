@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T16:24:06.972Z",
+  "atualizado_em": "2026-03-27T16:26:06.814Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
+      "item_id": "MLB5347106848",
+      "shipping_id": "46736874877",
+      "envio": "Flex",
+      "data": "2026-03-27T12:25:23.000-04:00",
+      "pedido_id": "2000015727282362"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
@@ -77,18 +89,6 @@
       "pedido_id": "2000015727109378"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -99,6 +99,18 @@
       "envio": "Coleta",
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922"
     },
     {
       "sku": "DB95-01990D",
@@ -1767,18 +1779,6 @@
       "envio": "Flex",
       "data": "2026-03-27T08:08:39.000-04:00",
       "pedido_id": "2000015723959334"
-    },
-    {
-      "sku": "DB95-01990D",
-      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
-      "quantidade": 1,
-      "valor": 70.2,
-      "foto": "https://http2.mlstatic.com/D_847601-MLB73095606746_112023-O.jpg",
-      "item_id": "MLB1392765780",
-      "shipping_id": "46735515274",
-      "envio": "Full",
-      "data": "2026-03-27T08:05:49.000-04:00",
-      "pedido_id": "2000015723950088"
     },
     {
       "sku": "DC64-03235A",
