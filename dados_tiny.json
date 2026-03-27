@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T17:44:29.503Z",
+  "atualizado_em": "2026-03-27T17:46:30.755Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "4280A20004M",
+      "produto": "Bucha Mancal Rolamento Ar Condicionado LG 4280a20004m",
+      "quantidade": 1,
+      "valor": 50,
+      "foto": "https://http2.mlstatic.com/D_624502-MLB76085997281_042024-O.jpg",
+      "item_id": "MLB1964687155",
+      "shipping_id": null,
+      "envio": "N/A",
+      "data": "2026-03-27T13:44:33.000-04:00",
+      "pedido_id": "2000015728340458",
+      "comprador": "EDERSONANDRADEDASDORES",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "W2921-28801",
       "produto": "Válvula Dupla Lavadora Panasonic 110v Amarela / W2921-28801  127v",
@@ -2088,20 +2102,6 @@
       "data": "2026-03-26T15:15:25.000-04:00",
       "pedido_id": "2000015715682778",
       "comprador": "VINICIUSMAURICIOPEREIRAMAURI",
-      "pagamento": "ticket"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
-      "quantidade": 1,
-      "valor": 235,
-      "foto": "https://http2.mlstatic.com/D_723411-MLB89537660399_082025-O.jpg",
-      "item_id": "MLB3661822075",
-      "shipping_id": "46731444228",
-      "envio": "Full",
-      "data": "2026-03-26T14:43:10.000-04:00",
-      "pedido_id": "2000015715205768",
-      "comprador": "IRIR474549",
       "pagamento": "ticket"
     }
   ]
