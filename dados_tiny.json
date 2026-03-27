@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T15:44:07.172Z",
+  "atualizado_em": "2026-03-27T15:46:07.005Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA32-10105F",
+      "produto": "Sensor Degelo Geladeira Samsung Rt38fdajdsl Rt38fdjbdsl",
+      "quantidade": 1,
+      "valor": 41.4,
+      "foto": "https://http2.mlstatic.com/D_862610-MLA99600069762_122025-O.jpg",
+      "item_id": "MLB6449064986",
+      "shipping_id": "46736619303",
+      "envio": "Coleta",
+      "data": "2026-03-27T11:45:56.000-04:00",
+      "pedido_id": "2000015726725772"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus Original 220v 65w Ar Barril Split 25906088 Ydk65-6d",
+      "quantidade": 1,
+      "valor": 210,
+      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
+      "item_id": "MLB6107728210",
+      "shipping_id": "46736617855",
+      "envio": "Full",
+      "data": "2026-03-27T11:45:34.000-04:00",
+      "pedido_id": "2000015726723826"
+    },
     {
       "sku": "DC64-01524A",
       "produto": "Puxador Maçaneta Porta Lavadora Lava E Seca Samsung Original",
@@ -15,6 +39,18 @@
       "envio": "Full",
       "data": "2026-03-27T11:43:55.000-04:00",
       "pedido_id": "2000015726730788"
+    },
+    {
+      "sku": "EBX64329206",
+      "produto": "Controle Remoto LG Electronics Do Brasil Ltda. Mr20ga",
+      "quantidade": 1,
+      "valor": 145,
+      "foto": "https://http2.mlstatic.com/D_811524-MLA99920839471_112025-O.jpg",
+      "item_id": "MLB4444986551",
+      "shipping_id": "46736611885",
+      "envio": "Flex",
+      "data": "2026-03-27T11:42:52.000-04:00",
+      "pedido_id": "2000015726701256"
     },
     {
       "sku": "DC62-00233C",
@@ -1743,42 +1779,6 @@
       "envio": "Coleta",
       "data": "2026-03-27T07:28:20.000-04:00",
       "pedido_id": "2000015723597950"
-    },
-    {
-      "sku": "797360",
-      "produto": "Filtro Hepa Aspirador De Pó Philco Multi Clean Pas1300",
-      "quantidade": 1,
-      "valor": 37.51,
-      "foto": "https://http2.mlstatic.com/D_723540-MLB104881219958_012026-O.jpg",
-      "item_id": "MLB6167246656",
-      "shipping_id": "46735062391",
-      "envio": "Coleta",
-      "data": "2026-03-27T07:25:23.000-04:00",
-      "pedido_id": "2000015723594622"
-    },
-    {
-      "sku": "KIT1SM1118",
-      "produto": "Kit Puxador Mola Trinco E Pino Porta Lava E Seca Samsung",
-      "quantidade": 1,
-      "valor": 121.32,
-      "foto": "https://http2.mlstatic.com/D_631636-MLB70622317932_072023-O.jpg",
-      "item_id": "MLB1864058523",
-      "shipping_id": "46735057099",
-      "envio": "Full",
-      "data": "2026-03-27T07:24:02.000-04:00",
-      "pedido_id": "2000015723589030"
-    },
-    {
-      "sku": "W024T-04400",
-      "produto": "Pressostato Lavadora Panasonic 14kg 16kg Original",
-      "quantidade": 1,
-      "valor": 55.29,
-      "foto": "https://http2.mlstatic.com/D_698368-MLB101053686334_122025-O.jpg",
-      "item_id": "MLB1279134181",
-      "shipping_id": "46735304850",
-      "envio": "Full",
-      "data": "2026-03-27T07:16:29.000-04:00",
-      "pedido_id": "2000015723517274"
     },
     {
       "sku": "DC64-03235A",
