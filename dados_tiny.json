@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T19:14:30.649Z",
+  "atualizado_em": "2026-03-27T19:16:30.781Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00214Q",
+      "produto": "Valvula 4 Vias Lava E Seca Samsung 110v Original Wd10 Wd90",
+      "quantidade": 1,
+      "valor": 156.2,
+      "foto": "https://http2.mlstatic.com/D_928599-MLB74664424188_022024-O.jpg",
+      "item_id": "MLB1622139308",
+      "shipping_id": "46738247458",
+      "envio": "Flex",
+      "data": "2026-03-27T15:16:08.000-04:00",
+      "pedido_id": "2000015729532418",
+      "comprador": "CARRAFAJOIAS",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "003660",
+      "produto": "Faca Para Multiprocessador Philco All In One Original",
+      "quantidade": 1,
+      "valor": 52.25,
+      "foto": "https://http2.mlstatic.com/D_963220-MLB105498844018_012026-O.jpg",
+      "item_id": "MLB3950194991",
+      "shipping_id": "46738233078",
+      "envio": "Flex",
+      "data": "2026-03-27T15:13:57.000-04:00",
+      "pedido_id": "2000015729487114",
+      "comprador": "USSAMIRENATA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EBF61315802",
       "produto": "Trava Da Porta Lavadora Lava Seca LG Fv5011wg4 Original 110v",
@@ -1349,20 +1377,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -1374,6 +1388,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2061,34 +2089,6 @@
       "pedido_id": "2000015725945558",
       "comprador": "CARLOSSERGIOSOBRINHOGOMESGO",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "DB93-11009A",
-      "produto": "Placa Receptora Ar Condicionado Samsung Original 9000 12000 220v",
-      "quantidade": 1,
-      "valor": 130,
-      "foto": "https://http2.mlstatic.com/D_900626-MLB74485652619_022024-O.jpg",
-      "item_id": "MLB1859903136",
-      "shipping_id": "46736511258",
-      "envio": "Full",
-      "data": "2026-03-27T10:46:10.000-04:00",
-      "pedido_id": "2000015725950374",
-      "comprador": "FIARRESGO",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "074369",
-      "produto": "Helice Batedor Para Panificadora Britania Multipane Original",
-      "quantidade": 1,
-      "valor": 30.26,
-      "foto": "https://http2.mlstatic.com/D_798660-MLB104102300344_012026-O.jpg",
-      "item_id": "MLB6153906060",
-      "shipping_id": "46736198743",
-      "envio": "Coleta",
-      "data": "2026-03-27T10:40:49.000-04:00",
-      "pedido_id": "2000015725859036",
-      "comprador": "ALINEBRUNOLIMA",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU62983004",
