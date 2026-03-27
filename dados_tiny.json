@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T21:22:30.673Z",
+  "atualizado_em": "2026-03-27T21:24:30.599Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -171,6 +171,20 @@
       "pedido_id": "2000015730696960",
       "comprador": "DALAYANA20211118130439",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "EBR82870714",
+      "produto": "Placa Condensadora Ar Condicionad LG S4nw09wa5wa S4uw09wa5wa 220v",
+      "quantidade": 1,
+      "valor": 495,
+      "foto": "https://http2.mlstatic.com/D_669984-MLA99505289468_112025-O.jpg",
+      "item_id": "MLB6102115690",
+      "shipping_id": "46738726619",
+      "envio": "Full",
+      "data": "2026-03-27T16:49:30.000-04:00",
+      "pedido_id": "2000015730686118",
+      "comprador": "ABOOLT",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "ARBPC1A03654",
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "DB95-01990D",
-      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
-      "quantidade": 1,
-      "valor": 70.2,
-      "foto": "https://http2.mlstatic.com/D_847601-MLB73095606746_112023-O.jpg",
-      "item_id": "MLB1392765780",
-      "shipping_id": "46737054978",
-      "envio": "Full",
-      "data": "2026-03-27T12:10:19.000-04:00",
-      "pedido_id": "2000015727072954",
-      "comprador": "RAPHAEL_S0ARES",
-      "pagamento": "bank_transfer"
     }
   ]
 }
