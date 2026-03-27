@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T19:12:30.850Z",
+  "atualizado_em": "2026-03-27T19:14:30.649Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBF61315802",
+      "produto": "Trava Da Porta Lavadora Lava Seca LG Fv5011wg4 Original 110v",
+      "quantidade": 2,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_877743-MLB81856180493_012025-O.jpg",
+      "item_id": "MLB5249744440",
+      "shipping_id": "46737953687",
+      "envio": "Full",
+      "data": "2026-03-27T15:13:23.000-04:00",
+      "pedido_id": "2000015729502082",
+      "comprador": "LEANDTOENZORODRIGUES29",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1078",
       "produto": "Pezinho Alto Lava Seca Samsung Original Ecobubble Wd10 Wd103",
@@ -1335,20 +1349,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -1360,6 +1360,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2074,20 +2088,6 @@
       "data": "2026-03-27T10:40:49.000-04:00",
       "pedido_id": "2000015725859036",
       "comprador": "ALINEBRUNOLIMA",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DB96-13970D",
-      "produto": "Serpentina Condensadora Ar Samsung Inverter 12000 E 9000 Btu",
-      "quantidade": 1,
-      "valor": 755.61,
-      "foto": "https://http2.mlstatic.com/D_830291-MLB81531423349_122024-O.jpg",
-      "item_id": "MLB3937736909",
-      "shipping_id": "46736198491",
-      "envio": "Flex",
-      "data": "2026-03-27T10:39:27.000-04:00",
-      "pedido_id": "2000015725835558",
-      "comprador": "DECIOTGR",
       "pagamento": "bank_transfer"
     },
     {
