@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T16:26:06.814Z",
+  "atualizado_em": "2026-03-27T16:28:07.148Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -27,6 +27,18 @@
       "envio": "Full",
       "data": "2026-03-27T12:23:52.000-04:00",
       "pedido_id": "2000015727233892"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46737153658",
+      "envio": "Full",
+      "data": "2026-03-27T12:23:45.000-04:00",
+      "pedido_id": "2000015727262358"
     },
     {
       "sku": "DC97-02250F",
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T08:08:39.000-04:00",
       "pedido_id": "2000015723943756"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
-      "quantidade": 1,
-      "valor": 35.5,
-      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
-      "item_id": "MLB3791029185",
-      "shipping_id": "46735254889",
-      "envio": "Flex",
-      "data": "2026-03-27T08:08:39.000-04:00",
-      "pedido_id": "2000015723959334"
     },
     {
       "sku": "DC64-03235A",
