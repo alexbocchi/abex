@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:40:30.882Z",
+  "atualizado_em": "2026-03-27T20:42:30.708Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB31-00693A",
+      "produto": "Motor Condensadora Wind Free Samsung 9000 12000 Original  220v Bldc",
+      "quantidade": 1,
+      "valor": 495,
+      "foto": "https://http2.mlstatic.com/D_832266-MLB89268422978_082025-O.jpg",
+      "item_id": "MLB4149501184",
+      "shipping_id": "46738488943",
+      "envio": "Coleta",
+      "data": "2026-03-27T16:41:21.000-04:00",
+      "pedido_id": "2000015730587936",
+      "comprador": "PATYCOLARINO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015726744476",
       "comprador": "PLOHARSKIVILNEI20230104121557",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC64-01524A",
-      "produto": "Puxador Maçaneta Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 30.4,
-      "foto": "https://http2.mlstatic.com/D_950950-MLB75890411763_042024-O.jpg",
-      "item_id": "MLB1667664204",
-      "shipping_id": "46736607085",
-      "envio": "Full",
-      "data": "2026-03-27T11:43:55.000-04:00",
-      "pedido_id": "2000015726730788",
-      "comprador": "BAEL4923975",
-      "pagamento": "account_money"
     },
     {
       "sku": "EBX64329206",
