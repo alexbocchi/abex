@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T23:00:31.474Z",
+  "atualizado_em": "2026-03-27T23:02:30.642Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB31-00636C",
+      "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
+      "quantidade": 1,
+      "valor": 258,
+      "foto": "https://http2.mlstatic.com/D_750454-MLA99949090031_112025-O.jpg",
+      "item_id": "MLB4145061133",
+      "shipping_id": "46739503890",
+      "envio": "Full",
+      "data": "2026-03-27T19:00:34.000-04:00",
+      "pedido_id": "2000015732184960",
+      "comprador": "PRJO7870232",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "PS-3880-608",
       "produto": "Sensor Magnético Tampa Lavadora Panasonic Original 14kg 16kg",
@@ -2088,20 +2102,6 @@
       "data": "2026-03-27T13:25:06.000-04:00",
       "pedido_id": "2000015728065316",
       "comprador": "COMPANYONDONTO20230513101859",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "021713PL",
-      "produto": "Hélice Ventilador 10 Pás Bvt495 Pvt492 Pvc491 Turbo Original Azul-celeste",
-      "quantidade": 1,
-      "valor": 38.42,
-      "foto": "https://http2.mlstatic.com/D_849743-MLB108104220342_032026-O.jpg",
-      "item_id": "MLB4537172489",
-      "shipping_id": "46737255257",
-      "envio": "Coleta",
-      "data": "2026-03-27T13:25:03.000-04:00",
-      "pedido_id": "2000015728074634",
-      "comprador": "MIMI706063",
       "pagamento": "bank_transfer"
     }
   ]
