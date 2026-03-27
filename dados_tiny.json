@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T22:14:30.184Z",
+  "atualizado_em": "2026-03-27T22:16:30.771Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_715996-MLA99453481652_112025-O.jpg",
+      "item_id": "MLB3909444153",
+      "shipping_id": "46739270646",
+      "envio": "Full",
+      "data": "2026-03-27T18:16:00.000-04:00",
+      "pedido_id": "2000015731657658",
+      "comprador": "MEZENGA003",
+      "pagamento": "digital_currency"
+    },
+    {
+      "sku": "12638100000288",
+      "produto": "Retentor Do Tanque Lava E Seca Midea 12638100000288 Original",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "https://http2.mlstatic.com/D_954517-MLB81564889640_012025-O.jpg",
+      "item_id": "MLB5225414326",
+      "shipping_id": "46739264296",
+      "envio": "Full",
+      "data": "2026-03-27T18:14:48.000-04:00",
+      "pedido_id": "2000015731644982",
+      "comprador": "GGCEHDABF60429",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KIT1SM1118",
       "produto": "Kit Puxador Porta Lavadora Lava E Seca Samsung Completo",
@@ -2075,34 +2103,6 @@
       "pedido_id": "2000015727577438",
       "comprador": "DEREINALDO20211231144729",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "5220FR2008N",
-      "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG Cv30 Cv50",
-      "quantidade": 1,
-      "valor": 200,
-      "foto": "https://http2.mlstatic.com/D_917146-MLA99465137554_112025-O.jpg",
-      "item_id": "MLB3772897841",
-      "shipping_id": "46737023447",
-      "envio": "Full",
-      "data": "2026-03-27T12:48:15.000-04:00",
-      "pedido_id": "2000015727580692",
-      "comprador": "CRISTIANO_WALKER",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "W024T-04400",
-      "produto": "Pressostato Lavadora Panasonic 14kg 16kg Original",
-      "quantidade": 1,
-      "valor": 55.29,
-      "foto": "https://http2.mlstatic.com/D_698368-MLB101053686334_122025-O.jpg",
-      "item_id": "MLB1279134181",
-      "shipping_id": "46737305648",
-      "envio": "Full",
-      "data": "2026-03-27T12:44:13.000-04:00",
-      "pedido_id": "2000015727532526",
-      "comprador": "BORGESANGELICA20220126215306",
-      "pagamento": "credit_card"
     }
   ]
 }
