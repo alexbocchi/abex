@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T18:00:31.151Z",
+  "atualizado_em": "2026-03-27T18:02:30.769Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46737487185",
+      "envio": "Full",
+      "data": "2026-03-27T14:01:01.000-04:00",
+      "pedido_id": "2000015728531884",
+      "comprador": "DALE3815207",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
@@ -845,20 +859,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -870,6 +870,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2047,20 +2061,6 @@
       "pedido_id": "2000015725019874",
       "comprador": "RIED1768734",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
-      "quantidade": 1,
-      "valor": 227,
-      "foto": "https://http2.mlstatic.com/D_737002-MLA99943156387_112025-O.jpg",
-      "item_id": "MLB5886754752",
-      "shipping_id": "46736057066",
-      "envio": "Full",
-      "data": "2026-03-27T09:37:06.000-04:00",
-      "pedido_id": "2000015724987938",
-      "comprador": "ALBUQUERQUE1964",
-      "pagamento": "credit_card"
     },
     {
       "sku": "796349",
