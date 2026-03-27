@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T19:52:30.563Z",
+  "atualizado_em": "2026-03-27T19:54:30.898Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "D144612",
+      "produto": "Capacitor Duplo Ar Condicionado LG 9000 12000 30+2,5uf",
+      "quantidade": 1,
+      "valor": 39,
+      "foto": "https://http2.mlstatic.com/D_874126-MLB104899999992_012026-O.jpg",
+      "item_id": "MLB5107716200",
+      "shipping_id": "46738215251",
+      "envio": "Full",
+      "data": "2026-03-27T15:53:58.000-04:00",
+      "pedido_id": "2000015730016638",
+      "comprador": "GABRIELPROBSTFARIAS5",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "41044029",
+      "produto": "Saco Para Aspirador De Pó Electrolux A20s Gt3000 Original Nf",
+      "quantidade": 1,
+      "valor": 42.9,
+      "foto": "https://http2.mlstatic.com/D_827636-MLB94558445040_102025-O.jpg",
+      "item_id": "MLB5792445044",
+      "shipping_id": "46738482202",
+      "envio": "Flex",
+      "data": "2026-03-27T15:52:34.000-04:00",
+      "pedido_id": "2000015729985670",
+      "comprador": "JORGEKREMER01",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
@@ -2075,34 +2103,6 @@
       "pedido_id": "2000015726261342",
       "comprador": "ARLETEMEDICI",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DB93-10861D",
-      "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
-      "quantidade": 1,
-      "valor": 74.86,
-      "foto": "https://http2.mlstatic.com/D_699662-MLB108659154185_032026-O.jpg",
-      "item_id": "MLB1464885381",
-      "shipping_id": "46736664480",
-      "envio": "Full",
-      "data": "2026-03-27T11:09:52.000-04:00",
-      "pedido_id": "2000015726268626",
-      "comprador": "SARA CARVALH0",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira Drenagem Lava E Seca Samsung Original Wd856uhsawq",
-      "quantidade": 1,
-      "valor": 45,
-      "foto": "https://http2.mlstatic.com/D_638117-MLB106680856246_022026-O.jpg",
-      "item_id": "MLB1753367562",
-      "shipping_id": "46736660898",
-      "envio": "Flex",
-      "data": "2026-03-27T11:09:08.000-04:00",
-      "pedido_id": "2000015726260622",
-      "comprador": "REBECASOFIA57",
-      "pagamento": "credit_card"
     }
   ]
 }
