@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T21:24:30.599Z",
+  "atualizado_em": "2026-03-27T21:26:30.915Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 121.8,
+      "foto": "https://http2.mlstatic.com/D_652191-MLB74716787185_022024-O.jpg",
+      "item_id": "MLB1491074149",
+      "shipping_id": "46738732401",
+      "envio": "Full",
+      "data": "2026-03-27T17:24:47.000-04:00",
+      "pedido_id": "2000015731094654",
+      "comprador": "ZANCHINALDO",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
@@ -2074,20 +2088,6 @@
       "data": "2026-03-27T12:13:48.000-04:00",
       "pedido_id": "2000015727109378",
       "comprador": "SÉRGIO HENRIQUEG",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
