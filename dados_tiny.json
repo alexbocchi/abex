@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T21:16:30.657Z",
+  "atualizado_em": "2026-03-27T21:18:30.661Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBR88078921",
+      "produto": "Placa Principal Evaporadora Ar Condicionado LG S4nq12ja3ad 220v",
+      "quantidade": 1,
+      "valor": 380,
+      "foto": "https://http2.mlstatic.com/D_884616-MLA100061074045_122025-O.jpg",
+      "item_id": "MLB5449461946",
+      "shipping_id": "46738959764",
+      "envio": "Coleta",
+      "data": "2026-03-27T17:16:41.000-04:00",
+      "pedido_id": "2000015730990784",
+      "comprador": "EDGARPORTES",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "6324W1A003E",
+      "produto": "Magnetron 2m214 Microondas LG Ms3052 Ms3057 Ms309 Mh7053",
+      "quantidade": 1,
+      "valor": 170,
+      "foto": "https://http2.mlstatic.com/D_726684-MLA99991086935_112025-O.jpg",
+      "item_id": "MLB6239001844",
+      "shipping_id": "46738685233",
+      "envio": "Full",
+      "data": "2026-03-27T17:15:58.000-04:00",
+      "pedido_id": "2000015730971452",
+      "comprador": "ALEF4533",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
@@ -2075,34 +2103,6 @@
       "pedido_id": "2000015727012834",
       "comprador": "BRYAN234578FB",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "EAU61383506",
-      "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
-      "quantidade": 2,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_715996-MLA99453481652_112025-O.jpg",
-      "item_id": "MLB3909444153",
-      "shipping_id": "46737000868",
-      "envio": "Full",
-      "data": "2026-03-27T12:02:34.000-04:00",
-      "pedido_id": "2000015726986260",
-      "comprador": "JC20240922172536",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "ABQ73301301",
-      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
-      "quantidade": 1,
-      "valor": 230,
-      "foto": "https://http2.mlstatic.com/D_977418-MLA105567224550_012026-O.jpg",
-      "item_id": "MLB5677380018",
-      "shipping_id": "46736716829",
-      "envio": "Full",
-      "data": "2026-03-27T11:10:50.000-04:00",
-      "pedido_id": "2000015726280734",
-      "comprador": "HENRIQUETECO15",
-      "pagamento": "bank_transfer"
     }
   ]
 }
