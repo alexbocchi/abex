@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T21:04:30.646Z",
+  "atualizado_em": "2026-03-27T21:06:30.731Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383504",
+      "produto": "Bomba Drenagem Eau61383504 LG Wd1403 Wd1409 220v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_833083-MLA100048719911_122025-O.jpg",
+      "item_id": "MLB5314101166",
+      "shipping_id": "46738905070",
+      "envio": "Full",
+      "data": "2026-03-27T17:06:05.000-04:00",
+      "pedido_id": "2000015730857568",
+      "comprador": "LS20260326203110",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 66.18,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46738887340",
+      "envio": "Full",
+      "data": "2026-03-27T17:02:58.000-04:00",
+      "pedido_id": "2000015730844310",
+      "comprador": "RADE4459439",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
@@ -1923,20 +1951,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -1948,6 +1962,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2061,34 +2089,6 @@
       "pedido_id": "2000015726929466",
       "comprador": "DUDAJANSEN",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "EBR73980402",
-      "produto": "Placa Principal Ar Condicionado LG Asnq182csa1 Ebr73980409 220v",
-      "quantidade": 2,
-      "valor": 280,
-      "foto": "https://http2.mlstatic.com/D_819096-MLA99542110428_122025-O.jpg",
-      "item_id": "MLB5506645126",
-      "shipping_id": "46736701127",
-      "envio": "Full",
-      "data": "2026-03-27T11:58:34.000-04:00",
-      "pedido_id": "2000015726921914",
-      "comprador": "GUSTAVO WOBETO",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "DB94-00455B",
-      "produto": "Mancal Da Turbina Ar Condicionado Samung Original",
-      "quantidade": 1,
-      "valor": 40.36,
-      "foto": "https://http2.mlstatic.com/D_862610-MLB73457591076_122023-O.jpg",
-      "item_id": "MLB1392694478",
-      "shipping_id": "46736972636",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:58:05.000-04:00",
-      "pedido_id": "2000015726906860",
-      "comprador": "TOSIM0",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "ABQ73301301",
