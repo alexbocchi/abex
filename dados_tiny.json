@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T21:18:30.661Z",
+  "atualizado_em": "2026-03-27T21:20:30.506Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ARAEHA800010",
+      "produto": "Dobradiça Inferior Freezer Panasonic Bb41 Bb52 Bb53 Bb71",
+      "quantidade": 1,
+      "valor": 71.15,
+      "foto": "https://http2.mlstatic.com/D_721341-MLB108578133943_032026-O.jpg",
+      "item_id": "MLB6238252132",
+      "shipping_id": "46738978452",
+      "envio": "Coleta",
+      "data": "2026-03-27T17:19:55.000-04:00",
+      "pedido_id": "2000015731009832",
+      "comprador": "HEFR1484634",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM0002",
+      "produto": "Placa Display Ar Cond Samsung Inverter Original 9000 Btus 127/220v",
+      "quantidade": 1,
+      "valor": 146.74,
+      "foto": "https://http2.mlstatic.com/D_994799-MLB106247153767_012026-O.jpg",
+      "item_id": "MLB1773396324",
+      "shipping_id": "46738979428",
+      "envio": "Coleta",
+      "data": "2026-03-27T17:18:21.000-04:00",
+      "pedido_id": "2000015731003348",
+      "comprador": "NANILEMOS",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EBR88078921",
       "produto": "Placa Principal Evaporadora Ar Condicionado LG S4nq12ja3ad 220v",
@@ -2075,34 +2103,6 @@
       "pedido_id": "2000015727072906",
       "comprador": "CNUNES8499",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "KITSM1118",
-      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
-      "quantidade": 1,
-      "valor": 29.77,
-      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
-      "item_id": "MLB1613568329",
-      "shipping_id": "46737048388",
-      "envio": "Full",
-      "data": "2026-03-27T12:08:42.000-04:00",
-      "pedido_id": "2000015727035826",
-      "comprador": "CONCEIOMANOELMESSIASDA",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "021713PL",
-      "produto": "Hélice Ventilador 10 Pás Bvt495 Pvt492 Pvc491 Turbo Original Azul-celeste",
-      "quantidade": 1,
-      "valor": 38.42,
-      "foto": "https://http2.mlstatic.com/D_849743-MLB108104220342_032026-O.jpg",
-      "item_id": "MLB4537172489",
-      "shipping_id": "46736745791",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:05:43.000-04:00",
-      "pedido_id": "2000015727012834",
-      "comprador": "BRYAN234578FB",
-      "pagamento": "credit_card"
     }
   ]
 }
