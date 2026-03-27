@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T21:48:30.685Z",
+  "atualizado_em": "2026-03-27T21:50:30.675Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01827A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd106 Wd103 Wd856 Orig",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_707161-MLB52931403574_122022-O.jpg",
+      "item_id": "MLB1603896821",
+      "shipping_id": "46739133606",
+      "envio": "Full",
+      "data": "2026-03-27T17:49:12.000-04:00",
+      "pedido_id": "2000015731355454",
+      "comprador": "MARCO IANNACCONE",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "AGF80317801",
       "produto": "Kit Barramento De Led Tv LG 43lf6350 Agf80317801",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015727455366",
       "comprador": "LUAN75_MS",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
-      "quantidade": 1,
-      "valor": 35.5,
-      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
-      "item_id": "MLB3791029185",
-      "shipping_id": "46737233158",
-      "envio": "Full",
-      "data": "2026-03-27T12:38:54.000-04:00",
-      "pedido_id": "2000015727464324",
-      "comprador": "K.IMPORTADOS",
-      "pagamento": "account_money"
     },
     {
       "sku": "022019",
