@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-27T23:28:30.657Z",
+  "atualizado_em": "2026-03-27T23:30:31.070Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 149,
+  "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
     {
@@ -674,6 +674,20 @@
       "data": "2026-03-27T17:44:13.000-04:00",
       "pedido_id": "2000015731310756",
       "comprador": "CARMOALVESANAPAULA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46738822679",
+      "envio": "Flex",
+      "data": "2026-03-27T17:42:37.000-04:00",
+      "pedido_id": "2000015731277732",
+      "comprador": "LUIZSCANDURA",
       "pagamento": "credit_card"
     },
     {
