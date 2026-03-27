@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-03-27T15:58:06.742Z",
+  "atualizado_em": "2026-03-27T16:00:07.522Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBR73980402",
+      "produto": "Placa Principal Ar Condicionado LG Asnq182csa1 Ebr73980409 220v",
+      "quantidade": 2,
+      "valor": 280,
+      "foto": "https://http2.mlstatic.com/D_819096-MLA99542110428_122025-O.jpg",
+      "item_id": "MLB5506645126",
+      "shipping_id": "46736701127",
+      "envio": "Full",
+      "data": "2026-03-27T11:58:34.000-04:00",
+      "pedido_id": "2000015726921914"
+    },
+    {
+      "sku": "DC62-00233B",
+      "produto": "Valvula 3 Vias Entrada De Água Lava E Seca Samsung 220v Nf 220v",
+      "quantidade": 1,
+      "valor": 135,
+      "foto": "https://http2.mlstatic.com/D_939238-MLB74830427567_022024-O.jpg",
+      "item_id": "MLB1541291529",
+      "shipping_id": "46736973608",
+      "envio": "Full",
+      "data": "2026-03-27T11:58:09.000-04:00",
+      "pedido_id": "2000015726922492"
+    },
+    {
+      "sku": "DB94-00455B",
+      "produto": "Mancal Da Turbina Ar Condicionado Samung Original",
+      "quantidade": 1,
+      "valor": 40.36,
+      "foto": "https://http2.mlstatic.com/D_862610-MLB73457591076_122023-O.jpg",
+      "item_id": "MLB1392694478",
+      "shipping_id": "46736972636",
+      "envio": "Coleta",
+      "data": "2026-03-27T11:58:05.000-04:00",
+      "pedido_id": "2000015726906860"
+    },
     {
       "sku": "DA32-10105F",
       "produto": "Sensor Degelo Geladeira Samsung Rt38fdajdsl Rt38fdjbdsl",
@@ -1743,42 +1779,6 @@
       "envio": "Coleta",
       "data": "2026-03-27T07:35:15.000-04:00",
       "pedido_id": "2000015723667376"
-    },
-    {
-      "sku": "ABQ73301301",
-      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
-      "quantidade": 1,
-      "valor": 230,
-      "foto": "https://http2.mlstatic.com/D_977418-MLA105567224550_012026-O.jpg",
-      "item_id": "MLB5677380018",
-      "shipping_id": "46735377938",
-      "envio": "Full",
-      "data": "2026-03-27T07:35:12.000-04:00",
-      "pedido_id": "2000015723665250"
-    },
-    {
-      "sku": "739388",
-      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
-      "item_id": "MLB3920495205",
-      "shipping_id": "46735101285",
-      "envio": "Full",
-      "data": "2026-03-27T07:34:50.000-04:00",
-      "pedido_id": "2000015723659496"
-    },
-    {
-      "sku": "757851",
-      "produto": "Correia Borracha Aspirador De Pó Philco Upright 757851",
-      "quantidade": 1,
-      "valor": 74.1,
-      "foto": "https://http2.mlstatic.com/D_784816-MLB105255213833_012026-O.jpg",
-      "item_id": "MLB5252648932",
-      "shipping_id": "46735086573",
-      "envio": "Coleta",
-      "data": "2026-03-27T07:28:20.000-04:00",
-      "pedido_id": "2000015723597950"
     },
     {
       "sku": "DC64-03235A",
