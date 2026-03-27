@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T15:34:06.766Z",
+  "atualizado_em": "2026-03-27T15:36:07.076Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-11009A",
+      "produto": "Placa Receptora Display Ar Condicionado Samsung 9000 A 24000 Btus",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "https://http2.mlstatic.com/D_716084-MLA99487004002_112025-O.jpg",
+      "item_id": "MLB3983977357",
+      "shipping_id": "46736549537",
+      "envio": "Full",
+      "data": "2026-03-27T11:33:37.000-04:00",
+      "pedido_id": "2000015726567842"
+    },
     {
       "sku": "727908",
       "produto": "Jarra Cafeteira Caf Bcf32a Britania Preto",
@@ -1767,18 +1779,6 @@
       "envio": "Flex",
       "data": "2026-03-27T07:01:16.000-04:00",
       "pedido_id": "2000015723438390"
-    },
-    {
-      "sku": "AXBX01",
-      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
-      "quantidade": 1,
-      "valor": 39.9,
-      "foto": "https://http2.mlstatic.com/D_618047-MLB79773766608_102024-O.jpg",
-      "item_id": "MLB5122979702",
-      "shipping_id": "46734959553",
-      "envio": "Full",
-      "data": "2026-03-27T06:56:13.000-04:00",
-      "pedido_id": "2000015723381294"
     },
     {
       "sku": "DC64-03235A",
