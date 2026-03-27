@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T18:02:30.769Z",
+  "atualizado_em": "2026-03-27T18:04:30.679Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "17438100002242",
+      "produto": "17438100002242  Motor Duto Secagem Lava E Seca Midea Novo",
+      "quantidade": 1,
+      "valor": 420,
+      "foto": "https://http2.mlstatic.com/D_697177-MLB81201621484_122024-O.jpg",
+      "item_id": "MLB3935604097",
+      "shipping_id": "46737783670",
+      "envio": "Full",
+      "data": "2026-03-27T14:04:12.000-04:00",
+      "pedido_id": "2000015728575502",
+      "comprador": "OLJU4910039",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "3501-001268",
+      "produto": "Rele De Partida Ar Condicionado Samsung Original",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_675166-MLB76035489199_042024-O.jpg",
+      "item_id": "MLB1387582284",
+      "shipping_id": "46737768882",
+      "envio": "Coleta",
+      "data": "2026-03-27T14:02:05.000-04:00",
+      "pedido_id": "2000015728563966",
+      "comprador": "MARILIACUNE",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
@@ -2047,34 +2075,6 @@
       "pedido_id": "2000015725037120",
       "comprador": "ROAD4113325",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "KIT1SM1118",
-      "produto": "Kit Puxador Porta Lavadora Lava E Seca Samsung Completo",
-      "quantidade": 1,
-      "valor": 121.99,
-      "foto": "https://http2.mlstatic.com/D_888160-MLB74436201890_022024-O.jpg",
-      "item_id": "MLB1606686011",
-      "shipping_id": "46736059502",
-      "envio": "Full",
-      "data": "2026-03-27T09:37:31.000-04:00",
-      "pedido_id": "2000015725019874",
-      "comprador": "RIED1768734",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "796349",
-      "produto": "Filtro Hepa Aspirador De Pó Philco Pas4000v Power Clean Orig",
-      "quantidade": 1,
-      "valor": 25.19,
-      "foto": "https://http2.mlstatic.com/D_859767-MLA81489839173_122024-O.jpg",
-      "item_id": "MLB6428265412",
-      "shipping_id": "46736053220",
-      "envio": "Coleta",
-      "data": "2026-03-27T09:36:29.000-04:00",
-      "pedido_id": "2000015725003578",
-      "comprador": "JPALFA2014",
-      "pagamento": "account_money"
     },
     {
       "sku": "DC64-03235A",
