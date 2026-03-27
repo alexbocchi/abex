@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:46:30.724Z",
+  "atualizado_em": "2026-03-27T22:48:30.799Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 165,
+      "foto": "https://http2.mlstatic.com/D_886380-MLA98152375613_112025-O.jpg",
+      "item_id": "MLB5931184358",
+      "shipping_id": "46739431728",
+      "envio": "Flex",
+      "data": "2026-03-27T18:46:34.000-04:00",
+      "pedido_id": "2000015732030612",
+      "comprador": "ARMA929530",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DA31-00010D",
       "produto": "Helice Motor Ventilador Refrigerador Samsung Original Nf N/a",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015727984712",
       "comprador": "G20250829135920",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737210443",
-      "envio": "Flex",
-      "data": "2026-03-27T13:17:59.000-04:00",
-      "pedido_id": "2000015727959534",
-      "comprador": "FERNANDOKANASHIRO",
-      "pagamento": "account_money"
     },
     {
       "sku": "756750",
