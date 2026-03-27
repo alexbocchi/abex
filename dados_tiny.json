@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:58:30.840Z",
+  "atualizado_em": "2026-03-27T23:00:31.474Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "PS-3880-608",
+      "produto": "Sensor Magnético Tampa Lavadora Panasonic Original 14kg 16kg",
+      "quantidade": 1,
+      "valor": 50,
+      "foto": "https://http2.mlstatic.com/D_701492-MLB80474076588_112024-O.jpg",
+      "item_id": "MLB2905059925",
+      "shipping_id": "46739226297",
+      "envio": "Coleta",
+      "data": "2026-03-27T19:00:06.000-04:00",
+      "pedido_id": "2000015732166940",
+      "comprador": "SILVADOTOR20230320172525",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "4781JR2005W",
       "produto": "Sensor De Degelo Side By Side LG 4781jr2005w Gc-l207 Gc-l213",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015728065316",
       "comprador": "COMPANYONDONTO20230513101859",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
-      "item_id": "MLB4057130417",
-      "shipping_id": "46737255815",
-      "envio": "Full",
-      "data": "2026-03-27T13:25:04.000-04:00",
-      "pedido_id": "2000015728082310",
-      "comprador": "CORRO3",
-      "pagamento": "account_money"
     },
     {
       "sku": "021713PL",
