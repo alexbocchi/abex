@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T12:31:38.059Z",
+  "atualizado_em": "2026-03-27T12:33:21.437Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ADQ72910911",
+      "produto": "Filtro De Água Premium Filter Adq72910901 Refrigerador LG",
+      "quantidade": 1,
+      "valor": 220,
+      "foto": "",
+      "item_id": "MLB3746589189",
+      "shipping_id": "46735385309",
+      "envio": "Full",
+      "data": "2026-03-27T08:32:28.000-04:00",
+      "pedido_id": "2000015724230500"
+    },
     {
       "sku": "MDS66651606",
       "produto": "Guarnição Borracha Porta Lava Seca LG Cv3011 Cv5011 Cv7011",
@@ -1791,18 +1803,6 @@
       "envio": "Full",
       "data": "2026-03-26T19:12:11.000-04:00",
       "pedido_id": "2000015718799850"
-    },
-    {
-      "sku": "DB93-11009A",
-      "produto": "Placa Display Ar Condicionado Samsung Original 9000 Btus 220v",
-      "quantidade": 1,
-      "valor": 130,
-      "foto": "",
-      "item_id": "MLB1795499136",
-      "shipping_id": "46732825125",
-      "envio": "Full",
-      "data": "2026-03-26T19:01:58.000-04:00",
-      "pedido_id": "2000015718684442"
     }
   ]
 }
