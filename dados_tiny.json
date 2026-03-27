@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T16:10:06.958Z",
+  "atualizado_em": "2026-03-27T16:12:06.964Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB95-01990D",
+      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
+      "quantidade": 1,
+      "valor": 70.2,
+      "foto": "https://http2.mlstatic.com/D_847601-MLB73095606746_112023-O.jpg",
+      "item_id": "MLB1392765780",
+      "shipping_id": "46737054978",
+      "envio": "Full",
+      "data": "2026-03-27T12:10:19.000-04:00",
+      "pedido_id": "2000015727072954"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
+      "quantidade": 1,
+      "valor": 235,
+      "foto": "https://http2.mlstatic.com/D_723411-MLB89537660399_082025-O.jpg",
+      "item_id": "MLB3661822075",
+      "shipping_id": "46737054764",
+      "envio": "Full",
+      "data": "2026-03-27T12:10:14.000-04:00",
+      "pedido_id": "2000015727072906"
+    },
     {
       "sku": "KITSM1118",
       "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
@@ -1745,18 +1769,6 @@
       "pedido_id": "2000015723806792"
     },
     {
-      "sku": "DC64-03235A",
-      "produto": "Borracha Da Porta Lava E Seca Samsung Wd11m4453jx",
-      "quantidade": 1,
-      "valor": 155,
-      "foto": "https://http2.mlstatic.com/D_917611-MLA98123673697_112025-O.jpg",
-      "item_id": "MLB4302776645",
-      "shipping_id": "46735165123",
-      "envio": "Full",
-      "data": "2026-03-27T07:49:42.000-04:00",
-      "pedido_id": "2000015723787150"
-    },
-    {
       "sku": "EBF49827801",
       "produto": "Trava Da Porta Lava E Seca LG Wd-1410rd Wd-1403 Ebf49827801",
       "quantidade": 1,
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:49:27.000-04:00",
       "pedido_id": "2000015723762008"
-    },
-    {
-      "sku": "DB95-01990D",
-      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
-      "quantidade": 1,
-      "valor": 70.2,
-      "foto": "https://http2.mlstatic.com/D_847601-MLB73095606746_112023-O.jpg",
-      "item_id": "MLB1392765780",
-      "shipping_id": "46735163711",
-      "envio": "Full",
-      "data": "2026-03-27T07:48:51.000-04:00",
-      "pedido_id": "2000015723779008"
     },
     {
       "sku": "DC64-03235A",
