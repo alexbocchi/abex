@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T17:54:30.906Z",
+  "atualizado_em": "2026-03-27T17:56:30.814Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBF61315802",
+      "produto": "Trava Porta 110v Lava Seca LG Original Ebf61315802",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_950001-MLB73303838997_122023-O.jpg",
+      "item_id": "MLB1894253875",
+      "shipping_id": "46737724814",
+      "envio": "Full",
+      "data": "2026-03-27T13:54:05.000-04:00",
+      "pedido_id": "2000015728456922",
+      "comprador": "CLEONICEINESZANETTI",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
@@ -72,20 +86,6 @@
       "data": "2026-03-27T13:49:18.000-04:00",
       "pedido_id": "2000015728373672",
       "comprador": "MATH1172505",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "021392",
-      "produto": "Tampa P/ Jarra Do Multiprocessador Philco Pmp 1600 Original",
-      "quantidade": 1,
-      "valor": 35,
-      "foto": "https://http2.mlstatic.com/D_709443-MLB104353176745_012026-O.jpg",
-      "item_id": "MLB6154822190",
-      "shipping_id": "46737406307",
-      "envio": "Coleta",
-      "data": "2026-03-27T13:48:38.000-04:00",
-      "pedido_id": "2000015728377114",
-      "comprador": "ANDIARACANEO",
       "pagamento": "credit_card"
     },
     {
@@ -803,20 +803,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -828,6 +814,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
