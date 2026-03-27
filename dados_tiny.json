@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T19:40:30.758Z",
+  "atualizado_em": "2026-03-27T19:42:30.705Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 2,
+      "valor": 196.8,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46738140103",
+      "envio": "Full",
+      "data": "2026-03-27T15:41:40.000-04:00",
+      "pedido_id": "2000015729875626",
+      "comprador": "DMDM20230317163254",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "022019",
+      "produto": "Hélice 6 Pas 40cm Ventilador Ventus 40 Six Britânia 022019 Cinza-escuro",
+      "quantidade": 1,
+      "valor": 28.5,
+      "foto": "https://http2.mlstatic.com/D_753219-MLB107525188452_032026-O.jpg",
+      "item_id": "MLB4510624511",
+      "shipping_id": "46738417062",
+      "envio": "Flex",
+      "data": "2026-03-27T15:40:59.000-04:00",
+      "pedido_id": "2000015729868278",
+      "comprador": "LEONARDOAGOPIANTRIGO",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
@@ -2075,34 +2103,6 @@
       "pedido_id": "2000015726154552",
       "comprador": "SCHWARTZJORGE",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "4280A20004M",
-      "produto": "Bucha Mancal Rolamento Ar Condicionado LG 4280a20004m",
-      "quantidade": 1,
-      "valor": 50,
-      "foto": "https://http2.mlstatic.com/D_624502-MLB76085997281_042024-O.jpg",
-      "item_id": "MLB1964687155",
-      "shipping_id": "46736589810",
-      "envio": "Coleta",
-      "data": "2026-03-27T10:56:42.000-04:00",
-      "pedido_id": "2000015726090838",
-      "comprador": "SILVIOCGARUTTI",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC64-01538B",
-      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
-      "quantidade": 1,
-      "valor": 55,
-      "foto": "https://http2.mlstatic.com/D_679004-MLB74664482446_022024-O.jpg",
-      "item_id": "MLB1470191674",
-      "shipping_id": "46736309749",
-      "envio": "Full",
-      "data": "2026-03-27T10:56:29.000-04:00",
-      "pedido_id": "2000015726100054",
-      "comprador": "FEIS7709377",
-      "pagamento": "bank_transfer"
     }
   ]
 }
