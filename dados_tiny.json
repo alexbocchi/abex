@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T16:42:30.901Z",
+  "atualizado_em": "2026-03-27T16:44:30.771Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -17,6 +17,20 @@
       "pedido_id": "2000015727492704",
       "comprador": "CHFA1904",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "https://http2.mlstatic.com/D_762730-MLB89090811517_082025-O.jpg",
+      "item_id": "MLB3935360223",
+      "shipping_id": "46736985815",
+      "envio": "Flex",
+      "data": "2026-03-27T12:41:30.000-04:00",
+      "pedido_id": "2000015727486844",
+      "comprador": "LEANDRO.LESSA2005",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU62983004",
@@ -229,20 +243,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -254,6 +254,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2047,20 +2061,6 @@
       "pedido_id": "2000015724114004",
       "comprador": "ARAKEN3",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "DC62-00233C",
-      "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
-      "quantidade": 1,
-      "valor": 153.5,
-      "foto": "https://http2.mlstatic.com/D_600152-MLA99506069672_112025-O.jpg",
-      "item_id": "MLB5433795260",
-      "shipping_id": "46735317015",
-      "envio": "Full",
-      "data": "2026-03-27T08:20:24.000-04:00",
-      "pedido_id": "2000015724081018",
-      "comprador": "ÉLCIORD",
-      "pagamento": "credit_card"
     },
     {
       "sku": "DB93-11009A",
