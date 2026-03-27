@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:50:30.756Z",
+  "atualizado_em": "2026-03-27T20:52:30.622Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "FIAPOS01",
+      "produto": "Kit 6 Sacos Anti Fiapos Lavanderia Axbx Roupas Delicadas Zíper Poliéster Branco",
+      "quantidade": 2,
+      "valor": 27.48,
+      "foto": "https://http2.mlstatic.com/D_641348-MLA100080526237_122025-O.jpg",
+      "item_id": "MLB3930862125",
+      "shipping_id": "46738816614",
+      "envio": "Full",
+      "data": "2026-03-27T16:50:25.000-04:00",
+      "pedido_id": "2000015730696960",
+      "comprador": "DALAYANA20211118130439",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DA31-00334C",
       "produto": "Motor Ventilador Geladeira Samsung Da31-00334a Original 12v",
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015726906860",
       "comprador": "TOSIM0",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DA32-10105F",
-      "produto": "Sensor Degelo Geladeira Samsung Rt38fdajdsl Rt38fdjbdsl",
-      "quantidade": 1,
-      "valor": 41.4,
-      "foto": "https://http2.mlstatic.com/D_862610-MLA99600069762_122025-O.jpg",
-      "item_id": "MLB6449064986",
-      "shipping_id": "46736619303",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:45:56.000-04:00",
-      "pedido_id": "2000015726725772",
-      "comprador": "EVANDRORABAIOLI",
-      "pagamento": "credit_card"
     },
     {
       "sku": "796349",
