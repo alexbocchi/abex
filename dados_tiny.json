@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T19:58:30.696Z",
+  "atualizado_em": "2026-03-27T20:00:30.666Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lavadora Samsung Wd11m44530wfaz",
+      "quantidade": 1,
+      "valor": 37.7,
+      "foto": "https://http2.mlstatic.com/D_735171-MLB89159356767_082025-O.jpg",
+      "item_id": "MLB5534589016",
+      "shipping_id": "46738527038",
+      "envio": "Full",
+      "data": "2026-03-27T15:59:46.000-04:00",
+      "pedido_id": "2000015730063832",
+      "comprador": "VICENTIMHELENO20230103192325",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1078",
+      "produto": "Kit 4 Pés Niveladores Borracha Antiderrapante Samsung Wd103",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_982352-MLB105347699387_012026-O.jpg",
+      "item_id": "MLB3995489049",
+      "shipping_id": "46738522652",
+      "envio": "Coleta",
+      "data": "2026-03-27T15:58:55.000-04:00",
+      "pedido_id": "2000015730092620",
+      "comprador": "ARFE555726",
+      "pagamento": "account_money"
+    },
     {
       "sku": "D144612",
       "produto": "Capacitor Duplo Philco Ar Condicionado 9000 12000 30+2,5uf",
@@ -1545,20 +1573,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -1570,6 +1584,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2061,34 +2089,6 @@
       "pedido_id": "2000015726341918",
       "comprador": "OLLU515573",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "021392",
-      "produto": "Tampa P/ Jarra Do Multiprocessador Philco Pmp 1600 Original",
-      "quantidade": 1,
-      "valor": 35,
-      "foto": "https://http2.mlstatic.com/D_709443-MLB104353176745_012026-O.jpg",
-      "item_id": "MLB6154822190",
-      "shipping_id": "46736430485",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:16:26.000-04:00",
-      "pedido_id": "2000015726366118",
-      "comprador": "RAYNARAALLANA15",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "AKB75215403",
-      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
-      "quantidade": 1,
-      "valor": 150,
-      "foto": "https://http2.mlstatic.com/D_727098-MLB105004612016_012026-O.jpg",
-      "item_id": "MLB1868780838",
-      "shipping_id": "46736426543",
-      "envio": "Full",
-      "data": "2026-03-27T11:15:52.000-04:00",
-      "pedido_id": "2000015726358232",
-      "comprador": "GABRIELAMOSEGUI",
-      "pagamento": "account_money"
     },
     {
       "sku": "ABQ73301301",
