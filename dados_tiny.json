@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T16:02:06.963Z",
+  "atualizado_em": "2026-03-27T16:04:06.962Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
+      "quantidade": 2,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_715996-MLA99453481652_112025-O.jpg",
+      "item_id": "MLB3909444153",
+      "shipping_id": "46737000868",
+      "envio": "Full",
+      "data": "2026-03-27T12:02:34.000-04:00",
+      "pedido_id": "2000015726986260"
+    },
     {
       "sku": "KITLG0002",
       "produto": "Kit Amortecedor Lava E Seca LG 4901er2003a Wd1485 Wd1403 C/3",
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:39:46.000-04:00",
       "pedido_id": "2000015723714364"
-    },
-    {
-      "sku": "KITSM1118",
-      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
-      "quantidade": 1,
-      "valor": 29.77,
-      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
-      "item_id": "MLB1613568329",
-      "shipping_id": "46735116575",
-      "envio": "Flex",
-      "data": "2026-03-27T07:38:39.000-04:00",
-      "pedido_id": "2000015723679816"
     },
     {
       "sku": "DC64-03235A",
