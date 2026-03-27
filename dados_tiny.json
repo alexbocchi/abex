@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-27T17:48:30.876Z",
+  "atualizado_em": "2026-03-27T17:50:30.901Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46737413075",
+      "envio": "Full",
+      "data": "2026-03-27T13:49:43.000-04:00",
+      "pedido_id": "2000015728406452",
+      "comprador": "ANTONIOJOAO20230323120228",
+      "pagamento": "digital_currency"
+    },
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_977418-MLA105567224550_012026-O.jpg",
+      "item_id": "MLB5677380018",
+      "shipping_id": "46737685550",
+      "envio": "Full",
+      "data": "2026-03-27T13:49:18.000-04:00",
+      "pedido_id": "2000015728373672",
+      "comprador": "MATH1172505",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021392",
+      "produto": "Tampa P/ Jarra Do Multiprocessador Philco Pmp 1600 Original",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_709443-MLB104353176745_012026-O.jpg",
+      "item_id": "MLB6154822190",
+      "shipping_id": "46737406307",
+      "envio": "Coleta",
+      "data": "2026-03-27T13:48:38.000-04:00",
+      "pedido_id": "2000015728377114",
+      "comprador": "ANDIARACANEO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "4280A20004M",
       "produto": "Bucha Mancal Rolamento Ar Condicionado LG 4280a20004m",
@@ -2021,20 +2063,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "5900AR1266A",
-      "produto": "Hélice Condensadora Ar LG Tsuh092yma0 / Nw0 Tsuc072yma0 Cinza",
-      "quantidade": 1,
-      "valor": 171.6,
-      "foto": "https://http2.mlstatic.com/D_836354-MLA99370061518_112025-O.jpg",
-      "item_id": "MLB5289057726",
-      "shipping_id": "46736026206",
-      "envio": "Full",
-      "data": "2026-03-27T09:32:19.000-04:00",
-      "pedido_id": "2000015724939102",
-      "comprador": "SILMARAPRECIATODOSSANTOSSAN",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "EBR82870714",
       "produto": "Placa Condensadora Ar Condicionad LG S4nw09wa5wa S4uw09wa5wa 220v",
       "quantidade": 1,
@@ -2047,34 +2075,6 @@
       "pedido_id": "2000015724938898",
       "comprador": "WILLYAMCDUTRA",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC64-03235A",
-      "produto": "Borracha Da Porta Lava E Seca Samsung Wd10j6410ax",
-      "quantidade": 1,
-      "valor": 155,
-      "foto": "https://http2.mlstatic.com/D_958714-MLA97925210252_112025-O.jpg",
-      "item_id": "MLB4307274841",
-      "shipping_id": "46735741667",
-      "envio": "Full",
-      "data": "2026-03-27T09:30:22.000-04:00",
-      "pedido_id": "2000015724913076",
-      "comprador": "DANREMI",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "EAD60714618",
-      "produto": "Cabo Chicote Placa Display Ar Condicionado LG 3 Pontas Orig",
-      "quantidade": 1,
-      "valor": 45,
-      "foto": "https://http2.mlstatic.com/D_862354-MLB80358074892_112024-O.jpg",
-      "item_id": "MLB3905357615",
-      "shipping_id": "46735724947",
-      "envio": "Full",
-      "data": "2026-03-27T09:28:10.000-04:00",
-      "pedido_id": "2000015724879522",
-      "comprador": "GACA3929279",
-      "pagamento": "credit_card"
     },
     {
       "sku": "DC64-03235A",
