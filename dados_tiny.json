@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T19:34:30.570Z",
+  "atualizado_em": "2026-03-27T19:36:30.669Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.8,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46738101281",
+      "envio": "Full",
+      "data": "2026-03-27T15:35:05.000-04:00",
+      "pedido_id": "2000015729788850",
+      "comprador": "MAURICIOARRACHEGAMA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC93-00139A",
       "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
@@ -1405,20 +1419,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -1430,6 +1430,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015726100054",
       "comprador": "FEIS7709377",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
-      "quantidade": 1,
-      "valor": 235,
-      "foto": "https://http2.mlstatic.com/D_723411-MLB89537660399_082025-O.jpg",
-      "item_id": "MLB3661822075",
-      "shipping_id": "46731444228",
-      "envio": "Full",
-      "data": "2026-03-26T14:43:10.000-04:00",
-      "pedido_id": "2000015715205768",
-      "comprador": "IRIR474549",
-      "pagamento": "ticket"
     }
   ]
 }
