@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T15:32:06.927Z",
+  "atualizado_em": "2026-03-27T15:34:06.766Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "727908",
+      "produto": "Jarra Cafeteira Caf Bcf32a Britania Preto",
+      "quantidade": 1,
+      "valor": 51.3,
+      "foto": "https://http2.mlstatic.com/D_941685-MLA100086184219_122025-O.jpg",
+      "item_id": "MLB6444636096",
+      "shipping_id": "46736530993",
+      "envio": "Coleta",
+      "data": "2026-03-27T11:32:07.000-04:00",
+      "pedido_id": "2000015726561072"
+    },
     {
       "sku": "5214EN1004A-2M",
       "produto": "Mangueira Maquina Lavar Samsung Reforçada 5214en1004a Origin",
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T06:56:13.000-04:00",
       "pedido_id": "2000015723381294"
-    },
-    {
-      "sku": "KITSM0003",
-      "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_756388-MLB50275040834_062022-O.jpg",
-      "item_id": "MLB1492717359",
-      "shipping_id": "46735224824",
-      "envio": "Full",
-      "data": "2026-03-27T06:52:46.000-04:00",
-      "pedido_id": "2000015723373124"
     },
     {
       "sku": "DC64-03235A",
