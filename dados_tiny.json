@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T15:42:06.703Z",
+  "atualizado_em": "2026-03-27T15:44:07.172Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01524A",
+      "produto": "Puxador Maçaneta Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 30.4,
+      "foto": "https://http2.mlstatic.com/D_950950-MLB75890411763_042024-O.jpg",
+      "item_id": "MLB1667664204",
+      "shipping_id": "46736607085",
+      "envio": "Full",
+      "data": "2026-03-27T11:43:55.000-04:00",
+      "pedido_id": "2000015726730788"
+    },
     {
       "sku": "DC62-00233C",
       "produto": "Válvula Tripla Lava E Seca Samsung Wd136 Wd106 Wd856 Nf",
@@ -1755,18 +1767,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:24:02.000-04:00",
       "pedido_id": "2000015723589030"
-    },
-    {
-      "sku": "AKB75215403",
-      "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
-      "quantidade": 1,
-      "valor": 150,
-      "foto": "https://http2.mlstatic.com/D_843359-MLB107175604455_022026-O.jpg",
-      "item_id": "MLB1869886476",
-      "shipping_id": "46735047907",
-      "envio": "Full",
-      "data": "2026-03-27T07:21:39.000-04:00",
-      "pedido_id": "2000015723576596"
     },
     {
       "sku": "W024T-04400",
