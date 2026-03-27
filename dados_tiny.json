@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T16:40:30.788Z",
+  "atualizado_em": "2026-03-27T16:42:30.901Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-10861D",
+      "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
+      "quantidade": 1,
+      "valor": 74.86,
+      "foto": "https://http2.mlstatic.com/D_699662-MLB108659154185_032026-O.jpg",
+      "item_id": "MLB1464885381",
+      "shipping_id": "46736976181",
+      "envio": "Full",
+      "data": "2026-03-27T12:41:46.000-04:00",
+      "pedido_id": "2000015727492704",
+      "comprador": "CHFA1904",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
@@ -215,20 +229,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -240,6 +240,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2046,20 +2060,6 @@
       "data": "2026-03-27T08:20:24.000-04:00",
       "pedido_id": "2000015724081018",
       "comprador": "ÉLCIORD",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC62-00233K",
-      "produto": "Válvula Entrada Lava Seca Samsung Wd14t504dsbf 12v Original 12v",
-      "quantidade": 1,
-      "valor": 250,
-      "foto": "https://http2.mlstatic.com/D_885796-MLB81516296947_122024-O.jpg",
-      "item_id": "MLB3937287207",
-      "shipping_id": "46735590386",
-      "envio": "Coleta",
-      "data": "2026-03-27T08:19:58.000-04:00",
-      "pedido_id": "2000015724088626",
-      "comprador": "DALIMA96",
       "pagamento": "credit_card"
     },
     {
