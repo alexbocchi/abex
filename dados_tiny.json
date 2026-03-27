@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T14:50:07.341Z",
+  "atualizado_em": "2026-03-27T14:52:07.432Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 150,
+  "total_pedidos": 149,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
+      "quantidade": 1,
+      "valor": 227,
+      "foto": "https://http2.mlstatic.com/D_737002-MLA99943156387_112025-O.jpg",
+      "item_id": "MLB5886754752",
+      "shipping_id": "46736539530",
+      "envio": "Full",
+      "data": "2026-03-27T10:50:09.000-04:00",
+      "pedido_id": "2000015725990996"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
@@ -1767,30 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-26T22:56:42.000-04:00",
       "pedido_id": "2000015721583976"
-    },
-    {
-      "sku": "DB95-01438G",
-      "produto": "Sensor Temperatura Ar Condicionado Samsung Original Ar12nvfp",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_936561-MLB80242869251_102024-O.jpg",
-      "item_id": "MLB1800635455",
-      "shipping_id": "46734403576",
-      "envio": "Coleta",
-      "data": "2026-03-26T22:56:13.000-04:00",
-      "pedido_id": "2000015721616920"
-    },
-    {
-      "sku": "D144612",
-      "produto": "Capacitor Duplo Ar Condicionado Philco 30+2,5uf 9000 12000",
-      "quantidade": 2,
-      "valor": 39,
-      "foto": "https://http2.mlstatic.com/D_696319-MLB105464535301_012026-O.jpg",
-      "item_id": "MLB3936223713",
-      "shipping_id": "46734364226",
-      "envio": "Coleta",
-      "data": "2026-03-26T22:46:12.000-04:00",
-      "pedido_id": "2000015721540358"
     },
     {
       "sku": "DC64-03235A",
