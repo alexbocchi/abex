@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T19:44:30.594Z",
+  "atualizado_em": "2026-03-27T19:46:30.625Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1078",
+      "produto": "Pezinho Alto Lava Seca Samsung Original Ecobubble Wd10 Wd103",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_779993-MLB105344387233_012026-O.jpg",
+      "item_id": "MLB4008193225",
+      "shipping_id": "46738165391",
+      "envio": "Full",
+      "data": "2026-03-27T15:46:02.000-04:00",
+      "pedido_id": "2000015729936148",
+      "comprador": "TCEL2019",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
@@ -2088,20 +2102,6 @@
       "data": "2026-03-27T11:02:06.000-04:00",
       "pedido_id": "2000015726174458",
       "comprador": "MURTALUCIANNE20221205150642",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "EAU61383504",
-      "produto": "Bomba Drenagem Eau61383504 LG Wd1403 Wd1409 220v",
-      "quantidade": 2,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_833083-MLA100048719911_122025-O.jpg",
-      "item_id": "MLB5314101166",
-      "shipping_id": "46736605830",
-      "envio": "Full",
-      "data": "2026-03-27T11:00:26.000-04:00",
-      "pedido_id": "2000015726154552",
-      "comprador": "SCHWARTZJORGE",
       "pagamento": "account_money"
     }
   ]
