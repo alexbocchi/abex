@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T21:30:30.575Z",
+  "atualizado_em": "2026-03-27T21:32:30.757Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1077",
+      "produto": "Pé Nivelador Regulável Lava Seca Midea Lsd10 Lsd12",
+      "quantidade": 1,
+      "valor": 50,
+      "foto": "https://http2.mlstatic.com/D_801968-MLA99573512778_122025-O.jpg",
+      "item_id": "MLB4196684427",
+      "shipping_id": "46738769279",
+      "envio": "Full",
+      "data": "2026-03-27T17:32:18.000-04:00",
+      "pedido_id": "2000015731161162",
+      "comprador": "DBORAFELIX2012",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DB31-00680A",
       "produto": "Motor Evaporadora Ar Condicionado Samsung 9000 E 12000 Nf",
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015727220970",
       "comprador": "VALERIALANI",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
-      "item_id": "MLB4057130417",
-      "shipping_id": "46737116730",
-      "envio": "Full",
-      "data": "2026-03-27T12:20:55.000-04:00",
-      "pedido_id": "2000015727219108",
-      "comprador": "HARTZLELÊ20230523085509",
-      "pagamento": "account_money"
     }
   ]
 }
