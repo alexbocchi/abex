@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T16:14:07.048Z",
+  "atualizado_em": "2026-03-27T16:16:06.952Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saída Lava E Seca Samsung Original Wd106uhsawq",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_612331-MLB107341507277_022026-O.jpg",
+      "item_id": "MLB1773086960",
+      "shipping_id": "46736807911",
+      "envio": "Full",
+      "data": "2026-03-27T12:15:31.000-04:00",
+      "pedido_id": "2000015727146564"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora Ar Condicionado LG S4nq12ja31c Usnq122hsg3 220v",
@@ -17,18 +29,6 @@
       "pedido_id": "2000015727109378"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -39,6 +39,18 @@
       "envio": "Coleta",
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922"
     },
     {
       "sku": "DB95-01990D",
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:53:27.000-04:00",
       "pedido_id": "2000015723828778"
-    },
-    {
-      "sku": "ADQ72910911",
-      "produto": "Filtro De Água Refrigerador LG Side By Side Original Novo",
-      "quantidade": 1,
-      "valor": 220,
-      "foto": "https://http2.mlstatic.com/D_708390-MLB54850073418_042023-O.jpg",
-      "item_id": "MLB1870337716",
-      "shipping_id": "46735454858",
-      "envio": "Full",
-      "data": "2026-03-27T07:53:17.000-04:00",
-      "pedido_id": "2000015723811322"
     },
     {
       "sku": "DC64-03235A",
