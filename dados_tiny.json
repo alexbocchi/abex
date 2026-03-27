@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T14:04:22.892Z",
+  "atualizado_em": "2026-03-27T14:18:43.911Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -24,7 +24,7 @@
       "foto": "https://http2.mlstatic.com/D_746168-MLB88641521480_072025-O.jpg",
       "item_id": "MLB5258305468",
       "shipping_id": "46736196192",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T09:58:22.000-04:00",
       "pedido_id": "2000015725287174"
     },
@@ -36,7 +36,7 @@
       "foto": "https://http2.mlstatic.com/D_709443-MLB104353176745_012026-O.jpg",
       "item_id": "MLB6154822190",
       "shipping_id": "46736189540",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T09:57:23.000-04:00",
       "pedido_id": "2000015725272878"
     },
@@ -72,7 +72,7 @@
       "foto": "https://http2.mlstatic.com/D_869631-MLA108291839761_032026-O.jpg",
       "item_id": "MLB6428044882",
       "shipping_id": "46736165164",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T09:53:34.000-04:00",
       "pedido_id": "2000015725228644"
     },
@@ -96,7 +96,7 @@
       "foto": "https://http2.mlstatic.com/D_699463-MLB93924798403_102025-O.jpg",
       "item_id": "MLB4231532631",
       "shipping_id": "46736124908",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T09:46:59.000-04:00",
       "pedido_id": "2000015725135024"
     },
@@ -168,7 +168,7 @@
       "foto": "https://http2.mlstatic.com/D_952530-MLA106592330160_022026-O.jpg",
       "item_id": "MLB5385062544",
       "shipping_id": "46736076196",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T09:40:12.000-04:00",
       "pedido_id": "2000015725037120"
     },
@@ -216,7 +216,7 @@
       "foto": "https://http2.mlstatic.com/D_859767-MLA81489839173_122024-O.jpg",
       "item_id": "MLB6428265412",
       "shipping_id": "46736053220",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T09:36:29.000-04:00",
       "pedido_id": "2000015725003578"
     },
@@ -348,7 +348,7 @@
       "foto": "https://http2.mlstatic.com/D_812858-MLB104027446412_012026-O.jpg",
       "item_id": "MLB6161417850",
       "shipping_id": "46735658361",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T09:18:02.000-04:00",
       "pedido_id": "2000015724770282"
     },
@@ -372,7 +372,7 @@
       "foto": "https://http2.mlstatic.com/D_864447-MLA106260092631_012026-O.jpg",
       "item_id": "MLB4031141319",
       "shipping_id": "46735633315",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T09:13:51.000-04:00",
       "pedido_id": "2000015724713006"
     },
@@ -540,7 +540,7 @@
       "foto": "https://http2.mlstatic.com/D_641509-MLB106599991128_022026-O.jpg",
       "item_id": "MLB3937572131",
       "shipping_id": "46735742584",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T08:46:29.000-04:00",
       "pedido_id": "2000015724377016"
     },
@@ -588,7 +588,7 @@
       "foto": "https://http2.mlstatic.com/D_624423-MLB106835757918_022026-O.jpg",
       "item_id": "MLB4482049109",
       "shipping_id": "46735446153",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T08:42:49.000-04:00",
       "pedido_id": "2000015724350338"
     },
@@ -684,7 +684,7 @@
       "foto": "https://http2.mlstatic.com/D_847653-MLA106914889816_022026-O.jpg",
       "item_id": "MLB6302874742",
       "shipping_id": "46735612822",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T08:24:03.000-04:00",
       "pedido_id": "2000015724136542"
     },
@@ -720,7 +720,7 @@
       "foto": "https://http2.mlstatic.com/D_885796-MLB81516296947_122024-O.jpg",
       "item_id": "MLB3937287207",
       "shipping_id": "46735590386",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T08:19:58.000-04:00",
       "pedido_id": "2000015724088626"
     },
@@ -756,7 +756,7 @@
       "foto": "https://http2.mlstatic.com/D_881006-MLA95394691522_102025-O.jpg",
       "item_id": "MLB3948818675",
       "shipping_id": "46735572264",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T08:16:36.000-04:00",
       "pedido_id": "2000015724041226"
     },
@@ -780,7 +780,7 @@
       "foto": "https://http2.mlstatic.com/D_644617-MLB108310649722_032026-O.jpg",
       "item_id": "MLB6147951766",
       "shipping_id": "46735299575",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T08:14:37.000-04:00",
       "pedido_id": "2000015724025294"
     },
@@ -792,7 +792,7 @@
       "foto": "https://http2.mlstatic.com/D_889124-MLA91954154391_092025-O.jpg",
       "item_id": "MLB5510582002",
       "shipping_id": "46735556384",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T08:13:28.000-04:00",
       "pedido_id": "2000015724003926"
     },
@@ -864,7 +864,7 @@
       "foto": "https://http2.mlstatic.com/D_872080-MLB76343192139_052024-O.jpg",
       "item_id": "MLB3669109899",
       "shipping_id": "46735207737",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T07:58:02.000-04:00",
       "pedido_id": "2000015723859388"
     },
@@ -1056,7 +1056,7 @@
       "foto": "https://http2.mlstatic.com/D_641509-MLB106599991128_022026-O.jpg",
       "item_id": "MLB3937572131",
       "shipping_id": "46735102691",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T07:35:15.000-04:00",
       "pedido_id": "2000015723667376"
     },
@@ -1092,7 +1092,7 @@
       "foto": "https://http2.mlstatic.com/D_784816-MLB105255213833_012026-O.jpg",
       "item_id": "MLB5252648932",
       "shipping_id": "46735086573",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T07:28:20.000-04:00",
       "pedido_id": "2000015723597950"
     },
@@ -1104,7 +1104,7 @@
       "foto": "https://http2.mlstatic.com/D_723540-MLB104881219958_012026-O.jpg",
       "item_id": "MLB6167246656",
       "shipping_id": "46735062391",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T07:25:23.000-04:00",
       "pedido_id": "2000015723594622"
     },
@@ -1260,7 +1260,7 @@
       "foto": "https://http2.mlstatic.com/D_972748-MLB70651230449_072023-O.jpg",
       "item_id": "MLB1868992251",
       "shipping_id": "46735096508",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T06:00:29.000-04:00",
       "pedido_id": "2000015723117286"
     },
@@ -1320,7 +1320,7 @@
       "foto": "https://http2.mlstatic.com/D_995907-MLB80582152847_112024-O.jpg",
       "item_id": "MLB5169940274",
       "shipping_id": "46735070604",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T05:48:41.000-04:00",
       "pedido_id": "2000015723092678"
     },
@@ -1368,7 +1368,7 @@
       "foto": "https://http2.mlstatic.com/D_969878-MLB104857072317_012026-O.jpg",
       "item_id": "MLB3947411781",
       "shipping_id": "46734741971",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T05:14:03.000-04:00",
       "pedido_id": "2000015723006324"
     },
@@ -1392,7 +1392,7 @@
       "foto": "https://http2.mlstatic.com/D_720126-MLB89169388194_082025-O.jpg",
       "item_id": "MLB3125708344",
       "shipping_id": "46734714153",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-27T04:47:39.000-04:00",
       "pedido_id": "2000015722954088"
     },
@@ -1524,7 +1524,7 @@
       "foto": "https://http2.mlstatic.com/D_936561-MLB80242869251_102024-O.jpg",
       "item_id": "MLB1800635455",
       "shipping_id": "46734403576",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-26T22:56:13.000-04:00",
       "pedido_id": "2000015721616920"
     },
@@ -1536,7 +1536,7 @@
       "foto": "https://http2.mlstatic.com/D_696319-MLB105464535301_012026-O.jpg",
       "item_id": "MLB3936223713",
       "shipping_id": "46734364226",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-26T22:46:12.000-04:00",
       "pedido_id": "2000015721540358"
     },
@@ -1584,7 +1584,7 @@
       "foto": "https://http2.mlstatic.com/D_729252-MLB93739750045_092025-O.jpg",
       "item_id": "MLB5751310180",
       "shipping_id": "46734257178",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-26T22:21:23.000-04:00",
       "pedido_id": "2000015721269610"
     },
@@ -1788,7 +1788,7 @@
       "foto": "https://http2.mlstatic.com/D_854052-MLB73255057385_122023-O.jpg",
       "item_id": "MLB1870343947",
       "shipping_id": "46734006676",
-      "envio": "Agência",
+      "envio": "Coleta",
       "data": "2026-03-26T21:26:30.000-04:00",
       "pedido_id": "2000015720664290"
     },
