@@ -1,21 +1,9 @@
 {
-  "atualizado_em": "2026-03-27T16:30:07.334Z",
+  "atualizado_em": "2026-03-27T16:32:06.828Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
-    {
-      "sku": "KITSM1173",
-      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
-      "quantidade": 1,
-      "valor": 29.5,
-      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
-      "item_id": "MLB5347106848",
-      "shipping_id": "46736874877",
-      "envio": "Flex",
-      "data": "2026-03-27T12:25:23.000-04:00",
-      "pedido_id": "2000015727282362"
-    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
@@ -1779,6 +1767,18 @@
       "envio": "Full",
       "data": "2026-03-27T08:08:39.000-04:00",
       "pedido_id": "2000015723943756"
+    },
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 1,
+      "valor": 35.5,
+      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
+      "item_id": "MLB3791029185",
+      "shipping_id": "46735254889",
+      "envio": "Flex",
+      "data": "2026-03-27T08:08:39.000-04:00",
+      "pedido_id": "2000015723959334"
     },
     {
       "sku": "DC64-03235A",
