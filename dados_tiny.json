@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T20:02:32.427Z",
+  "atualizado_em": "2026-03-27T20:04:30.454Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -17,6 +17,20 @@
       "pedido_id": "2000015730101454",
       "comprador": "RFVALENTE",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC93-00139A",
+      "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78.4,
+      "foto": "https://http2.mlstatic.com/D_963949-MLB106751819602_022026-O.jpg",
+      "item_id": "MLB1387386786",
+      "shipping_id": "46738539448",
+      "envio": "Full",
+      "data": "2026-03-27T16:01:43.000-04:00",
+      "pedido_id": "2000015730110808",
+      "comprador": "RODNEIV",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KITSM1097",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015726382976",
       "comprador": "SRA MUNIZ",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "12638100000535",
-      "produto": "Gaxeta Borracha Da Porta Lavadora Midea 11kg Lfa11x2 Lfb11x1",
-      "quantidade": 1,
-      "valor": 197,
-      "foto": "https://http2.mlstatic.com/D_790353-MLB107631493522_032026-O.jpg",
-      "item_id": "MLB3943230447",
-      "shipping_id": "46736715506",
-      "envio": "Full",
-      "data": "2026-03-27T11:18:04.000-04:00",
-      "pedido_id": "2000015726388066",
-      "comprador": "CAROLDESANTI2010",
-      "pagamento": "account_money"
     },
     {
       "sku": "ABQ73301301",
