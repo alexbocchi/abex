@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:28:30.484Z",
+  "atualizado_em": "2026-03-27T20:30:30.635Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "020219",
+      "produto": "Suporte Faca Para Multiprocessador Britânia Bmp900p Original",
+      "quantidade": 1,
+      "valor": 25.5,
+      "foto": "https://http2.mlstatic.com/D_721001-MLB104967366823_012026-O.jpg",
+      "item_id": "MLB5286753890",
+      "shipping_id": "46738696886",
+      "envio": "Coleta",
+      "data": "2026-03-27T16:28:56.000-04:00",
+      "pedido_id": "2000015730431316",
+      "comprador": "DAPATRICIA20211210034343",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "756750",
       "produto": "Puxador Air Fryer Saúde Philco Inox Ph3,2l Alça Original",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015726561072",
       "comprador": "2009MNJ",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "5214EN1004A-2M",
-      "produto": "Mangueira Maquina Lavar Samsung Reforçada 5214en1004a Origin",
-      "quantidade": 1,
-      "valor": 60.25,
-      "foto": "https://http2.mlstatic.com/D_669866-MLB102146294680_122025-O.jpg",
-      "item_id": "MLB5841193376",
-      "shipping_id": "46736794618",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:30:12.000-04:00",
-      "pedido_id": "2000015726541054",
-      "comprador": "CAUANBATERA",
-      "pagamento": "account_money"
     },
     {
       "sku": "ABQ73301301",
