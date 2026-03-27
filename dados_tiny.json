@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-27T17:58:30.960Z",
+  "atualizado_em": "2026-03-27T18:00:31.151Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46737755190",
+      "envio": "Full",
+      "data": "2026-03-27T13:59:06.000-04:00",
+      "pedido_id": "2000015728517044",
+      "comprador": "ROBSONNUNES98237878",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 2,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46737469777",
+      "envio": "Full",
+      "data": "2026-03-27T13:58:23.000-04:00",
+      "pedido_id": "2000015728522834",
+      "comprador": "RE20240716100354",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit Amortecedor Lava E Seca LG 4901er2003a Wd1485 Wd1403 C/3",
+      "quantidade": 1,
+      "valor": 66.02,
+      "foto": "https://http2.mlstatic.com/D_859283-MLA99621022740_122025-O.jpg",
+      "item_id": "MLB5339934854",
+      "shipping_id": "46737745266",
+      "envio": "Full",
+      "data": "2026-03-27T13:58:20.000-04:00",
+      "pedido_id": "2000015728516516",
+      "comprador": "DIRO8066644",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EBF61315802",
       "produto": "Trava Porta 110v Lava Seca LG Original Ebf61315802",
@@ -803,20 +845,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -828,6 +856,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2021,20 +2063,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KITSM1118",
-      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
-      "quantidade": 1,
-      "valor": 29.77,
-      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
-      "item_id": "MLB1613568329",
-      "shipping_id": "46736055378",
-      "envio": "Full",
-      "data": "2026-03-27T09:36:50.000-04:00",
-      "pedido_id": "2000015724991426",
-      "comprador": "JORGEVICENTEOLIVEIRAFILHO",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "796349",
       "produto": "Filtro Hepa Aspirador De Pó Philco Pas4000v Power Clean Orig",
       "quantidade": 1,
@@ -2047,34 +2075,6 @@
       "pedido_id": "2000015725003578",
       "comprador": "JPALFA2014",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Drenagem 2m Para Lava E Seca Samsung Modelos Wd106 Wd103 Wd10j Wd856 Wd720",
-      "quantidade": 1,
-      "valor": 45,
-      "foto": "https://http2.mlstatic.com/D_800467-MLA100090076383_122025-O.jpg",
-      "item_id": "MLB5732698650",
-      "shipping_id": "46736050162",
-      "envio": "Flex",
-      "data": "2026-03-27T09:35:59.000-04:00",
-      "pedido_id": "2000015724977804",
-      "comprador": "LISIANETHOMAZZI",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "25906085",
-      "produto": "Motor Ventilador Condensadora Split 220v Springer 12000 Btus",
-      "quantidade": 1,
-      "valor": 201,
-      "foto": "https://http2.mlstatic.com/D_642202-MLA99932054685_112025-O.jpg",
-      "item_id": "MLB4507938757",
-      "shipping_id": "46735768747",
-      "envio": "Full",
-      "data": "2026-03-27T09:34:55.000-04:00",
-      "pedido_id": "2000015724988096",
-      "comprador": "JS20241202125407",
-      "pagamento": "credit_card"
     },
     {
       "sku": "DC64-03235A",
