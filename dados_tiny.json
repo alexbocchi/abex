@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T12:33:21.437Z",
+  "atualizado_em": "2026-03-27T12:38:31.901Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "763253",
+      "produto": "Filtro Carvão Coifa Philco Pco60 Pco90 Pco60i Pco90i Orignal",
+      "quantidade": 1,
+      "valor": 71.05,
+      "foto": "",
+      "item_id": "MLB6112206814",
+      "shipping_id": "46735408271",
+      "envio": "Full",
+      "data": "2026-03-27T08:36:31.000-04:00",
+      "pedido_id": "2000015724272672"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "",
+      "item_id": "MLB1584616358",
+      "shipping_id": "46735676332",
+      "envio": "Full",
+      "data": "2026-03-27T08:35:07.000-04:00",
+      "pedido_id": "2000015724253082"
+    },
     {
       "sku": "ADQ72910911",
       "produto": "Filtro De Água Premium Filter Adq72910901 Refrigerador LG",
@@ -1779,30 +1803,6 @@
       "envio": "Full",
       "data": "2026-03-26T19:13:54.000-04:00",
       "pedido_id": "2000015718848334"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "",
-      "item_id": "MLB5506740256",
-      "shipping_id": "46732889585",
-      "envio": "Full",
-      "data": "2026-03-26T19:12:27.000-04:00",
-      "pedido_id": "2000015718807646"
-    },
-    {
-      "sku": "DC64-01538B",
-      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
-      "quantidade": 1,
-      "valor": 27.72,
-      "foto": "",
-      "item_id": "MLB4041539053",
-      "shipping_id": "46733163378",
-      "envio": "Full",
-      "data": "2026-03-26T19:12:11.000-04:00",
-      "pedido_id": "2000015718799850"
     }
   ]
 }
