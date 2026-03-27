@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T14:00:32.425Z",
+  "atualizado_em": "2026-03-27T14:04:22.892Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-10289C",
+      "produto": "Mangueira Entrada Água Lava Seca LG Samsung Super Resistente Unidade 120cm",
+      "quantidade": 1,
+      "valor": 30.6,
+      "foto": "https://http2.mlstatic.com/D_875101-MLA99630125872_122025-O.jpg",
+      "item_id": "MLB5840773712",
+      "shipping_id": "46736213742",
+      "envio": "Full",
+      "data": "2026-03-27T10:00:54.000-04:00",
+      "pedido_id": "2000015725321050"
+    },
     {
       "sku": "KITTERMOSTATO4",
       "produto": "Kit 4 Termostatos Lava E Seca Samsung Wd90j6410aw Original",
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-26T21:27:30.000-04:00",
       "pedido_id": "2000015720675470"
-    },
-    {
-      "sku": "DC62-10289C",
-      "produto": "Mangueira Entrada Água Lava Seca LG Samsung Super Resistente Unidade 120cm",
-      "quantidade": 1,
-      "valor": 30.6,
-      "foto": "https://http2.mlstatic.com/D_875101-MLA99630125872_122025-O.jpg",
-      "item_id": "MLB5840773712",
-      "shipping_id": "46733706135",
-      "envio": "Full",
-      "data": "2026-03-26T21:26:43.000-04:00",
-      "pedido_id": "2000015720663260"
     },
     {
       "sku": "ADQ72910911",
