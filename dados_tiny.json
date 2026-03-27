@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:22:30.755Z",
+  "atualizado_em": "2026-03-27T20:24:30.520Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 2,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46738381169",
+      "envio": "Full",
+      "data": "2026-03-27T16:22:37.000-04:00",
+      "pedido_id": "2000015730376136",
+      "comprador": "THRTHR20230802165029",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC92-02048G",
       "produto": "Placa Interface Lava E Seca Samsung Dc92-02048g Original 110v/127v",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015726451792",
       "comprador": "AA20260306143555",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "AKB75215403",
-      "produto": "Controle Remoto P Ar Condicionado LG Dual Inveter Original",
-      "quantidade": 1,
-      "valor": 155,
-      "foto": "https://http2.mlstatic.com/D_800592-MLB105573944367_012026-O.jpg",
-      "item_id": "MLB1869892259",
-      "shipping_id": "46736764738",
-      "envio": "Full",
-      "data": "2026-03-27T11:25:37.000-04:00",
-      "pedido_id": "2000015726488198",
-      "comprador": "MRCIAGADONILOBATO",
-      "pagamento": "credit_card"
     },
     {
       "sku": "ABQ73301301",
