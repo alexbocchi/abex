@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T18:08:30.718Z",
+  "atualizado_em": "2026-03-27T18:10:31.037Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Condensadora Midea 18 A 30000btus 25906088 220v",
+      "quantidade": 1,
+      "valor": 228,
+      "foto": "https://http2.mlstatic.com/D_730584-MLA99964509287_112025-O.jpg",
+      "item_id": "MLB4264172465",
+      "shipping_id": "46737533097",
+      "envio": "Full",
+      "data": "2026-03-27T14:08:10.000-04:00",
+      "pedido_id": "2000015728660202",
+      "comprador": "EHFDACBGE85307",
+      "pagamento": "account_money"
+    },
     {
       "sku": "ABQ74883808",
       "produto": "Placa Display Receptora Ar LG S4nq09wa51c S4nq09wa5aa 127/220v",
@@ -943,20 +957,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -968,6 +968,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015725116270",
       "comprador": "KELPIRESFERNANDES",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "739388",
-      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
-      "item_id": "MLB3920495205",
-      "shipping_id": "46735828341",
-      "envio": "Flex",
-      "data": "2026-03-27T09:44:26.000-04:00",
-      "pedido_id": "2000015725113156",
-      "comprador": "EDNEIADUTRACARNEIRO",
-      "pagamento": "account_money"
     },
     {
       "sku": "DC64-03235A",
