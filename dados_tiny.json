@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:00:30.666Z",
+  "atualizado_em": "2026-03-27T20:02:32.427Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-10861D",
+      "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
+      "quantidade": 1,
+      "valor": 74.86,
+      "foto": "https://http2.mlstatic.com/D_699662-MLB108659154185_032026-O.jpg",
+      "item_id": "MLB1464885381",
+      "shipping_id": "46738541824",
+      "envio": "Full",
+      "data": "2026-03-27T16:02:03.000-04:00",
+      "pedido_id": "2000015730101454",
+      "comprador": "RFVALENTE",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lavadora Samsung Wd11m44530wfaz",
@@ -1573,20 +1587,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -1598,6 +1598,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015726388066",
       "comprador": "CAROLDESANTI2010",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
-      "quantidade": 1,
-      "valor": 204.95,
-      "foto": "https://http2.mlstatic.com/D_697027-MLA99594896114_122025-O.jpg",
-      "item_id": "MLB5676655880",
-      "shipping_id": "46736708442",
-      "envio": "Full",
-      "data": "2026-03-27T11:16:52.000-04:00",
-      "pedido_id": "2000015726341918",
-      "comprador": "OLLU515573",
-      "pagamento": "credit_card"
     },
     {
       "sku": "ABQ73301301",
