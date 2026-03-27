@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T21:36:30.608Z",
+  "atualizado_em": "2026-03-27T21:38:30.685Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB75675304",
+      "produto": "Controle Remoto LG Smart Akb75675304 Substitui O Akb75095315",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_760158-MLB105589847834_012026-O.jpg",
+      "item_id": "MLB3903289909",
+      "shipping_id": "46739069908",
+      "envio": "Full",
+      "data": "2026-03-27T17:37:18.000-04:00",
+      "pedido_id": "2000015731224904",
+      "comprador": "CRISMILARE",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1111",
       "produto": "Kit Erro He2 Lava E Seca Samsung Termostato Termistor Orig",
@@ -2088,20 +2102,6 @@
       "data": "2026-03-27T12:36:28.000-04:00",
       "pedido_id": "2000015727409272",
       "comprador": "MANTOROK2004",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
-      "item_id": "MLB5506740256",
-      "shipping_id": "46737153658",
-      "envio": "Full",
-      "data": "2026-03-27T12:23:45.000-04:00",
-      "pedido_id": "2000015727262358",
-      "comprador": "EV20250325182356",
       "pagamento": "credit_card"
     }
   ]
