@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T16:36:07.049Z",
+  "atualizado_em": "2026-03-27T16:38:06.836Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "022431",
+      "produto": "Hélice Ventilador Philco Pvt400 Pvt400 40cm Original Azul-celeste",
+      "quantidade": 1,
+      "valor": 33.25,
+      "foto": "https://http2.mlstatic.com/D_956721-MLB108364422791_032026-O.jpg",
+      "item_id": "MLB6419837428",
+      "shipping_id": "46736947015",
+      "envio": "Flex",
+      "data": "2026-03-27T12:37:05.000-04:00",
+      "pedido_id": "2000015727419478"
+    },
+    {
+      "sku": "DB95-01990D",
+      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_869852-MLB75735777804_042024-O.jpg",
+      "item_id": "MLB4618724430",
+      "shipping_id": "46736942339",
+      "envio": "Full",
+      "data": "2026-03-27T12:36:28.000-04:00",
+      "pedido_id": "2000015727409272"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
@@ -89,18 +113,6 @@
       "pedido_id": "2000015727109378"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -111,6 +123,18 @@
       "envio": "Coleta",
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914"
     },
     {
       "sku": "DB95-01990D",
@@ -1755,30 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T08:11:16.000-04:00",
       "pedido_id": "2000015723987246"
-    },
-    {
-      "sku": "EAU64082902",
-      "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
-      "quantidade": 1,
-      "valor": 59.36,
-      "foto": "https://http2.mlstatic.com/D_938151-MLA100006940231_122025-O.jpg",
-      "item_id": "MLB5303104460",
-      "shipping_id": "46735530112",
-      "envio": "Full",
-      "data": "2026-03-27T08:08:39.000-04:00",
-      "pedido_id": "2000015723943756"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
-      "quantidade": 1,
-      "valor": 35.5,
-      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
-      "item_id": "MLB3791029185",
-      "shipping_id": "46735254889",
-      "envio": "Flex",
-      "data": "2026-03-27T08:08:39.000-04:00",
-      "pedido_id": "2000015723959334"
     },
     {
       "sku": "DC64-03235A",
