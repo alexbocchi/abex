@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:26:29.564Z",
+  "atualizado_em": "2026-03-27T22:28:30.924Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-15882Q",
+      "produto": "Controle Ar Condicionado Split Samsung Virus Doctor Inverter Branco",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_903361-MLB89166263134_082025-O.jpg",
+      "item_id": "MLB1613573954",
+      "shipping_id": "46739329532",
+      "envio": "Full",
+      "data": "2026-03-27T18:26:46.000-04:00",
+      "pedido_id": "2000015731796546",
+      "comprador": "LITA9080664",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015727687850",
       "comprador": "FACL1068418",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DA32-10104N",
-      "produto": "Sensor Temperatura Geladeira Samsung Rt38 Rt43 Rt46 Original",
-      "quantidade": 1,
-      "valor": 38,
-      "foto": "https://http2.mlstatic.com/D_897616-MLB76288652959_052024-O.jpg",
-      "item_id": "MLB4670094768",
-      "shipping_id": "46737073175",
-      "envio": "Full",
-      "data": "2026-03-27T12:56:44.000-04:00",
-      "pedido_id": "2000015727679444",
-      "comprador": "THIAGOPBORGES",
-      "pagamento": "credit_card"
     }
   ]
 }
