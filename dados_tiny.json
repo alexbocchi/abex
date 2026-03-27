@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T20:48:30.586Z",
+  "atualizado_em": "2026-03-27T20:50:30.756Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA31-00334C",
+      "produto": "Motor Ventilador Geladeira Samsung Da31-00334a Original 12v",
+      "quantidade": 1,
+      "valor": 270,
+      "foto": "https://http2.mlstatic.com/D_989144-MLB89529692351_082025-O.jpg",
+      "item_id": "MLB1727213513",
+      "shipping_id": "46738532649",
+      "envio": "Full",
+      "data": "2026-03-27T16:49:01.000-04:00",
+      "pedido_id": "2000015730682428",
+      "comprador": "AB20250714185906",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITPUXADOR5",
+      "produto": "Kit 5 Puxador Maçaneta Porta Lavadora Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_737571-MLB81961457447_012025-O.jpg",
+      "item_id": "MLB5258567692",
+      "shipping_id": "46738530411",
+      "envio": "Coleta",
+      "data": "2026-03-27T16:48:39.000-04:00",
+      "pedido_id": "2000015730667036",
+      "comprador": "JOSEBELONETO",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DB31-00693A",
       "produto": "Motor Condensadora Wind Free Samsung 9000 12000 Original  220v Bldc",
@@ -2049,20 +2077,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "25906088",
-      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus Original 220v 65w Ar Barril Split 25906088 Ydk65-6d",
-      "quantidade": 1,
-      "valor": 210,
-      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
-      "item_id": "MLB6107728210",
-      "shipping_id": "46736617855",
-      "envio": "Full",
-      "data": "2026-03-27T11:45:34.000-04:00",
-      "pedido_id": "2000015726723826",
-      "comprador": "BHM_PRESENTES",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "796349",
       "produto": "Filtro Hepa Aspirador De Pó Philco Pas4000v Power Clean Orig",
       "quantidade": 1,
@@ -2074,20 +2088,6 @@
       "data": "2026-03-27T11:45:12.000-04:00",
       "pedido_id": "2000015726744476",
       "comprador": "PLOHARSKIVILNEI20230104121557",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "EBX64329206",
-      "produto": "Controle Remoto LG Electronics Do Brasil Ltda. Mr20ga",
-      "quantidade": 1,
-      "valor": 145,
-      "foto": "https://http2.mlstatic.com/D_811524-MLA99920839471_112025-O.jpg",
-      "item_id": "MLB4444986551",
-      "shipping_id": "46736611885",
-      "envio": "Flex",
-      "data": "2026-03-27T11:42:52.000-04:00",
-      "pedido_id": "2000015726701256",
-      "comprador": "CARLACRISTINAMASETTO",
       "pagamento": "bank_transfer"
     },
     {
