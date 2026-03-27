@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T18:44:30.711Z",
+  "atualizado_em": "2026-03-27T18:46:30.897Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181B",
+      "produto": "Bomba De Drenagem Para Lava E Seca Samsung Original 220v",
+      "quantidade": 1,
+      "valor": 165,
+      "foto": "https://http2.mlstatic.com/D_636356-MLB107569999507_022026-O.jpg",
+      "item_id": "MLB1868678872",
+      "shipping_id": "46737774915",
+      "envio": "Coleta",
+      "data": "2026-03-27T14:45:33.000-04:00",
+      "pedido_id": "2000015729111282",
+      "comprador": "KLEBERMARCONDESDOSSANTOS",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "733219",
+      "produto": "Batedor Clara Em Neve Batedeira Planetária Philco Php500 Nf",
+      "quantidade": 1,
+      "valor": 74.1,
+      "foto": "https://http2.mlstatic.com/D_969878-MLB104857072317_012026-O.jpg",
+      "item_id": "MLB3947411781",
+      "shipping_id": "46737771653",
+      "envio": "Coleta",
+      "data": "2026-03-27T14:44:53.000-04:00",
+      "pedido_id": "2000015729116568",
+      "comprador": "IONESANTOSCONCEIOGONALVES",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
@@ -17,6 +45,20 @@
       "pedido_id": "2000015729080008",
       "comprador": "OLIVEIRACESAR91OLIVEIRACESAR91",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
+      "quantidade": 1,
+      "valor": 27.72,
+      "foto": "https://http2.mlstatic.com/D_961117-MLA102610137716_122025-O.jpg",
+      "item_id": "MLB4041539053",
+      "shipping_id": "46738015328",
+      "envio": "Full",
+      "data": "2026-03-27T14:39:59.000-04:00",
+      "pedido_id": "2000015729025904",
+      "comprador": "POUBELRHAYZZA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC64-01538A",
@@ -2033,48 +2075,6 @@
       "pedido_id": "2000015725596054",
       "comprador": "MARISELECT",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Para Uso Em Lava E Seca Samsung Dc66-421b Wd10m44530w Wd0854w Wd103u4sawq Wd106uhsagd Wd10j6410 Wd11a4453 Wd856uhsasd Wd90j6410 Wf106u4sa Wf8854ljf1 Ww85j4273mw",
-      "quantidade": 1,
-      "valor": 42,
-      "foto": "https://http2.mlstatic.com/D_994396-MLA101914550223_122025-O.jpg",
-      "item_id": "MLB6153610258",
-      "shipping_id": "46736026029",
-      "envio": "Full",
-      "data": "2026-03-27T10:14:09.000-04:00",
-      "pedido_id": "2000015725514462",
-      "comprador": "LUIZHENRIQUEZANARDIDESOUZA",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "DB32-00274A",
-      "produto": "Sensor Duplo Evaporadora Ar Condicionado Samsung Ar12tvhzdwk",
-      "quantidade": 1,
-      "valor": 61.05,
-      "foto": "https://http2.mlstatic.com/D_849810-MLB77244234440_072024-O.jpg",
-      "item_id": "MLB3767040589",
-      "shipping_id": "46736276124",
-      "envio": "Coleta",
-      "data": "2026-03-27T10:10:44.000-04:00",
-      "pedido_id": "2000015725464256",
-      "comprador": "RODRIGORODRIGUESCARVALHO",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "DB95-01990D",
-      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
-      "quantidade": 1,
-      "valor": 70,
-      "foto": "https://http2.mlstatic.com/D_869852-MLB75735777804_042024-O.jpg",
-      "item_id": "MLB4618724430",
-      "shipping_id": "46736274104",
-      "envio": "Full",
-      "data": "2026-03-27T10:10:30.000-04:00",
-      "pedido_id": "2000015725443132",
-      "comprador": "EE9629546",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "3502-000115",
