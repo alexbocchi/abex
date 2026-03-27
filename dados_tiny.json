@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T21:32:30.757Z",
+  "atualizado_em": "2026-03-27T21:34:30.678Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1111",
+      "produto": "Kit Erro He2 Lava E Seca Samsung Termostato Termistor Orig",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_824646-MLB89538319873_082025-O.jpg",
+      "item_id": "MLB3917502561",
+      "shipping_id": "46739044830",
+      "envio": "Flex",
+      "data": "2026-03-27T17:32:22.000-04:00",
+      "pedido_id": "2000015731161202",
+      "comprador": "ARRO8527711",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1077",
       "produto": "Pé Nivelador Regulável Lava Seca Midea Lsd10 Lsd12",
@@ -241,6 +255,20 @@
       "pedido_id": "2000015730779236",
       "comprador": "VIRO4118492",
       "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "2x Amortecedor Cesto Lava E Seca Samsung Dc66-00421b",
+      "quantidade": 1,
+      "valor": 34.65,
+      "foto": "https://http2.mlstatic.com/D_881497-MLA99619497368_122025-O.jpg",
+      "item_id": "MLB5461532516",
+      "shipping_id": "46738856550",
+      "envio": "Full",
+      "data": "2026-03-27T16:57:19.000-04:00",
+      "pedido_id": "2000015730757472",
+      "comprador": "PRETARF",
+      "pagamento": "ticket"
     },
     {
       "sku": "FIAPOS01",
@@ -2063,20 +2091,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
-      "item_id": "MLB4057130417",
-      "shipping_id": "46736861445",
-      "envio": "Full",
-      "data": "2026-03-27T12:23:52.000-04:00",
-      "pedido_id": "2000015727233892",
-      "comprador": "MAIKONRAUTA",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
       "quantidade": 1,
@@ -2088,20 +2102,6 @@
       "data": "2026-03-27T12:23:45.000-04:00",
       "pedido_id": "2000015727262358",
       "comprador": "EV20250325182356",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saída (drenagem) Lse Samsung Dc97-02250f",
-      "quantidade": 1,
-      "valor": 36.4,
-      "foto": "https://http2.mlstatic.com/D_993816-MLA99622825136_122025-O.jpg",
-      "item_id": "MLB5744186962",
-      "shipping_id": "46737122660",
-      "envio": "Full",
-      "data": "2026-03-27T12:21:40.000-04:00",
-      "pedido_id": "2000015727220970",
-      "comprador": "VALERIALANI",
       "pagamento": "credit_card"
     }
   ]
