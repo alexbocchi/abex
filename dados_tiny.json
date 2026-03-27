@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-27T23:10:30.773Z",
+  "atualizado_em": "2026-03-27T23:12:30.691Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Tripla Entrada De Água Lava Seca Samsung Dc62-00233c",
+      "quantidade": 1,
+      "valor": 108,
+      "foto": "https://http2.mlstatic.com/D_613395-MLB54411684890_032023-O.jpg",
+      "item_id": "MLB3110075583",
+      "shipping_id": "46739557208",
+      "envio": "Full",
+      "data": "2026-03-27T19:10:33.000-04:00",
+      "pedido_id": "2000015732287766",
+      "comprador": "ALED6746072",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "https://http2.mlstatic.com/D_968242-MLB107340769115_022026-O.jpg",
+      "item_id": "MLB1584616358",
+      "shipping_id": "46739277573",
+      "envio": "Full",
+      "data": "2026-03-27T19:09:53.000-04:00",
+      "pedido_id": "2000015732269536",
+      "comprador": "MA20241204200343",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Tripla De Água Lava E Seca Samsung Wd11m44530w/az",
+      "quantidade": 1,
+      "valor": 108,
+      "foto": "https://http2.mlstatic.com/D_912138-MLA99954202689_112025-O.jpg",
+      "item_id": "MLB5461158662",
+      "shipping_id": "46739281643",
+      "envio": "Full",
+      "data": "2026-03-27T19:09:13.000-04:00",
+      "pedido_id": "2000015732300054",
+      "comprador": "RAFAELORIEL",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1173",
       "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung Preto",
@@ -2061,48 +2103,6 @@
       "pedido_id": "2000015728406452",
       "comprador": "ANTONIOJOAO20230323120228",
       "pagamento": "digital_currency"
-    },
-    {
-      "sku": "ABQ73301301",
-      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
-      "quantidade": 1,
-      "valor": 230,
-      "foto": "https://http2.mlstatic.com/D_977418-MLA105567224550_012026-O.jpg",
-      "item_id": "MLB5677380018",
-      "shipping_id": "46737685550",
-      "envio": "Full",
-      "data": "2026-03-27T13:49:18.000-04:00",
-      "pedido_id": "2000015728373672",
-      "comprador": "MATH1172505",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "4280A20004M",
-      "produto": "Bucha Mancal Rolamento Ar Condicionado LG 4280a20004m",
-      "quantidade": 1,
-      "valor": 50,
-      "foto": "https://http2.mlstatic.com/D_624502-MLB76085997281_042024-O.jpg",
-      "item_id": "MLB1964687155",
-      "shipping_id": "46737391699",
-      "envio": "Flex",
-      "data": "2026-03-27T13:44:33.000-04:00",
-      "pedido_id": "2000015728340458",
-      "comprador": "EDERSONANDRADEDASDORES",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "W2921-28801",
-      "produto": "Válvula Dupla Lavadora Panasonic 110v Amarela / W2921-28801  127v",
-      "quantidade": 1,
-      "valor": 70.2,
-      "foto": "https://http2.mlstatic.com/D_894344-MLB104794338536_012026-O.jpg",
-      "item_id": "MLB3948261677",
-      "shipping_id": "46737311161",
-      "envio": "Full",
-      "data": "2026-03-27T13:33:54.000-04:00",
-      "pedido_id": "2000015728206144",
-      "comprador": "EDIONAYDANTASEDIONAYDANTAS",
-      "pagamento": "credit_card"
     }
   ]
 }
