@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T12:27:15.354Z",
+  "atualizado_em": "2026-03-27T12:31:38.059Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -15,6 +15,18 @@
       "envio": "Full",
       "data": "2026-03-27T08:26:11.000-04:00",
       "pedido_id": "2000015724158618"
+    },
+    {
+      "sku": "KITGUARNICAO01",
+      "produto": "Borracha Da Porta Guarnição Para Uso Em Lava E Seca Samsung E Vedação Do Filtro De Fiapos Wd10m44530w Wd90m4453 Wd85m4453 Wd11m4473 Wd10k6410 Wd90j6410ax Dc73-00022a Dc64-03235 Dc64-03235b",
+      "quantidade": 1,
+      "valor": 140,
+      "foto": "",
+      "item_id": "MLB6302874742",
+      "shipping_id": "46735612822",
+      "envio": "Agência",
+      "data": "2026-03-27T08:24:03.000-04:00",
+      "pedido_id": "2000015724136542"
     },
     {
       "sku": "DC66-00421B",
@@ -1791,18 +1803,6 @@
       "envio": "Full",
       "data": "2026-03-26T19:01:58.000-04:00",
       "pedido_id": "2000015718684442"
-    },
-    {
-      "sku": "25906085",
-      "produto": "Motor Ventilador Condensadora Split 220v Springer 12000 Btus",
-      "quantidade": 1,
-      "valor": 201,
-      "foto": "",
-      "item_id": "MLB4507938757",
-      "shipping_id": "46732816673",
-      "envio": "Full",
-      "data": "2026-03-26T18:59:38.000-04:00",
-      "pedido_id": "2000015718642792"
     }
   ]
 }
