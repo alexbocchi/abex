@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:44:30.616Z",
+  "atualizado_em": "2026-03-27T22:46:30.724Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA31-00010D",
+      "produto": "Helice Motor Ventilador Refrigerador Samsung Original Nf N/a",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_806686-MLB107107453058_022026-O.jpg",
+      "item_id": "MLB1727956665",
+      "shipping_id": "46739145209",
+      "envio": "Coleta",
+      "data": "2026-03-27T18:44:22.000-04:00",
+      "pedido_id": "2000015732010120",
+      "comprador": "CEZARJ592013",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAD60714618",
       "produto": "Cabo Chicote Placa Display Ar Condicionado LG 3 Pontas Orig",
@@ -39,10 +53,38 @@
       "valor": 45,
       "foto": "https://http2.mlstatic.com/D_862354-MLB80358074892_112024-O.jpg",
       "item_id": "MLB3905357615",
+      "shipping_id": "46739141101",
+      "envio": "Full",
+      "data": "2026-03-27T18:43:30.000-04:00",
+      "pedido_id": "2000015732002660",
+      "comprador": "VIRGINIAMARIADOSREIS",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EAD60714618",
+      "produto": "Cabo Chicote Placa Display Ar Condicionado LG 3 Pontas Orig",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_862354-MLB80358074892_112024-O.jpg",
+      "item_id": "MLB3905357615",
       "shipping_id": "46739140897",
       "envio": "Full",
       "data": "2026-03-27T18:43:30.000-04:00",
       "pedido_id": "2000015731995268",
+      "comprador": "VIRGINIAMARIADOSREIS",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EAD60714618",
+      "produto": "Cabo Chicote Placa Display Ar Condicionado LG 3 Pontas Orig",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_862354-MLB80358074892_112024-O.jpg",
+      "item_id": "MLB3905357615",
+      "shipping_id": "46739141053",
+      "envio": "Full",
+      "data": "2026-03-27T18:43:29.000-04:00",
+      "pedido_id": "2000015732000846",
       "comprador": "VIRGINIAMARIADOSREIS",
       "pagamento": "account_money"
     },
@@ -2060,48 +2102,6 @@
       "data": "2026-03-27T13:16:30.000-04:00",
       "pedido_id": "2000015727974078",
       "comprador": "ANALCIAMACIELFORTESRIBEIRO",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Do Condensador Barril Ar Condicionado 25906088 220v",
-      "quantidade": 1,
-      "valor": 228,
-      "foto": "https://http2.mlstatic.com/D_813183-MLA99933312111_112025-O.jpg",
-      "item_id": "MLB5694049938",
-      "shipping_id": "46737464090",
-      "envio": "Full",
-      "data": "2026-03-27T13:14:50.000-04:00",
-      "pedido_id": "2000015727909868",
-      "comprador": "JOSE.ZANANDREA",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "4036ER2004A",
-      "produto": "Retentor Tanque Lava Seca LG Wd1412 Wd1485 Wd9wp6 Original",
-      "quantidade": 1,
-      "valor": 55,
-      "foto": "https://http2.mlstatic.com/D_624811-MLB73307400989_122023-O.jpg",
-      "item_id": "MLB3063456283",
-      "shipping_id": "46737444880",
-      "envio": "Full",
-      "data": "2026-03-27T13:11:42.000-04:00",
-      "pedido_id": "2000015727906204",
-      "comprador": "GRAB_AND_BUY",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lavadora Samsung Wf106u4sawq",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_830344-MLB107340769163_022026-O.jpg",
-      "item_id": "MLB1772048018",
-      "shipping_id": "46737456070",
-      "envio": "Full",
-      "data": "2026-03-27T13:01:47.000-04:00",
-      "pedido_id": "2000015727758902",
-      "comprador": "SIMOESMILENA20230720075646",
       "pagamento": "bank_transfer"
     }
   ]
