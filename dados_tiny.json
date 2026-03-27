@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T15:08:07.828Z",
+  "atualizado_em": "2026-03-27T15:10:06.888Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-10861D",
+      "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
+      "quantidade": 1,
+      "valor": 74.86,
+      "foto": "https://http2.mlstatic.com/D_699662-MLB108659154185_032026-O.jpg",
+      "item_id": "MLB1464885381",
+      "shipping_id": "46736664480",
+      "envio": "Full",
+      "data": "2026-03-27T11:09:52.000-04:00",
+      "pedido_id": "2000015726268626"
+    },
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira Drenagem Lava E Seca Samsung Original Wd856uhsawq",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_638117-MLB106680856246_022026-O.jpg",
+      "item_id": "MLB1753367562",
+      "shipping_id": "46736660898",
+      "envio": "Flex",
+      "data": "2026-03-27T11:09:08.000-04:00",
+      "pedido_id": "2000015726260622"
+    },
     {
       "sku": "DB96-24901V",
       "produto": "Controle Remoto Ar Condicionado Wind Free Db96-24901f  Branco",
@@ -1755,30 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T02:11:42.000-04:00",
       "pedido_id": "2000015722623756"
-    },
-    {
-      "sku": "DC67-00230E",
-      "produto": "Mangueira Do Pressostato Lava Seca Nível De Água Dc67-00230e",
-      "quantidade": 1,
-      "valor": 30.21,
-      "foto": "https://http2.mlstatic.com/D_714403-MLA105346980975_012026-O.jpg",
-      "item_id": "MLB3949536419",
-      "shipping_id": "46734494087",
-      "envio": "Full",
-      "data": "2026-03-27T01:13:01.000-04:00",
-      "pedido_id": "2000015722460710"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saida Lavadora Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 45.1,
-      "foto": "https://http2.mlstatic.com/D_701337-MLB106680856170_022026-O.jpg",
-      "item_id": "MLB1492739586",
-      "shipping_id": "46734762558",
-      "envio": "Flex",
-      "data": "2026-03-27T01:08:28.000-04:00",
-      "pedido_id": "2000015722463090"
     },
     {
       "sku": "DC64-03235A",
