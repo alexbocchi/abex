@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T19:28:30.589Z",
+  "atualizado_em": "2026-03-27T19:30:30.796Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 149,
   "produtos": [],
@@ -1391,17 +1391,17 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
       "envio": "Coleta",
       "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
