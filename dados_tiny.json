@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T15:38:06.973Z",
+  "atualizado_em": "2026-03-27T15:40:06.898Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AHA75113322",
+      "produto": "Bomba Dreno Sensor Nível Para Ar Condicionado LG Original Nf",
+      "quantidade": 1,
+      "valor": 350,
+      "foto": "https://http2.mlstatic.com/D_801293-MLB91648084746_092025-O.jpg",
+      "item_id": "MLB4198470271",
+      "shipping_id": "46736566455",
+      "envio": "Coleta",
+      "data": "2026-03-27T11:37:33.000-04:00",
+      "pedido_id": "2000015726640506"
+    },
     {
       "sku": "DC61-03510A",
       "produto": "Recipiente Do Sabão Liquido Lava E Seca Samsung Original",
@@ -1767,18 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:15:31.000-04:00",
       "pedido_id": "2000015723532436"
-    },
-    {
-      "sku": "EBR71522401",
-      "produto": "Botao Liga Desliga Ar Condicionado LG 9000 12000 Original",
-      "quantidade": 1,
-      "valor": 40,
-      "foto": "https://http2.mlstatic.com/D_832607-MLB101987748549_122025-O.jpg",
-      "item_id": "MLB5122899476",
-      "shipping_id": "46735273770",
-      "envio": "Flex",
-      "data": "2026-03-27T07:01:16.000-04:00",
-      "pedido_id": "2000015723438390"
     },
     {
       "sku": "DC64-03235A",
