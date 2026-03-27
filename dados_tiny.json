@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T18:42:30.989Z",
+  "atualizado_em": "2026-03-27T18:44:30.711Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.8,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46737766829",
+      "envio": "Full",
+      "data": "2026-03-27T14:44:09.000-04:00",
+      "pedido_id": "2000015729080008",
+      "comprador": "OLIVEIRACESAR91OLIVEIRACESAR91",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC64-01538A",
       "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015725443132",
       "comprador": "EE9629546",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "4280A20004M",
-      "produto": "Bucha Mancal Rolamento Ar Condicionado LG 4280a20004m",
-      "quantidade": 2,
-      "valor": 50,
-      "foto": "https://http2.mlstatic.com/D_624502-MLB76085997281_042024-O.jpg",
-      "item_id": "MLB1964687155",
-      "shipping_id": "46736266102",
-      "envio": "Coleta",
-      "data": "2026-03-27T10:09:11.000-04:00",
-      "pedido_id": "2000015725441198",
-      "comprador": "GILSONEICARNEIROCUNHACARNEIR",
-      "pagamento": "account_money"
     },
     {
       "sku": "3502-000115",
