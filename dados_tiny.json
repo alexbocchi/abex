@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T19:32:30.668Z",
+  "atualizado_em": "2026-03-27T19:34:30.570Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 149,
+  "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC93-00139A",
+      "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78.4,
+      "foto": "https://http2.mlstatic.com/D_963949-MLB106751819602_022026-O.jpg",
+      "item_id": "MLB1387386786",
+      "shipping_id": "46738362468",
+      "envio": "Full",
+      "data": "2026-03-27T15:32:54.000-04:00",
+      "pedido_id": "2000015729741316",
+      "comprador": "RAFAFINOTTI",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC62-10289C",
       "produto": "Mangueira Entrada Água Lava Seca LG Samsung Super Resistente Unidade 120cm",
@@ -1405,6 +1419,20 @@
       "pagamento": "credit_card"
     },
     {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
       "sku": "DB95-01990D",
       "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
       "quantidade": 1,
@@ -2061,20 +2089,6 @@
       "pedido_id": "2000015726100054",
       "comprador": "FEIS7709377",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
-      "quantidade": 1,
-      "valor": 227,
-      "foto": "https://http2.mlstatic.com/D_737002-MLA99943156387_112025-O.jpg",
-      "item_id": "MLB5886754752",
-      "shipping_id": "46736539530",
-      "envio": "Full",
-      "data": "2026-03-27T10:50:09.000-04:00",
-      "pedido_id": "2000015725990996",
-      "comprador": "LS20250222184331",
-      "pagamento": "credit_card"
     },
     {
       "sku": "EAU62983004",
