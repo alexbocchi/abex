@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T15:02:07.615Z",
+  "atualizado_em": "2026-03-27T15:04:07.488Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "022019",
+      "produto": "Hélice 6 Pas 40cm Ventilador Ventus 40 Six Britânia 022019 Cinza-escuro",
+      "quantidade": 1,
+      "valor": 28.5,
+      "foto": "https://http2.mlstatic.com/D_753219-MLB107525188452_032026-O.jpg",
+      "item_id": "MLB4510624511",
+      "shipping_id": "46736351825",
+      "envio": "Flex",
+      "data": "2026-03-27T11:03:13.000-04:00",
+      "pedido_id": "2000015726190462"
+    },
+    {
+      "sku": "AXBX01",
+      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
+      "quantidade": 1,
+      "valor": 39.9,
+      "foto": "https://http2.mlstatic.com/D_618047-MLB79773766608_102024-O.jpg",
+      "item_id": "MLB5122979702",
+      "shipping_id": "46736616458",
+      "envio": "Full",
+      "data": "2026-03-27T11:02:06.000-04:00",
+      "pedido_id": "2000015726174458"
+    },
     {
       "sku": "EAU61383504",
       "produto": "Bomba Drenagem Eau61383504 LG Wd1403 Wd1409 220v",
@@ -1755,30 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-26T23:36:39.000-04:00",
       "pedido_id": "2000015721911674"
-    },
-    {
-      "sku": "02100475P",
-      "produto": "Copo Para Liquidificador Britania Diamante Black",
-      "quantidade": 1,
-      "valor": 61.03,
-      "foto": "https://http2.mlstatic.com/D_837063-MLA99917073403_112025-O.jpg",
-      "item_id": "MLB6428095190",
-      "shipping_id": "46734243525",
-      "envio": "Flex",
-      "data": "2026-03-26T23:28:39.000-04:00",
-      "pedido_id": "2000015721894056"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
-      "quantidade": 1,
-      "valor": 35.5,
-      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
-      "item_id": "MLB3791029185",
-      "shipping_id": "46734488392",
-      "envio": "Full",
-      "data": "2026-03-26T23:19:55.000-04:00",
-      "pedido_id": "2000015721820532"
     },
     {
       "sku": "DC64-03235A",
