@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T22:04:30.837Z",
+  "atualizado_em": "2026-03-27T22:06:30.926Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAD64108410",
+      "produto": "Cabo De Força Tipo 8 Tv LG Smart 32/43/49/50/55/65 Polegadas 127/220v",
+      "quantidade": 1,
+      "valor": 35.2,
+      "foto": "https://http2.mlstatic.com/D_947568-MLB105333762521_012026-O.jpg",
+      "item_id": "MLB3490025733",
+      "shipping_id": "46739219192",
+      "envio": "Flex",
+      "data": "2026-03-27T18:04:48.000-04:00",
+      "pedido_id": "2000015731540832",
+      "comprador": "RE20240716143203",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
+      "quantidade": 1,
+      "valor": 149.9,
+      "foto": "https://http2.mlstatic.com/D_600152-MLA99506069672_112025-O.jpg",
+      "item_id": "MLB6471464544",
+      "shipping_id": "46739215632",
+      "envio": "Coleta",
+      "data": "2026-03-27T18:04:39.000-04:00",
+      "pedido_id": "2000015731552376",
+      "comprador": "JILMARAASSISSAMPAIORODRIGUE",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC61-03510A",
       "produto": "Gaveta Do Sabão Liquido Lava E Seca Samsung Original",
@@ -2075,34 +2103,6 @@
       "pedido_id": "2000015727532526",
       "comprador": "BORGESANGELICA20220126215306",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "DB93-10861D",
-      "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
-      "quantidade": 1,
-      "valor": 74.86,
-      "foto": "https://http2.mlstatic.com/D_699662-MLB108659154185_032026-O.jpg",
-      "item_id": "MLB1464885381",
-      "shipping_id": "46736976181",
-      "envio": "Full",
-      "data": "2026-03-27T12:41:46.000-04:00",
-      "pedido_id": "2000015727492704",
-      "comprador": "CHFA1904",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "KITTERMOSTATO",
-      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
-      "quantidade": 1,
-      "valor": 49,
-      "foto": "https://http2.mlstatic.com/D_762730-MLB89090811517_082025-O.jpg",
-      "item_id": "MLB3935360223",
-      "shipping_id": "46736985815",
-      "envio": "Flex",
-      "data": "2026-03-27T12:41:30.000-04:00",
-      "pedido_id": "2000015727486844",
-      "comprador": "LEANDRO.LESSA2005",
-      "pagamento": "bank_transfer"
     }
   ]
 }
