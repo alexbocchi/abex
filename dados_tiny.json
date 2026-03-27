@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:34:30.850Z",
+  "atualizado_em": "2026-03-27T22:36:30.968Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB61-03649A",
+      "produto": "Aleta Defletor Evaporadora Samsung 9 12 Original Db61-03649a",
+      "quantidade": 2,
+      "valor": 120,
+      "foto": "https://http2.mlstatic.com/D_762349-MLB74427815129_022024-O.jpg",
+      "item_id": "MLB2135882695",
+      "shipping_id": "46739371162",
+      "envio": "Flex",
+      "data": "2026-03-27T18:35:05.000-04:00",
+      "pedido_id": "2000015731893786",
+      "comprador": "FRANCOFRANCISCO68",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1118",
       "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015727758902",
       "comprador": "SIMOESMILENA20230720075646",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "KITSM1173",
-      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
-      "quantidade": 1,
-      "valor": 29.5,
-      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
-      "item_id": "MLB5347106848",
-      "shipping_id": "46737093143",
-      "envio": "Flex",
-      "data": "2026-03-27T12:59:35.000-04:00",
-      "pedido_id": "2000015727738668",
-      "comprador": "SARKISTHAIS",
-      "pagamento": "credit_card"
     },
     {
       "sku": "D144612",
