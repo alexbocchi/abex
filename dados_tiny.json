@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T18:48:30.998Z",
+  "atualizado_em": "2026-03-27T18:50:30.720Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62004011",
+      "produto": "Motor Evaporadora LG 7/9/12 Original E Novo Eau62004011",
+      "quantidade": 1,
+      "valor": 250,
+      "foto": "https://http2.mlstatic.com/D_854530-MLB105646746252_012026-O.jpg",
+      "item_id": "MLB1861307810",
+      "shipping_id": "46737803679",
+      "envio": "Full",
+      "data": "2026-03-27T14:48:59.000-04:00",
+      "pedido_id": "2000015729180202",
+      "comprador": "ROBSONNUNES98237878",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC31-00181B",
       "produto": "Bomba De Drenagem Para Lava E Seca Samsung Original 220v",
@@ -2061,20 +2075,6 @@
       "pedido_id": "2000015725677020",
       "comprador": "IDIVALDO R.BAPTISTA",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 74.7,
-      "foto": "https://http2.mlstatic.com/D_968242-MLB107340769115_022026-O.jpg",
-      "item_id": "MLB1584616358",
-      "shipping_id": "46736065177",
-      "envio": "Full",
-      "data": "2026-03-27T10:20:13.000-04:00",
-      "pedido_id": "2000015725596054",
-      "comprador": "MARISELECT",
-      "pagamento": "account_money"
     },
     {
       "sku": "3502-000115",
