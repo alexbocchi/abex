@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-27T21:42:30.673Z",
+  "atualizado_em": "2026-03-27T21:44:30.798Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AGF80317801",
+      "produto": "Kit Barramento De Led Tv LG 43lf6350 Agf80317801",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_681142-MLA99368761676_112025-O.jpg",
+      "item_id": "MLB4196834165",
+      "shipping_id": "46739106860",
+      "envio": "Flex",
+      "data": "2026-03-27T17:44:13.000-04:00",
+      "pedido_id": "2000015731310756",
+      "comprador": "CARMOALVESANAPAULA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46738822679",
+      "envio": "Flex",
+      "data": "2026-03-27T17:42:37.000-04:00",
+      "pedido_id": "2000015731277732",
+      "comprador": "LUIZSCANDURA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1158",
+      "produto": "Kit Retentor + Rolamentos Compatíveis Lava E Seca Samsung Wd106 Wd8854",
+      "quantidade": 1,
+      "valor": 76.78,
+      "foto": "https://http2.mlstatic.com/D_780463-MLA99925312349_112025-O.jpg",
+      "item_id": "MLB3643676243",
+      "shipping_id": "46738820029",
+      "envio": "Full",
+      "data": "2026-03-27T17:42:07.000-04:00",
+      "pedido_id": "2000015731265532",
+      "comprador": "4420241111143720",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DA32-10104N",
       "produto": "Sensor Temperatura Geladeira Samsung Rt38 Rt43 Rt46 Original",
@@ -30,6 +72,20 @@
       "data": "2026-03-27T17:39:21.000-04:00",
       "pedido_id": "2000015731223960",
       "comprador": "VD20241230132333",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "ABQ73301301",
+      "produto": "Display Evaporadora Alojamento Cabo Botão LG Abq73301301 127/220v",
+      "quantidade": 1,
+      "valor": 225,
+      "foto": "https://http2.mlstatic.com/D_909391-MLB105494917278_012026-O.jpg",
+      "item_id": "MLB4403522855",
+      "shipping_id": "46738826565",
+      "envio": "Full",
+      "data": "2026-03-27T17:37:55.000-04:00",
+      "pedido_id": "2000015731244616",
+      "comprador": "THI_CARMO2010",
       "pagamento": "bank_transfer"
     },
     {
@@ -2035,34 +2091,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
-      "quantidade": 1,
-      "valor": 35.5,
-      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
-      "item_id": "MLB3791029185",
-      "shipping_id": "46737233158",
-      "envio": "Full",
-      "data": "2026-03-27T12:38:54.000-04:00",
-      "pedido_id": "2000015727464324",
-      "comprador": "K.IMPORTADOS",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "021824",
-      "produto": "Hélice Ventilador Britânia Protect Turbo 30 Original Preto",
-      "quantidade": 1,
-      "valor": 22.8,
-      "foto": "https://http2.mlstatic.com/D_906257-MLB107517047752_032026-O.jpg",
-      "item_id": "MLB6419258984",
-      "shipping_id": "46736957827",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:38:50.000-04:00",
-      "pedido_id": "2000015727464286",
-      "comprador": "BLANKERNESTO",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "022019",
       "produto": "Hélice Ventilador Britânia Ventus 40 Six 40cm 6 Pas Cor Cinza-escuro",
       "quantidade": 1,
@@ -2074,34 +2102,6 @@
       "data": "2026-03-27T12:38:45.000-04:00",
       "pedido_id": "2000015727433778",
       "comprador": "ALINEPASSOSSANTOS3",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DB93-15882Q",
-      "produto": "Controle Ar Condicionado Split Samsung Virus Doctor Inverter Branco",
-      "quantidade": 1,
-      "valor": 70,
-      "foto": "https://http2.mlstatic.com/D_903361-MLB89166263134_082025-O.jpg",
-      "item_id": "MLB1613573954",
-      "shipping_id": "46737232868",
-      "envio": "Full",
-      "data": "2026-03-27T12:38:44.000-04:00",
-      "pedido_id": "2000015727468052",
-      "comprador": "BDFHGEACACFEGHDB20230725091438",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "KITSM1077",
-      "produto": "Conjunto 4 Pé Nivelador Lava E Seca Samsung Dc97-00920u",
-      "quantidade": 1,
-      "valor": 29.4,
-      "foto": "https://http2.mlstatic.com/D_803194-MLB102489225246_122025-O.jpg",
-      "item_id": "MLB4107620973",
-      "shipping_id": "46736954565",
-      "envio": "Flex",
-      "data": "2026-03-27T12:37:09.000-04:00",
-      "pedido_id": "2000015727419532",
-      "comprador": "MARCOSROBERTOPEREIRA7328",
       "pagamento": "bank_transfer"
     }
   ]
