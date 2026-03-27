@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-03-27T15:18:06.798Z",
+  "atualizado_em": "2026-03-27T15:20:07.069Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBG63935701",
+      "produto": "Termostato Para Lava E Seca LG Wd-1403rd 1409rd 1412rt",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_739543-MLB53707686227_022023-O.jpg",
+      "item_id": "MLB1889116982",
+      "shipping_id": "46736451679",
+      "envio": "Full",
+      "data": "2026-03-27T11:19:43.000-04:00",
+      "pedido_id": "2000015726396458"
+    },
+    {
+      "sku": "3L-210",
+      "produto": "Correia Para Lavadora Panasonic Na-f140 Na-f160",
+      "quantidade": 1,
+      "valor": 21.44,
+      "foto": "https://http2.mlstatic.com/D_727520-MLA82301977428_022025-O.jpg",
+      "item_id": "MLB5293987380",
+      "shipping_id": "46736720306",
+      "envio": "Coleta",
+      "data": "2026-03-27T11:18:53.000-04:00",
+      "pedido_id": "2000015726382976"
+    },
+    {
+      "sku": "12638100000535",
+      "produto": "Gaxeta Borracha Da Porta Lavadora Midea 11kg Lfa11x2 Lfb11x1",
+      "quantidade": 1,
+      "valor": 197,
+      "foto": "https://http2.mlstatic.com/D_790353-MLB107631493522_032026-O.jpg",
+      "item_id": "MLB3943230447",
+      "shipping_id": "46736715506",
+      "envio": "Full",
+      "data": "2026-03-27T11:18:04.000-04:00",
+      "pedido_id": "2000015726388066"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
@@ -1743,42 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T05:48:04.000-04:00",
       "pedido_id": "2000015723090494"
-    },
-    {
-      "sku": "783198",
-      "produto": "Filtro 103 Permanente Cafeteira Britânia Ph30 Cp30 Original",
-      "quantidade": 2,
-      "valor": 16.9,
-      "foto": "https://http2.mlstatic.com/D_789635-MLB104328507458_012026-O.jpg",
-      "item_id": "MLB5164067526",
-      "shipping_id": "46734749599",
-      "envio": "Flex",
-      "data": "2026-03-27T05:20:05.000-04:00",
-      "pedido_id": "2000015723016140"
-    },
-    {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
-      "item_id": "MLB5506740256",
-      "shipping_id": "46734746347",
-      "envio": "Full",
-      "data": "2026-03-27T05:17:47.000-04:00",
-      "pedido_id": "2000015722984926"
-    },
-    {
-      "sku": "733219",
-      "produto": "Batedor Clara Em Neve Batedeira Planetária Philco Php500 Nf",
-      "quantidade": 1,
-      "valor": 74.1,
-      "foto": "https://http2.mlstatic.com/D_969878-MLB104857072317_012026-O.jpg",
-      "item_id": "MLB3947411781",
-      "shipping_id": "46734741971",
-      "envio": "Coleta",
-      "data": "2026-03-27T05:14:03.000-04:00",
-      "pedido_id": "2000015723006324"
     },
     {
       "sku": "DC64-03235A",
