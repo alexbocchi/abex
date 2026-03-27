@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-03-27T23:24:30.670Z",
+  "atualizado_em": "2026-03-27T23:26:30.817Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11a4453bx/az Original",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_912605-MLB102980228775_122025-O.jpg",
+      "item_id": "MLB3935334297",
+      "shipping_id": "46739637672",
+      "envio": "Full",
+      "data": "2026-03-27T19:26:02.000-04:00",
+      "pedido_id": "2000015732487938",
+      "comprador": "VINTBRA",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM0022",
+      "produto": "Trava Da Porta + Puxador Lava E Seca Samsung 110v Wd106 Wd10",
+      "quantidade": 1,
+      "valor": 78.9,
+      "foto": "https://http2.mlstatic.com/D_883586-MLB80963500035_112024-O.jpg",
+      "item_id": "MLB3917442465",
+      "shipping_id": "46739636116",
+      "envio": "Coleta",
+      "data": "2026-03-27T19:25:50.000-04:00",
+      "pedido_id": "2000015732473006",
+      "comprador": "COSTACYNTHIA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
+      "quantidade": 1,
+      "valor": 227,
+      "foto": "https://http2.mlstatic.com/D_737002-MLA99943156387_112025-O.jpg",
+      "item_id": "MLB5886754752",
+      "shipping_id": "46739630848",
+      "envio": "Full",
+      "data": "2026-03-27T19:24:49.000-04:00",
+      "pedido_id": "2000015732449356",
+      "comprador": "LINHARESJOACIR",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_977418-MLA105567224550_012026-O.jpg",
+      "item_id": "MLB5677380018",
+      "shipping_id": "46739360003",
+      "envio": "Full",
+      "data": "2026-03-27T19:21:39.000-04:00",
+      "pedido_id": "2000015732434684",
+      "comprador": "JAMA20240304091251",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
@@ -2035,20 +2091,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 2,
-      "valor": 207.08,
-      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
-      "item_id": "MLB4057130417",
-      "shipping_id": "46737469777",
-      "envio": "Full",
-      "data": "2026-03-27T13:58:23.000-04:00",
-      "pedido_id": "2000015728522834",
-      "comprador": "RE20240716100354",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "KITLG0002",
       "produto": "Kit Amortecedor Lava E Seca LG 4901er2003a Wd1485 Wd1403 C/3",
       "quantidade": 1,
@@ -2061,48 +2103,6 @@
       "pedido_id": "2000015728516516",
       "comprador": "DIRO8066644",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "EBF61315802",
-      "produto": "Trava Porta 110v Lava Seca LG Original Ebf61315802",
-      "quantidade": 1,
-      "valor": 70,
-      "foto": "https://http2.mlstatic.com/D_950001-MLB73303838997_122023-O.jpg",
-      "item_id": "MLB1894253875",
-      "shipping_id": "46737724814",
-      "envio": "Full",
-      "data": "2026-03-27T13:54:05.000-04:00",
-      "pedido_id": "2000015728456922",
-      "comprador": "CLEONICEINESZANETTI",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC31-00181C",
-      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
-      "quantidade": 1,
-      "valor": 69.73,
-      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
-      "item_id": "MLB4106668967",
-      "shipping_id": "46737699456",
-      "envio": "Flex",
-      "data": "2026-03-27T13:51:25.000-04:00",
-      "pedido_id": "2000015728403816",
-      "comprador": "CARVALAG",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "D150946",
-      "produto": "Capacitor Duplo Ar Condicionad Midea 9000 12000 35+2,5uf440v",
-      "quantidade": 1,
-      "valor": 48,
-      "foto": "https://http2.mlstatic.com/D_964009-MLB101657732314_122025-O.jpg",
-      "item_id": "MLB5108057610",
-      "shipping_id": "46737700848",
-      "envio": "Full",
-      "data": "2026-03-27T13:50:35.000-04:00",
-      "pedido_id": "2000015728418418",
-      "comprador": "CAJO4120043",
-      "pagamento": "bank_transfer"
     }
   ]
 }
