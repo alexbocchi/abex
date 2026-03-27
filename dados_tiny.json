@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-03-27T16:12:06.964Z",
+  "atualizado_em": "2026-03-27T16:14:07.048Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora Ar Condicionado LG S4nq12ja31c Usnq122hsg3 220v",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_957106-MLA99935936501_112025-O.jpg",
+      "item_id": "MLB4145100667",
+      "shipping_id": "46737071978",
+      "envio": "Full",
+      "data": "2026-03-27T12:13:48.000-04:00",
+      "pedido_id": "2000015727109378"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914"
+    },
     {
       "sku": "DB95-01990D",
       "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
@@ -1743,42 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:53:17.000-04:00",
       "pedido_id": "2000015723811322"
-    },
-    {
-      "sku": "DC61-03510A",
-      "produto": "Gaveta Do Sabão Liquido Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 29.14,
-      "foto": "https://http2.mlstatic.com/D_785329-MLB106923670159_022026-O.jpg",
-      "item_id": "MLB1612678889",
-      "shipping_id": "46735176631",
-      "envio": "Full",
-      "data": "2026-03-27T07:52:44.000-04:00",
-      "pedido_id": "2000015723834054"
-    },
-    {
-      "sku": "739388",
-      "produto": "Bocal Para Piso De Reposição Para Aspirador Pas4000v Philco",
-      "quantidade": 1,
-      "valor": 104.58,
-      "foto": "https://http2.mlstatic.com/D_783958-MLB104986201613_012026-O.jpg",
-      "item_id": "MLB3988758265",
-      "shipping_id": "46735165995",
-      "envio": "Full",
-      "data": "2026-03-27T07:50:22.000-04:00",
-      "pedido_id": "2000015723806792"
-    },
-    {
-      "sku": "EBF49827801",
-      "produto": "Trava Da Porta Lava E Seca LG Wd-1410rd Wd-1403 Ebf49827801",
-      "quantidade": 1,
-      "valor": 66.92,
-      "foto": "https://http2.mlstatic.com/D_678512-MLA99412764884_112025-O.jpg",
-      "item_id": "MLB3955177781",
-      "shipping_id": "46735437150",
-      "envio": "Full",
-      "data": "2026-03-27T07:49:27.000-04:00",
-      "pedido_id": "2000015723762008"
     },
     {
       "sku": "DC64-03235A",
