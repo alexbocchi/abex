@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T22:50:30.945Z",
+  "atualizado_em": "2026-03-27T22:52:31.030Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC67-00230E",
+      "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
+      "quantidade": 1,
+      "valor": 30,
+      "foto": "https://http2.mlstatic.com/D_811317-MLB70622251378_072023-O.jpg",
+      "item_id": "MLB3320638231",
+      "shipping_id": "46739452646",
+      "envio": "Full",
+      "data": "2026-03-27T18:50:35.000-04:00",
+      "pedido_id": "2000015732068826",
+      "comprador": "DEMA140765",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC64-03235A",
       "produto": "Borracha Da Porta Lava E Seca Samsung Wd11m4453jw",
@@ -2088,20 +2102,6 @@
       "data": "2026-03-27T13:18:15.000-04:00",
       "pedido_id": "2000015727984712",
       "comprador": "G20250829135920",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "756750",
-      "produto": "Alça Para Cesto Fritadeira Philco Air Fry Saude Inox Ph 3,2l",
-      "quantidade": 1,
-      "valor": 50.36,
-      "foto": "https://http2.mlstatic.com/D_656557-MLB104418520464_012026-O.jpg",
-      "item_id": "MLB3939587117",
-      "shipping_id": "46737487226",
-      "envio": "Coleta",
-      "data": "2026-03-27T13:16:30.000-04:00",
-      "pedido_id": "2000015727974078",
-      "comprador": "ANALCIAMACIELFORTESRIBEIRO",
       "pagamento": "bank_transfer"
     }
   ]
