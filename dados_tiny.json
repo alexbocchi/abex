@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T15:20:07.069Z",
+  "atualizado_em": "2026-03-27T15:21:43.677Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -14,7 +14,9 @@
       "shipping_id": "46736451679",
       "envio": "Full",
       "data": "2026-03-27T11:19:43.000-04:00",
-      "pedido_id": "2000015726396458"
+      "pedido_id": "2000015726396458",
+      "comprador": "CSOUZAJOANA1978",
+      "pagamento": "credit_card"
     },
     {
       "sku": "3L-210",
@@ -26,7 +28,9 @@
       "shipping_id": "46736720306",
       "envio": "Coleta",
       "data": "2026-03-27T11:18:53.000-04:00",
-      "pedido_id": "2000015726382976"
+      "pedido_id": "2000015726382976",
+      "comprador": "SRA MUNIZ",
+      "pagamento": "credit_card"
     },
     {
       "sku": "12638100000535",
@@ -38,7 +42,9 @@
       "shipping_id": "46736715506",
       "envio": "Full",
       "data": "2026-03-27T11:18:04.000-04:00",
-      "pedido_id": "2000015726388066"
+      "pedido_id": "2000015726388066",
+      "comprador": "CAROLDESANTI2010",
+      "pagamento": "account_money"
     },
     {
       "sku": "25906088",
@@ -50,7 +56,9 @@
       "shipping_id": "46736708442",
       "envio": "Full",
       "data": "2026-03-27T11:16:52.000-04:00",
-      "pedido_id": "2000015726341918"
+      "pedido_id": "2000015726341918",
+      "comprador": "OLLU515573",
+      "pagamento": "credit_card"
     },
     {
       "sku": "021392",
@@ -62,7 +70,9 @@
       "shipping_id": "46736430485",
       "envio": "Coleta",
       "data": "2026-03-27T11:16:26.000-04:00",
-      "pedido_id": "2000015726366118"
+      "pedido_id": "2000015726366118",
+      "comprador": "RAYNARAALLANA15",
+      "pagamento": "credit_card"
     },
     {
       "sku": "AKB75215403",
@@ -74,7 +84,9 @@
       "shipping_id": "46736426543",
       "envio": "Full",
       "data": "2026-03-27T11:15:52.000-04:00",
-      "pedido_id": "2000015726358232"
+      "pedido_id": "2000015726358232",
+      "comprador": "GABRIELAMOSEGUI",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC97-00920U",
@@ -86,7 +98,9 @@
       "shipping_id": "46736675696",
       "envio": "Flex",
       "data": "2026-03-27T11:10:10.000-04:00",
-      "pedido_id": "2000015726261342"
+      "pedido_id": "2000015726261342",
+      "comprador": "ARLETEMEDICI",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DB93-10861D",
@@ -98,7 +112,9 @@
       "shipping_id": "46736664480",
       "envio": "Full",
       "data": "2026-03-27T11:09:52.000-04:00",
-      "pedido_id": "2000015726268626"
+      "pedido_id": "2000015726268626",
+      "comprador": "SARA CARVALH0",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC97-02250F",
@@ -110,7 +126,9 @@
       "shipping_id": "46736660898",
       "envio": "Flex",
       "data": "2026-03-27T11:09:08.000-04:00",
-      "pedido_id": "2000015726260622"
+      "pedido_id": "2000015726260622",
+      "comprador": "REBECASOFIA57",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DB96-24901V",
@@ -122,7 +140,9 @@
       "shipping_id": "46736370653",
       "envio": "Full",
       "data": "2026-03-27T11:06:46.000-04:00",
-      "pedido_id": "2000015726226776"
+      "pedido_id": "2000015726226776",
+      "comprador": "TALARICOROBSON",
+      "pagamento": "credit_card"
     },
     {
       "sku": "022019",
@@ -134,7 +154,9 @@
       "shipping_id": "46736351825",
       "envio": "Flex",
       "data": "2026-03-27T11:03:13.000-04:00",
-      "pedido_id": "2000015726190462"
+      "pedido_id": "2000015726190462",
+      "comprador": "KAIQUEGINAS",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "AXBX01",
@@ -146,7 +168,9 @@
       "shipping_id": "46736616458",
       "envio": "Full",
       "data": "2026-03-27T11:02:06.000-04:00",
-      "pedido_id": "2000015726174458"
+      "pedido_id": "2000015726174458",
+      "comprador": "MURTALUCIANNE20221205150642",
+      "pagamento": "account_money"
     },
     {
       "sku": "EAU61383504",
@@ -158,7 +182,9 @@
       "shipping_id": "46736605830",
       "envio": "Full",
       "data": "2026-03-27T11:00:26.000-04:00",
-      "pedido_id": "2000015726154552"
+      "pedido_id": "2000015726154552",
+      "comprador": "SCHWARTZJORGE",
+      "pagamento": "account_money"
     },
     {
       "sku": "4280A20004M",
@@ -170,7 +196,9 @@
       "shipping_id": "46736589810",
       "envio": "Coleta",
       "data": "2026-03-27T10:56:42.000-04:00",
-      "pedido_id": "2000015726090838"
+      "pedido_id": "2000015726090838",
+      "comprador": "SILVIOCGARUTTI",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC64-01538B",
@@ -182,7 +210,9 @@
       "shipping_id": "46736309749",
       "envio": "Full",
       "data": "2026-03-27T10:56:29.000-04:00",
-      "pedido_id": "2000015726100054"
+      "pedido_id": "2000015726100054",
+      "comprador": "FEIS7709377",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU62983004",
@@ -194,7 +224,9 @@
       "shipping_id": "46736539530",
       "envio": "Full",
       "data": "2026-03-27T10:50:09.000-04:00",
-      "pedido_id": "2000015725990996"
+      "pedido_id": "2000015725990996",
+      "comprador": "LS20250222184331",
+      "pagamento": "credit_card"
     },
     {
       "sku": "EAU62983004",
@@ -206,7 +238,9 @@
       "shipping_id": "46736236225",
       "envio": "Full",
       "data": "2026-03-27T10:46:16.000-04:00",
-      "pedido_id": "2000015725945558"
+      "pedido_id": "2000015725945558",
+      "comprador": "CARLOSSERGIOSOBRINHOGOMESGO",
+      "pagamento": "account_money"
     },
     {
       "sku": "DB93-11009A",
@@ -218,7 +252,9 @@
       "shipping_id": "46736511258",
       "envio": "Full",
       "data": "2026-03-27T10:46:10.000-04:00",
-      "pedido_id": "2000015725950374"
+      "pedido_id": "2000015725950374",
+      "comprador": "FIARRESGO",
+      "pagamento": "credit_card"
     },
     {
       "sku": "074369",
@@ -230,7 +266,9 @@
       "shipping_id": "46736198743",
       "envio": "Coleta",
       "data": "2026-03-27T10:40:49.000-04:00",
-      "pedido_id": "2000015725859036"
+      "pedido_id": "2000015725859036",
+      "comprador": "ALINEBRUNOLIMA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC31-00181C",
@@ -242,7 +280,9 @@
       "shipping_id": "46736197057",
       "envio": "Full",
       "data": "2026-03-27T10:40:34.000-04:00",
-      "pedido_id": "2000015725865860"
+      "pedido_id": "2000015725865860",
+      "comprador": "SUAREZ WINES",
+      "pagamento": "account_money"
     },
     {
       "sku": "25906088",
@@ -254,7 +294,9 @@
       "shipping_id": "46736471136",
       "envio": "Full",
       "data": "2026-03-27T10:40:22.000-04:00",
-      "pedido_id": "2000015725871028"
+      "pedido_id": "2000015725871028",
+      "comprador": "RODOLPHO00",
+      "pagamento": "account_money"
     },
     {
       "sku": "DB96-13970D",
@@ -266,7 +308,9 @@
       "shipping_id": "46736198491",
       "envio": "Flex",
       "data": "2026-03-27T10:39:27.000-04:00",
-      "pedido_id": "2000015725835558"
+      "pedido_id": "2000015725835558",
+      "comprador": "DECIOTGR",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU62983004",
@@ -278,7 +322,9 @@
       "shipping_id": "46736169517",
       "envio": "Full",
       "data": "2026-03-27T10:36:13.000-04:00",
-      "pedido_id": "2000015725812808"
+      "pedido_id": "2000015725812808",
+      "comprador": "SEYTIITO",
+      "pagamento": "account_money"
     },
     {
       "sku": "021713PL",
@@ -290,7 +336,9 @@
       "shipping_id": "46736169077",
       "envio": "Coleta",
       "data": "2026-03-27T10:36:07.000-04:00",
-      "pedido_id": "2000015725779888"
+      "pedido_id": "2000015725779888",
+      "comprador": "OLIVERIRABRENO20230612171204",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KITLG0011",
@@ -302,7 +350,9 @@
       "shipping_id": "46736139535",
       "envio": "Full",
       "data": "2026-03-27T10:31:50.000-04:00",
-      "pedido_id": "2000015725745288"
+      "pedido_id": "2000015725745288",
+      "comprador": "KARINERORIZDECARVALHO",
+      "pagamento": "account_money"
     },
     {
       "sku": "AWW024CA4Y20",
@@ -314,7 +364,9 @@
       "shipping_id": "46736410258",
       "envio": "Coleta",
       "data": "2026-03-27T10:31:11.000-04:00",
-      "pedido_id": "2000015725722974"
+      "pedido_id": "2000015725722974",
+      "comprador": "SIDA3455188",
+      "pagamento": "credit_card"
     },
     {
       "sku": "25906088",
@@ -326,7 +378,9 @@
       "shipping_id": "46736390476",
       "envio": "Flex",
       "data": "2026-03-27T10:27:27.000-04:00",
-      "pedido_id": "2000015725677020"
+      "pedido_id": "2000015725677020",
+      "comprador": "IDIVALDO R.BAPTISTA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KITSM1097",
@@ -338,7 +392,9 @@
       "shipping_id": "46736065177",
       "envio": "Full",
       "data": "2026-03-27T10:20:13.000-04:00",
-      "pedido_id": "2000015725596054"
+      "pedido_id": "2000015725596054",
+      "comprador": "MARISELECT",
+      "pagamento": "account_money"
     },
     {
       "sku": "KITSM1097",
@@ -350,7 +406,9 @@
       "shipping_id": "46736026029",
       "envio": "Full",
       "data": "2026-03-27T10:14:09.000-04:00",
-      "pedido_id": "2000015725514462"
+      "pedido_id": "2000015725514462",
+      "comprador": "LUIZHENRIQUEZANARDIDESOUZA",
+      "pagamento": "account_money"
     },
     {
       "sku": "DB32-00274A",
@@ -362,7 +420,9 @@
       "shipping_id": "46736276124",
       "envio": "Coleta",
       "data": "2026-03-27T10:10:44.000-04:00",
-      "pedido_id": "2000015725464256"
+      "pedido_id": "2000015725464256",
+      "comprador": "RODRIGORODRIGUESCARVALHO",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DB95-01990D",
@@ -374,7 +434,9 @@
       "shipping_id": "46736274104",
       "envio": "Full",
       "data": "2026-03-27T10:10:30.000-04:00",
-      "pedido_id": "2000015725443132"
+      "pedido_id": "2000015725443132",
+      "comprador": "EE9629546",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "4280A20004M",
@@ -386,7 +448,9 @@
       "shipping_id": "46736266102",
       "envio": "Coleta",
       "data": "2026-03-27T10:09:11.000-04:00",
-      "pedido_id": "2000015725441198"
+      "pedido_id": "2000015725441198",
+      "comprador": "GILSONEICARNEIROCUNHACARNEIR",
+      "pagamento": "account_money"
     },
     {
       "sku": "KITSM1118",
@@ -398,7 +462,9 @@
       "shipping_id": "46735986759",
       "envio": "Flex",
       "data": "2026-03-27T10:08:34.000-04:00",
-      "pedido_id": "2000015725431344"
+      "pedido_id": "2000015725431344",
+      "comprador": "ANDREAUGRINMAGALHAES",
+      "pagamento": "account_money"
     },
     {
       "sku": "KITEIXOCOMPLETOZZ",
@@ -410,7 +476,9 @@
       "shipping_id": "46735986701",
       "envio": "Flex",
       "data": "2026-03-27T10:08:33.000-04:00",
-      "pedido_id": "2000015725438074"
+      "pedido_id": "2000015725438074",
+      "comprador": "ANDREAUGRINMAGALHAES",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC31-00181C",
@@ -422,7 +490,9 @@
       "shipping_id": "46735985451",
       "envio": "Flex",
       "data": "2026-03-27T10:08:16.000-04:00",
-      "pedido_id": "2000015725428330"
+      "pedido_id": "2000015725428330",
+      "comprador": "RITMAG",
+      "pagamento": "credit_card"
     },
     {
       "sku": "EAU62983004",
@@ -434,7 +504,9 @@
       "shipping_id": "46736252006",
       "envio": "Full",
       "data": "2026-03-27T10:06:50.000-04:00",
-      "pedido_id": "2000015725412462"
+      "pedido_id": "2000015725412462",
+      "comprador": "FRANCISCOEDVANDASILVAGOMES",
+      "pagamento": "digital_currency"
     },
     {
       "sku": "3502-000115",
@@ -446,7 +518,9 @@
       "shipping_id": "46736245316",
       "envio": "Coleta",
       "data": "2026-03-27T10:05:59.000-04:00",
-      "pedido_id": "2000015725398426"
+      "pedido_id": "2000015725398426",
+      "comprador": "MIRANDAJOSECARLOSMIRANDAFIL",
+      "pagamento": "ticket"
     },
     {
       "sku": "DC62-10289C",
@@ -458,7 +532,9 @@
       "shipping_id": "46736213742",
       "envio": "Full",
       "data": "2026-03-27T10:00:54.000-04:00",
-      "pedido_id": "2000015725321050"
+      "pedido_id": "2000015725321050",
+      "comprador": "MENDONCADANIEL49",
+      "pagamento": "account_money"
     },
     {
       "sku": "KITTERMOSTATO4",
@@ -470,7 +546,9 @@
       "shipping_id": "46736196192",
       "envio": "Coleta",
       "data": "2026-03-27T09:58:22.000-04:00",
-      "pedido_id": "2000015725287174"
+      "pedido_id": "2000015725287174",
+      "comprador": "SJ20240529143815",
+      "pagamento": "credit_card"
     },
     {
       "sku": "021392",
@@ -482,7 +560,9 @@
       "shipping_id": "46736189540",
       "envio": "Coleta",
       "data": "2026-03-27T09:57:23.000-04:00",
-      "pedido_id": "2000015725272878"
+      "pedido_id": "2000015725272878",
+      "comprador": "NIKAALMEIDA7",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "AKB75675304",
@@ -494,7 +574,9 @@
       "shipping_id": "46735897627",
       "envio": "Full",
       "data": "2026-03-27T09:54:37.000-04:00",
-      "pedido_id": "2000015725244450"
+      "pedido_id": "2000015725244450",
+      "comprador": "ZNOFREEKILL",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM1097",
@@ -506,7 +588,9 @@
       "shipping_id": "46735891795",
       "envio": "Full",
       "data": "2026-03-27T09:53:59.000-04:00",
-      "pedido_id": "2000015725234476"
+      "pedido_id": "2000015725234476",
+      "comprador": "IVEBONDANBOLA",
+      "pagamento": "credit_card"
     },
     {
       "sku": "003904",
@@ -518,7 +602,9 @@
       "shipping_id": "46736165164",
       "envio": "Coleta",
       "data": "2026-03-27T09:53:34.000-04:00",
-      "pedido_id": "2000015725228644"
+      "pedido_id": "2000015725228644",
+      "comprador": "RMORAESCOSTA",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC67-00230E",
@@ -530,7 +616,9 @@
       "shipping_id": "46735853023",
       "envio": "Full",
       "data": "2026-03-27T09:48:05.000-04:00",
-      "pedido_id": "2000015725135846"
+      "pedido_id": "2000015725135846",
+      "comprador": "KESAVANMENON",
+      "pagamento": "account_money"
     },
     {
       "sku": "DB92-02796A",
@@ -542,7 +630,9 @@
       "shipping_id": "46736124908",
       "envio": "Coleta",
       "data": "2026-03-27T09:46:59.000-04:00",
-      "pedido_id": "2000015725135024"
+      "pedido_id": "2000015725135024",
+      "comprador": "GUSTAVOTANERZ",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC31-00181C",
@@ -554,7 +644,9 @@
       "shipping_id": "46736112606",
       "envio": "Flex",
       "data": "2026-03-27T09:45:07.000-04:00",
-      "pedido_id": "2000015725116270"
+      "pedido_id": "2000015725116270",
+      "comprador": "KELPIRESFERNANDES",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "796349",
@@ -566,7 +658,9 @@
       "shipping_id": "46735828871",
       "envio": "Flex",
       "data": "2026-03-27T09:44:30.000-04:00",
-      "pedido_id": "2000015725114722"
+      "pedido_id": "2000015725114722",
+      "comprador": "EDNEIADUTRACARNEIRO",
+      "pagamento": "account_money"
     },
     {
       "sku": "739388",
@@ -578,7 +672,9 @@
       "shipping_id": "46735828341",
       "envio": "Flex",
       "data": "2026-03-27T09:44:26.000-04:00",
-      "pedido_id": "2000015725113156"
+      "pedido_id": "2000015725113156",
+      "comprador": "EDNEIADUTRACARNEIRO",
+      "pagamento": "account_money"
     },
     {
       "sku": "EAU62983004",
@@ -590,7 +686,9 @@
       "shipping_id": "46736103780",
       "envio": "Full",
       "data": "2026-03-27T09:44:24.000-04:00",
-      "pedido_id": "2000015725106778"
+      "pedido_id": "2000015725106778",
+      "comprador": "DD20251130192627",
+      "pagamento": "credit_card"
     },
     {
       "sku": "EBF49827801",
@@ -602,7 +700,9 @@
       "shipping_id": "46735823599",
       "envio": "Full",
       "data": "2026-03-27T09:43:37.000-04:00",
-      "pedido_id": "2000015725108018"
+      "pedido_id": "2000015725108018",
+      "comprador": "JOÃOVICTORLS",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC34-00026B",
@@ -614,7 +714,9 @@
       "shipping_id": "46736076196",
       "envio": "Coleta",
       "data": "2026-03-27T09:40:12.000-04:00",
-      "pedido_id": "2000015725037120"
+      "pedido_id": "2000015725037120",
+      "comprador": "ROAD4113325",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KIT1SM1118",
@@ -626,7 +728,9 @@
       "shipping_id": "46736059502",
       "envio": "Full",
       "data": "2026-03-27T09:37:31.000-04:00",
-      "pedido_id": "2000015725019874"
+      "pedido_id": "2000015725019874",
+      "comprador": "RIED1768734",
+      "pagamento": "account_money"
     },
     {
       "sku": "EAU62983004",
@@ -638,7 +742,9 @@
       "shipping_id": "46736057066",
       "envio": "Full",
       "data": "2026-03-27T09:37:06.000-04:00",
-      "pedido_id": "2000015724987938"
+      "pedido_id": "2000015724987938",
+      "comprador": "ALBUQUERQUE1964",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM1118",
@@ -650,7 +756,9 @@
       "shipping_id": "46736055378",
       "envio": "Full",
       "data": "2026-03-27T09:36:50.000-04:00",
-      "pedido_id": "2000015724991426"
+      "pedido_id": "2000015724991426",
+      "comprador": "JORGEVICENTEOLIVEIRAFILHO",
+      "pagamento": "credit_card"
     },
     {
       "sku": "796349",
@@ -662,7 +770,9 @@
       "shipping_id": "46736053220",
       "envio": "Coleta",
       "data": "2026-03-27T09:36:29.000-04:00",
-      "pedido_id": "2000015725003578"
+      "pedido_id": "2000015725003578",
+      "comprador": "JPALFA2014",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC97-02250F",
@@ -674,7 +784,9 @@
       "shipping_id": "46736050162",
       "envio": "Flex",
       "data": "2026-03-27T09:35:59.000-04:00",
-      "pedido_id": "2000015724977804"
+      "pedido_id": "2000015724977804",
+      "comprador": "LISIANETHOMAZZI",
+      "pagamento": "credit_card"
     },
     {
       "sku": "25906085",
@@ -686,7 +798,9 @@
       "shipping_id": "46735768747",
       "envio": "Full",
       "data": "2026-03-27T09:34:55.000-04:00",
-      "pedido_id": "2000015724988096"
+      "pedido_id": "2000015724988096",
+      "comprador": "JS20241202125407",
+      "pagamento": "credit_card"
     },
     {
       "sku": "AKB75675304",
@@ -698,7 +812,9 @@
       "shipping_id": "46736031146",
       "envio": "Full",
       "data": "2026-03-27T09:33:12.000-04:00",
-      "pedido_id": "2000015724974028"
+      "pedido_id": "2000015724974028",
+      "comprador": "FEJO9624331",
+      "pagamento": "account_money"
     },
     {
       "sku": "EBR82870714",
@@ -710,7 +826,9 @@
       "shipping_id": "46736028466",
       "envio": "Full",
       "data": "2026-03-27T09:32:40.000-04:00",
-      "pedido_id": "2000015724950710"
+      "pedido_id": "2000015724950710",
+      "comprador": "RUKKA33GMAIL",
+      "pagamento": "credit_card"
     },
     {
       "sku": "5900AR1266A",
@@ -722,7 +840,9 @@
       "shipping_id": "46736026206",
       "envio": "Full",
       "data": "2026-03-27T09:32:19.000-04:00",
-      "pedido_id": "2000015724939102"
+      "pedido_id": "2000015724939102",
+      "comprador": "SILMARAPRECIATODOSSANTOSSAN",
+      "pagamento": "credit_card"
     },
     {
       "sku": "EBR82870714",
@@ -734,7 +854,9 @@
       "shipping_id": "46735762043",
       "envio": "Full",
       "data": "2026-03-27T09:32:01.000-04:00",
-      "pedido_id": "2000015724938898"
+      "pedido_id": "2000015724938898",
+      "comprador": "WILLYAMCDUTRA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC64-03235A",
@@ -746,7 +868,9 @@
       "shipping_id": "46735741667",
       "envio": "Full",
       "data": "2026-03-27T09:30:22.000-04:00",
-      "pedido_id": "2000015724913076"
+      "pedido_id": "2000015724913076",
+      "comprador": "DANREMI",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAD60714618",
@@ -758,7 +882,9 @@
       "shipping_id": "46735724947",
       "envio": "Full",
       "data": "2026-03-27T09:28:10.000-04:00",
-      "pedido_id": "2000015724879522"
+      "pedido_id": "2000015724879522",
+      "comprador": "GACA3929279",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITLG0002",
@@ -770,7 +896,9 @@
       "shipping_id": "46735962340",
       "envio": "Full",
       "data": "2026-03-27T09:22:32.000-04:00",
-      "pedido_id": "2000015724828626"
+      "pedido_id": "2000015724828626",
+      "comprador": "MS20251118114702",
+      "pagamento": "account_money"
     },
     {
       "sku": "783198",
@@ -782,7 +910,9 @@
       "shipping_id": "46735953466",
       "envio": "Full",
       "data": "2026-03-27T09:21:09.000-04:00",
-      "pedido_id": "2000015724805330"
+      "pedido_id": "2000015724805330",
+      "comprador": "THIAGO.BELLINI",
+      "pagamento": "account_money"
     },
     {
       "sku": "023254",
@@ -794,7 +924,9 @@
       "shipping_id": "46735658361",
       "envio": "Coleta",
       "data": "2026-03-27T09:18:02.000-04:00",
-      "pedido_id": "2000015724770282"
+      "pedido_id": "2000015724770282",
+      "comprador": "NAUTILLUS STORE",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC31-00181C",
@@ -806,7 +938,9 @@
       "shipping_id": "46735645909",
       "envio": "Full",
       "data": "2026-03-27T09:15:15.000-04:00",
-      "pedido_id": "2000015724740338"
+      "pedido_id": "2000015724740338",
+      "comprador": "SAMA5121151",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "W2921-28806",
@@ -818,7 +952,9 @@
       "shipping_id": "46735633315",
       "envio": "Coleta",
       "data": "2026-03-27T09:13:51.000-04:00",
-      "pedido_id": "2000015724713006"
+      "pedido_id": "2000015724713006",
+      "comprador": "JA3039DE",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM1097",
@@ -830,7 +966,9 @@
       "shipping_id": "46735628123",
       "envio": "Full",
       "data": "2026-03-27T09:12:58.000-04:00",
-      "pedido_id": "2000015724708758"
+      "pedido_id": "2000015724708758",
+      "comprador": "THIAGOCAMILOTTITITO",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC97-02250F",
@@ -842,7 +980,9 @@
       "shipping_id": "46735633819",
       "envio": "Flex",
       "data": "2026-03-27T09:12:41.000-04:00",
-      "pedido_id": "2000015724689278"
+      "pedido_id": "2000015724689278",
+      "comprador": "JAKE00",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC31-00181C",
@@ -854,7 +994,9 @@
       "shipping_id": "46735624097",
       "envio": "Flex",
       "data": "2026-03-27T09:12:20.000-04:00",
-      "pedido_id": "2000015724698344"
+      "pedido_id": "2000015724698344",
+      "comprador": "VIRO3657696",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC64-03235A",
@@ -866,7 +1008,9 @@
       "shipping_id": "46735619169",
       "envio": "Full",
       "data": "2026-03-27T09:10:19.000-04:00",
-      "pedido_id": "2000015724676616"
+      "pedido_id": "2000015724676616",
+      "comprador": "ALIRIOOSEIAS",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "25906088",
@@ -878,7 +1022,9 @@
       "shipping_id": "46735859220",
       "envio": "Full",
       "data": "2026-03-27T09:05:28.000-04:00",
-      "pedido_id": "2000015724601378"
+      "pedido_id": "2000015724601378",
+      "comprador": "ROSEMERESILVAAGUIAR",
+      "pagamento": "credit_card"
     },
     {
       "sku": "AXBX01",
@@ -890,7 +1036,9 @@
       "shipping_id": "46735855230",
       "envio": "Flex",
       "data": "2026-03-27T09:04:58.000-04:00",
-      "pedido_id": "2000015724602700"
+      "pedido_id": "2000015724602700",
+      "comprador": "ICPLENA",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DA32-10104N",
@@ -902,7 +1050,9 @@
       "shipping_id": "46735540009",
       "envio": "Full",
       "data": "2026-03-27T08:58:40.000-04:00",
-      "pedido_id": "2000015724544086"
+      "pedido_id": "2000015724544086",
+      "comprador": "AROR8657555",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC64-01538B",
@@ -914,7 +1064,9 @@
       "shipping_id": "46735814756",
       "envio": "Full",
       "data": "2026-03-27T08:58:33.000-04:00",
-      "pedido_id": "2000015724524974"
+      "pedido_id": "2000015724524974",
+      "comprador": "PC20240604073004",
+      "pagamento": "credit_card"
     },
     {
       "sku": "5900AR1266A",
@@ -926,7 +1078,9 @@
       "shipping_id": "46735533961",
       "envio": "Full",
       "data": "2026-03-27T08:56:40.000-04:00",
-      "pedido_id": "2000015724493778"
+      "pedido_id": "2000015724493778",
+      "comprador": "DECELIA20231121194506",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "783198",
@@ -938,7 +1092,9 @@
       "shipping_id": "46735790598",
       "envio": "Full",
       "data": "2026-03-27T08:54:34.000-04:00",
-      "pedido_id": "2000015724484330"
+      "pedido_id": "2000015724484330",
+      "comprador": "COSTAJOALISSON20220424204110",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DB93-11009A",
@@ -950,7 +1106,9 @@
       "shipping_id": "46735758824",
       "envio": "Full",
       "data": "2026-03-27T08:47:17.000-04:00",
-      "pedido_id": "2000015724383260"
+      "pedido_id": "2000015724383260",
+      "comprador": "RENATOPAULICEIA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC31-00181C",
@@ -962,7 +1120,9 @@
       "shipping_id": "46735471157",
       "envio": "Full",
       "data": "2026-03-27T08:47:17.000-04:00",
-      "pedido_id": "2000015724402470"
+      "pedido_id": "2000015724402470",
+      "comprador": "RAAD2790792",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITTERMOSTATO",
@@ -974,7 +1134,9 @@
       "shipping_id": "46735469257",
       "envio": "Full",
       "data": "2026-03-27T08:46:46.000-04:00",
-      "pedido_id": "2000015724396318"
+      "pedido_id": "2000015724396318",
+      "comprador": "ANDRIELRSOUZA",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC92-01119D",
@@ -986,7 +1148,9 @@
       "shipping_id": "46735742584",
       "envio": "Coleta",
       "data": "2026-03-27T08:46:29.000-04:00",
-      "pedido_id": "2000015724377016"
+      "pedido_id": "2000015724377016",
+      "comprador": "JAQUELINEFABRO",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM1097",
@@ -998,7 +1162,9 @@
       "shipping_id": "46735463785",
       "envio": "Full",
       "data": "2026-03-27T08:46:00.000-04:00",
-      "pedido_id": "2000015724381466"
+      "pedido_id": "2000015724381466",
+      "comprador": "JOHANSSONSILVA",
+      "pagamento": "account_money"
     },
     {
       "sku": "739388",
@@ -1010,7 +1176,9 @@
       "shipping_id": "46735459279",
       "envio": "Full",
       "data": "2026-03-27T08:44:13.000-04:00",
-      "pedido_id": "2000015724364708"
+      "pedido_id": "2000015724364708",
+      "comprador": "ROLIVEIRA4955",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "6324W1A003E",
@@ -1022,7 +1190,9 @@
       "shipping_id": "46735453553",
       "envio": "Full",
       "data": "2026-03-27T08:44:02.000-04:00",
-      "pedido_id": "2000015724343482"
+      "pedido_id": "2000015724343482",
+      "comprador": "FRANSCISCOIRANCASTRODELIMA",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC92-02688A",
@@ -1034,7 +1204,9 @@
       "shipping_id": "46735446153",
       "envio": "Coleta",
       "data": "2026-03-27T08:42:49.000-04:00",
-      "pedido_id": "2000015724350338"
+      "pedido_id": "2000015724350338",
+      "comprador": "CW20260327083348",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DA31-00334C",
@@ -1046,7 +1218,9 @@
       "shipping_id": "46735450023",
       "envio": "Full",
       "data": "2026-03-27T08:42:24.000-04:00",
-      "pedido_id": "2000015724342482"
+      "pedido_id": "2000015724342482",
+      "comprador": "MARCOSMEDEIROSGUIMARESGUIM",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "739388",
@@ -1058,7 +1232,9 @@
       "shipping_id": "46735707542",
       "envio": "Full",
       "data": "2026-03-27T08:40:34.000-04:00",
-      "pedido_id": "2000015724301292"
+      "pedido_id": "2000015724301292",
+      "comprador": "DANI.OLIVER1608",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DB31-00636C",
@@ -1070,7 +1246,9 @@
       "shipping_id": "46735696028",
       "envio": "Full",
       "data": "2026-03-27T08:38:37.000-04:00",
-      "pedido_id": "2000015724275994"
+      "pedido_id": "2000015724275994",
+      "comprador": "ALAL5076757",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITLG0002",
@@ -1082,7 +1260,9 @@
       "shipping_id": "46735697040",
       "envio": "Full",
       "data": "2026-03-27T08:38:09.000-04:00",
-      "pedido_id": "2000015724275690"
+      "pedido_id": "2000015724275690",
+      "comprador": "ALEJANDRO.MATHEUS.NOGUEIRA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "763253",
@@ -1094,7 +1274,9 @@
       "shipping_id": "46735408271",
       "envio": "Full",
       "data": "2026-03-27T08:36:31.000-04:00",
-      "pedido_id": "2000015724272672"
+      "pedido_id": "2000015724272672",
+      "comprador": "RONNIKSONMARCELO",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM1097",
@@ -1106,7 +1288,9 @@
       "shipping_id": "46735676332",
       "envio": "Full",
       "data": "2026-03-27T08:35:07.000-04:00",
-      "pedido_id": "2000015724253082"
+      "pedido_id": "2000015724253082",
+      "comprador": "ROGERGATTE",
+      "pagamento": "credit_card"
     },
     {
       "sku": "MDS66651606",
@@ -1118,7 +1302,9 @@
       "shipping_id": "46735625672",
       "envio": "Full",
       "data": "2026-03-27T08:26:11.000-04:00",
-      "pedido_id": "2000015724158618"
+      "pedido_id": "2000015724158618",
+      "comprador": "ALLTECCASCAVEL",
+      "pagamento": "account_money"
     },
     {
       "sku": "KITGUARNICAO01",
@@ -1130,7 +1316,9 @@
       "shipping_id": "46735612822",
       "envio": "Coleta",
       "data": "2026-03-27T08:24:03.000-04:00",
-      "pedido_id": "2000015724136542"
+      "pedido_id": "2000015724136542",
+      "comprador": "ALLE1927670",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC66-00421B",
@@ -1142,7 +1330,9 @@
       "shipping_id": "46735328885",
       "envio": "Full",
       "data": "2026-03-27T08:22:27.000-04:00",
-      "pedido_id": "2000015724114004"
+      "pedido_id": "2000015724114004",
+      "comprador": "ARAKEN3",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC62-00233C",
@@ -1154,7 +1344,9 @@
       "shipping_id": "46735317015",
       "envio": "Full",
       "data": "2026-03-27T08:20:24.000-04:00",
-      "pedido_id": "2000015724081018"
+      "pedido_id": "2000015724081018",
+      "comprador": "ÉLCIORD",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC62-00233K",
@@ -1166,7 +1358,9 @@
       "shipping_id": "46735590386",
       "envio": "Coleta",
       "data": "2026-03-27T08:19:58.000-04:00",
-      "pedido_id": "2000015724088626"
+      "pedido_id": "2000015724088626",
+      "comprador": "DALIMA96",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM1097",
@@ -1178,7 +1372,9 @@
       "shipping_id": "46735312131",
       "envio": "Full",
       "data": "2026-03-27T08:19:24.000-04:00",
-      "pedido_id": "2000015724075352"
+      "pedido_id": "2000015724075352",
+      "comprador": "JAIRROSADONASCIMENTOJAIRROSADO",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DB93-11009A",
@@ -1190,7 +1386,9 @@
       "shipping_id": "46735317961",
       "envio": "Full",
       "data": "2026-03-27T08:18:18.000-04:00",
-      "pedido_id": "2000015724057566"
+      "pedido_id": "2000015724057566",
+      "comprador": "JAIRDUARTEJ",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "761321",
@@ -1202,7 +1400,9 @@
       "shipping_id": "46735572264",
       "envio": "Coleta",
       "data": "2026-03-27T08:16:36.000-04:00",
-      "pedido_id": "2000015724041226"
+      "pedido_id": "2000015724041226",
+      "comprador": "ANAMARQUESS",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC62-00214Q",
@@ -1214,7 +1414,9 @@
       "shipping_id": "46735294913",
       "envio": "Full",
       "data": "2026-03-27T08:15:48.000-04:00",
-      "pedido_id": "2000015724029468"
+      "pedido_id": "2000015724029468",
+      "comprador": "GODOI ELETRÔNICA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "797618",
@@ -1226,7 +1428,9 @@
       "shipping_id": "46735299575",
       "envio": "Coleta",
       "data": "2026-03-27T08:14:37.000-04:00",
-      "pedido_id": "2000015724025294"
+      "pedido_id": "2000015724025294",
+      "comprador": "R20251216150511",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DB92-03443F",
@@ -1238,7 +1442,9 @@
       "shipping_id": "46735556384",
       "envio": "Coleta",
       "data": "2026-03-27T08:13:28.000-04:00",
-      "pedido_id": "2000015724003926"
+      "pedido_id": "2000015724003926",
+      "comprador": "MARCELLIMARCOS",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC93-00139A",
@@ -1250,7 +1456,9 @@
       "shipping_id": "46735270585",
       "envio": "Full",
       "data": "2026-03-27T08:11:16.000-04:00",
-      "pedido_id": "2000015723987246"
+      "pedido_id": "2000015723987246",
+      "comprador": "BUMI BRASIL",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU64082902",
@@ -1262,7 +1470,9 @@
       "shipping_id": "46735530112",
       "envio": "Full",
       "data": "2026-03-27T08:08:39.000-04:00",
-      "pedido_id": "2000015723943756"
+      "pedido_id": "2000015723943756",
+      "comprador": "OFICINA BRUGGEMANN",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC97-02250F",
@@ -1274,7 +1484,9 @@
       "shipping_id": "46735254889",
       "envio": "Flex",
       "data": "2026-03-27T08:08:39.000-04:00",
-      "pedido_id": "2000015723959334"
+      "pedido_id": "2000015723959334",
+      "comprador": "JSANTOS7763",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DB95-01990D",
@@ -1286,7 +1498,9 @@
       "shipping_id": "46735515274",
       "envio": "Full",
       "data": "2026-03-27T08:05:49.000-04:00",
-      "pedido_id": "2000015723950088"
+      "pedido_id": "2000015723950088",
+      "comprador": "ALEXCARNEIRO674",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC64-03235A",
@@ -1298,7 +1512,9 @@
       "shipping_id": "46735229495",
       "envio": "Flex",
       "data": "2026-03-27T08:03:43.000-04:00",
-      "pedido_id": "2000015723909088"
+      "pedido_id": "2000015723909088",
+      "comprador": "NOGE1861316",
+      "pagamento": "credit_card"
     },
     {
       "sku": "6601ER1006M",
@@ -1310,7 +1526,9 @@
       "shipping_id": "46735207737",
       "envio": "Coleta",
       "data": "2026-03-27T07:58:02.000-04:00",
-      "pedido_id": "2000015723859388"
+      "pedido_id": "2000015723859388",
+      "comprador": "GDHFCBEGA86057",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU62983004",
@@ -1322,7 +1540,9 @@
       "shipping_id": "46735183657",
       "envio": "Full",
       "data": "2026-03-27T07:53:28.000-04:00",
-      "pedido_id": "2000015723826898"
+      "pedido_id": "2000015723826898",
+      "comprador": "PEDROHENRIQU071",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC97-02250F",
@@ -1334,7 +1554,9 @@
       "shipping_id": "46735455808",
       "envio": "Full",
       "data": "2026-03-27T07:53:27.000-04:00",
-      "pedido_id": "2000015723828778"
+      "pedido_id": "2000015723828778",
+      "comprador": "JOAOM67",
+      "pagamento": "credit_card"
     },
     {
       "sku": "ADQ72910911",
@@ -1346,7 +1568,9 @@
       "shipping_id": "46735454858",
       "envio": "Full",
       "data": "2026-03-27T07:53:17.000-04:00",
-      "pedido_id": "2000015723811322"
+      "pedido_id": "2000015723811322",
+      "comprador": "ALVAROS.DF",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC61-03510A",
@@ -1358,7 +1582,9 @@
       "shipping_id": "46735176631",
       "envio": "Full",
       "data": "2026-03-27T07:52:44.000-04:00",
-      "pedido_id": "2000015723834054"
+      "pedido_id": "2000015723834054",
+      "comprador": "LEONYTAMIOHATAKEYAMA",
+      "pagamento": "credit_card"
     },
     {
       "sku": "739388",
@@ -1370,7 +1596,9 @@
       "shipping_id": "46735165995",
       "envio": "Full",
       "data": "2026-03-27T07:50:22.000-04:00",
-      "pedido_id": "2000015723806792"
+      "pedido_id": "2000015723806792",
+      "comprador": "JESANA2006",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC64-03235A",
@@ -1382,7 +1610,9 @@
       "shipping_id": "46735165123",
       "envio": "Full",
       "data": "2026-03-27T07:49:42.000-04:00",
-      "pedido_id": "2000015723787150"
+      "pedido_id": "2000015723787150",
+      "comprador": "DIVA TULHA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EBF49827801",
@@ -1394,7 +1624,9 @@
       "shipping_id": "46735437150",
       "envio": "Full",
       "data": "2026-03-27T07:49:27.000-04:00",
-      "pedido_id": "2000015723762008"
+      "pedido_id": "2000015723762008",
+      "comprador": "PIJO4806662",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "AXBX01",
@@ -1406,7 +1638,9 @@
       "shipping_id": "46735437840",
       "envio": "Full",
       "data": "2026-03-27T07:49:24.000-04:00",
-      "pedido_id": "2000015723786960"
+      "pedido_id": "2000015723786960",
+      "comprador": "MAUTASSONE",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC97-02250F",
@@ -1418,7 +1652,9 @@
       "shipping_id": "46735162031",
       "envio": "Full",
       "data": "2026-03-27T07:49:18.000-04:00",
-      "pedido_id": "2000015723798510"
+      "pedido_id": "2000015723798510",
+      "comprador": "CAROLCOCOLI",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DB95-01990D",
@@ -1430,7 +1666,9 @@
       "shipping_id": "46735163711",
       "envio": "Full",
       "data": "2026-03-27T07:48:51.000-04:00",
-      "pedido_id": "2000015723779008"
+      "pedido_id": "2000015723779008",
+      "comprador": "CLEITONVIEIRAROCHA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU62983004",
@@ -1442,7 +1680,9 @@
       "shipping_id": "46735396700",
       "envio": "Full",
       "data": "2026-03-27T07:39:46.000-04:00",
-      "pedido_id": "2000015723714364"
+      "pedido_id": "2000015723714364",
+      "comprador": "GOJO1560376",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM1118",
@@ -1454,7 +1694,9 @@
       "shipping_id": "46735116575",
       "envio": "Flex",
       "data": "2026-03-27T07:38:39.000-04:00",
-      "pedido_id": "2000015723679816"
+      "pedido_id": "2000015723679816",
+      "comprador": "GA20241208100826",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DB31-00636C",
@@ -1466,7 +1708,9 @@
       "shipping_id": "46735387470",
       "envio": "Full",
       "data": "2026-03-27T07:37:33.000-04:00",
-      "pedido_id": "2000015723696514"
+      "pedido_id": "2000015723696514",
+      "comprador": "JAILSONDESOUZARUFINO",
+      "pagamento": "credit_card"
     },
     {
       "sku": "EAU62983004",
@@ -1478,7 +1722,9 @@
       "shipping_id": "46735385944",
       "envio": "Full",
       "data": "2026-03-27T07:37:12.000-04:00",
-      "pedido_id": "2000015723696348"
+      "pedido_id": "2000015723696348",
+      "comprador": "GIAL4496762",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM1097",
@@ -1490,7 +1736,9 @@
       "shipping_id": "46735108139",
       "envio": "Full",
       "data": "2026-03-27T07:36:44.000-04:00",
-      "pedido_id": "2000015723686424"
+      "pedido_id": "2000015723686424",
+      "comprador": "AHFDBECGA87082",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC92-01119D",
@@ -1502,7 +1750,9 @@
       "shipping_id": "46735102691",
       "envio": "Coleta",
       "data": "2026-03-27T07:35:15.000-04:00",
-      "pedido_id": "2000015723667376"
+      "pedido_id": "2000015723667376",
+      "comprador": "ARMAQ ADÃO",
+      "pagamento": "account_money"
     },
     {
       "sku": "ABQ73301301",
@@ -1514,7 +1764,9 @@
       "shipping_id": "46735377938",
       "envio": "Full",
       "data": "2026-03-27T07:35:12.000-04:00",
-      "pedido_id": "2000015723665250"
+      "pedido_id": "2000015723665250",
+      "comprador": "TRACIOMFS",
+      "pagamento": "credit_card"
     },
     {
       "sku": "739388",
@@ -1526,7 +1778,9 @@
       "shipping_id": "46735101285",
       "envio": "Full",
       "data": "2026-03-27T07:34:50.000-04:00",
-      "pedido_id": "2000015723659496"
+      "pedido_id": "2000015723659496",
+      "comprador": "SABISPM",
+      "pagamento": "credit_card"
     },
     {
       "sku": "757851",
@@ -1538,7 +1792,9 @@
       "shipping_id": "46735086573",
       "envio": "Coleta",
       "data": "2026-03-27T07:28:20.000-04:00",
-      "pedido_id": "2000015723597950"
+      "pedido_id": "2000015723597950",
+      "comprador": "LC20251002185017",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "797360",
@@ -1550,7 +1806,9 @@
       "shipping_id": "46735062391",
       "envio": "Coleta",
       "data": "2026-03-27T07:25:23.000-04:00",
-      "pedido_id": "2000015723594622"
+      "pedido_id": "2000015723594622",
+      "comprador": "LECA4661875",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KIT1SM1118",
@@ -1562,7 +1820,9 @@
       "shipping_id": "46735057099",
       "envio": "Full",
       "data": "2026-03-27T07:24:02.000-04:00",
-      "pedido_id": "2000015723589030"
+      "pedido_id": "2000015723589030",
+      "comprador": "EDUARDOGUELLI",
+      "pagamento": "account_money"
     },
     {
       "sku": "AKB75215403",
@@ -1574,7 +1834,9 @@
       "shipping_id": "46735047907",
       "envio": "Full",
       "data": "2026-03-27T07:21:39.000-04:00",
-      "pedido_id": "2000015723576596"
+      "pedido_id": "2000015723576596",
+      "comprador": "MAURICIOHGPN",
+      "pagamento": "account_money"
     },
     {
       "sku": "EAD64108410",
@@ -1586,7 +1848,9 @@
       "shipping_id": "46735045827",
       "envio": "Full",
       "data": "2026-03-27T07:21:02.000-04:00",
-      "pedido_id": "2000015723564678"
+      "pedido_id": "2000015723564678",
+      "comprador": "COTA3649112",
+      "pagamento": "credit_card"
     },
     {
       "sku": "W024T-04400",
@@ -1598,7 +1862,9 @@
       "shipping_id": "46735304850",
       "envio": "Full",
       "data": "2026-03-27T07:16:29.000-04:00",
-      "pedido_id": "2000015723517274"
+      "pedido_id": "2000015723517274",
+      "comprador": "PEREIRAJOSÉ20221028064002",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KITGUARNICAO01",
@@ -1610,7 +1876,9 @@
       "shipping_id": "46735301202",
       "envio": "Full",
       "data": "2026-03-27T07:15:31.000-04:00",
-      "pedido_id": "2000015723532436"
+      "pedido_id": "2000015723532436",
+      "comprador": "SAEL9859654",
+      "pagamento": "account_money"
     },
     {
       "sku": "5214EN1004A",
@@ -1622,7 +1890,9 @@
       "shipping_id": "46734983695",
       "envio": "Full",
       "data": "2026-03-27T07:03:33.000-04:00",
-      "pedido_id": "2000015723458038"
+      "pedido_id": "2000015723458038",
+      "comprador": "ALANBAHIA83",
+      "pagamento": "account_money"
     },
     {
       "sku": "KITLG0002",
@@ -1634,7 +1904,9 @@
       "shipping_id": "46735257546",
       "envio": "Full",
       "data": "2026-03-27T07:03:08.000-04:00",
-      "pedido_id": "2000015723432988"
+      "pedido_id": "2000015723432988",
+      "comprador": "WILSONJOSEVENTURA",
+      "pagamento": "credit_card"
     },
     {
       "sku": "EBR71522401",
@@ -1646,7 +1918,9 @@
       "shipping_id": "46735273770",
       "envio": "Flex",
       "data": "2026-03-27T07:01:16.000-04:00",
-      "pedido_id": "2000015723438390"
+      "pedido_id": "2000015723438390",
+      "comprador": "JONATHANSISRO",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "AXBX01",
@@ -1658,7 +1932,9 @@
       "shipping_id": "46734959553",
       "envio": "Full",
       "data": "2026-03-27T06:56:13.000-04:00",
-      "pedido_id": "2000015723381294"
+      "pedido_id": "2000015723381294",
+      "comprador": "SANTOSJOOEDUARDODOS",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM0003",
@@ -1670,7 +1946,9 @@
       "shipping_id": "46735224824",
       "envio": "Full",
       "data": "2026-03-27T06:52:46.000-04:00",
-      "pedido_id": "2000015723373124"
+      "pedido_id": "2000015723373124",
+      "comprador": "DANILODOMINGUESDANILODOMINGU",
+      "pagamento": "credit_card"
     },
     {
       "sku": "25906088",
@@ -1682,7 +1960,9 @@
       "shipping_id": "46734939269",
       "envio": "Full",
       "data": "2026-03-27T06:49:31.000-04:00",
-      "pedido_id": "2000015723366286"
+      "pedido_id": "2000015723366286",
+      "comprador": "RAFAELDANILORAMOS",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITSM0003",
@@ -1694,7 +1974,9 @@
       "shipping_id": "46735200064",
       "envio": "Full",
       "data": "2026-03-27T06:44:38.000-04:00",
-      "pedido_id": "2000015723336332"
+      "pedido_id": "2000015723336332",
+      "comprador": "M20251220183226",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC31-00098A",
@@ -1706,7 +1988,9 @@
       "shipping_id": "46735096508",
       "envio": "Coleta",
       "data": "2026-03-27T06:00:29.000-04:00",
-      "pedido_id": "2000015723117286"
+      "pedido_id": "2000015723117286",
+      "comprador": "TIBURCIOM2012",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "AKB75215403",
@@ -1718,7 +2002,9 @@
       "shipping_id": "46734814899",
       "envio": "Full",
       "data": "2026-03-27T05:59:04.000-04:00",
-      "pedido_id": "2000015723124814"
+      "pedido_id": "2000015723124814",
+      "comprador": "SAMPAIOMATHEU",
+      "pagamento": "credit_card"
     },
     {
       "sku": "EAD60714618",
@@ -1730,7 +2016,9 @@
       "shipping_id": "46735081342",
       "envio": "Full",
       "data": "2026-03-27T05:54:42.000-04:00",
-      "pedido_id": "2000015723075804"
+      "pedido_id": "2000015723075804",
+      "comprador": "PAIVALUAN58",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC31-00181C",
@@ -1742,7 +2030,9 @@
       "shipping_id": "46735076854",
       "envio": "Full",
       "data": "2026-03-27T05:50:15.000-04:00",
-      "pedido_id": "2000015723095062"
+      "pedido_id": "2000015723095062",
+      "comprador": "LA20240806151226",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "771546",
@@ -1754,7 +2044,9 @@
       "shipping_id": "46735073604",
       "envio": "Full",
       "data": "2026-03-27T05:50:02.000-04:00",
-      "pedido_id": "2000015723096572"
+      "pedido_id": "2000015723096572",
+      "comprador": "TERE.BP",
+      "pagamento": "account_money"
     },
     {
       "sku": "BN59-01432B",
@@ -1766,7 +2058,9 @@
       "shipping_id": "46735070604",
       "envio": "Coleta",
       "data": "2026-03-27T05:48:41.000-04:00",
-      "pedido_id": "2000015723092678"
+      "pedido_id": "2000015723092678",
+      "comprador": "ROJU1023758",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DC97-02250F",
@@ -1778,7 +2072,9 @@
       "shipping_id": "46735069502",
       "envio": "Full",
       "data": "2026-03-27T05:48:04.000-04:00",
-      "pedido_id": "2000015723090494"
+      "pedido_id": "2000015723090494",
+      "comprador": "UNITEMP SAB",
+      "pagamento": "account_money"
     },
     {
       "sku": "DC64-03235A",
@@ -1790,7 +2086,9 @@
       "shipping_id": "46736160830",
       "envio": "Full",
       "data": "2026-03-26T15:15:25.000-04:00",
-      "pedido_id": "2000015715682778"
+      "pedido_id": "2000015715682778",
+      "comprador": "VINICIUSMAURICIOPEREIRAMAURI",
+      "pagamento": "ticket"
     },
     {
       "sku": "EAU62983004",
@@ -1802,7 +2100,9 @@
       "shipping_id": "46731444228",
       "envio": "Full",
       "data": "2026-03-26T14:43:10.000-04:00",
-      "pedido_id": "2000015715205768"
+      "pedido_id": "2000015715205768",
+      "comprador": "IRIR474549",
+      "pagamento": "ticket"
     }
   ]
 }
