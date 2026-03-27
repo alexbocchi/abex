@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T23:30:31.070Z",
+  "atualizado_em": "2026-03-27T23:32:30.745Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "W024T-04400",
+      "produto": "Pressostato Lavadora Panasonic 14kg 16kg Original",
+      "quantidade": 1,
+      "valor": 55.29,
+      "foto": "https://http2.mlstatic.com/D_698368-MLB101053686334_122025-O.jpg",
+      "item_id": "MLB1279134181",
+      "shipping_id": "46739668926",
+      "envio": "Full",
+      "data": "2026-03-27T19:31:37.000-04:00",
+      "pedido_id": "2000015732548530",
+      "comprador": "RETERSIALVES",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 66.18,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46739663892",
+      "envio": "Full",
+      "data": "2026-03-27T19:31:17.000-04:00",
+      "pedido_id": "2000015732515822",
+      "comprador": "BELE2571428",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Ventilador Evaporadora Ar LG S4nq18kl3wb",
@@ -2074,34 +2102,6 @@
       "data": "2026-03-27T14:04:12.000-04:00",
       "pedido_id": "2000015728575502",
       "comprador": "OLJU4910039",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "3501-001268",
-      "produto": "Rele De Partida Ar Condicionado Samsung Original",
-      "quantidade": 1,
-      "valor": 45,
-      "foto": "https://http2.mlstatic.com/D_675166-MLB76035489199_042024-O.jpg",
-      "item_id": "MLB1387582284",
-      "shipping_id": "46737768882",
-      "envio": "Coleta",
-      "data": "2026-03-27T14:02:05.000-04:00",
-      "pedido_id": "2000015728563966",
-      "comprador": "MARILIACUNE",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
-      "item_id": "MLB4057130417",
-      "shipping_id": "46737487185",
-      "envio": "Full",
-      "data": "2026-03-27T14:01:01.000-04:00",
-      "pedido_id": "2000015728531884",
-      "comprador": "DALE3815207",
       "pagamento": "credit_card"
     }
   ]
