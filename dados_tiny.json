@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T20:20:30.640Z",
+  "atualizado_em": "2026-03-27T20:22:30.755Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC92-02048G",
+      "produto": "Placa Interface Lava E Seca Samsung Dc92-02048g Original 110v/127v",
+      "quantidade": 1,
+      "valor": 600,
+      "foto": "https://http2.mlstatic.com/D_910266-MLB89222380436_082025-O.jpg",
+      "item_id": "MLB1958078821",
+      "shipping_id": "46738645114",
+      "envio": "Coleta",
+      "data": "2026-03-27T16:19:12.000-04:00",
+      "pedido_id": "2000015730309338",
+      "comprador": "SOUZAENZO20230803143519",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "AKB75675304",
       "produto": "Controle Remoto Tv LG Smart 32/43/49/50/55/65/70 Polegadas",
@@ -1685,20 +1699,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46737065418",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102922",
-      "comprador": "BOPSINFELIPE20211019153739",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
       "quantidade": 1,
@@ -1710,6 +1710,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102914",
       "comprador": "COWA6342221",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "021713PL",
+      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
+      "quantidade": 1,
+      "valor": 36.1,
+      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
+      "item_id": "MLB4510950983",
+      "shipping_id": "46737065418",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102922",
+      "comprador": "BOPSINFELIPE20211019153739",
       "pagamento": "credit_card"
     },
     {
@@ -2075,20 +2089,6 @@
       "pedido_id": "2000015726488198",
       "comprador": "MRCIAGADONILOBATO",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "D144612",
-      "produto": "Capacitor Duplo Ar Condicionado LG 9000 12000 30+2,5uf",
-      "quantidade": 3,
-      "valor": 39,
-      "foto": "https://http2.mlstatic.com/D_874126-MLB104899999992_012026-O.jpg",
-      "item_id": "MLB5107716200",
-      "shipping_id": "46736758488",
-      "envio": "Full",
-      "data": "2026-03-27T11:24:48.000-04:00",
-      "pedido_id": "2000015726480040",
-      "comprador": "FRANCOAGONCALVES",
-      "pagamento": "account_money"
     },
     {
       "sku": "ABQ73301301",
