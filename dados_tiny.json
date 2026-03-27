@@ -1,9 +1,45 @@
 {
-  "atualizado_em": "2026-03-27T15:16:07.174Z",
+  "atualizado_em": "2026-03-27T15:18:06.798Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
+      "quantidade": 1,
+      "valor": 204.95,
+      "foto": "https://http2.mlstatic.com/D_697027-MLA99594896114_122025-O.jpg",
+      "item_id": "MLB5676655880",
+      "shipping_id": "46736708442",
+      "envio": "Full",
+      "data": "2026-03-27T11:16:52.000-04:00",
+      "pedido_id": "2000015726341918"
+    },
+    {
+      "sku": "021392",
+      "produto": "Tampa P/ Jarra Do Multiprocessador Philco Pmp 1600 Original",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_709443-MLB104353176745_012026-O.jpg",
+      "item_id": "MLB6154822190",
+      "shipping_id": "46736430485",
+      "envio": "Coleta",
+      "data": "2026-03-27T11:16:26.000-04:00",
+      "pedido_id": "2000015726366118"
+    },
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_727098-MLB105004612016_012026-O.jpg",
+      "item_id": "MLB1868780838",
+      "shipping_id": "46736426543",
+      "envio": "Full",
+      "data": "2026-03-27T11:15:52.000-04:00",
+      "pedido_id": "2000015726358232"
+    },
     {
       "sku": "DC97-00920U",
       "produto": "Pé Nivelador Para Lavadora De Roupas Samsung",
@@ -1743,42 +1779,6 @@
       "envio": "Coleta",
       "data": "2026-03-27T05:14:03.000-04:00",
       "pedido_id": "2000015723006324"
-    },
-    {
-      "sku": "DA32-10104N",
-      "produto": "Sensor Degelo Side By Side Samsung Rf263 Rfg28 Original",
-      "quantidade": 1,
-      "valor": 35,
-      "foto": "https://http2.mlstatic.com/D_736602-MLB76037215147_042024-O.jpg",
-      "item_id": "MLB3158002442",
-      "shipping_id": "46734995886",
-      "envio": "Full",
-      "data": "2026-03-27T04:54:07.000-04:00",
-      "pedido_id": "2000015722944724"
-    },
-    {
-      "sku": "DA31-00146B",
-      "produto": "Motor Ventilador Side By Side Samsung Rs21dams1 Rs21dasw1 127/220v",
-      "quantidade": 1,
-      "valor": 145,
-      "foto": "https://http2.mlstatic.com/D_720126-MLB89169388194_082025-O.jpg",
-      "item_id": "MLB3125708344",
-      "shipping_id": "46734714153",
-      "envio": "Coleta",
-      "data": "2026-03-27T04:47:39.000-04:00",
-      "pedido_id": "2000015722954088"
-    },
-    {
-      "sku": "EAU62983004",
-      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
-      "quantidade": 1,
-      "valor": 207.08,
-      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
-      "item_id": "MLB4057130417",
-      "shipping_id": "46734679777",
-      "envio": "Full",
-      "data": "2026-03-27T04:06:18.000-04:00",
-      "pedido_id": "2000015722882226"
     },
     {
       "sku": "DC64-03235A",
