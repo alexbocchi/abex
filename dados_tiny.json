@@ -1,9 +1,21 @@
 {
-  "atualizado_em": "2026-03-27T16:08:07.956Z",
+  "atualizado_em": "2026-03-27T16:10:06.958Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
+      "item_id": "MLB1613568329",
+      "shipping_id": "46737048388",
+      "envio": "Full",
+      "data": "2026-03-27T12:08:42.000-04:00",
+      "pedido_id": "2000015727035826"
+    },
     {
       "sku": "DC31-00181B",
       "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
@@ -1755,18 +1767,6 @@
       "envio": "Full",
       "data": "2026-03-27T07:49:27.000-04:00",
       "pedido_id": "2000015723762008"
-    },
-    {
-      "sku": "AXBX01",
-      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
-      "quantidade": 1,
-      "valor": 39.9,
-      "foto": "https://http2.mlstatic.com/D_618047-MLB79773766608_102024-O.jpg",
-      "item_id": "MLB5122979702",
-      "shipping_id": "46735437840",
-      "envio": "Full",
-      "data": "2026-03-27T07:49:24.000-04:00",
-      "pedido_id": "2000015723786960"
     },
     {
       "sku": "DB95-01990D",
