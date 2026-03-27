@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T20:52:30.622Z",
+  "atualizado_em": "2026-03-27T20:54:30.670Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -17,6 +17,20 @@
       "pedido_id": "2000015730696960",
       "comprador": "DALAYANA20211118130439",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "ARBPC1A03654",
+      "produto": "Placa Arbpc1a03654 Panasonic Nr-bb51pv1wa 110v Original 110v",
+      "quantidade": 1,
+      "valor": 604.5,
+      "foto": "https://http2.mlstatic.com/D_952627-MLB106583244779_022026-O.jpg",
+      "item_id": "MLB5431825872",
+      "shipping_id": "46738555473",
+      "envio": "Coleta",
+      "data": "2026-03-27T16:49:30.000-04:00",
+      "pedido_id": "2000015730686116",
+      "comprador": "LARIIARGUILERA",
+      "pagamento": "credit_card"
     },
     {
       "sku": "DA31-00334C",
@@ -1895,20 +1909,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -1920,6 +1920,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2074,20 +2088,6 @@
       "data": "2026-03-27T11:58:05.000-04:00",
       "pedido_id": "2000015726906860",
       "comprador": "TOSIM0",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "796349",
-      "produto": "Filtro Hepa Aspirador De Pó Philco Pas4000v Power Clean Orig",
-      "quantidade": 1,
-      "valor": 25.19,
-      "foto": "https://http2.mlstatic.com/D_859767-MLA81489839173_122024-O.jpg",
-      "item_id": "MLB6428265412",
-      "shipping_id": "46736622375",
-      "envio": "Coleta",
-      "data": "2026-03-27T11:45:12.000-04:00",
-      "pedido_id": "2000015726744476",
-      "comprador": "PLOHARSKIVILNEI20230104121557",
       "pagamento": "bank_transfer"
     },
     {
