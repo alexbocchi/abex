@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-27T17:46:30.755Z",
+  "atualizado_em": "2026-03-27T17:48:30.876Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
@@ -11,8 +11,8 @@
       "valor": 50,
       "foto": "https://http2.mlstatic.com/D_624502-MLB76085997281_042024-O.jpg",
       "item_id": "MLB1964687155",
-      "shipping_id": null,
-      "envio": "N/A",
+      "shipping_id": "46737391699",
+      "envio": "Flex",
       "data": "2026-03-27T13:44:33.000-04:00",
       "pedido_id": "2000015728340458",
       "comprador": "EDERSONANDRADEDASDORES",
@@ -719,20 +719,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KIT1SM1117",
-      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
-      "item_id": "MLB6242975798",
-      "shipping_id": "46737065414",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:12:44.000-04:00",
-      "pedido_id": "2000015727102914",
-      "comprador": "COWA6342221",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
       "quantidade": 1,
@@ -744,6 +730,20 @@
       "data": "2026-03-27T12:12:44.000-04:00",
       "pedido_id": "2000015727102922",
       "comprador": "BOPSINFELIPE20211019153739",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1117",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_800973-MLB108645063412_032026-O.jpg",
+      "item_id": "MLB6242975798",
+      "shipping_id": "46737065414",
+      "envio": "Coleta",
+      "data": "2026-03-27T12:12:44.000-04:00",
+      "pedido_id": "2000015727102914",
+      "comprador": "COWA6342221",
       "pagamento": "credit_card"
     },
     {
@@ -2077,20 +2077,6 @@
       "pagamento": "credit_card"
     },
     {
-      "sku": "KITLG0002",
-      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
-      "quantidade": 2,
-      "valor": 66.18,
-      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
-      "item_id": "MLB3950524903",
-      "shipping_id": "46735962340",
-      "envio": "Full",
-      "data": "2026-03-27T09:22:32.000-04:00",
-      "pedido_id": "2000015724828626",
-      "comprador": "MS20251118114702",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "DC64-03235A",
       "produto": "Borracha Da Porta Lava E Seca Samsung Wd11m4453jw",
       "quantidade": 1,
@@ -2102,6 +2088,20 @@
       "data": "2026-03-26T15:15:25.000-04:00",
       "pedido_id": "2000015715682778",
       "comprador": "VINICIUSMAURICIOPEREIRAMAURI",
+      "pagamento": "ticket"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
+      "quantidade": 1,
+      "valor": 235,
+      "foto": "https://http2.mlstatic.com/D_723411-MLB89537660399_082025-O.jpg",
+      "item_id": "MLB3661822075",
+      "shipping_id": "46731444228",
+      "envio": "Full",
+      "data": "2026-03-26T14:43:10.000-04:00",
+      "pedido_id": "2000015715205768",
+      "comprador": "IRIR474549",
       "pagamento": "ticket"
     }
   ]
