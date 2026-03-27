@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-27T23:16:30.600Z",
+  "atualizado_em": "2026-03-27T23:18:30.591Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "https://http2.mlstatic.com/D_968242-MLB107340769115_022026-O.jpg",
+      "item_id": "MLB1584616358",
+      "shipping_id": "46739588844",
+      "envio": "Full",
+      "data": "2026-03-27T19:16:42.000-04:00",
+      "pedido_id": "2000015732355604",
+      "comprador": "FABIANOLIEVORE",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC62-00233C",
       "produto": "Válvula Tripla Entrada De Água Lava Seca Samsung Dc62-00233c",
@@ -2089,20 +2103,6 @@
       "pedido_id": "2000015728418418",
       "comprador": "CAJO4120043",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "739388",
-      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
-      "item_id": "MLB3920495205",
-      "shipping_id": "46737413075",
-      "envio": "Full",
-      "data": "2026-03-27T13:49:43.000-04:00",
-      "pedido_id": "2000015728406452",
-      "comprador": "ANTONIOJOAO20230323120228",
-      "pagamento": "digital_currency"
     }
   ]
 }
