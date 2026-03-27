@@ -1,9 +1,33 @@
 {
-  "atualizado_em": "2026-03-27T15:26:07.237Z",
+  "atualizado_em": "2026-03-27T15:28:06.964Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46736772858",
+      "envio": "Full",
+      "data": "2026-03-27T11:26:53.000-04:00",
+      "pedido_id": "2000015726489154"
+    },
+    {
+      "sku": "DC61-02029B",
+      "produto": "Mola De Suspensão Do Tanque Lava E Seca Samsung Dc61-02029b",
+      "quantidade": 1,
+      "valor": 55.5,
+      "foto": "https://http2.mlstatic.com/D_799862-MLB107570931609_022026-O.jpg",
+      "item_id": "MLB1958120338",
+      "shipping_id": "46736765666",
+      "envio": "Full",
+      "data": "2026-03-27T11:25:51.000-04:00",
+      "pedido_id": "2000015726451792"
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto P Ar Condicionado LG Dual Inveter Original",
@@ -1755,30 +1779,6 @@
       "envio": "Full",
       "data": "2026-03-27T06:49:31.000-04:00",
       "pedido_id": "2000015723366286"
-    },
-    {
-      "sku": "KITSM0003",
-      "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_756388-MLB50275040834_062022-O.jpg",
-      "item_id": "MLB1492717359",
-      "shipping_id": "46735200064",
-      "envio": "Full",
-      "data": "2026-03-27T06:44:38.000-04:00",
-      "pedido_id": "2000015723336332"
-    },
-    {
-      "sku": "DC31-00098A",
-      "produto": "Sensor Do Motor Para Lava E Seca Samsung Wd136uv Original",
-      "quantidade": 1,
-      "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_972748-MLB70651230449_072023-O.jpg",
-      "item_id": "MLB1868992251",
-      "shipping_id": "46735096508",
-      "envio": "Coleta",
-      "data": "2026-03-27T06:00:29.000-04:00",
-      "pedido_id": "2000015723117286"
     },
     {
       "sku": "DC64-03235A",
