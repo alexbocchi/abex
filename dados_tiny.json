@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-27T21:10:30.646Z",
+  "atualizado_em": "2026-03-27T21:12:30.594Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 150,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "771546",
+      "produto": "Controle Remoto Cra01 Para Ar Condicionado Split Philco Branco",
+      "quantidade": 1,
+      "valor": 69.9,
+      "foto": "https://http2.mlstatic.com/D_818167-MLA99518095184_112025-O.jpg",
+      "item_id": "MLB6469729338",
+      "shipping_id": "46738933750",
+      "envio": "Full",
+      "data": "2026-03-27T17:11:47.000-04:00",
+      "pedido_id": "2000015730940688",
+      "comprador": "ANCA8050952",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1114",
+      "produto": "Recipiente De Sabão Lavadora E Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 69.9,
+      "foto": "https://http2.mlstatic.com/D_960855-MLB107385790201_022026-O.jpg",
+      "item_id": "MLB1519937165",
+      "shipping_id": "46738652839",
+      "envio": "Full",
+      "data": "2026-03-27T17:09:25.000-04:00",
+      "pedido_id": "2000015730903530",
+      "comprador": "DENDOYLEMAIAGARCIA",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAU61383504",
       "produto": "Bomba Drenagem Eau61383504 LG Wd1403 Wd1409 220v",
@@ -2061,34 +2089,6 @@
       "pedido_id": "2000015726946734",
       "comprador": "WILL 200",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "4434ER1008A",
-      "produto": "Eixo Do Cesto Lavadora E Lava Seca LG Wd-1409rda, Wd-1410rda",
-      "quantidade": 1,
-      "valor": 230,
-      "foto": "https://http2.mlstatic.com/D_830136-MLB104885090094_012026-O.jpg",
-      "item_id": "MLB1889695896",
-      "shipping_id": "46736709875",
-      "envio": "Coleta",
-      "data": "2026-03-27T12:00:07.000-04:00",
-      "pedido_id": "2000015726943658",
-      "comprador": "WILL 200",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "ABQ74883808",
-      "produto": "Placa Display Receptora Ar LG S4uq09wa5 S4nq09wa51a",
-      "quantidade": 1,
-      "valor": 199,
-      "foto": "https://http2.mlstatic.com/D_998864-MLA105886497944_022026-O.jpg",
-      "item_id": "MLB6102100444",
-      "shipping_id": "46736984150",
-      "envio": "Full",
-      "data": "2026-03-27T11:59:54.000-04:00",
-      "pedido_id": "2000015726929466",
-      "comprador": "DUDAJANSEN",
-      "pagamento": "credit_card"
     },
     {
       "sku": "ABQ73301301",
