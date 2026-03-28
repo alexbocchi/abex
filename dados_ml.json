@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T11:22:48.661Z",
+  "atualizado_em": "2026-03-28T11:24:48.742Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 22,
+  "total_pedidos": 25,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 2,
+      "valor": 71,
+      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
+      "item_id": "MLB3791029185",
+      "shipping_id": "46741368396",
+      "envio": "Full",
+      "data": "2026-03-28T07:24:09.000-04:00",
+      "pedido_id": "2000015736334414",
+      "comprador": "LUCASPIMENTEL634",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46741368396",
+      "envio": "Full",
+      "data": "2026-03-28T07:24:09.000-04:00",
+      "pedido_id": "2000015736319890",
+      "comprador": "LUCASPIMENTEL634",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung Preto",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_644020-MLB51194105290_082022-O.jpg",
+      "item_id": "MLB1868896373",
+      "shipping_id": "46741093977",
+      "envio": "Flex",
+      "data": "2026-03-28T07:22:40.000-04:00",
+      "pedido_id": "2000015736328038",
+      "comprador": "GIULIATIE",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC64-01827A",
       "produto": "Gaxeta Da Porta Lava E Seca Samsung Original Wd106uhsawq",
