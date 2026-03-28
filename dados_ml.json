@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T14:10:49.957Z",
+  "atualizado_em": "2026-03-28T14:12:49.814Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 94,
+  "total_pedidos": 97,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAD60714618",
+      "produto": "Cabo Chicote Placa Display Ar Condicionado LG 3 Pontas Orig",
+      "quantidade": 1,
+      "valor": 53.99,
+      "foto": "https://http2.mlstatic.com/D_862354-MLB80358074892_112024-O.jpg",
+      "item_id": "MLB3905357615",
+      "shipping_id": "46742045160",
+      "envio": "Full",
+      "data": "2026-03-28T10:12:35.000-04:00",
+      "pedido_id": "2000015737744780",
+      "comprador": "VITORVGOMES10",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB31-00636C",
+      "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
+      "quantidade": 1,
+      "valor": 258,
+      "foto": "https://http2.mlstatic.com/D_750454-MLA99949090031_112025-O.jpg",
+      "item_id": "MLB4145061133",
+      "shipping_id": "46741769511",
+      "envio": "Full",
+      "data": "2026-03-28T10:11:27.000-04:00",
+      "pedido_id": "2000015737725650",
+      "comprador": "JEWERTONGIOVANI",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "760593",
+      "produto": "Conector Base Chaleira Prestige Bch06p Britânia Philco 1.7l",
+      "quantidade": 1,
+      "valor": 34.65,
+      "foto": "https://http2.mlstatic.com/D_861981-MLB108182467947_032026-O.jpg",
+      "item_id": "MLB6414782404",
+      "shipping_id": "46741762489",
+      "envio": "Coleta",
+      "data": "2026-03-28T10:10:11.000-04:00",
+      "pedido_id": "2000015737720908",
+      "comprador": "POLINIKELLY",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
