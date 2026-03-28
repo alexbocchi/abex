@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:26:50.774Z",
+  "atualizado_em": "2026-03-28T15:28:50.838Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 146,
+  "total_pedidos": 148,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro Fiapo Lava E Seca Samsung Dc73-00022a Preto",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_690730-MLA99362259126_112025-O.jpg",
+      "item_id": "MLB5732623106",
+      "shipping_id": "46742168509",
+      "envio": "Flex",
+      "data": "2026-03-28T11:28:08.000-04:00",
+      "pedido_id": "2000015738597966",
+      "comprador": "MECANICAMARCELO2007",
+      "pagamento": "account_money"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Aspirador Philco Power Clean Pas4000v Piso",
@@ -17,6 +31,20 @@
       "pedido_id": "2000015738569062",
       "comprador": "QUIEROZADELAIDE20230514205518",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "6501KW2001B",
+      "produto": "Sensor De Rotação Lava E Seca Lavadora LG Wd-1403fd Original",
+      "quantidade": 1,
+      "valor": 57.99,
+      "foto": "https://http2.mlstatic.com/D_680066-MLB107417116543_022026-O.jpg",
+      "item_id": "MLB3948786903",
+      "shipping_id": "46742148029",
+      "envio": "Full",
+      "data": "2026-03-28T11:24:28.000-04:00",
+      "pedido_id": "2000015738576610",
+      "comprador": "MARANATA7885",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU62983004",
