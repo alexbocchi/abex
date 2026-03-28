@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T11:44:48.752Z",
+  "atualizado_em": "2026-03-28T11:46:48.714Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 27,
+  "total_pedidos": 28,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "761321",
+      "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
+      "quantidade": 1,
+      "valor": 62.72,
+      "foto": "https://http2.mlstatic.com/D_932446-MLA95967827105_102025-O.jpg",
+      "item_id": "MLB6419003916",
+      "shipping_id": "46741154417",
+      "envio": "Full",
+      "data": "2026-03-28T07:44:56.000-04:00",
+      "pedido_id": "2000015736431302",
+      "comprador": "GISELEASCARPA",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira Drenagem Lava E Seca Samsung Original Wd856uhsawq",
