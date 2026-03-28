@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:18:23.979Z",
+  "atualizado_em": "2026-03-28T18:20:23.801Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 214,
+  "total_pedidos": 215,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46743054437",
+      "envio": "Flex",
+      "data": "2026-03-28T14:18:29.000-04:00",
+      "pedido_id": "2000015740553654",
+      "comprador": "HENRIQUERIZIRIZI",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "KITSM1173",
       "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
