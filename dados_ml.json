@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T18:06:23.906Z",
+  "atualizado_em": "2026-03-28T18:08:23.925Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 210,
+  "total_pedidos": 212,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
+      "item_id": "MLB1613568329",
+      "shipping_id": "46742998653",
+      "envio": "Full",
+      "data": "2026-03-28T14:07:26.000-04:00",
+      "pedido_id": "2000015740443000",
+      "comprador": "MI20251013130116",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC60-00104A",
+      "produto": "Chave De Ajuste Pé Lavadora Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_600046-MLB54741416745_032023-O.jpg",
+      "item_id": "MLB1490250265",
+      "shipping_id": "46742993747",
+      "envio": "Full",
+      "data": "2026-03-28T14:06:34.000-04:00",
+      "pedido_id": "2000015740442536",
+      "comprador": "CAMPOSGIOVANNE",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "761321",
       "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
