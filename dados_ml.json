@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:10:49.649Z",
+  "atualizado_em": "2026-03-28T12:12:48.733Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 37,
+  "total_pedidos": 38,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU64082902",
+      "produto": "Bomba Drenagem Lava Seca LG 26v Cv30 Cv50 Fv30 Fv50 Original 127/220v",
+      "quantidade": 1,
+      "valor": 59.36,
+      "foto": "https://http2.mlstatic.com/D_722533-MLB52148678838_102022-O.jpg",
+      "item_id": "MLB2895051519",
+      "shipping_id": null,
+      "envio": "N/A",
+      "data": "2026-03-28T08:11:10.000-04:00",
+      "pedido_id": "2000015736609506",
+      "comprador": "NATIARAPANJI",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
