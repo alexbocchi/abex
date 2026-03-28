@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T19:48:22.927Z",
+  "atualizado_em": "2026-03-28T19:50:22.925Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 237,
+  "total_pedidos": 238,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA62-04678B",
+      "produto": "Válvula Expansão Geladeira Samsung Inverter Frost Free Nf",
+      "quantidade": 1,
+      "valor": 315.99,
+      "foto": "https://http2.mlstatic.com/D_802950-MLB69636581465_052023-O.jpg",
+      "item_id": "MLB3218272276",
+      "shipping_id": "46743780422",
+      "envio": "Flex",
+      "data": "2026-03-28T15:48:18.000-04:00",
+      "pedido_id": "2000015741541342",
+      "comprador": "MAVA5787093",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "12638100000288",
       "produto": "Retentor Do Tanque Lava E Seca Midea 12638100000288 Original",
