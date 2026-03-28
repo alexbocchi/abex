@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T13:34:49.601Z",
+  "atualizado_em": "2026-03-28T13:36:49.611Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 76,
+  "total_pedidos": 79,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1078",
+      "produto": "Kit 4 Pés Niveladores Borracha Antiderrapante Samsung Wd103",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_982352-MLB105347699387_012026-O.jpg",
+      "item_id": "MLB3995489049",
+      "shipping_id": "46741869648",
+      "envio": "Coleta",
+      "data": "2026-03-28T09:36:38.000-04:00",
+      "pedido_id": "2000015737349786",
+      "comprador": "PIE_K",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 77.06,
+      "foto": "https://http2.mlstatic.com/D_904369-MLB107341290355_022026-O.jpg",
+      "item_id": "MLB1492301147",
+      "shipping_id": "46741863184",
+      "envio": "Full",
+      "data": "2026-03-28T09:35:23.000-04:00",
+      "pedido_id": "2000015737348994",
+      "comprador": "JULIO3792",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
@@ -11,8 +39,8 @@
       "valor": 235,
       "foto": "https://http2.mlstatic.com/D_723411-MLB89537660399_082025-O.jpg",
       "item_id": "MLB3661822075",
-      "shipping_id": null,
-      "envio": "N/A",
+      "shipping_id": "46741586055",
+      "envio": "Full",
       "data": "2026-03-28T09:34:40.000-04:00",
       "pedido_id": "2000015737339362",
       "comprador": "CHARLISSONPEREIRACAMPOS",
@@ -703,6 +731,20 @@
       "pedido_id": "2000015736464830",
       "comprador": "FLAVIO.XIMENES1",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "761321",
+      "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
+      "quantidade": 1,
+      "valor": 62.72,
+      "foto": "https://http2.mlstatic.com/D_932446-MLA95967827105_102025-O.jpg",
+      "item_id": "MLB6419003916",
+      "shipping_id": "46741154417",
+      "envio": "Full",
+      "data": "2026-03-28T07:44:56.000-04:00",
+      "pedido_id": "2000015736431302",
+      "comprador": "GISELEASCARPA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KITSM1173",
