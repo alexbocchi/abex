@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:10:23.355Z",
+  "atualizado_em": "2026-03-28T22:12:23.402Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 274,
+  "total_pedidos": 275,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Eletrobomba Lava E Seca LG 127v Originial Eau62263306 Nova",
+      "quantidade": 1,
+      "valor": 74.1,
+      "foto": "https://http2.mlstatic.com/D_915341-MLA107415548833_022026-O.jpg",
+      "item_id": "MLB3598677405",
+      "shipping_id": "46744169537",
+      "envio": "Full",
+      "data": "2026-03-28T18:10:41.000-04:00",
+      "pedido_id": "2000015743048006",
+      "comprador": "FEJO4878815",
+      "pagamento": "account_money"
+    },
     {
       "sku": "5220FR2008N",
       "produto": "Válvula Entrada De Água 4 Vias Lava Seca 110/220v LG 5220fr2008n Aju75412412 Cv3011bc4 Cv3011wg4 Cv5010ts4 Cv5010wg4 Cv5011ts4 Cv5011wg4 Cv5013bc4 Cv5013ec4 Cv5013wc4 Cv5014mc4 Cv5014pc4 12v",
