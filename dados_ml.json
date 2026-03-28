@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T14:18:49.956Z",
+  "atualizado_em": "2026-03-28T14:20:50.416Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 99,
+  "total_pedidos": 100,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC47-00017A",
+      "produto": "Termostato Para Secadora De Roupas Samsung Dv431agp",
+      "quantidade": 1,
+      "valor": 97.73,
+      "foto": "https://http2.mlstatic.com/D_745520-MLB53605781444_022023-O.jpg",
+      "item_id": "MLB1842532360",
+      "shipping_id": "46741809895",
+      "envio": "Coleta",
+      "data": "2026-03-28T10:20:18.000-04:00",
+      "pedido_id": "2000015737821390",
+      "comprador": "ASSOCASSOC",
+      "pagamento": "account_money"
+    },
     {
       "sku": "758206",
       "produto": "Filtro Aspirador De Pó 054902039ata Fun Clean",
