@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T14:14:49.790Z",
+  "atualizado_em": "2026-03-28T14:16:49.865Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 97,
+  "total_pedidos": 98,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "GH39-02002B",
+      "produto": "Cabo Usb Tipo C Samsung Dados Carregamento Rápido Preto",
+      "quantidade": 1,
+      "valor": 40,
+      "foto": "https://http2.mlstatic.com/D_607157-MLA100086215765_122025-O.jpg",
+      "item_id": "MLB5536598730",
+      "shipping_id": "46742060200",
+      "envio": "Flex",
+      "data": "2026-03-28T10:15:25.000-04:00",
+      "pedido_id": "2000015737790234",
+      "comprador": "GET09",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAD60714618",
       "produto": "Cabo Chicote Placa Display Ar Condicionado LG 3 Pontas Orig",
