@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:40:49.591Z",
+  "atualizado_em": "2026-03-28T13:42:49.644Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 80,
+  "total_pedidos": 81,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 48,
+      "foto": "https://http2.mlstatic.com/D_762730-MLB89090811517_082025-O.jpg",
+      "item_id": "MLB3935360223",
+      "shipping_id": "46741895764",
+      "envio": "Full",
+      "data": "2026-03-28T09:42:23.000-04:00",
+      "pedido_id": "2000015737407482",
+      "comprador": "FAUSTOALVESDEOLIVEIRSAALVES",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1150",
       "produto": "Kit 3 Pas Batedor Do Cesto Lava E Seca Samsung Wd856uhsawqfa Cor Cinza-escuro",
