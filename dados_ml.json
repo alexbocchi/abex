@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T20:30:22.908Z",
+  "atualizado_em": "2026-03-28T20:32:23.188Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 247,
+  "total_pedidos": 248,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46743979392",
+      "envio": "Full",
+      "data": "2026-03-28T16:30:18.000-04:00",
+      "pedido_id": "2000015742003296",
+      "comprador": "FBURATTORAFAEL",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC62-00214Q",
       "produto": "Valvula 4 Vias Lava E Seca Samsung Wd90j6410aw Original 110v",
