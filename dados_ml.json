@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T15:02:50.271Z",
+  "atualizado_em": "2026-03-28T15:04:50.537Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 127,
+  "total_pedidos": 129,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "383EER3001G",
+      "produto": "Amortecedor De Suspensão Do Cesto Lava E Seca LG",
+      "quantidade": 3,
+      "valor": 131.46,
+      "foto": "https://http2.mlstatic.com/D_646520-MLA96181237827_102025-O.jpg",
+      "item_id": "MLB4583032302",
+      "shipping_id": "46742313286",
+      "envio": "Coleta",
+      "data": "2026-03-28T11:03:38.000-04:00",
+      "pedido_id": "2000015738342752",
+      "comprador": "EDU_TREVINE",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_727098-MLB105004612016_012026-O.jpg",
+      "item_id": "MLB1868780838",
+      "shipping_id": "46742310390",
+      "envio": "Flex",
+      "data": "2026-03-28T11:03:02.000-04:00",
+      "pedido_id": "2000015738319374",
+      "comprador": "DIEGO_MIRANDA_17",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
