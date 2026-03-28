@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T15:30:50.621Z",
+  "atualizado_em": "2026-03-28T15:32:51.061Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 149,
+  "total_pedidos": 151,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "021392",
+      "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_735262-MLB103819689684_012026-O.jpg",
+      "item_id": "MLB6154718234",
+      "shipping_id": "46742465448",
+      "envio": "Coleta",
+      "data": "2026-03-28T11:32:21.000-04:00",
+      "pedido_id": "2000015738667642",
+      "comprador": "JENNIFERGS05",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
+      "item_id": "MLB1613568329",
+      "shipping_id": "46742186497",
+      "envio": "Flex",
+      "data": "2026-03-28T11:31:29.000-04:00",
+      "pedido_id": "2000015738664240",
+      "comprador": "PAULOJOSEDIASSOUZA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DB93-15882Q",
       "produto": "Controle Ar Condicionado Split Samsung Virus Doctor Inverter Branco",
