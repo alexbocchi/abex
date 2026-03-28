@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T19:30:22.743Z",
+  "atualizado_em": "2026-03-28T19:32:22.704Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 231,
+  "total_pedidos": 234,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "756750",
+      "produto": "Puxador Air Fryer Saúde Philco Inox Ph3,2l Alça Original",
+      "quantidade": 1,
+      "valor": 50.39,
+      "foto": "https://http2.mlstatic.com/D_854612-MLB104426721998_012026-O.jpg",
+      "item_id": "MLB5233269630",
+      "shipping_id": "46743698198",
+      "envio": "Coleta",
+      "data": "2026-03-28T15:31:39.000-04:00",
+      "pedido_id": "2000015741363558",
+      "comprador": "FERNANDO U2",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITGUARNICAO01",
+      "produto": "Guarnição Porta Lava E Seca Samsung Wd10 Wd11 Wd85",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "https://http2.mlstatic.com/D_645696-MLA99547268376_122025-O.jpg",
+      "item_id": "MLB5473834612",
+      "shipping_id": "46743697210",
+      "envio": "Full",
+      "data": "2026-03-28T15:31:27.000-04:00",
+      "pedido_id": "2000015741388226",
+      "comprador": "LIMA8267769",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "783198",
+      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
+      "quantidade": 1,
+      "valor": 19,
+      "foto": "https://http2.mlstatic.com/D_680904-MLA105340636743_012026-O.jpg",
+      "item_id": "MLB5272637204",
+      "shipping_id": "46743418569",
+      "envio": "Full",
+      "data": "2026-03-28T15:30:50.000-04:00",
+      "pedido_id": "2000015741360830",
+      "comprador": "PEDROGARCIAAFFONSO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC62-00233C",
       "produto": "Válvula Tripla De Água Lava E Seca Samsung Wd11m44530w/az",
