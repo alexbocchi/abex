@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T11:58:48.690Z",
+  "atualizado_em": "2026-03-28T12:00:49.120Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 33,
+  "total_pedidos": 34,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC61-03423A",
+      "produto": "Tampa Duto Secagem Samsung Dc61-03423a Lava E Seca Wd106uhsawq Cinza",
+      "quantidade": 1,
+      "valor": 470,
+      "foto": "https://http2.mlstatic.com/D_699721-MLA99500626788_112025-O.jpg",
+      "item_id": "MLB4264214923",
+      "shipping_id": "46741474256",
+      "envio": "Full",
+      "data": "2026-03-28T07:59:36.000-04:00",
+      "pedido_id": "2000015736550106",
+      "comprador": "MAMA6290321",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "783198",
       "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
