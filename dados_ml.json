@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T20:24:23.320Z",
+  "atualizado_em": "2026-03-28T20:26:22.898Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 244,
+  "total_pedidos": 246,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906085",
+      "produto": "Motor Ventilador Condensa 25906085 Ar Split Springer",
+      "quantidade": 1,
+      "valor": 228,
+      "foto": "https://http2.mlstatic.com/D_846364-MLA99949698917_112025-O.jpg",
+      "item_id": "MLB4256468015",
+      "shipping_id": "46743955058",
+      "envio": "Full",
+      "data": "2026-03-28T16:25:06.000-04:00",
+      "pedido_id": "2000015741946660",
+      "comprador": "RIVA6654717",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC93-00139A",
+      "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78.4,
+      "foto": "https://http2.mlstatic.com/D_963949-MLB106751819602_022026-O.jpg",
+      "item_id": "MLB1387386786",
+      "shipping_id": "46743670807",
+      "envio": "Full",
+      "data": "2026-03-28T16:23:05.000-04:00",
+      "pedido_id": "2000015741930396",
+      "comprador": "DOEDIMARCOS20220527100058",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITTERMOSTATO",
       "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
