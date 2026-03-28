@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T14:28:50.029Z",
+  "atualizado_em": "2026-03-28T14:30:50.401Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 107,
+  "total_pedidos": 109,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181B",
+      "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
+      "quantidade": 1,
+      "valor": 163,
+      "foto": "https://http2.mlstatic.com/D_792957-MLB74588719570_022024-O.jpg",
+      "item_id": "MLB1595657205",
+      "shipping_id": "46741859671",
+      "envio": "Flex",
+      "data": "2026-03-28T10:28:54.000-04:00",
+      "pedido_id": "2000015737942138",
+      "comprador": "DECOCHAN",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Ventilador Evaporadora Ar LG S4nw12jarpa",
+      "quantidade": 1,
+      "valor": 226.8,
+      "foto": "https://http2.mlstatic.com/D_841773-MLA105395022444_012026-O.jpg",
+      "item_id": "MLB4507873275",
+      "shipping_id": "46741856593",
+      "envio": "Full",
+      "data": "2026-03-28T10:28:42.000-04:00",
+      "pedido_id": "2000015737929106",
+      "comprador": "SOUZAEDGARD87",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC34-00026B",
       "produto": "Trava Porta Lava E Seca Samsung Wd10j6410a Wd11k6410ox 110v",
