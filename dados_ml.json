@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T15:48:50.715Z",
+  "atualizado_em": "2026-03-28T15:50:50.743Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 156,
+  "total_pedidos": 158,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46742561838",
+      "envio": "Full",
+      "data": "2026-03-28T11:50:30.000-04:00",
+      "pedido_id": "2000015738884298",
+      "comprador": "CAED2936331",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITGUARNICAO01",
+      "produto": "Guarnição Porta Lava E Seca Samsung Original Wd11m4473px",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_911461-MLB86851321159_062025-O.jpg",
+      "item_id": "MLB4107469457",
+      "shipping_id": "46742279033",
+      "envio": "Coleta",
+      "data": "2026-03-28T11:48:54.000-04:00",
+      "pedido_id": "2000015738868076",
+      "comprador": "WILLIAMDJALMA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "BN98-06046A",
       "produto": "Controle Smart Tv Un32j4300 Un40j5300 43j5200 Todas Led Lcd Preto",
