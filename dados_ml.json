@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:22:50.726Z",
+  "atualizado_em": "2026-03-28T15:24:50.590Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 144,
+  "total_pedidos": 145,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
+      "quantidade": 1,
+      "valor": 235,
+      "foto": "https://http2.mlstatic.com/D_723411-MLB89537660399_082025-O.jpg",
+      "item_id": "MLB3661822075",
+      "shipping_id": "46742146221",
+      "envio": "Full",
+      "data": "2026-03-28T11:24:03.000-04:00",
+      "pedido_id": "2000015738570636",
+      "comprador": "LUIZASSCHWAB",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
