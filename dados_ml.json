@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:56:22.903Z",
+  "atualizado_em": "2026-03-28T18:58:22.949Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 225,
+  "total_pedidos": 226,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC67-00443A",
+      "produto": "Mangueira Duto De Secagem Ao Tanque Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_810837-MLA99533027496_122025-O.jpg",
+      "item_id": "MLB5506529212",
+      "shipping_id": "46743251505",
+      "envio": "Coleta",
+      "data": "2026-03-28T14:57:31.000-04:00",
+      "pedido_id": "2000015740975530",
+      "comprador": "PATPERSCH",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd8854rjf",
