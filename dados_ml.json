@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T17:36:44.589Z",
+  "atualizado_em": "2026-03-28T17:38:22.756Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 198,
+  "total_pedidos": 199,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Display Ar Condicionado LG Dual Inverter 9000 A 24000",
+      "quantidade": 1,
+      "valor": 240,
+      "foto": "https://http2.mlstatic.com/D_827604-MLA106094495821_012026-O.jpg",
+      "item_id": "MLB3950512829",
+      "shipping_id": "46742840835",
+      "envio": "Full",
+      "data": "2026-03-28T13:33:59.000-04:00",
+      "pedido_id": "2000015740060992",
+      "comprador": "RAFAELAALVES857",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
