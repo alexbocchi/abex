@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:02:49.045Z",
+  "atualizado_em": "2026-03-28T12:04:48.904Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 34,
+  "total_pedidos": 35,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46741487400",
+      "envio": "Full",
+      "data": "2026-03-28T08:03:40.000-04:00",
+      "pedido_id": "2000015736545414",
+      "comprador": "RMLRML2003",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC61-03423A",
       "produto": "Tampa Duto Secagem Samsung Dc61-03423a Lava E Seca Wd106uhsawq Cinza",
