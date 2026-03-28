@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T14:58:50.241Z",
+  "atualizado_em": "2026-03-28T15:00:50.361Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 125,
+  "total_pedidos": 127,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.8,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46742293622",
+      "envio": "Full",
+      "data": "2026-03-28T10:59:45.000-04:00",
+      "pedido_id": "2000015738298430",
+      "comprador": "RUI CAMPOS",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus Original 220v 65w Ar Barril Split 25906088 Ydk65-6d",
+      "quantidade": 1,
+      "valor": 210,
+      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
+      "item_id": "MLB6107728210",
+      "shipping_id": "46742289244",
+      "envio": "Full",
+      "data": "2026-03-28T10:58:18.000-04:00",
+      "pedido_id": "2000015738284114",
+      "comprador": "SEBASTINDELLEPIANERAWSON",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EBF61315801",
       "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
