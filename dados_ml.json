@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T14:16:49.865Z",
+  "atualizado_em": "2026-03-28T14:18:49.956Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 98,
+  "total_pedidos": 99,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "758206",
+      "produto": "Filtro Aspirador De Pó 054902039ata Fun Clean",
+      "quantidade": 1,
+      "valor": 38.5,
+      "foto": "https://http2.mlstatic.com/D_841682-MLB104123496486_012026-O.jpg",
+      "item_id": "MLB4417532407",
+      "shipping_id": "46741800981",
+      "envio": "Flex",
+      "data": "2026-03-28T10:18:31.000-04:00",
+      "pedido_id": "2000015737807282",
+      "comprador": "ALCA8877179",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "GH39-02002B",
       "produto": "Cabo Usb Tipo C Samsung Dados Carregamento Rápido Preto",
