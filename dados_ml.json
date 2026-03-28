@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:14:24.019Z",
+  "atualizado_em": "2026-03-28T18:16:23.867Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 213,
+  "total_pedidos": 214,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
+      "item_id": "MLB5347106848",
+      "shipping_id": "46743313880",
+      "envio": "Full",
+      "data": "2026-03-28T14:15:27.000-04:00",
+      "pedido_id": "2000015740513918",
+      "comprador": "FRANCELINEBARROSMARTINS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "5220FR2008N",
       "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG",
