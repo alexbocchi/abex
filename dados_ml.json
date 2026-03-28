@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:14:48.816Z",
+  "atualizado_em": "2026-03-28T12:16:48.850Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 39,
+  "total_pedidos": 40,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Original Wd10m44530w",
+      "quantidade": 1,
+      "valor": 133,
+      "foto": "https://http2.mlstatic.com/D_862644-MLB106679807944_022026-O.jpg",
+      "item_id": "MLB1766425934",
+      "shipping_id": "46741254945",
+      "envio": "Full",
+      "data": "2026-03-28T08:15:53.000-04:00",
+      "pedido_id": "2000015736652600",
+      "comprador": "SAWE746995",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC31-00181B",
       "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
