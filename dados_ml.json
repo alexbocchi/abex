@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:52:49.790Z",
+  "atualizado_em": "2026-03-28T13:54:49.576Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 87,
+  "total_pedidos": 88,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5214EN1004A",
+      "produto": "Mangueira De Entrada De Agua LG Lava Seca Original",
+      "quantidade": 1,
+      "valor": 36.9,
+      "foto": "https://http2.mlstatic.com/D_759205-MLB100494630895_122025-O.jpg",
+      "item_id": "MLB6011713456",
+      "shipping_id": "46741673581",
+      "envio": "Full",
+      "data": "2026-03-28T09:53:17.000-04:00",
+      "pedido_id": "2000015737517780",
+      "comprador": "CLEBERMOURA77",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus Original 220v 65w Ar Barril Split 25906088 Ydk65-6d",
