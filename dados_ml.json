@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:56:49.364Z",
+  "atualizado_em": "2026-03-28T12:58:49.168Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 56,
+  "total_pedidos": 57,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC61-10673C",
+      "produto": "Tampa De Escoamento De Água Lava E Seca Samsung Dc61-10673c",
+      "quantidade": 1,
+      "valor": 25,
+      "foto": "https://http2.mlstatic.com/D_987393-MLB69356050212_052023-O.jpg",
+      "item_id": "MLB2023934824",
+      "shipping_id": "46741421579",
+      "envio": "Coleta",
+      "data": "2026-03-28T08:58:10.000-04:00",
+      "pedido_id": "2000015737004218",
+      "comprador": "ALICIA OLIVEIRA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "6324W1A003E",
       "produto": "Magnetron 2m214 Microondas LG Ms3052 Ms3057 Ms309 Mh7053",
