@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T13:50:49.771Z",
+  "atualizado_em": "2026-03-28T13:52:49.790Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 85,
+  "total_pedidos": 87,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus Original 220v 65w Ar Barril Split 25906088 Ydk65-6d",
+      "quantidade": 1,
+      "valor": 210,
+      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
+      "item_id": "MLB6107728210",
+      "shipping_id": "46741943136",
+      "envio": "Full",
+      "data": "2026-03-28T09:52:13.000-04:00",
+      "pedido_id": "2000015737517262",
+      "comprador": "AA20250508073833",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "771546",
+      "produto": "Controle Remoto Cra01 Para Ar Condicionado Split Philco Branco",
+      "quantidade": 1,
+      "valor": 69.9,
+      "foto": "https://http2.mlstatic.com/D_818167-MLA99518095184_112025-O.jpg",
+      "item_id": "MLB6469729338",
+      "shipping_id": "46741935674",
+      "envio": "Full",
+      "data": "2026-03-28T09:50:39.000-04:00",
+      "pedido_id": "2000015737520080",
+      "comprador": "EXPEDITOHENRIQUEDACOSTAHENR",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1118",
       "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
