@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:24:50.590Z",
+  "atualizado_em": "2026-03-28T15:26:50.774Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 145,
+  "total_pedidos": 146,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Aspirador Philco Power Clean Pas4000v Piso",
+      "quantidade": 1,
+      "valor": 116.91,
+      "foto": "https://http2.mlstatic.com/D_644395-MLB104984886985_012026-O.jpg",
+      "item_id": "MLB3988647355",
+      "shipping_id": "46742424900",
+      "envio": "Flex",
+      "data": "2026-03-28T11:24:58.000-04:00",
+      "pedido_id": "2000015738569062",
+      "comprador": "QUIEROZADELAIDE20230514205518",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
