@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T22:12:23.402Z",
+  "atualizado_em": "2026-03-28T22:14:23.680Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 275,
+  "total_pedidos": 277,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "6501KW2001B",
+      "produto": "Sensor Hall Lava E Seca Lavadora LG Wd1412rt Fr1226wc5 Novo",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_762277-MLB106748710716_022026-O.jpg",
+      "item_id": "MLB3948813121",
+      "shipping_id": "46744179327",
+      "envio": "Full",
+      "data": "2026-03-28T18:12:54.000-04:00",
+      "pedido_id": "2000015743068796",
+      "comprador": "SOIS7326985",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC32-00004C",
+      "produto": "Sensor Termistor Duto Secagem Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_841903-MLB72744386214_112023-O.jpg",
+      "item_id": "MLB1529993590",
+      "shipping_id": "46744176501",
+      "envio": "Full",
+      "data": "2026-03-28T18:12:16.000-04:00",
+      "pedido_id": "2000015743064550",
+      "comprador": "TG20240702213326",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU61383506",
       "produto": "Eletrobomba Lava E Seca LG 127v Originial Eau62263306 Nova",
