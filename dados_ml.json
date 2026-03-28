@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:44:23.926Z",
+  "atualizado_em": "2026-03-28T18:46:24.412Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 219,
+  "total_pedidos": 220,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "020217",
+      "produto": "Cone Espremedor Philco Citrus Espremedor De Frutas Original",
+      "quantidade": 1,
+      "valor": 25.48,
+      "foto": "https://http2.mlstatic.com/D_812557-MLB104967358085_012026-O.jpg",
+      "item_id": "MLB5838476304",
+      "shipping_id": "46743461468",
+      "envio": "Coleta",
+      "data": "2026-03-28T14:44:31.000-04:00",
+      "pedido_id": "2000015740849152",
+      "comprador": "BOLA1793130",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "AKB75675304",
       "produto": "Controle Remoto Tv LG Smart Full Hd 4k Smart Original 32/43/49/50/55/65 Polegadas Akb75095315 Akb75675304 Aaa76672802... Preto",
