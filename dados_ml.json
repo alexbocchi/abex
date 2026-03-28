@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T13:00:49.342Z",
+  "atualizado_em": "2026-03-28T13:02:49.572Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 57,
+  "total_pedidos": 59,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5214EN1004A",
+      "produto": "Mangueira De Entrada De Agua LG Lava Seca Original",
+      "quantidade": 1,
+      "valor": 36.9,
+      "foto": "https://http2.mlstatic.com/D_759205-MLB100494630895_122025-O.jpg",
+      "item_id": "MLB6011713456",
+      "shipping_id": "46741437851",
+      "envio": "Full",
+      "data": "2026-03-28T09:01:59.000-04:00",
+      "pedido_id": "2000015737019658",
+      "comprador": "FERREIRALIMAEMANUELA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 2,
+      "valor": 132.36,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46741709900",
+      "envio": "Full",
+      "data": "2026-03-28T09:01:22.000-04:00",
+      "pedido_id": "2000015737025730",
+      "comprador": "GELOMACPRINCIPAL",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC61-10673C",
       "produto": "Tampa De Escoamento De Água Lava E Seca Samsung Dc61-10673c",
