@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:52:50.698Z",
+  "atualizado_em": "2026-03-28T15:54:50.843Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 161,
+  "total_pedidos": 162,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
+      "item_id": "MLB1613568329",
+      "shipping_id": "46742302845",
+      "envio": "Flex",
+      "data": "2026-03-28T11:52:43.000-04:00",
+      "pedido_id": "2000015738885836",
+      "comprador": "ERYCAPERESS",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC62-00233C",
       "produto": "Válvula Tripla Entrada De Água 110v Midea Philco Lava E Seca Modelos",
