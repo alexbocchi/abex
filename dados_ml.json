@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-28T16:04:51.103Z",
+  "atualizado_em": "2026-03-28T16:06:51.070Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 164,
+  "total_pedidos": 163,
   "produtos": [],
   "pedidos": [
     {
@@ -142,20 +142,6 @@
       "data": "2026-03-28T11:47:32.000-04:00",
       "pedido_id": "2000015738838988",
       "comprador": "XR3AUTOPECAS",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "KITSM1077",
-      "produto": "Conjunto 4 Pé Nivelador Lava E Seca Samsung Dc97-00920u",
-      "quantidade": 1,
-      "valor": 47.39,
-      "foto": "https://http2.mlstatic.com/D_803194-MLB102489225246_122025-O.jpg",
-      "item_id": "MLB4107620973",
-      "shipping_id": "46742532170",
-      "envio": "Full",
-      "data": "2026-03-28T11:45:05.000-04:00",
-      "pedido_id": "2000015738787850",
-      "comprador": "LUIZ_VASCO77",
       "pagamento": "credit_card"
     },
     {
