@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:12:48.733Z",
+  "atualizado_em": "2026-03-28T12:14:48.816Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 38,
+  "total_pedidos": 39,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181B",
+      "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
+      "quantidade": 1,
+      "valor": 163,
+      "foto": "https://http2.mlstatic.com/D_792957-MLB74588719570_022024-O.jpg",
+      "item_id": "MLB1595657205",
+      "shipping_id": "46741246515",
+      "envio": "Flex",
+      "data": "2026-03-28T08:13:35.000-04:00",
+      "pedido_id": "2000015736634488",
+      "comprador": "ROGEBULG",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAU64082902",
       "produto": "Bomba Drenagem Lava Seca LG 26v Cv30 Cv50 Fv30 Fv50 Original 127/220v",
@@ -11,8 +25,8 @@
       "valor": 59.36,
       "foto": "https://http2.mlstatic.com/D_722533-MLB52148678838_102022-O.jpg",
       "item_id": "MLB2895051519",
-      "shipping_id": null,
-      "envio": "N/A",
+      "shipping_id": "46741248273",
+      "envio": "Full",
       "data": "2026-03-28T08:11:10.000-04:00",
       "pedido_id": "2000015736609506",
       "comprador": "NATIARAPANJI",
