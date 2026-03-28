@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T12:06:48.777Z",
+  "atualizado_em": "2026-03-28T12:08:48.971Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 35,
+  "total_pedidos": 37,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_727098-MLB105004612016_012026-O.jpg",
+      "item_id": "MLB1868780838",
+      "shipping_id": "46741227621",
+      "envio": "Flex",
+      "data": "2026-03-28T08:07:45.000-04:00",
+      "pedido_id": "2000015736575984",
+      "comprador": "COPA25162",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU61383504",
+      "produto": "Eletrobomba Lava Seca LG 220v Original Eau62263304 220v",
+      "quantidade": 1,
+      "valor": 90.99,
+      "foto": "https://http2.mlstatic.com/D_823760-MLB106481102007_022026-O.jpg",
+      "item_id": "MLB3692715870",
+      "shipping_id": "46741499514",
+      "envio": "Full",
+      "data": "2026-03-28T08:07:03.000-04:00",
+      "pedido_id": "2000015736594352",
+      "comprador": "CELIAROUPASEACESSORIOS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
