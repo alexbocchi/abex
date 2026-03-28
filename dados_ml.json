@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T15:50:50.743Z",
+  "atualizado_em": "2026-03-28T15:52:50.698Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 158,
+  "total_pedidos": 161,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Tripla Entrada De Água 110v Midea Philco Lava E Seca Modelos",
+      "quantidade": 1,
+      "valor": 151.4,
+      "foto": "https://http2.mlstatic.com/D_948673-MLA95216741964_102025-O.jpg",
+      "item_id": "MLB5318743754",
+      "shipping_id": "46742297497",
+      "envio": "Full",
+      "data": "2026-03-28T11:51:46.000-04:00",
+      "pedido_id": "2000015738889050",
+      "comprador": "CRTH1206817",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "AXBX01",
+      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
+      "quantidade": 1,
+      "valor": 39.9,
+      "foto": "https://http2.mlstatic.com/D_618047-MLB79773766608_102024-O.jpg",
+      "item_id": "MLB5122979702",
+      "shipping_id": "46742292151",
+      "envio": "Full",
+      "data": "2026-03-28T11:51:34.000-04:00",
+      "pedido_id": "2000015738895058",
+      "comprador": "MOTTAANTONIO20230124145744",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung Preto",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_644020-MLB51194105290_082022-O.jpg",
+      "item_id": "MLB1868896373",
+      "shipping_id": "46742564436",
+      "envio": "Full",
+      "data": "2026-03-28T11:51:01.000-04:00",
+      "pedido_id": "2000015738869470",
+      "comprador": "TAFER14",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
