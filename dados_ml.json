@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T22:02:23.177Z",
+  "atualizado_em": "2026-03-28T22:04:23.214Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 268,
+  "total_pedidos": 271,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "https://http2.mlstatic.com/D_968242-MLB107340769115_022026-O.jpg",
+      "item_id": "MLB1584616358",
+      "shipping_id": "46744412730",
+      "envio": "Full",
+      "data": "2026-03-28T18:03:39.000-04:00",
+      "pedido_id": "2000015742951456",
+      "comprador": "FGHFCDEBA16093",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB96-24831H",
+      "produto": "Serpentina Evaporadora Ar Samsung Windfree Ar09 Ar12",
+      "quantidade": 1,
+      "valor": 790,
+      "foto": "https://http2.mlstatic.com/D_661736-MLB108479579891_032026-O.jpg",
+      "item_id": "MLB3667293755",
+      "shipping_id": "46744135535",
+      "envio": "Full",
+      "data": "2026-03-28T18:02:56.000-04:00",
+      "pedido_id": "2000015742964904",
+      "comprador": "LIGMAQUINAS",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EBF49827801",
+      "produto": "Trava Da Porta Lava E Seca LG Ebf49827801 110v Compatível",
+      "quantidade": 1,
+      "valor": 70.5,
+      "foto": "https://http2.mlstatic.com/D_672166-MLA107685766722_032026-O.jpg",
+      "item_id": "MLB5944524260",
+      "shipping_id": "46744404286",
+      "envio": "Full",
+      "data": "2026-03-28T18:01:43.000-04:00",
+      "pedido_id": "2000015742929624",
+      "comprador": "JUNIORSOUZA7599",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
