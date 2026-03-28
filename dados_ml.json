@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:32:49.098Z",
+  "atualizado_em": "2026-03-28T12:34:49.116Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 44,
+  "total_pedidos": 45,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.8,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46741318535",
+      "envio": "Full",
+      "data": "2026-03-28T08:32:52.000-04:00",
+      "pedido_id": "2000015736775240",
+      "comprador": "JOPA4017638",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
