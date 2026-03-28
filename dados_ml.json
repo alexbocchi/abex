@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T12:30:49.073Z",
+  "atualizado_em": "2026-03-28T12:32:49.098Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 42,
+  "total_pedidos": 44,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_843359-MLB107175604455_022026-O.jpg",
+      "item_id": "MLB1869886476",
+      "shipping_id": "46741312697",
+      "envio": "Flex",
+      "data": "2026-03-28T08:31:15.000-04:00",
+      "pedido_id": "2000015736766734",
+      "comprador": "JULIANO.JULIANO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46741310335",
+      "envio": "Full",
+      "data": "2026-03-28T08:30:49.000-04:00",
+      "pedido_id": "2000015736772310",
+      "comprador": "LUCASMICHELETO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
