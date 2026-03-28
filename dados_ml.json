@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T15:16:50.587Z",
+  "atualizado_em": "2026-03-28T15:18:50.857Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 142,
+  "total_pedidos": 144,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46742117515",
+      "envio": "Full",
+      "data": "2026-03-28T11:18:36.000-04:00",
+      "pedido_id": "2000015738493640",
+      "comprador": "PAULOARQUITETURA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181B",
+      "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
+      "quantidade": 1,
+      "valor": 163,
+      "foto": "https://http2.mlstatic.com/D_792957-MLB74588719570_022024-O.jpg",
+      "item_id": "MLB1595657205",
+      "shipping_id": "46742390938",
+      "envio": "Full",
+      "data": "2026-03-28T11:17:50.000-04:00",
+      "pedido_id": "2000015738502618",
+      "comprador": "FROSTLINE",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC34-00025D",
       "produto": "Trava Da Porta Lava Seca Samsung Original Dc34-00025d Wf15k",
