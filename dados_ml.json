@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T21:00:24.187Z",
+  "atualizado_em": "2026-03-28T21:02:23.252Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 257,
+  "total_pedidos": 258,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5900AR1266A",
+      "produto": "Hélice Condensadora Para Ar Condicionado LG 9000 Original",
+      "quantidade": 1,
+      "valor": 171.6,
+      "foto": "https://http2.mlstatic.com/D_607894-MLB73491537306_122023-O.jpg",
+      "item_id": "MLB1863977646",
+      "shipping_id": "46743857749",
+      "envio": "Full",
+      "data": "2026-03-28T17:01:03.000-04:00",
+      "pedido_id": "2000015742328658",
+      "comprador": "VAREJAODASVARIEDADES",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAU61383506",
       "produto": "Bomba Drenagem 110v/127v Lava Seca LG Wd1403 Wd1409 Original 127v",
