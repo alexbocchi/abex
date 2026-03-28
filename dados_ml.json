@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-28T16:44:23.258Z",
+  "atualizado_em": "2026-03-28T16:46:23.344Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 180,
+  "total_pedidos": 179,
   "produtos": [],
   "pedidos": [
     {
@@ -1682,20 +1682,6 @@
       "data": "2026-03-28T09:04:39.000-04:00",
       "pedido_id": "2000015737060574",
       "comprador": "JS20260306142726",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC61-03510A",
-      "produto": "Guia Recipiente Sabão Liquido Lava E Seca Samsung Original",
-      "quantidade": 1,
-      "valor": 25.09,
-      "foto": "https://http2.mlstatic.com/D_976338-MLB106922748873_022026-O.jpg",
-      "item_id": "MLB1533297210",
-      "shipping_id": "46741442729",
-      "envio": "Full",
-      "data": "2026-03-28T09:03:12.000-04:00",
-      "pedido_id": "2000015737040524",
-      "comprador": "ROSANEPRISCILASANTOSNOGUEIRA",
       "pagamento": "credit_card"
     },
     {
