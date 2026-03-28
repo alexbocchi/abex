@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T16:23:10.994Z",
+  "atualizado_em": "2026-03-28T16:24:21.688Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 170,
+  "total_pedidos": 171,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB95-01990D",
+      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
+      "quantidade": 1,
+      "valor": 70.2,
+      "foto": "https://http2.mlstatic.com/D_847601-MLB73095606746_112023-O.jpg",
+      "item_id": "MLB1392765780",
+      "shipping_id": "46742738156",
+      "envio": "Full",
+      "data": "2026-03-28T12:24:09.000-04:00",
+      "pedido_id": "2000015739243354",
+      "comprador": "MS20241117043742",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
