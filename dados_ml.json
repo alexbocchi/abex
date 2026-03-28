@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T19:52:23.189Z",
+  "atualizado_em": "2026-03-28T19:54:22.810Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 238,
+  "total_pedidos": 239,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ARAGFA200031-CS",
+      "produto": "Cooler Ventoinha Refrigerador Panasonic 4515jl Original Nf",
+      "quantidade": 1,
+      "valor": 179.77,
+      "foto": "https://http2.mlstatic.com/D_715524-MLB101406963248_122025-O.jpg",
+      "item_id": "MLB1656131435",
+      "shipping_id": "46743524957",
+      "envio": "Full",
+      "data": "2026-03-28T15:50:57.000-04:00",
+      "pedido_id": "2000015741582802",
+      "comprador": "MECR7144725",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DA62-04678B",
       "produto": "Válvula Expansão Geladeira Samsung Inverter Frost Free Nf",
