@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:58:22.949Z",
+  "atualizado_em": "2026-03-28T19:00:23.141Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 226,
+  "total_pedidos": 228,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM0002",
+      "produto": "Placa Display Ar Samsung Inverter Original Ar09mvspbgmnaz 127/220v",
+      "quantidade": 1,
+      "valor": 197.79,
+      "foto": "https://http2.mlstatic.com/D_626332-MLB105643572852_012026-O.jpg",
+      "item_id": "MLB1773389502",
+      "shipping_id": "46743258139",
+      "envio": "Coleta",
+      "data": "2026-03-28T14:58:45.000-04:00",
+      "pedido_id": "2000015740997628",
+      "comprador": "EGINALDOMOTAARCANJO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC67-00443A",
       "produto": "Mangueira Duto De Secagem Ao Tanque Lava E Seca Samsung",
@@ -17,6 +31,20 @@
       "pedido_id": "2000015740975530",
       "comprador": "PATPERSCH",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 37.39,
+      "foto": "https://http2.mlstatic.com/D_939763-MLB47174909814_082021-O.jpg",
+      "item_id": "MLB1775787624",
+      "shipping_id": "46743533468",
+      "envio": "Full",
+      "data": "2026-03-28T14:56:48.000-04:00",
+      "pedido_id": "2000015740986872",
+      "comprador": "MARILEIDEMADUREIRA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KITSM1097",
