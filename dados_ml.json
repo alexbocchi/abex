@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T19:12:22.824Z",
+  "atualizado_em": "2026-03-28T19:14:22.704Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 229,
+  "total_pedidos": 230,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 121.8,
+      "foto": "https://http2.mlstatic.com/D_652191-MLB74716787185_022024-O.jpg",
+      "item_id": "MLB1491074149",
+      "shipping_id": "46743604228",
+      "envio": "Full",
+      "data": "2026-03-28T15:11:40.000-04:00",
+      "pedido_id": "2000015741168066",
+      "comprador": "OLSU5046333",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Para Uso Em Lava E Seca Samsung Dc66-421b Wd10m44530w Wd0854w Wd103u4sawq Wd106uhsagd Wd10j6410 Wd11a4453 Wd856uhsasd Wd90j6410 Wf106u4sa Wf8854ljf1 Ww85j4273mw",
