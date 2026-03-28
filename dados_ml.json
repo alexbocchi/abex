@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:18:23.409Z",
+  "atualizado_em": "2026-03-28T22:20:23.537Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 278,
+  "total_pedidos": 279,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Ydk65-6d 25906088 Ar Mídea 18/22/24/30 Btu 220v",
+      "quantidade": 1,
+      "valor": 225,
+      "foto": "https://http2.mlstatic.com/D_754168-MLB104313914582_012026-O.jpg",
+      "item_id": "MLB4360707875",
+      "shipping_id": "46744210481",
+      "envio": "Full",
+      "data": "2026-03-28T18:19:38.000-04:00",
+      "pedido_id": "2000015743148374",
+      "comprador": "MISK09",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC61-03510A",
       "produto": "Guia Recipiente Sabão Liquido Lava E Seca Samsung Original",
