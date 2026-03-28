@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:52:23.165Z",
+  "atualizado_em": "2026-03-28T18:54:22.532Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 224,
+  "total_pedidos": 225,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd8854rjf",
+      "quantidade": 1,
+      "valor": 99.5,
+      "foto": "https://http2.mlstatic.com/D_697761-MLA98552708323_112025-O.jpg",
+      "item_id": "MLB4309714061",
+      "shipping_id": "46743228401",
+      "envio": "Full",
+      "data": "2026-03-28T14:52:09.000-04:00",
+      "pedido_id": "2000015740954064",
+      "comprador": "SAMYSDANILOVILANOVA",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "AFC72755404",
       "produto": "Pé Nivelador Para Lava E Seca LG Afc72909305",
