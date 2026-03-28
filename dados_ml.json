@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T11:56:48.594Z",
+  "atualizado_em": "2026-03-28T11:58:48.690Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 32,
+  "total_pedidos": 33,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "783198",
+      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
+      "quantidade": 1,
+      "valor": 19,
+      "foto": "https://http2.mlstatic.com/D_680904-MLA105340636743_012026-O.jpg",
+      "item_id": "MLB5272637204",
+      "shipping_id": "46741195371",
+      "envio": "Full",
+      "data": "2026-03-28T07:58:09.000-04:00",
+      "pedido_id": "2000015736512000",
+      "comprador": "JOAOTEIXEIRADEARAUJONETO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "ADQ72910911",
       "produto": "Filtro De Água Refrigerador LG Side By Side Original Novo",
