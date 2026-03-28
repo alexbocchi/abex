@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:10:49.805Z",
+  "atualizado_em": "2026-03-28T13:12:49.468Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 67,
+  "total_pedidos": 68,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-15882Q",
+      "produto": "Controle Ar Condicionado Split Samsung Virus Doctor Inverter Branco",
+      "quantidade": 1,
+      "valor": 82.99,
+      "foto": "https://http2.mlstatic.com/D_903361-MLB89166263134_082025-O.jpg",
+      "item_id": "MLB1613573954",
+      "shipping_id": "46741480291",
+      "envio": "Full",
+      "data": "2026-03-28T09:11:52.000-04:00",
+      "pedido_id": "2000015737097780",
+      "comprador": "SLVIAMESSIAS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
