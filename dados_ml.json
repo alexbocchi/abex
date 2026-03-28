@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:40:51.840Z",
+  "atualizado_em": "2026-03-28T15:42:51.204Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 151,
+  "total_pedidos": 152,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "761321",
+      "produto": "Jarra Cafeteira Philco Pcf38 Pcf38d Platinum Original Preta",
+      "quantidade": 1,
+      "valor": 52.73,
+      "foto": "https://http2.mlstatic.com/D_631335-MLB104426715006_012026-O.jpg",
+      "item_id": "MLB5095428926",
+      "shipping_id": "46742509916",
+      "envio": "Flex",
+      "data": "2026-03-28T11:40:46.000-04:00",
+      "pedido_id": "2000015738772428",
+      "comprador": "LM20250721114017",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "021392",
       "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
