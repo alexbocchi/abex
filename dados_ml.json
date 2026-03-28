@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:06:23.211Z",
+  "atualizado_em": "2026-03-28T22:08:23.289Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 272,
+  "total_pedidos": 273,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd856uhsawq",
+      "quantidade": 1,
+      "valor": 35.54,
+      "foto": "https://http2.mlstatic.com/D_953178-MLB54721751424_032023-O.jpg",
+      "item_id": "MLB1775791635",
+      "shipping_id": "46744425112",
+      "envio": "Full",
+      "data": "2026-03-28T18:06:27.000-04:00",
+      "pedido_id": "2000015743004550",
+      "comprador": "NEDISSOR",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC64-01538B",
       "produto": "Trava De Porta Samsung Lava E Seca 127v Modelos Wd106uhsawq Wd856uhsawq",
