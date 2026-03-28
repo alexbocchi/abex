@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T23:16:23.861Z",
+  "atualizado_em": "2026-03-28T23:18:23.583Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 291,
+  "total_pedidos": 292,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITGUARNICAO01",
+      "produto": "Guarnição Porta Lava E Seca Samsung Wd10 Wd11 Wd85",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "https://http2.mlstatic.com/D_645696-MLA99547268376_122025-O.jpg",
+      "item_id": "MLB5473834612",
+      "shipping_id": "46744752726",
+      "envio": "Full",
+      "data": "2026-03-28T19:17:47.000-04:00",
+      "pedido_id": "2000015743752992",
+      "comprador": "LUIZ_VICTORINO",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "DB94-00759A",
       "produto": "Mancal Bucha Eixo Turbina Ar Samsung Piso Teto Db94-00759a",
