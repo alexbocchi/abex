@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T20:18:22.880Z",
+  "atualizado_em": "2026-03-28T20:20:23.068Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 243,
+  "total_pedidos": 244,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "https://http2.mlstatic.com/D_762730-MLB89090811517_082025-O.jpg",
+      "item_id": "MLB3935360223",
+      "shipping_id": "46743923760",
+      "envio": "Flex",
+      "data": "2026-03-28T16:17:47.000-04:00",
+      "pedido_id": "2000015741855542",
+      "comprador": "DODASP2010",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
