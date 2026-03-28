@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T23:14:23.417Z",
+  "atualizado_em": "2026-03-28T23:16:23.861Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 288,
+  "total_pedidos": 291,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB94-00759A",
+      "produto": "Mancal Bucha Eixo Turbina Ar Samsung Piso Teto Db94-00759a",
+      "quantidade": 2,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_778864-MLB80506748664_112024-O.jpg",
+      "item_id": "MLB5181471566",
+      "shipping_id": "46744468311",
+      "envio": "Coleta",
+      "data": "2026-03-28T19:15:42.000-04:00",
+      "pedido_id": "2000015743741204",
+      "comprador": "TC20240819203101",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 66.18,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46744465735",
+      "envio": "Full",
+      "data": "2026-03-28T19:15:04.000-04:00",
+      "pedido_id": "2000015743734422",
+      "comprador": "MV20250205235337",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAD64108410",
+      "produto": "Cabo De Força Tipo 8 Tv LG Smart 32/43/49/50/55/65 Polegadas 127/220v",
+      "quantidade": 1,
+      "valor": 35.2,
+      "foto": "https://http2.mlstatic.com/D_947568-MLB105333762521_012026-O.jpg",
+      "item_id": "MLB3490025733",
+      "shipping_id": "46744736274",
+      "envio": "Full",
+      "data": "2026-03-28T19:14:11.000-04:00",
+      "pedido_id": "2000015743725114",
+      "comprador": "MARCIOADVINCULA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
