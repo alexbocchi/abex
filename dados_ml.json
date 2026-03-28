@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T23:22:23.647Z",
+  "atualizado_em": "2026-03-28T23:24:23.695Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 294,
+  "total_pedidos": 295,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "D150946",
+      "produto": "Capacitor Duplo Ar Condicionad Midea 9000 12000 35+2,5uf440v",
+      "quantidade": 1,
+      "valor": 48,
+      "foto": "https://http2.mlstatic.com/D_964009-MLB101657732314_122025-O.jpg",
+      "item_id": "MLB5108057610",
+      "shipping_id": "46744779920",
+      "envio": "Full",
+      "data": "2026-03-28T19:23:37.000-04:00",
+      "pedido_id": "2000015743811214",
+      "comprador": "CORDEIRODASILVALUCIANO85",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "6601EN1003D",
       "produto": "Trava Da Porta Lava E Seca LG Wd-1409fd.abwegsp Wd1496adp.abwfbrs Wd9we6.abwfbrs",
