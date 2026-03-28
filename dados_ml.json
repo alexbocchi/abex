@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T20:06:22.995Z",
+  "atualizado_em": "2026-03-28T20:08:22.928Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 240,
+  "total_pedidos": 241,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "https://http2.mlstatic.com/D_968242-MLB107340769115_022026-O.jpg",
+      "item_id": "MLB1584616358",
+      "shipping_id": "46743598533",
+      "envio": "Full",
+      "data": "2026-03-28T16:07:53.000-04:00",
+      "pedido_id": "2000015741757130",
+      "comprador": "SAMYWEBER",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EBF61315801",
       "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
