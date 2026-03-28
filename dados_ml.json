@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T21:30:23.330Z",
+  "atualizado_em": "2026-03-28T21:32:23.386Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 264,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Operacional E Segurança",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "https://http2.mlstatic.com/D_606772-MLB53800958800_022023-O.jpg",
+      "item_id": "MLB1605625037",
+      "shipping_id": "46744262128",
+      "envio": "Full",
+      "data": "2026-03-28T17:30:24.000-04:00",
+      "pedido_id": "2000015742642724",
+      "comprador": "WILSONCORDEIRODASILVA22",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC93-00139A",
       "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
@@ -129,20 +143,6 @@
       "pedido_id": "2000015742276836",
       "comprador": "SABRINA.PALERMO",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "KITTERMOSTATO",
-      "produto": "Kit Termostatos Lava E Seca Samsung Operacional E Segurança",
-      "quantidade": 1,
-      "valor": 49,
-      "foto": "https://http2.mlstatic.com/D_606772-MLB53800958800_022023-O.jpg",
-      "item_id": "MLB1605625037",
-      "shipping_id": "46743825747",
-      "envio": "Full",
-      "data": "2026-03-28T16:55:24.000-04:00",
-      "pedido_id": "2000015742263886",
-      "comprador": "WILSONCORDEIRODASILVA22",
-      "pagamento": "account_money"
     },
     {
       "sku": "EBR84274201",
