@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:14:49.368Z",
+  "atualizado_em": "2026-03-28T13:16:49.521Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 68,
+  "total_pedidos": 69,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ABQ73082701",
+      "produto": "Placa Receptora Display Ar Condicionado LG 9000 A 18000 Btus 127/220v",
+      "quantidade": 1,
+      "valor": 200,
+      "foto": "https://http2.mlstatic.com/D_668424-MLA96893341964_112025-O.jpg",
+      "item_id": "MLB5509997244",
+      "shipping_id": "46741771300",
+      "envio": "Full",
+      "data": "2026-03-28T09:15:28.000-04:00",
+      "pedido_id": "2000015737154812",
+      "comprador": "PEAN7957874",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DB93-15882Q",
       "produto": "Controle Ar Condicionado Split Samsung Virus Doctor Inverter Branco",
