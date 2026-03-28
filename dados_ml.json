@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T14:32:50.041Z",
+  "atualizado_em": "2026-03-28T14:34:50.183Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 109,
+  "total_pedidos": 110,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "PS-3880-608",
+      "produto": "Sensor Da Tampa Lavadora Panasonic 14kg 16kg Original",
+      "quantidade": 1,
+      "valor": 50,
+      "foto": "https://http2.mlstatic.com/D_741430-MLB105647982598_012026-O.jpg",
+      "item_id": "MLB2905146570",
+      "shipping_id": "46742152538",
+      "envio": "Coleta",
+      "data": "2026-03-28T10:29:34.000-04:00",
+      "pedido_id": "2000015737942602",
+      "comprador": "RIPA6629347",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC31-00181B",
       "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
