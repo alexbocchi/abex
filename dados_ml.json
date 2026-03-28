@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:36:49.351Z",
+  "atualizado_em": "2026-03-28T12:38:48.970Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 46,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 121.8,
+      "foto": "https://http2.mlstatic.com/D_652191-MLB74716787185_022024-O.jpg",
+      "item_id": "MLB1491074149",
+      "shipping_id": "46741609780",
+      "envio": "Full",
+      "data": "2026-03-28T08:37:07.000-04:00",
+      "pedido_id": "2000015736826230",
+      "comprador": "ARAUJOCLAUDIA67",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC62-00214Q",
       "produto": "Valvula 4 Vias Lava E Seca Samsung Wd90j6410aw Original 110v",
@@ -241,20 +255,6 @@
       "pedido_id": "2000015736460952",
       "comprador": "AFGTEM",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC64-01521A",
-      "produto": "Vidro Da Porta Para Lava E Seca Samsung Wd106uhsagd",
-      "quantidade": 1,
-      "valor": 450,
-      "foto": "https://http2.mlstatic.com/D_694021-MLA95175708558_102025-O.jpg",
-      "item_id": "MLB4004267013",
-      "shipping_id": "46741165509",
-      "envio": "Coleta",
-      "data": "2026-03-28T07:48:41.000-04:00",
-      "pedido_id": "2000015736467010",
-      "comprador": "PJ20250616211802",
-      "pagamento": "credit_card"
     },
     {
       "sku": "DC97-02250F",
