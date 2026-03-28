@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:08:49.418Z",
+  "atualizado_em": "2026-03-28T13:10:49.805Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 66,
+  "total_pedidos": 67,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46741472163",
+      "envio": "Full",
+      "data": "2026-03-28T09:09:56.000-04:00",
+      "pedido_id": "2000015737114184",
+      "comprador": "VALDENIRURQUIZADOSSANTOS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
