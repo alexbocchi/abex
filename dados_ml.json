@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T16:36:23.374Z",
+  "atualizado_em": "2026-03-28T16:38:23.268Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 176,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "764462",
+      "produto": "Saco De Tecido Para Aspirador De Pó Hepa Pas1690 Philco",
+      "quantidade": 1,
+      "valor": 30.8,
+      "foto": "https://http2.mlstatic.com/D_736271-MLB108484173064_032026-O.jpg",
+      "item_id": "MLB6481237488",
+      "shipping_id": "46742527669",
+      "envio": "Flex",
+      "data": "2026-03-28T12:36:14.000-04:00",
+      "pedido_id": "2000015739410642",
+      "comprador": "MARCELOSA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DB31-00680A",
       "produto": "Motor Ventilador Evaporadora Samsung Inverter 9000-12000 Btus Db31-00680a Aq12uwbunxaz Ar12hsspasn As09uwbvxaz Asv12psbtxaz 127/220v",
@@ -115,20 +129,6 @@
       "pedido_id": "2000015739210210",
       "comprador": "FELIPPELOUBEHHERNANDES",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC97-02250F",
-      "produto": "Mangueira De Saída Lava E Seca Samsung Original Wf106u4sawq",
-      "quantidade": 1,
-      "valor": 36.4,
-      "foto": "https://http2.mlstatic.com/D_724861-MLB107341333501_022026-O.jpg",
-      "item_id": "MLB1773090922",
-      "shipping_id": "46742435237",
-      "envio": "Full",
-      "data": "2026-03-28T12:18:47.000-04:00",
-      "pedido_id": "2000015739206606",
-      "comprador": "BAJ6575532",
-      "pagamento": "account_money"
     },
     {
       "sku": "EAU62983004",
