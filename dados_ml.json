@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T14:54:50.308Z",
+  "atualizado_em": "2026-03-28T14:56:50.088Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 121,
+  "total_pedidos": 124,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBF61315801",
+      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
+      "quantidade": 1,
+      "valor": 58.8,
+      "foto": "https://http2.mlstatic.com/D_618717-MLA99961927357_112025-O.jpg",
+      "item_id": "MLB3608140493",
+      "shipping_id": "46741997613",
+      "envio": "Full",
+      "data": "2026-03-28T10:55:53.000-04:00",
+      "pedido_id": "2000015738254484",
+      "comprador": "JOTA.REFRIO",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EBF61315801",
+      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
+      "quantidade": 7,
+      "valor": 411.6,
+      "foto": "https://http2.mlstatic.com/D_618717-MLA99961927357_112025-O.jpg",
+      "item_id": "MLB3608140493",
+      "shipping_id": "46742271972",
+      "envio": "Full",
+      "data": "2026-03-28T10:55:52.000-04:00",
+      "pedido_id": "2000015738256088",
+      "comprador": "JOTA.REFRIO",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EBF61315801",
+      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
+      "quantidade": 1,
+      "valor": 58.8,
+      "foto": "https://http2.mlstatic.com/D_618717-MLA99961927357_112025-O.jpg",
+      "item_id": "MLB3608140493",
+      "shipping_id": "46742271992",
+      "envio": "Full",
+      "data": "2026-03-28T10:55:52.000-04:00",
+      "pedido_id": "2000015738250896",
+      "comprador": "JOTA.REFRIO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "021062",
       "produto": "Hélice Original Ventilador Britânia Ventus 40cm 3 Pás Cinza Cinza",
