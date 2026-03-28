@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T17:48:23.787Z",
+  "atualizado_em": "2026-03-28T17:50:23.892Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 207,
+  "total_pedidos": 208,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU64082902",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
+      "quantidade": 1,
+      "valor": 59.36,
+      "foto": "https://http2.mlstatic.com/D_938151-MLA100006940231_122025-O.jpg",
+      "item_id": "MLB5303104460",
+      "shipping_id": "46743181258",
+      "envio": "Full",
+      "data": "2026-03-28T13:48:58.000-04:00",
+      "pedido_id": "2000015740232886",
+      "comprador": "RORU3382310",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "5214FR3188G",
       "produto": "Mangueira De Saida Drenagem Lava E Seca LG Wd-1412rt7",
