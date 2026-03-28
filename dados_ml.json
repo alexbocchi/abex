@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T21:38:23.337Z",
+  "atualizado_em": "2026-03-28T21:40:23.101Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 265,
+  "total_pedidos": 266,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "BH-145521-BE",
+      "produto": "Forma De Gelo Refrigerador Panasonic Bt47 Bb53 Bb52 Original",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_865881-MLB105793519600_022026-O.jpg",
+      "item_id": "MLB4048283440",
+      "shipping_id": "46744024567",
+      "envio": "Coleta",
+      "data": "2026-03-28T17:38:16.000-04:00",
+      "pedido_id": "2000015742712872",
+      "comprador": "VANUZAKARKLIN",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "078271",
       "produto": "Pente 2 Maquina De Cortar Cabelo Philco Dual Action 1/4 6mm Preto",
