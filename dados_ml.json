@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T15:04:50.537Z",
+  "atualizado_em": "2026-03-28T15:06:50.659Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 129,
+  "total_pedidos": 131,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01524A",
+      "produto": "Puxador Da Porta Lava E Seca Samsung Eco Bubble Original",
+      "quantidade": 1,
+      "valor": 30.31,
+      "foto": "https://http2.mlstatic.com/D_944746-MLB104879290839_012026-O.jpg",
+      "item_id": "MLB6170711770",
+      "shipping_id": "46742054293",
+      "envio": "Flex",
+      "data": "2026-03-28T11:06:33.000-04:00",
+      "pedido_id": "2000015738351676",
+      "comprador": "CARLUSROBERTOPETRISOUZASOUZ",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1077",
+      "produto": "Pé Nivelador Regulável Lava Seca Midea Lsd10 Lsd12",
+      "quantidade": 1,
+      "valor": 50,
+      "foto": "https://http2.mlstatic.com/D_801968-MLA99573512778_122025-O.jpg",
+      "item_id": "MLB4196684427",
+      "shipping_id": "46742049889",
+      "envio": "Full",
+      "data": "2026-03-28T11:05:43.000-04:00",
+      "pedido_id": "2000015738361378",
+      "comprador": "GLAUCOANDREANI",
+      "pagamento": "account_money"
+    },
     {
       "sku": "383EER3001G",
       "produto": "Amortecedor De Suspensão Do Cesto Lava E Seca LG",
