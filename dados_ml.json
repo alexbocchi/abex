@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T16:40:23.555Z",
+  "atualizado_em": "2026-03-28T16:42:23.397Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 179,
+  "total_pedidos": 180,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA47-00301F",
+      "produto": "Fusivel Termico Geladeira Samsung Rt35fdajdsl Rt38fdajdsl",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_727811-MLB74799369723_022024-O.jpg",
+      "item_id": "MLB3131229648",
+      "shipping_id": "46742552155",
+      "envio": "Coleta",
+      "data": "2026-03-28T12:40:59.000-04:00",
+      "pedido_id": "2000015739437262",
+      "comprador": "VICTOR_CONSOLES",
+      "pagamento": "account_money"
+    },
     {
       "sku": "25906085",
       "produto": "Motor Ventilador Condensadora Split 220v Springer 12000 Btus",
