@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:18:49.365Z",
+  "atualizado_em": "2026-03-28T13:20:49.612Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 71,
+  "total_pedidos": 72,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM0003",
+      "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_756388-MLB50275040834_062022-O.jpg",
+      "item_id": "MLB1492717359",
+      "shipping_id": "46741794046",
+      "envio": "Flex",
+      "data": "2026-03-28T09:19:22.000-04:00",
+      "pedido_id": "2000015737171848",
+      "comprador": "BARE6672316",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITTERMOSTATO",
       "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
