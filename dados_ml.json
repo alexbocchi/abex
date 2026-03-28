@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:04:23.214Z",
+  "atualizado_em": "2026-03-28T22:06:23.211Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 271,
+  "total_pedidos": 272,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava De Porta Samsung Lava E Seca 127v Modelos Wd106uhsawq Wd856uhsawq",
+      "quantidade": 1,
+      "valor": 45.1,
+      "foto": "https://http2.mlstatic.com/D_864182-MLA99564567644_122025-O.jpg",
+      "item_id": "MLB5732737240",
+      "shipping_id": "46744417888",
+      "envio": "Full",
+      "data": "2026-03-28T18:04:43.000-04:00",
+      "pedido_id": "2000015742998098",
+      "comprador": "JACKSON RUBIM",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
