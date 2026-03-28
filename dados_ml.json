@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T16:18:51.180Z",
+  "atualizado_em": "2026-03-28T16:20:50.994Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 167,
+  "total_pedidos": 169,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Nota Fiscal",
+      "quantidade": 1,
+      "valor": 74.99,
+      "foto": "https://http2.mlstatic.com/D_602650-MLB74794736427_022024-O.jpg",
+      "item_id": "MLB1554205238",
+      "shipping_id": "46742710320",
+      "envio": "Full",
+      "data": "2026-03-28T12:18:58.000-04:00",
+      "pedido_id": "2000015739210210",
+      "comprador": "FELIPPELOUBEHHERNANDES",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saída Lava E Seca Samsung Original Wf106u4sawq",
+      "quantidade": 1,
+      "valor": 36.4,
+      "foto": "https://http2.mlstatic.com/D_724861-MLB107341333501_022026-O.jpg",
+      "item_id": "MLB1773090922",
+      "shipping_id": "46742435237",
+      "envio": "Full",
+      "data": "2026-03-28T12:18:47.000-04:00",
+      "pedido_id": "2000015739206606",
+      "comprador": "BAJ6575532",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
