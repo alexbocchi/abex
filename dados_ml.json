@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T14:38:50.114Z",
+  "atualizado_em": "2026-03-28T14:40:50.284Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 114,
+  "total_pedidos": 117,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 121.8,
+      "foto": "https://http2.mlstatic.com/D_652191-MLB74716787185_022024-O.jpg",
+      "item_id": "MLB1491074149",
+      "shipping_id": "46742182668",
+      "envio": "Full",
+      "data": "2026-03-28T10:39:08.000-04:00",
+      "pedido_id": "2000015738062108",
+      "comprador": "TAIANENOBRES",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1155",
+      "produto": "Kit Porca + Retentor Do Motor De Secagem Samsung Dc62-00191a",
+      "quantidade": 1,
+      "valor": 25,
+      "foto": "https://http2.mlstatic.com/D_966633-MLB44172550082_112020-O.jpg",
+      "item_id": "MLB1727158762",
+      "shipping_id": "46741907117",
+      "envio": "Full",
+      "data": "2026-03-28T10:38:59.000-04:00",
+      "pedido_id": "2000015738033882",
+      "comprador": "DENVERGIRON",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "25906085",
+      "produto": "Motor Ventilador Condensadora Split 220v Springer 12000 Btus",
+      "quantidade": 1,
+      "valor": 201,
+      "foto": "https://http2.mlstatic.com/D_642202-MLA99932054685_112025-O.jpg",
+      "item_id": "MLB4507938757",
+      "shipping_id": "46742186436",
+      "envio": "Full",
+      "data": "2026-03-28T10:38:06.000-04:00",
+      "pedido_id": "2000015738042402",
+      "comprador": "BEJE694725",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "784795",
       "produto": "Jarra Cafeteira Philco Ph30 Plus 30 Cafés Tampa Preta",
