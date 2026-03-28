@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T14:46:50.217Z",
+  "atualizado_em": "2026-03-28T14:48:50.070Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 117,
+  "total_pedidos": 119,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "https://http2.mlstatic.com/D_968242-MLB107340769115_022026-O.jpg",
+      "item_id": "MLB1584616358",
+      "shipping_id": "46741953017",
+      "envio": "Full",
+      "data": "2026-03-28T10:47:46.000-04:00",
+      "pedido_id": "2000015738156334",
+      "comprador": "M20260109165015",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "KITLG02",
+      "produto": "Kit Placa Receptora + Rabicho Ar Condicionado LG Inverter 127/220v",
+      "quantidade": 1,
+      "valor": 225,
+      "foto": "https://http2.mlstatic.com/D_965360-MLB99355948308_112025-O.jpg",
+      "item_id": "MLB4334287853",
+      "shipping_id": "46741948629",
+      "envio": "Coleta",
+      "data": "2026-03-28T10:46:43.000-04:00",
+      "pedido_id": "2000015738133174",
+      "comprador": "ITALUIZITALUIZ",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
