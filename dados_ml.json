@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T20:48:23.001Z",
+  "atualizado_em": "2026-03-28T20:50:22.962Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 250,
+  "total_pedidos": 251,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00024N",
+      "produto": "Válvula De 2 Vias Lavadora Samsung 127v Dc62-00024n Original",
+      "quantidade": 1,
+      "valor": 108.24,
+      "foto": "https://http2.mlstatic.com/D_854712-MLB106989058433_022026-O.jpg",
+      "item_id": "MLB5226419558",
+      "shipping_id": "46743798763",
+      "envio": "Full",
+      "data": "2026-03-28T16:49:01.000-04:00",
+      "pedido_id": "2000015742195072",
+      "comprador": "WILLYAMJHONY",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
