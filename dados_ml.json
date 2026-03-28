@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:46:23.483Z",
+  "atualizado_em": "2026-03-28T22:48:23.318Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 281,
+  "total_pedidos": 282,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181B",
+      "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
+      "quantidade": 1,
+      "valor": 163,
+      "foto": "https://http2.mlstatic.com/D_792957-MLB74588719570_022024-O.jpg",
+      "item_id": "MLB1595657205",
+      "shipping_id": "46744337405",
+      "envio": "Full",
+      "data": "2026-03-28T18:47:13.000-04:00",
+      "pedido_id": "2000015743425160",
+      "comprador": "SANTANAFLAVIO20231214063129",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "BORRACHA02",
       "produto": "Pé Anti Vibração Protetor De Piso Maquina De Lavar Secadora",
