@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T14:06:49.829Z",
+  "atualizado_em": "2026-03-28T14:08:49.895Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 91,
+  "total_pedidos": 92,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITPRESSOSTATO",
+      "produto": "Pressostato + Mangueira Lava E Seca Samsung Wd106 Wd136 Wd15",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_830618-MLB80681674354_112024-O.jpg",
+      "item_id": "MLB5192991852",
+      "shipping_id": "46742024238",
+      "envio": "Flex",
+      "data": "2026-03-28T10:07:18.000-04:00",
+      "pedido_id": "2000015737679708",
+      "comprador": "BOLU2023733",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1077",
       "produto": "Pé Nivelador Ajustável Samsung Lava E Seca Aço Inox 4 Unidades",
