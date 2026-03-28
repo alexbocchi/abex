@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T20:52:22.980Z",
+  "atualizado_em": "2026-03-28T20:54:22.923Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 252,
+  "total_pedidos": 254,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBR84274201",
+      "produto": "Placa Fonte Ebr84274201 Mini System LG Cj88 Cj87 Original",
+      "quantidade": 1,
+      "valor": 497.85,
+      "foto": "https://http2.mlstatic.com/D_724100-MLB81695531367_122024-O.jpg",
+      "item_id": "MLB3935581209",
+      "shipping_id": "46743814175",
+      "envio": "Coleta",
+      "data": "2026-03-28T16:53:00.000-04:00",
+      "pedido_id": "2000015742229362",
+      "comprador": "BAEFHCBGD01883",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "741318",
+      "produto": "Reservatório Aspirador Philco 2 Em 1 Pas1460v Vm Original",
+      "quantidade": 1,
+      "valor": 71.25,
+      "foto": "https://http2.mlstatic.com/D_613025-MLB107746041712_032026-O.jpg",
+      "item_id": "MLB4510864781",
+      "shipping_id": "46744088468",
+      "envio": "Flex",
+      "data": "2026-03-28T16:52:55.000-04:00",
+      "pedido_id": "2000015742238944",
+      "comprador": "CLAUJACO",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "DC93-00139A",
       "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
