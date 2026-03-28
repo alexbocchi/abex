@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:24:23.663Z",
+  "atualizado_em": "2026-03-28T22:26:23.380Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 279,
+  "total_pedidos": 280,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 66.18,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46744505978",
+      "envio": "Full",
+      "data": "2026-03-28T18:24:12.000-04:00",
+      "pedido_id": "2000015743187050",
+      "comprador": "FROISROSSI",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Ventilador Ydk65-6d 25906088 Ar Mídea 18/22/24/30 Btu 220v",
