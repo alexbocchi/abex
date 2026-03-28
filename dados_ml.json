@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T17:42:23.947Z",
+  "atualizado_em": "2026-03-28T17:44:23.988Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 200,
+  "total_pedidos": 203,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Eletrobomba De Drenagem Lava E Seca LG 127v Eau62263306 127v",
+      "quantidade": 2,
+      "valor": 74.8,
+      "foto": "https://http2.mlstatic.com/D_879628-MLB107347060067_022026-O.jpg",
+      "item_id": "MLB1858698047",
+      "shipping_id": "46742876989",
+      "envio": "Full",
+      "data": "2026-03-28T13:43:57.000-04:00",
+      "pedido_id": "2000015740186744",
+      "comprador": "MARIATTOLARDO",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 37.39,
+      "foto": "https://http2.mlstatic.com/D_939763-MLB47174909814_082021-O.jpg",
+      "item_id": "MLB1775787624",
+      "shipping_id": "46742874777",
+      "envio": "Full",
+      "data": "2026-03-28T13:43:39.000-04:00",
+      "pedido_id": "2000015740137992",
+      "comprador": "AUGUSTORCL",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Dc31-00181c- 110/127v Wf106 Wd106",
+      "quantidade": 1,
+      "valor": 91.05,
+      "foto": "https://http2.mlstatic.com/D_615583-MLA95532912544_102025-O.jpg",
+      "item_id": "MLB3951342355",
+      "shipping_id": "46743147754",
+      "envio": "Full",
+      "data": "2026-03-28T13:43:06.000-04:00",
+      "pedido_id": "2000015740176138",
+      "comprador": "ANGA3974724",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
