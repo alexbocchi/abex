@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-28T17:54:23.909Z",
+  "atualizado_em": "2026-03-28T17:56:24.023Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 210,
+  "total_pedidos": 209,
   "produtos": [],
   "pedidos": [
     {
@@ -59,20 +59,6 @@
       "pedido_id": "2000015740209992",
       "comprador": "RODRIGOMATHIASDASILVAVALINO",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "021713PL",
-      "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
-      "quantidade": 1,
-      "valor": 36.1,
-      "foto": "https://http2.mlstatic.com/D_660771-MLB108488284221_032026-O.jpg",
-      "item_id": "MLB4510950983",
-      "shipping_id": "46742888235",
-      "envio": "Coleta",
-      "data": "2026-03-28T13:46:08.000-04:00",
-      "pedido_id": "2000015740196766",
-      "comprador": "CLUDIOROBERTODEMELOLIMACL",
-      "pagamento": "credit_card"
     },
     {
       "sku": "739388",
