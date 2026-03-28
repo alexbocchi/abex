@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T21:32:23.386Z",
+  "atualizado_em": "2026-03-28T21:34:23.388Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 264,
+  "total_pedidos": 265,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "078271",
+      "produto": "Pente 2 Maquina De Cortar Cabelo Philco Dual Action 1/4 6mm Preto",
+      "quantidade": 1,
+      "valor": 18.05,
+      "foto": "https://http2.mlstatic.com/D_834563-MLB81127242335_122024-O.jpg",
+      "item_id": "MLB3923941693",
+      "shipping_id": "46743996335",
+      "envio": "Coleta",
+      "data": "2026-03-28T17:32:13.000-04:00",
+      "pedido_id": "2000015742623554",
+      "comprador": "ROPS2004",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITTERMOSTATO",
       "produto": "Kit Termostatos Lava E Seca Samsung Operacional E Segurança",
