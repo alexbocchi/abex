@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T23:20:23.669Z",
+  "atualizado_em": "2026-03-28T23:22:23.647Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 292,
+  "total_pedidos": 294,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "6601EN1003D",
+      "produto": "Trava Da Porta Lava E Seca LG Wd-1409fd.abwegsp Wd1496adp.abwfbrs Wd9we6.abwfbrs",
+      "quantidade": 1,
+      "valor": 75,
+      "foto": "https://http2.mlstatic.com/D_891509-MLA99560254334_122025-O.jpg",
+      "item_id": "MLB3948821695",
+      "shipping_id": "46744498067",
+      "envio": "Flex",
+      "data": "2026-03-28T19:22:06.000-04:00",
+      "pedido_id": "2000015743785652",
+      "comprador": "IVANICEPOLESSO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46744768408",
+      "envio": "Full",
+      "data": "2026-03-28T19:20:16.000-04:00",
+      "pedido_id": "2000015743765610",
+      "comprador": "VPINHEIRO",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITGUARNICAO01",
       "produto": "Guarnição Porta Lava E Seca Samsung Wd10 Wd11 Wd85",
