@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T14:24:49.897Z",
+  "atualizado_em": "2026-03-28T14:26:50.182Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 106,
+  "total_pedidos": 107,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC34-00026B",
+      "produto": "Trava Porta Lava E Seca Samsung Wd10j6410a Wd11k6410ox 110v",
+      "quantidade": 1,
+      "valor": 140,
+      "foto": "https://http2.mlstatic.com/D_696646-MLB107240026339_022026-O.jpg",
+      "item_id": "MLB5192737140",
+      "shipping_id": "46742108368",
+      "envio": "Coleta",
+      "data": "2026-03-28T10:25:02.000-04:00",
+      "pedido_id": "2000015737865636",
+      "comprador": "LL20241203172317",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EBF61315801",
       "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
