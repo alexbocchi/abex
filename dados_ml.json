@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T19:40:23.682Z",
+  "atualizado_em": "2026-03-28T19:42:22.638Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 236,
+  "total_pedidos": 237,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "12638100000288",
+      "produto": "Retentor Do Tanque Lava E Seca Midea 12638100000288 Original",
+      "quantidade": 2,
+      "valor": 50,
+      "foto": "https://http2.mlstatic.com/D_954517-MLB81564889640_012025-O.jpg",
+      "item_id": "MLB5225414326",
+      "shipping_id": "46743746686",
+      "envio": "Full",
+      "data": "2026-03-28T15:41:44.000-04:00",
+      "pedido_id": "2000015741489384",
+      "comprador": "MOAL2181088",
+      "pagamento": "account_money"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
