@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:28:49.661Z",
+  "atualizado_em": "2026-03-28T13:30:49.751Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 74,
+  "total_pedidos": 75,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Interface Ar Condicionado LG Asnq092wsa0 Abq73301301",
+      "quantidade": 1,
+      "valor": 240,
+      "foto": "https://http2.mlstatic.com/D_704150-MLA106094521939_012026-O.jpg",
+      "item_id": "MLB5276510674",
+      "shipping_id": "46741561299",
+      "envio": "Full",
+      "data": "2026-03-28T09:29:28.000-04:00",
+      "pedido_id": "2000015737302054",
+      "comprador": "GISELLEGONALVESLUIZDACOSTA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
