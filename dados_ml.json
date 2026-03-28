@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T14:34:50.183Z",
+  "atualizado_em": "2026-03-28T14:36:50.160Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 110,
+  "total_pedidos": 111,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB32-00272A",
+      "produto": "Sensor Temperatura Triplo Ar Split Evap Db32-00272a Samsung",
+      "quantidade": 1,
+      "valor": 250,
+      "foto": "https://http2.mlstatic.com/D_978687-MLA80688401145_112024-O.jpg",
+      "item_id": "MLB4493114511",
+      "shipping_id": "46741893781",
+      "envio": "Coleta",
+      "data": "2026-03-28T10:36:31.000-04:00",
+      "pedido_id": "2000015738020878",
+      "comprador": "LM20260317222215",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "PS-3880-608",
       "produto": "Sensor Da Tampa Lavadora Panasonic 14kg 16kg Original",
