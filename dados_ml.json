@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T15:44:50.634Z",
+  "atualizado_em": "2026-03-28T15:46:50.654Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 153,
+  "total_pedidos": 155,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1077",
+      "produto": "Conjunto 4 Pé Nivelador Lava E Seca Samsung Dc97-00920u",
+      "quantidade": 1,
+      "valor": 47.39,
+      "foto": "https://http2.mlstatic.com/D_803194-MLB102489225246_122025-O.jpg",
+      "item_id": "MLB4107620973",
+      "shipping_id": "46742532170",
+      "envio": "Full",
+      "data": "2026-03-28T11:45:05.000-04:00",
+      "pedido_id": "2000015738787850",
+      "comprador": "LUIZ_VASCO77",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd10j6410ax",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "https://http2.mlstatic.com/D_958714-MLA97925210252_112025-O.jpg",
+      "item_id": "MLB4307274841",
+      "shipping_id": "46742263541",
+      "envio": "Full",
+      "data": "2026-03-28T11:42:50.000-04:00",
+      "pedido_id": "2000015738779218",
+      "comprador": "IRIN",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
