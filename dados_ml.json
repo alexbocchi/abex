@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T20:44:22.916Z",
+  "atualizado_em": "2026-03-28T20:46:23.426Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 248,
+  "total_pedidos": 250,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 1,
+      "valor": 35.5,
+      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
+      "item_id": "MLB3791029185",
+      "shipping_id": "46744047224",
+      "envio": "Full",
+      "data": "2026-03-28T16:44:27.000-04:00",
+      "pedido_id": "2000015742157064",
+      "comprador": "AANINHAARAUJO",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC62-10289C",
+      "produto": "Mangueira Entrada Água Lava Seca LG Samsung Super Resistente Unidade 120cm",
+      "quantidade": 1,
+      "valor": 30.6,
+      "foto": "https://http2.mlstatic.com/D_875101-MLA99630125872_122025-O.jpg",
+      "item_id": "MLB5840773712",
+      "shipping_id": "46744047224",
+      "envio": "Full",
+      "data": "2026-03-28T16:44:27.000-04:00",
+      "pedido_id": "2000015742160108",
+      "comprador": "AANINHAARAUJO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
