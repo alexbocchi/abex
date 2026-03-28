@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T19:34:22.601Z",
+  "atualizado_em": "2026-03-28T19:36:22.975Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 234,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46743711344",
+      "envio": "Full",
+      "data": "2026-03-28T15:33:41.000-04:00",
+      "pedido_id": "2000015741391002",
+      "comprador": "JOAOVICTOR318",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "756750",
       "produto": "Puxador Air Fryer Saúde Philco Inox Ph3,2l Alça Original",
@@ -339,20 +353,6 @@
       "pedido_id": "2000015740443000",
       "comprador": "MI20251013130116",
       "pagamento": "credit_card"
-    },
-    {
-      "sku": "DC60-00104A",
-      "produto": "Chave De Ajuste Pé Lavadora Lava E Seca Samsung Original Nf",
-      "quantidade": 1,
-      "valor": 35,
-      "foto": "https://http2.mlstatic.com/D_600046-MLB54741416745_032023-O.jpg",
-      "item_id": "MLB1490250265",
-      "shipping_id": "46742993747",
-      "envio": "Full",
-      "data": "2026-03-28T14:06:34.000-04:00",
-      "pedido_id": "2000015740442536",
-      "comprador": "CAMPOSGIOVANNE",
-      "pagamento": "digital_currency"
     },
     {
       "sku": "761321",
