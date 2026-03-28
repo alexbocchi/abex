@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T14:20:50.416Z",
+  "atualizado_em": "2026-03-28T14:22:49.827Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 100,
+  "total_pedidos": 101,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB75675304",
+      "produto": "Controle Remoto LG Smart Akb75675304 Substitui O Akb75095315",
+      "quantidade": 1,
+      "valor": 66.99,
+      "foto": "https://http2.mlstatic.com/D_760158-MLB105589847834_012026-O.jpg",
+      "item_id": "MLB3903289909",
+      "shipping_id": "46742088388",
+      "envio": "Full",
+      "data": "2026-03-28T10:21:12.000-04:00",
+      "pedido_id": "2000015737838826",
+      "comprador": "MARCELOURBANDEVILELASILVA",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC47-00017A",
       "produto": "Termostato Para Secadora De Roupas Samsung Dv431agp",
