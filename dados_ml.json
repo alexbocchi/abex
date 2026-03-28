@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T13:06:49.326Z",
+  "atualizado_em": "2026-03-28T13:08:49.418Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 63,
+  "total_pedidos": 66,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 90.99,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46741463711",
+      "envio": "Full",
+      "data": "2026-03-28T09:08:12.000-04:00",
+      "pedido_id": "2000015737098068",
+      "comprador": "NEL.JR",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Entrada Água Lava Seca Samsung 110v Original",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_953721-MLB54386298153_032023-O.jpg",
+      "item_id": "MLB3109945041",
+      "shipping_id": "46741464803",
+      "envio": "Full",
+      "data": "2026-03-28T09:08:11.000-04:00",
+      "pedido_id": "2000015737076964",
+      "comprador": "GERSORODRIGUES",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 66.18,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46741736498",
+      "envio": "Full",
+      "data": "2026-03-28T09:07:32.000-04:00",
+      "pedido_id": "2000015737078960",
+      "comprador": "ROIBS",
+      "pagamento": "account_money"
+    },
     {
       "sku": "781241",
       "produto": "Resistência Para Cafeteira 220v 800w Original Britânia",
