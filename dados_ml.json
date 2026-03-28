@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T20:50:22.962Z",
+  "atualizado_em": "2026-03-28T20:52:22.980Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 251,
+  "total_pedidos": 252,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC93-00139A",
+      "produto": "Cabo De Força Energia Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 78.4,
+      "foto": "https://http2.mlstatic.com/D_963949-MLB106751819602_022026-O.jpg",
+      "item_id": "MLB1387386786",
+      "shipping_id": "46743808865",
+      "envio": "Full",
+      "data": "2026-03-28T16:52:00.000-04:00",
+      "pedido_id": "2000015742244026",
+      "comprador": "CRAD2812945",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC62-00024N",
       "produto": "Válvula De 2 Vias Lavadora Samsung 127v Dc62-00024n Original",
