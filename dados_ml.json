@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T23:10:23.952Z",
+  "atualizado_em": "2026-03-28T23:12:23.966Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 287,
+  "total_pedidos": 288,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46744443953",
+      "envio": "Full",
+      "data": "2026-03-28T19:10:27.000-04:00",
+      "pedido_id": "2000015743686670",
+      "comprador": "ADIVITAL",
+      "pagamento": "account_money"
+    },
     {
       "sku": "W024T-04400",
       "produto": "Pressostato Lavadora Panasonic 14kg 16kg Original",
