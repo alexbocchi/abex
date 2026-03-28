@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T11:46:48.714Z",
+  "atualizado_em": "2026-03-28T11:48:48.653Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 28,
+  "total_pedidos": 29,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lavadora Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 45.1,
+      "foto": "https://http2.mlstatic.com/D_701337-MLB106680856170_022026-O.jpg",
+      "item_id": "MLB1492739586",
+      "shipping_id": "46741164085",
+      "envio": "Full",
+      "data": "2026-03-28T07:48:09.000-04:00",
+      "pedido_id": "2000015736464830",
+      "comprador": "FLAVIO.XIMENES1",
+      "pagamento": "account_money"
+    },
     {
       "sku": "761321",
       "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
