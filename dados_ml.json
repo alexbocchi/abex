@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:58:49.858Z",
+  "atualizado_em": "2026-03-28T14:00:50.424Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 90,
+  "total_pedidos": 91,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1077",
+      "produto": "Pé Nivelador Ajustável Samsung Lava E Seca Aço Inox 4 Unidades",
+      "quantidade": 1,
+      "valor": 50.55,
+      "foto": "https://http2.mlstatic.com/D_668869-MLA99601155266_122025-O.jpg",
+      "item_id": "MLB5347224262",
+      "shipping_id": "46741977408",
+      "envio": "Full",
+      "data": "2026-03-28T09:58:52.000-04:00",
+      "pedido_id": "2000015737612150",
+      "comprador": "LUCIETEREISSILVA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "ARAGSD100120",
       "produto": "Sensor Temperatura Refrigerador Panasonic Nr-bt51 Nr-bt54",
