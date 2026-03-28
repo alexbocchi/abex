@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T18:48:24.532Z",
+  "atualizado_em": "2026-03-28T18:50:24.296Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 221,
+  "total_pedidos": 223,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "2x Amortecedor Cesto Lava E Seca Samsung Dc66-00421b",
+      "quantidade": 15,
+      "valor": 34.65,
+      "foto": "https://http2.mlstatic.com/D_881497-MLA99619497368_122025-O.jpg",
+      "item_id": "MLB5461532516",
+      "shipping_id": "46743483662",
+      "envio": "Full",
+      "data": "2026-03-28T14:48:51.000-04:00",
+      "pedido_id": "2000015740912242",
+      "comprador": "COELHOFELIPE73",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "5208ER1008A",
+      "produto": "Tampa Duto Secagem LG Wd1485 Wd1485at Wd1485ad Wd1485ada Preto",
+      "quantidade": 1,
+      "valor": 70.2,
+      "foto": "https://http2.mlstatic.com/D_748466-MLB107251832140_032026-O.jpg",
+      "item_id": "MLB1860971141",
+      "shipping_id": "46743208379",
+      "envio": "Full",
+      "data": "2026-03-28T14:48:48.000-04:00",
+      "pedido_id": "2000015740903904",
+      "comprador": "C20260228205613",
+      "pagamento": "account_money"
+    },
     {
       "sku": "761321",
       "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
