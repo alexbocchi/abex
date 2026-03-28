@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T17:50:23.892Z",
+  "atualizado_em": "2026-03-28T17:52:24.158Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 208,
+  "total_pedidos": 210,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1077",
+      "produto": "Kit Pés Reguláveis Lavadora Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 49.9,
+      "foto": "https://http2.mlstatic.com/D_723085-MLB69909692250_062023-O.jpg",
+      "item_id": "MLB1727196972",
+      "shipping_id": "46743186664",
+      "envio": "Full",
+      "data": "2026-03-28T13:50:42.000-04:00",
+      "pedido_id": "2000015740241516",
+      "comprador": "NERISRUI",
+      "pagamento": "digital_currency"
+    },
+    {
+      "sku": "DB92-04850E",
+      "produto": "Placa Ar Samsung Ar09tvhzdwknaz Ar12tvhzdwknaz Db92-04850e 220v",
+      "quantidade": 1,
+      "valor": 235,
+      "foto": "https://http2.mlstatic.com/D_730783-MLA105241615629_012026-O.jpg",
+      "item_id": "MLB6181576344",
+      "shipping_id": "46743186080",
+      "envio": "Coleta",
+      "data": "2026-03-28T13:50:33.000-04:00",
+      "pedido_id": "2000015740254744",
+      "comprador": "MACHADOVAGNER20230619074753",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "EAU64082902",
       "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
