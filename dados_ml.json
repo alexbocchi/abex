@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T17:46:23.757Z",
+  "atualizado_em": "2026-03-28T17:48:23.787Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 205,
+  "total_pedidos": 207,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5214FR3188G",
+      "produto": "Mangueira De Saida Drenagem Lava E Seca LG Wd-1412rt7",
+      "quantidade": 1,
+      "valor": 45.5,
+      "foto": "https://http2.mlstatic.com/D_933679-MLB107183133545_022026-O.jpg",
+      "item_id": "MLB5229315284",
+      "shipping_id": "46742891675",
+      "envio": "Full",
+      "data": "2026-03-28T13:46:45.000-04:00",
+      "pedido_id": "2000015740209992",
+      "comprador": "RODRIGOMATHIASDASILVAVALINO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "021713PL",
       "produto": "Hélice Philco Britânia 40cm 10 Pás Bvt495 Pvt492 Pvc491 Azul-celeste",
@@ -17,6 +31,20 @@
       "pedido_id": "2000015740196766",
       "comprador": "CLUDIOROBERTODEMELOLIMACL",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Pas4000v Philco",
+      "quantidade": 1,
+      "valor": 104.58,
+      "foto": "https://http2.mlstatic.com/D_783958-MLB104986201613_012026-O.jpg",
+      "item_id": "MLB3988758265",
+      "shipping_id": "46742886997",
+      "envio": "Full",
+      "data": "2026-03-28T13:45:56.000-04:00",
+      "pedido_id": "2000015740201860",
+      "comprador": "O20251123053649",
+      "pagamento": "account_money"
     },
     {
       "sku": "DB93-10861D",
