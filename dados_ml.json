@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T16:06:51.070Z",
+  "atualizado_em": "2026-03-28T16:08:51.155Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 163,
+  "total_pedidos": 164,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA32-10104N",
+      "produto": "Sensor Temperatura Refrigerador Samsung Da32-00066b Original",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_792776-MLB76288946327_052024-O.jpg",
+      "item_id": "MLB4670140258",
+      "shipping_id": "46742652038",
+      "envio": "Full",
+      "data": "2026-03-28T12:07:29.000-04:00",
+      "pedido_id": "2000015739075620",
+      "comprador": "ALEX_KLAUTAU",
+      "pagamento": "account_money"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
