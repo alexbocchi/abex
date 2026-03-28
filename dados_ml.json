@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T16:12:51.219Z",
+  "atualizado_em": "2026-03-28T16:14:50.964Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 165,
+  "total_pedidos": 166,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "W2921-28801",
+      "produto": "Válvula Dupla Lavadora Panasonic 110v Amarela / W2921-28801  127v",
+      "quantidade": 1,
+      "valor": 70.2,
+      "foto": "https://http2.mlstatic.com/D_894344-MLB104794338536_012026-O.jpg",
+      "item_id": "MLB3948261677",
+      "shipping_id": "46742410529",
+      "envio": "Full",
+      "data": "2026-03-28T12:13:51.000-04:00",
+      "pedido_id": "2000015739127670",
+      "comprador": "WILLMARTINS092",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Ventilador Evaporadora Ar LG S4nq18kl3wb",
