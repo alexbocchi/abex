@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T13:24:49.365Z",
+  "atualizado_em": "2026-03-28T13:26:49.445Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 72,
+  "total_pedidos": 74,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46741818524",
+      "envio": "Full",
+      "data": "2026-03-28T09:25:55.000-04:00",
+      "pedido_id": "2000015737245264",
+      "comprador": "JONSENA2012",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB93-10861D",
+      "produto": "Placa Receptora Samsung Digital Inverter Ar Condicionado Db93-10861d 127/220v",
+      "quantidade": 1,
+      "valor": 66.62,
+      "foto": "https://http2.mlstatic.com/D_623080-MLA99376294484_112025-O.jpg",
+      "item_id": "MLB4228932051",
+      "shipping_id": "46741540665",
+      "envio": "Full",
+      "data": "2026-03-28T09:25:07.000-04:00",
+      "pedido_id": "2000015737233910",
+      "comprador": "JAQUELINEBSMALLMANN",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM0003",
       "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original Nf",
