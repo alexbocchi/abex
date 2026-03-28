@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:34:49.116Z",
+  "atualizado_em": "2026-03-28T12:36:49.351Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 45,
+  "total_pedidos": 46,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00214Q",
+      "produto": "Valvula 4 Vias Lava E Seca Samsung Wd90j6410aw Original 110v",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "https://http2.mlstatic.com/D_871435-MLB70790910796_082023-O.jpg",
+      "item_id": "MLB1809270546",
+      "shipping_id": "46741605452",
+      "envio": "Full",
+      "data": "2026-03-28T08:36:00.000-04:00",
+      "pedido_id": "2000015736808884",
+      "comprador": "BEED8378620",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
