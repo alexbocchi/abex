@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T11:40:48.713Z",
+  "atualizado_em": "2026-03-28T11:42:48.616Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 25,
+  "total_pedidos": 26,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
+      "item_id": "MLB5347106848",
+      "shipping_id": "46741142389",
+      "envio": "Full",
+      "data": "2026-03-28T07:41:05.000-04:00",
+      "pedido_id": "2000015736420692",
+      "comprador": "MORETTODESOUSAMIRIAM",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
