@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T14:36:50.160Z",
+  "atualizado_em": "2026-03-28T14:38:50.114Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 111,
+  "total_pedidos": 114,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "784795",
+      "produto": "Jarra Cafeteira Philco Ph30 Plus 30 Cafés Tampa Preta",
+      "quantidade": 1,
+      "valor": 55.1,
+      "foto": "https://http2.mlstatic.com/D_881695-MLA107369478265_022026-O.jpg",
+      "item_id": "MLB4516053069",
+      "shipping_id": "46741896853",
+      "envio": "Flex",
+      "data": "2026-03-28T10:37:05.000-04:00",
+      "pedido_id": "2000015738015684",
+      "comprador": "EDIONE2928",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Tripla Entrada De Água Lava Seca Samsung Dc62-00233c",
+      "quantidade": 1,
+      "valor": 108,
+      "foto": "https://http2.mlstatic.com/D_613395-MLB54411684890_032023-O.jpg",
+      "item_id": "MLB3110075583",
+      "shipping_id": "46742170408",
+      "envio": "Full",
+      "data": "2026-03-28T10:36:45.000-04:00",
+      "pedido_id": "2000015738028442",
+      "comprador": "GLIPE2008",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DB32-00272A",
       "produto": "Sensor Temperatura Triplo Ar Split Evap Db32-00272a Samsung",
@@ -17,6 +45,20 @@
       "pedido_id": "2000015738020878",
       "comprador": "LM20260317222215",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 91.99,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46741893007",
+      "envio": "Full",
+      "data": "2026-03-28T10:36:19.000-04:00",
+      "pedido_id": "2000015738030096",
+      "comprador": "MARCIABENTECORTOOL",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "PS-3880-608",
