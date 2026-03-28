@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T14:08:49.895Z",
+  "atualizado_em": "2026-03-28T14:10:49.957Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 92,
+  "total_pedidos": 94,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 1,
+      "valor": 93.99,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46741754871",
+      "envio": "Full",
+      "data": "2026-03-28T10:09:28.000-04:00",
+      "pedido_id": "2000015737699316",
+      "comprador": "AS20241007093534",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46742029600",
+      "envio": "Full",
+      "data": "2026-03-28T10:09:27.000-04:00",
+      "pedido_id": "2000015737715354",
+      "comprador": "RAFAELLFSILVA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITPRESSOSTATO",
       "produto": "Pressostato + Mangueira Lava E Seca Samsung Wd106 Wd136 Wd15",
