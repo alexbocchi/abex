@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:14:50.516Z",
+  "atualizado_em": "2026-03-28T15:16:50.587Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 141,
+  "total_pedidos": 142,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC34-00025D",
+      "produto": "Trava Da Porta Lava Seca Samsung Original Dc34-00025d Wf15k",
+      "quantidade": 1,
+      "valor": 235.99,
+      "foto": "https://http2.mlstatic.com/D_748831-MLB107448271349_022026-O.jpg",
+      "item_id": "MLB3945172769",
+      "shipping_id": "46742379446",
+      "envio": "Coleta",
+      "data": "2026-03-28T11:16:10.000-04:00",
+      "pedido_id": "2000015738449790",
+      "comprador": "AGRICOLA_FERTILIZANTE",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DB93-10859L",
       "produto": "Placa Evaporadora Ar Condicionado Samsung Asv12psbtnxaz 220v",
@@ -17,6 +31,20 @@
       "pedido_id": "2000015738470192",
       "comprador": "VITUS_PH",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "W024T-04400",
+      "produto": "Pressostato Lavadora Panasonic 14kg 16kg Original",
+      "quantidade": 1,
+      "valor": 55.29,
+      "foto": "https://http2.mlstatic.com/D_698368-MLB101053686334_122025-O.jpg",
+      "item_id": "MLB1279134181",
+      "shipping_id": "46742102365",
+      "envio": "Full",
+      "data": "2026-03-28T11:14:18.000-04:00",
+      "pedido_id": "2000015738456836",
+      "comprador": "LUMI20231217082712",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "AXBX01",
@@ -1319,20 +1347,6 @@
       "pedido_id": "2000015736813902",
       "comprador": "SERVTECH",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "AKB75215403",
-      "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
-      "quantidade": 1,
-      "valor": 150,
-      "foto": "https://http2.mlstatic.com/D_843359-MLB107175604455_022026-O.jpg",
-      "item_id": "MLB1869886476",
-      "shipping_id": "46741345341",
-      "envio": "Full",
-      "data": "2026-03-28T08:38:41.000-04:00",
-      "pedido_id": "2000015736840180",
-      "comprador": "PAULOSOM21",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC31-00181C",
