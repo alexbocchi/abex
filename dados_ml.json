@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:08:23.289Z",
+  "atualizado_em": "2026-03-28T22:10:23.355Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 273,
+  "total_pedidos": 274,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5220FR2008N",
+      "produto": "Válvula Entrada De Água 4 Vias Lava Seca 110/220v LG 5220fr2008n Aju75412412 Cv3011bc4 Cv3011wg4 Cv5010ts4 Cv5010wg4 Cv5011ts4 Cv5011wg4 Cv5013bc4 Cv5013ec4 Cv5013wc4 Cv5014mc4 Cv5014pc4 12v",
+      "quantidade": 1,
+      "valor": 200,
+      "foto": "https://http2.mlstatic.com/D_663097-MLA107939635674_032026-O.jpg",
+      "item_id": "MLB4529593901",
+      "shipping_id": "46744157479",
+      "envio": "Coleta",
+      "data": "2026-03-28T18:07:55.000-04:00",
+      "pedido_id": "2000015743032060",
+      "comprador": "SAMUELANTNIOCAETANO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC64-01538A",
       "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd856uhsawq",
