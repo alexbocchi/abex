@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T11:20:48.681Z",
+  "atualizado_em": "2026-03-28T11:22:48.661Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 21,
+  "total_pedidos": 22,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01827A",
+      "produto": "Gaxeta Da Porta Lava E Seca Samsung Original Wd106uhsawq",
+      "quantidade": 1,
+      "valor": 160,
+      "foto": "https://http2.mlstatic.com/D_757533-MLB98233178381_112025-O.jpg",
+      "item_id": "MLB4304456995",
+      "shipping_id": "46741364494",
+      "envio": "Flex",
+      "data": "2026-03-28T07:22:21.000-04:00",
+      "pedido_id": "2000015736312924",
+      "comprador": "JURA6234687",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC67-00230E",
       "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
