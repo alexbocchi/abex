@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T16:20:50.994Z",
+  "atualizado_em": "2026-03-28T16:22:50.246Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 169,
+  "total_pedidos": 170,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46742720460",
+      "envio": "Full",
+      "data": "2026-03-28T12:20:44.000-04:00",
+      "pedido_id": "2000015739216862",
+      "comprador": "SANDROFERNANDESBERSOT",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC64-01538A",
       "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Nota Fiscal",
