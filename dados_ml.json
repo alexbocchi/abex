@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T14:52:50.300Z",
+  "atualizado_em": "2026-03-28T14:54:50.308Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 119,
+  "total_pedidos": 121,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "021062",
+      "produto": "Hélice Original Ventilador Britânia Ventus 40cm 3 Pás Cinza Cinza",
+      "quantidade": 1,
+      "valor": 20,
+      "foto": "https://http2.mlstatic.com/D_718618-MLB108251252695_032026-O.jpg",
+      "item_id": "MLB6419974622",
+      "shipping_id": "46741979667",
+      "envio": "Coleta",
+      "data": "2026-03-28T10:52:41.000-04:00",
+      "pedido_id": "2000015738195746",
+      "comprador": "LCCPAULINO2011",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd103u4saw",
+      "quantidade": 3,
+      "valor": 234,
+      "foto": "https://http2.mlstatic.com/D_640326-MLA100028145499_122025-O.jpg",
+      "item_id": "MLB5506740256",
+      "shipping_id": "46741978549",
+      "envio": "Full",
+      "data": "2026-03-28T10:52:35.000-04:00",
+      "pedido_id": "2000015738207418",
+      "comprador": "DIEGO LORENZETTI",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
