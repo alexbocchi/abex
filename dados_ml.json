@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:54:50.843Z",
+  "atualizado_em": "2026-03-28T15:56:50.694Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 162,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBR75234883",
+      "produto": "Placa Micro-ondas LG Mh7044 Mh7053 Ebr75234883",
+      "quantidade": 1,
+      "valor": 178.58,
+      "foto": "https://http2.mlstatic.com/D_708842-MLA99478467004_112025-O.jpg",
+      "item_id": "MLB5183132542",
+      "shipping_id": "46742594724",
+      "envio": "Full",
+      "data": "2026-03-28T11:55:49.000-04:00",
+      "pedido_id": "2000015738938714",
+      "comprador": "CAGHCBFED32651",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1118",
       "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
@@ -128,20 +142,6 @@
       "data": "2026-03-28T11:42:50.000-04:00",
       "pedido_id": "2000015738779218",
       "comprador": "IRIN",
-      "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "AKB75215403",
-      "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
-      "quantidade": 1,
-      "valor": 150,
-      "foto": "https://http2.mlstatic.com/D_843359-MLB107175604455_022026-O.jpg",
-      "item_id": "MLB1869886476",
-      "shipping_id": "46742252943",
-      "envio": "Full",
-      "data": "2026-03-28T11:41:30.000-04:00",
-      "pedido_id": "2000015738763226",
-      "comprador": "PAULOSOM21",
       "pagamento": "bank_transfer"
     },
     {
