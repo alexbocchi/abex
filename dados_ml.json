@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-28T18:40:24.186Z",
+  "atualizado_em": "2026-03-28T18:42:24.157Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 220,
+  "total_pedidos": 219,
   "produtos": [],
   "pedidos": [
     {
@@ -1221,20 +1221,6 @@
       "pedido_id": "2000015738355984",
       "comprador": "JOSE HUMBERTOSANTANA",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
-      "quantidade": 1,
-      "valor": 196.8,
-      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
-      "item_id": "MLB5173925130",
-      "shipping_id": "46742060095",
-      "envio": "Full",
-      "data": "2026-03-28T11:07:38.000-04:00",
-      "pedido_id": "2000015738359938",
-      "comprador": "R20251012123026",
-      "pagamento": "credit_card"
     },
     {
       "sku": "EAU62983004",
