@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-03-28T18:28:24.055Z",
+  "atualizado_em": "2026-03-28T18:30:23.996Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 217,
+  "total_pedidos": 218,
   "produtos": [],
   "pedidos": [
     {
@@ -45,6 +45,20 @@
       "pedido_id": "2000015740553654",
       "comprador": "HENRIQUERIZIRIZI",
       "pagamento": "digital_currency"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus Original 220v 65w Ar Barril Split 25906088 Ydk65-6d",
+      "quantidade": 1,
+      "valor": 210,
+      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
+      "item_id": "MLB6107728210",
+      "shipping_id": "46743383130",
+      "envio": "Full",
+      "data": "2026-03-28T14:17:18.000-04:00",
+      "pedido_id": "2000015740549086",
+      "comprador": "TJLU5275585",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KITSM1173",
