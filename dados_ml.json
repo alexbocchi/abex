@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:52:49.117Z",
+  "atualizado_em": "2026-03-28T12:54:49.193Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 51,
+  "total_pedidos": 52,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB76045004",
+      "produto": "Controle Smart Magic LG Akb76043204 Com Nfc Alexa Tvs 2023 Preto",
+      "quantidade": 1,
+      "valor": 180,
+      "foto": "https://http2.mlstatic.com/D_947200-MLA99933341551_112025-O.jpg",
+      "item_id": "MLB5327184908",
+      "shipping_id": "46741675468",
+      "envio": "Full",
+      "data": "2026-03-28T08:53:11.000-04:00",
+      "pedido_id": "2000015736964180",
+      "comprador": "ICAROJORGE",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC62-00233C",
       "produto": "Válvula Entrada De Água Tripla Lava E Seca Samsung",
