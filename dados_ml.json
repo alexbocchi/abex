@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T11:02:48.476Z",
+  "atualizado_em": "2026-03-28T11:04:48.877Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 17,
+  "total_pedidos": 18,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC66-00421B",
+      "produto": "Amortecedor Do Cesto Lava E Seca - Dc66-00421b Samsung",
+      "quantidade": 1,
+      "valor": 40,
+      "foto": "https://http2.mlstatic.com/D_678284-MLA99445333366_112025-O.jpg",
+      "item_id": "MLB4028833179",
+      "shipping_id": "46741319818",
+      "envio": "Full",
+      "data": "2026-03-28T07:03:17.000-04:00",
+      "pedido_id": "2000015736224664",
+      "comprador": "GASPAR_REC20",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "761321",
       "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
