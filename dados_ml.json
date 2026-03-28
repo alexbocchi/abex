@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:28:50.838Z",
+  "atualizado_em": "2026-03-28T15:30:50.621Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 148,
+  "total_pedidos": 149,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-15882Q",
+      "produto": "Controle Ar Condicionado Split Samsung Virus Doctor Inverter Branco",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_903361-MLB89166263134_082025-O.jpg",
+      "item_id": "MLB1613573954",
+      "shipping_id": "46742178385",
+      "envio": "Full",
+      "data": "2026-03-28T11:30:13.000-04:00",
+      "pedido_id": "2000015738650234",
+      "comprador": "NIELSONSP42",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1173",
       "produto": "Kit 2 Borrachas Vedação Filtro Fiapo Lava E Seca Samsung Dc73-00022a Preto",
