@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T15:46:50.654Z",
+  "atualizado_em": "2026-03-28T15:48:50.715Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 155,
+  "total_pedidos": 156,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "BN98-06046A",
+      "produto": "Controle Smart Tv Un32j4300 Un40j5300 43j5200 Todas Led Lcd Preto",
+      "quantidade": 1,
+      "valor": 71.22,
+      "foto": "https://http2.mlstatic.com/D_972128-MLB106048134870_022026-O.jpg",
+      "item_id": "MLB6229110760",
+      "shipping_id": "46742545890",
+      "envio": "Flex",
+      "data": "2026-03-28T11:47:32.000-04:00",
+      "pedido_id": "2000015738838988",
+      "comprador": "XR3AUTOPECAS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1077",
       "produto": "Conjunto 4 Pé Nivelador Lava E Seca Samsung Dc97-00920u",
