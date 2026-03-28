@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T19:22:22.720Z",
+  "atualizado_em": "2026-03-28T19:24:22.802Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 230,
+  "total_pedidos": 231,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Tripla De Água Lava E Seca Samsung Wd11m44530w/az",
+      "quantidade": 1,
+      "valor": 108,
+      "foto": "https://http2.mlstatic.com/D_912138-MLA99954202689_112025-O.jpg",
+      "item_id": "MLB5461158662",
+      "shipping_id": "46743382933",
+      "envio": "Full",
+      "data": "2026-03-28T15:23:32.000-04:00",
+      "pedido_id": "2000015741300082",
+      "comprador": "VANESSAOLIVEIRA878VANESSAOLIVE",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
