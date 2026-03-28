@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T19:38:23.016Z",
+  "atualizado_em": "2026-03-28T19:40:23.682Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 234,
+  "total_pedidos": 236,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
+      "quantidade": 1,
+      "valor": 204.95,
+      "foto": "https://http2.mlstatic.com/D_697027-MLA99594896114_122025-O.jpg",
+      "item_id": "MLB5676655880",
+      "shipping_id": "46743735578",
+      "envio": "Full",
+      "data": "2026-03-28T15:39:21.000-04:00",
+      "pedido_id": "2000015741454894",
+      "comprador": "GMOURA1",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Operacional E Segurança",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "https://http2.mlstatic.com/D_606772-MLB53800958800_022023-O.jpg",
+      "item_id": "MLB1605625037",
+      "shipping_id": "46743456641",
+      "envio": "Full",
+      "data": "2026-03-28T15:37:02.000-04:00",
+      "pedido_id": "2000015741450028",
+      "comprador": "CELIOLEANDRODELUCENALUCENA",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
