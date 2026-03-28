@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:58:23.527Z",
+  "atualizado_em": "2026-03-28T23:00:25.142Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 282,
+  "total_pedidos": 283,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITEIXOCOMPLETO",
+      "produto": "Kit Eixo Flange Tripé Do Cesto Lava Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 240,
+      "foto": "https://http2.mlstatic.com/D_718031-MLB107308880760_032026-O.jpg",
+      "item_id": "MLB4652113112",
+      "shipping_id": "46744664156",
+      "envio": "Coleta",
+      "data": "2026-03-28T18:58:44.000-04:00",
+      "pedido_id": "2000015743545236",
+      "comprador": "CRSITIANASANTOSJORDAO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC31-00181B",
       "produto": "Bomba De Drenagem Lava E Seca Samsung 220v Original Nf",
