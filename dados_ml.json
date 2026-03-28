@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:14:23.680Z",
+  "atualizado_em": "2026-03-28T22:16:23.562Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 277,
+  "total_pedidos": 278,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC61-03510A",
+      "produto": "Guia Recipiente Sabão Liquido Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 25.09,
+      "foto": "https://http2.mlstatic.com/D_976338-MLB106922748873_022026-O.jpg",
+      "item_id": "MLB1533297210",
+      "shipping_id": "46744189951",
+      "envio": "Full",
+      "data": "2026-03-28T18:15:17.000-04:00",
+      "pedido_id": "2000015743102192",
+      "comprador": "FEGU867714",
+      "pagamento": "account_money"
+    },
     {
       "sku": "6501KW2001B",
       "produto": "Sensor Hall Lava E Seca Lavadora LG Wd1412rt Fr1226wc5 Novo",
