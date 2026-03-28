@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T15:12:50.579Z",
+  "atualizado_em": "2026-03-28T15:14:50.516Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 137,
+  "total_pedidos": 141,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-10859L",
+      "produto": "Placa Evaporadora Ar Condicionado Samsung Asv12psbtnxaz 220v",
+      "quantidade": 1,
+      "valor": 680,
+      "foto": "https://http2.mlstatic.com/D_601541-MLB104339031236_012026-O.jpg",
+      "item_id": "MLB5225559234",
+      "shipping_id": "46742095397",
+      "envio": "Flex",
+      "data": "2026-03-28T11:14:37.000-04:00",
+      "pedido_id": "2000015738470192",
+      "comprador": "VITUS_PH",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "AXBX01",
+      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
+      "quantidade": 1,
+      "valor": 52.89,
+      "foto": "https://http2.mlstatic.com/D_618047-MLB79773766608_102024-O.jpg",
+      "item_id": "MLB5122979702",
+      "shipping_id": "46742368262",
+      "envio": "Full",
+      "data": "2026-03-28T11:14:07.000-04:00",
+      "pedido_id": "2000015738439470",
+      "comprador": "ZETENOVOCORTE",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "D144612",
+      "produto": "Capacitor Duplo Ar Condicionado Split 9000 12000 30+2,5uf",
+      "quantidade": 1,
+      "valor": 49.99,
+      "foto": "https://http2.mlstatic.com/D_967697-MLB104899940056_012026-O.jpg",
+      "item_id": "MLB5107769470",
+      "shipping_id": "46742082767",
+      "envio": "Coleta",
+      "data": "2026-03-28T11:12:07.000-04:00",
+      "pedido_id": "2000015738426918",
+      "comprador": "DEFERNANDO20230318095336",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
@@ -17,6 +59,20 @@
       "pedido_id": "2000015738402364",
       "comprador": "DEISEKEYLABATISTADAPAZ",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 47.38,
+      "foto": "https://http2.mlstatic.com/D_939763-MLB47174909814_082021-O.jpg",
+      "item_id": "MLB1775787624",
+      "shipping_id": "46742065379",
+      "envio": "Full",
+      "data": "2026-03-28T11:08:50.000-04:00",
+      "pedido_id": "2000015738363914",
+      "comprador": "KAROLINE. SYLVA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "021713PL",
