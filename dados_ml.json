@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T12:38:48.970Z",
+  "atualizado_em": "2026-03-28T12:40:49.409Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 46,
+  "total_pedidos": 48,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Ventilador Evaporadora Ar LG S4nq18kl3wb",
+      "quantidade": 1,
+      "valor": 222,
+      "foto": "https://http2.mlstatic.com/D_805496-MLA99376151044_112025-O.jpg",
+      "item_id": "MLB4135368041",
+      "shipping_id": "46741622698",
+      "envio": "Full",
+      "data": "2026-03-28T08:40:33.000-04:00",
+      "pedido_id": "2000015736813902",
+      "comprador": "SERVTECH",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Para Ar Condicionado LG Dual Inverter Voice Branco",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_843359-MLB107175604455_022026-O.jpg",
+      "item_id": "MLB1869886476",
+      "shipping_id": "46741345341",
+      "envio": "Full",
+      "data": "2026-03-28T08:38:41.000-04:00",
+      "pedido_id": "2000015736840180",
+      "comprador": "PAULOSOM21",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
