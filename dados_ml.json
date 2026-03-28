@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:04:24.077Z",
+  "atualizado_em": "2026-03-28T18:06:23.906Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 209,
+  "total_pedidos": 210,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "761321",
+      "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
+      "quantidade": 1,
+      "valor": 52.73,
+      "foto": "https://http2.mlstatic.com/D_932446-MLA95967827105_102025-O.jpg",
+      "item_id": "MLB6419003916",
+      "shipping_id": "46743261156",
+      "envio": "Full",
+      "data": "2026-03-28T14:05:13.000-04:00",
+      "pedido_id": "2000015740403654",
+      "comprador": "CALEGAROGENTIL20230803073905",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1077",
       "produto": "Kit Pés Reguláveis Lavadora Lava E Seca Samsung Original Nf",
