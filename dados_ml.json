@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:46:24.412Z",
+  "atualizado_em": "2026-03-28T18:48:24.532Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 220,
+  "total_pedidos": 221,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "761321",
+      "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
+      "quantidade": 1,
+      "valor": 52.73,
+      "foto": "https://http2.mlstatic.com/D_932446-MLA95967827105_102025-O.jpg",
+      "item_id": "MLB6419003916",
+      "shipping_id": "46743203683",
+      "envio": "Full",
+      "data": "2026-03-28T14:46:42.000-04:00",
+      "pedido_id": "2000015740867210",
+      "comprador": "DARAMON20211004230906",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "020217",
       "produto": "Cone Espremedor Philco Citrus Espremedor De Frutas Original",
