@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T13:36:49.611Z",
+  "atualizado_em": "2026-03-28T13:38:49.471Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 79,
+  "total_pedidos": 80,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1150",
+      "produto": "Kit 3 Pas Batedor Do Cesto Lava E Seca Samsung Wd856uhsawqfa Cor Cinza-escuro",
+      "quantidade": 1,
+      "valor": 119.99,
+      "foto": "https://http2.mlstatic.com/D_676474-MLA100045806325_122025-O.jpg",
+      "item_id": "MLB3950550549",
+      "shipping_id": "46741877550",
+      "envio": "Full",
+      "data": "2026-03-28T09:36:53.000-04:00",
+      "pedido_id": "2000015737349946",
+      "comprador": "MA20240718212431",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1078",
       "produto": "Kit 4 Pés Niveladores Borracha Antiderrapante Samsung Wd103",
