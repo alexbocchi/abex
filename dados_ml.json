@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T16:24:21.688Z",
+  "atualizado_em": "2026-03-28T16:26:23.129Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 171,
+  "total_pedidos": 172,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Cesto Lavadora Lava E Seca Samsung Dc66-00421b 80n",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_678084-MLA99979837489_112025-O.jpg",
+      "item_id": "MLB5751852522",
+      "shipping_id": null,
+      "envio": "N/A",
+      "data": "2026-03-28T12:25:50.000-04:00",
+      "pedido_id": "2000015739290178",
+      "comprador": "SILVIORICARDO_ROD",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DB95-01990D",
       "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
