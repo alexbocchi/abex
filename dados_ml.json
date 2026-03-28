@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T12:50:49.296Z",
+  "atualizado_em": "2026-03-28T12:52:49.117Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 49,
+  "total_pedidos": 51,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Entrada De Água Tripla Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_856580-MLA100041533973_122025-O.jpg",
+      "item_id": "MLB4232117637",
+      "shipping_id": "46741398265",
+      "envio": "Full",
+      "data": "2026-03-28T08:51:41.000-04:00",
+      "pedido_id": "2000015736933362",
+      "comprador": "ASGI5460029",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_977418-MLA105567224550_012026-O.jpg",
+      "item_id": "MLB5677380018",
+      "shipping_id": "46741393005",
+      "envio": "Full",
+      "data": "2026-03-28T08:50:20.000-04:00",
+      "pedido_id": "2000015736932566",
+      "comprador": "RAFAELGOMES2824",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITLG0002",
       "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
