@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T11:48:48.653Z",
+  "atualizado_em": "2026-03-28T11:50:48.844Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 29,
+  "total_pedidos": 31,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 61.99,
+      "foto": "https://http2.mlstatic.com/D_762730-MLB89090811517_082025-O.jpg",
+      "item_id": "MLB3935360223",
+      "shipping_id": "46741440612",
+      "envio": "Full",
+      "data": "2026-03-28T07:48:54.000-04:00",
+      "pedido_id": "2000015736460952",
+      "comprador": "AFGTEM",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC64-01521A",
+      "produto": "Vidro Da Porta Para Lava E Seca Samsung Wd106uhsagd",
+      "quantidade": 1,
+      "valor": 450,
+      "foto": "https://http2.mlstatic.com/D_694021-MLA95175708558_102025-O.jpg",
+      "item_id": "MLB4004267013",
+      "shipping_id": "46741165509",
+      "envio": "Coleta",
+      "data": "2026-03-28T07:48:41.000-04:00",
+      "pedido_id": "2000015736467010",
+      "comprador": "PJ20250616211802",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lavadora Lava E Seca Samsung Original Nf",
