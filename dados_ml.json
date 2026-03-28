@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T13:16:49.521Z",
+  "atualizado_em": "2026-03-28T13:18:49.365Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 69,
+  "total_pedidos": 71,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "https://http2.mlstatic.com/D_762730-MLB89090811517_082025-O.jpg",
+      "item_id": "MLB3935360223",
+      "shipping_id": "46741508683",
+      "envio": "Full",
+      "data": "2026-03-28T09:18:09.000-04:00",
+      "pedido_id": "2000015737176940",
+      "comprador": "RENATOZOLET",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC67-00230E",
+      "produto": "Mangueira Pressostato Samsung Dc67-00230e Lavadora Lava E Seca 63cm",
+      "quantidade": 1,
+      "valor": 30,
+      "foto": "https://http2.mlstatic.com/D_685753-MLA96174787263_102025-O.jpg",
+      "item_id": "MLB5732737732",
+      "shipping_id": "46741782058",
+      "envio": "Flex",
+      "data": "2026-03-28T09:17:50.000-04:00",
+      "pedido_id": "2000015737170962",
+      "comprador": "RENATO_PAIATO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "ABQ73082701",
       "produto": "Placa Receptora Display Ar Condicionado LG 9000 A 18000 Btus 127/220v",
