@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T11:08:48.543Z",
+  "atualizado_em": "2026-03-28T11:10:48.593Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 20,
+  "total_pedidos": 21,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC67-00230E",
+      "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
+      "quantidade": 1,
+      "valor": 30,
+      "foto": "https://http2.mlstatic.com/D_811317-MLB70622251378_072023-O.jpg",
+      "item_id": "MLB3320638231",
+      "shipping_id": "46741057763",
+      "envio": "Full",
+      "data": "2026-03-28T07:09:39.000-04:00",
+      "pedido_id": "2000015736241738",
+      "comprador": "FATH8928100",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "783198",
       "produto": "Filtro Permanente Cafeteira Britânia Cp30 Cp38 Ph30 Original",
