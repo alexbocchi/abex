@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T20:26:22.898Z",
+  "atualizado_em": "2026-03-28T20:28:23.252Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 246,
+  "total_pedidos": 247,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00214Q",
+      "produto": "Valvula 4 Vias Lava E Seca Samsung Wd90j6410aw Original 110v",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "https://http2.mlstatic.com/D_871435-MLB70790910796_082023-O.jpg",
+      "item_id": "MLB1809270546",
+      "shipping_id": "46743964168",
+      "envio": "Full",
+      "data": "2026-03-28T16:27:04.000-04:00",
+      "pedido_id": "2000015741968756",
+      "comprador": "LUIZALAURA20221031115803",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906085",
       "produto": "Motor Ventilador Condensa 25906085 Ar Split Springer",
