@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T20:56:22.927Z",
+  "atualizado_em": "2026-03-28T20:58:23.418Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 253,
+  "total_pedidos": 257,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Bomba Drenagem 110v/127v Lava Seca LG Wd1403 Wd1409 Original 127v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_909322-MLB107347564989_022026-O.jpg",
+      "item_id": "MLB3867823514",
+      "shipping_id": "46744107390",
+      "envio": "Full",
+      "data": "2026-03-28T16:56:43.000-04:00",
+      "pedido_id": "2000015742278904",
+      "comprador": "HALLEN.MENEZES",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KIT1SM1118",
+      "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 120,
+      "foto": "https://http2.mlstatic.com/D_969363-MLB74558639933_022024-O.jpg",
+      "item_id": "MLB1541319189",
+      "shipping_id": "46744104326",
+      "envio": "Full",
+      "data": "2026-03-28T16:56:11.000-04:00",
+      "pedido_id": "2000015742276836",
+      "comprador": "SABRINA.PALERMO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITTERMOSTATO",
       "produto": "Kit Termostatos Lava E Seca Samsung Operacional E Segurança",
@@ -1388,6 +1416,20 @@
       "data": "2026-03-28T11:52:43.000-04:00",
       "pedido_id": "2000015738885836",
       "comprador": "ERYCAPERESS",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Tripla Entrada De Água 110v Midea Philco Lava E Seca Modelos",
+      "quantidade": 1,
+      "valor": 151.4,
+      "foto": "https://http2.mlstatic.com/D_948673-MLA95216741964_102025-O.jpg",
+      "item_id": "MLB5318743754",
+      "shipping_id": "46742297497",
+      "envio": "Full",
+      "data": "2026-03-28T11:51:46.000-04:00",
+      "pedido_id": "2000015738889050",
+      "comprador": "CRTH1206817",
       "pagamento": "bank_transfer"
     },
     {
@@ -3475,6 +3517,20 @@
       "pedido_id": "2000015735570010",
       "comprador": "VIED9120758",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB95-01990D",
+      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
+      "quantidade": 1,
+      "valor": 70.2,
+      "foto": "https://http2.mlstatic.com/D_847601-MLB73095606746_112023-O.jpg",
+      "item_id": "MLB1392765780",
+      "shipping_id": "46740864632",
+      "envio": "Full",
+      "data": "2026-03-28T00:32:40.000-04:00",
+      "pedido_id": "2000015735253820",
+      "comprador": "FACCHINIMOISES",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "AKB75675304",
