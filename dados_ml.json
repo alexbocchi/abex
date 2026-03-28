@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T18:12:23.814Z",
+  "atualizado_em": "2026-03-28T18:14:24.019Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 212,
+  "total_pedidos": 213,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5220FR2008N",
+      "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG",
+      "quantidade": 1,
+      "valor": 220,
+      "foto": "https://http2.mlstatic.com/D_745088-MLA98394226467_112025-O.jpg",
+      "item_id": "MLB4307332391",
+      "shipping_id": "46743025627",
+      "envio": "Full",
+      "data": "2026-03-28T14:12:49.000-04:00",
+      "pedido_id": "2000015740518094",
+      "comprador": "JULIANOSCHERA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1118",
       "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
