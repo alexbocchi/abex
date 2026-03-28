@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T16:08:51.155Z",
+  "atualizado_em": "2026-03-28T16:10:51.130Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 164,
+  "total_pedidos": 165,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Ventilador Evaporadora Ar LG S4nq18kl3wb",
+      "quantidade": 1,
+      "valor": 233.99,
+      "foto": "https://http2.mlstatic.com/D_805496-MLA99376151044_112025-O.jpg",
+      "item_id": "MLB4135368041",
+      "shipping_id": "46742384589",
+      "envio": "Full",
+      "data": "2026-03-28T12:09:00.000-04:00",
+      "pedido_id": "2000015739098158",
+      "comprador": "MAFL537991",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DA32-10104N",
       "produto": "Sensor Temperatura Refrigerador Samsung Da32-00066b Original",
