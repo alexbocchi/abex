@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-03-28T16:38:23.268Z",
+  "atualizado_em": "2026-03-28T16:40:23.555Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 176,
+  "total_pedidos": 179,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906085",
+      "produto": "Motor Ventilador Condensadora Split 220v Springer 12000 Btus",
+      "quantidade": 1,
+      "valor": 201,
+      "foto": "https://http2.mlstatic.com/D_642202-MLA99932054685_112025-O.jpg",
+      "item_id": "MLB4507938757",
+      "shipping_id": "46742542363",
+      "envio": "Full",
+      "data": "2026-03-28T12:39:00.000-04:00",
+      "pedido_id": "2000015739444094",
+      "comprador": "STIVENB2012",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITGUARNICAO02",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd106 + Vedação Filtro",
+      "quantidade": 1,
+      "valor": 165,
+      "foto": "https://http2.mlstatic.com/D_689933-MLB77535622231_072024-O.jpg",
+      "item_id": "MLB3770771729",
+      "shipping_id": "46742822336",
+      "envio": "Full",
+      "data": "2026-03-28T12:38:39.000-04:00",
+      "pedido_id": "2000015739413892",
+      "comprador": "ROSENALDO2014",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saída Lava E Seca Samsung Original Wf106u4sawq",
+      "quantidade": 1,
+      "valor": 36.4,
+      "foto": "https://http2.mlstatic.com/D_724861-MLB107341333501_022026-O.jpg",
+      "item_id": "MLB1773090922",
+      "shipping_id": "46742539555",
+      "envio": "Full",
+      "data": "2026-03-28T12:38:31.000-04:00",
+      "pedido_id": "2000015739429344",
+      "comprador": "BAJ6575532",
+      "pagamento": "account_money"
+    },
     {
       "sku": "764462",
       "produto": "Saco De Tecido Para Aspirador De Pó Hepa Pas1690 Philco",
