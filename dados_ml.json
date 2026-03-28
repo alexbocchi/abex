@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T22:34:23.397Z",
+  "atualizado_em": "2026-03-28T22:36:23.644Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 280,
+  "total_pedidos": 281,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "BORRACHA02",
+      "produto": "Pé Anti Vibração Protetor De Piso Maquina De Lavar Secadora",
+      "quantidade": 1,
+      "valor": 33.5,
+      "foto": "https://http2.mlstatic.com/D_798813-MLB89151025845_082025-O.jpg",
+      "item_id": "MLB3930784661",
+      "shipping_id": "46744280267",
+      "envio": "Coleta",
+      "data": "2026-03-28T18:34:47.000-04:00",
+      "pedido_id": "2000015743312294",
+      "comprador": "FOMA20240304143211",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITLG0002",
       "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
