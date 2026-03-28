@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T12:46:49.313Z",
+  "atualizado_em": "2026-03-28T12:48:49.068Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 48,
+  "total_pedidos": 49,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 79.17,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46741374925",
+      "envio": "Full",
+      "data": "2026-03-28T08:47:11.000-04:00",
+      "pedido_id": "2000015736892956",
+      "comprador": "ENGDMARCELLO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Ventilador Evaporadora Ar LG S4nq18kl3wb",
