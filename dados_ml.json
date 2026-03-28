@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-03-28T14:22:49.827Z",
+  "atualizado_em": "2026-03-28T14:24:49.897Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 101,
+  "total_pedidos": 106,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBF61315801",
+      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
+      "quantidade": 1,
+      "valor": 58.8,
+      "foto": "https://http2.mlstatic.com/D_618717-MLA99961927357_112025-O.jpg",
+      "item_id": "MLB3608140493",
+      "shipping_id": "46741825985",
+      "envio": "Full",
+      "data": "2026-03-28T10:23:26.000-04:00",
+      "pedido_id": "2000015737853858",
+      "comprador": "AND_PRADO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 2,
+      "valor": 139.46,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46742099488",
+      "envio": "Full",
+      "data": "2026-03-28T10:23:12.000-04:00",
+      "pedido_id": "2000015737876640",
+      "comprador": "SIVI2999659",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
+      "quantidade": 1,
+      "valor": 27.72,
+      "foto": "https://http2.mlstatic.com/D_961117-MLA102610137716_122025-O.jpg",
+      "item_id": "MLB4041539053",
+      "shipping_id": "46742099462",
+      "envio": "Full",
+      "data": "2026-03-28T10:23:12.000-04:00",
+      "pedido_id": "2000015737880034",
+      "comprador": "SIVI2999659",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DB95-01990D",
+      "produto": "Sensor De Temperatura Da Evaporadora Ar Condicionado Samsung",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_869852-MLB75735777804_042024-O.jpg",
+      "item_id": "MLB4618724430",
+      "shipping_id": "46741824507",
+      "envio": "Full",
+      "data": "2026-03-28T10:23:08.000-04:00",
+      "pedido_id": "2000015737853664",
+      "comprador": "DAMATHEUS20220422061321",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "AKB75675304",
       "produto": "Controle Remoto LG Smart Akb75675304 Substitui O Akb75095315",
@@ -59,6 +115,20 @@
       "pedido_id": "2000015737790234",
       "comprador": "GET09",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB31-00371A",
+      "produto": "Motor Swing Aleta Ar Condicionado Samsung Aqv09 Aqv12 Origin",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "https://http2.mlstatic.com/D_666873-MLB70821628531_082023-O.jpg",
+      "item_id": "MLB1991061000",
+      "shipping_id": "46742047012",
+      "envio": "Coleta",
+      "data": "2026-03-28T10:12:50.000-04:00",
+      "pedido_id": "2000015737727770",
+      "comprador": "GFAGDHEBC85687",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAD60714618",
