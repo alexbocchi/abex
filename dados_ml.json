@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-28T20:12:22.893Z",
+  "atualizado_em": "2026-03-28T20:14:22.931Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 241,
+  "total_pedidos": 242,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBR82870714",
+      "produto": "Placa Condensadora Ar Condicionad LG S4nw09wa5wa S4uw09wa5wa 220v",
+      "quantidade": 1,
+      "valor": 495,
+      "foto": "https://http2.mlstatic.com/D_669984-MLA99505289468_112025-O.jpg",
+      "item_id": "MLB6102115690",
+      "shipping_id": "46743624607",
+      "envio": "Full",
+      "data": "2026-03-28T16:13:23.000-04:00",
+      "pedido_id": "2000015741817066",
+      "comprador": "RISOMARMIGUELDOCARMO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
