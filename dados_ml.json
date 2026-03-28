@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T15:58:50.953Z",
+  "atualizado_em": "2026-03-28T16:00:51.042Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 162,
+  "total_pedidos": 164,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46742338895",
+      "envio": "Full",
+      "data": "2026-03-28T12:00:11.000-04:00",
+      "pedido_id": "2000015738990758",
+      "comprador": "JOAOPAULOLEONIDASJOAOPAULOLEON",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB96-24901V",
+      "produto": "Controle Remoto Ar Condicionado Wind Free Db96-24901f  Branco",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_897270-MLB92291978204_092025-O.jpg",
+      "item_id": "MLB2933158141",
+      "shipping_id": "46742610824",
+      "envio": "Full",
+      "data": "2026-03-28T11:58:46.000-04:00",
+      "pedido_id": "2000015738976576",
+      "comprador": "MAIAJULIANA28",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EBR75234883",
       "produto": "Placa Micro-ondas LG Mh7044 Mh7053 Ebr75234883",
