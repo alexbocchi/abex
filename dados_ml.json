@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T16:28:23.537Z",
+  "atualizado_em": "2026-03-28T16:30:23.639Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 174,
+  "total_pedidos": 176,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB31-00680A",
+      "produto": "Motor Ventilador Evaporadora Samsung Inverter 9000-12000 Btus Db31-00680a Aq12uwbunxaz Ar12hsspasn As09uwbvxaz Asv12psbtxaz 127/220v",
+      "quantidade": 1,
+      "valor": 258,
+      "foto": "https://http2.mlstatic.com/D_809832-MLA99468751098_112025-O.jpg",
+      "item_id": "MLB5751110930",
+      "shipping_id": "46742764672",
+      "envio": "Full",
+      "data": "2026-03-28T12:29:00.000-04:00",
+      "pedido_id": "2000015739320246",
+      "comprador": "FERNANDOCRUZPINTO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "5220FR2008N",
+      "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG Cv30 Cv50",
+      "quantidade": 1,
+      "valor": 182,
+      "foto": "https://http2.mlstatic.com/D_917146-MLA99465137554_112025-O.jpg",
+      "item_id": "MLB3772897841",
+      "shipping_id": "46742487635",
+      "envio": "Full",
+      "data": "2026-03-28T12:28:36.000-04:00",
+      "pedido_id": "2000015739297732",
+      "comprador": "ALEXANDREFRIDERICHSPEREIRA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC61-03510A",
       "produto": "Guia Recipiente Sabão Liquido Lava E Seca Samsung Original",
