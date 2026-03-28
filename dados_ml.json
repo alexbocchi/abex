@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-28T20:00:24.574Z",
+  "atualizado_em": "2026-03-28T20:02:22.748Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 239,
+  "total_pedidos": 240,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBF61315801",
+      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
+      "quantidade": 5,
+      "valor": 58.8,
+      "foto": "https://http2.mlstatic.com/D_618717-MLA99961927357_112025-O.jpg",
+      "item_id": "MLB3608140493",
+      "shipping_id": "46743841558",
+      "envio": "Full",
+      "data": "2026-03-28T16:01:17.000-04:00",
+      "pedido_id": "2000015741699716",
+      "comprador": "JOTA.REFRIO",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EBF61315801",
+      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
+      "quantidade": 2,
+      "valor": 58.8,
+      "foto": "https://http2.mlstatic.com/D_618717-MLA99961927357_112025-O.jpg",
+      "item_id": "MLB3608140493",
+      "shipping_id": "46743841612",
+      "envio": "Full",
+      "data": "2026-03-28T16:01:16.000-04:00",
+      "pedido_id": "2000015741701472",
+      "comprador": "JOTA.REFRIO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "ARAGFA200031-CS",
       "produto": "Cooler Ventoinha Refrigerador Panasonic 4515jl Original Nf",
@@ -1653,20 +1681,6 @@
       "envio": "Full",
       "data": "2026-03-28T10:55:53.000-04:00",
       "pedido_id": "2000015738254484",
-      "comprador": "JOTA.REFRIO",
-      "pagamento": "account_money"
-    },
-    {
-      "sku": "EBF61315801",
-      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
-      "quantidade": 7,
-      "valor": 58.8,
-      "foto": "https://http2.mlstatic.com/D_618717-MLA99961927357_112025-O.jpg",
-      "item_id": "MLB3608140493",
-      "shipping_id": "46742271972",
-      "envio": "Full",
-      "data": "2026-03-28T10:55:52.000-04:00",
-      "pedido_id": "2000015738256088",
       "comprador": "JOTA.REFRIO",
       "pagamento": "account_money"
     },
