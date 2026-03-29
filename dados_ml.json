@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-29T13:58:13.027Z",
+  "atualizado_em": "2026-03-29T14:00:13.152Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 61,
+  "total_pedidos": 63,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
+      "item_id": "MLB1613568329",
+      "shipping_id": "46746696318",
+      "envio": "Full",
+      "data": "2026-03-29T09:59:30.000-04:00",
+      "pedido_id": "2000015748340792",
+      "comprador": "DENISEHORITA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EBG61106803",
+      "produto": "Sensor Temperatura Da Evaporadora Para Ar Condicionado LG",
+      "quantidade": 1,
+      "valor": 75,
+      "foto": "https://http2.mlstatic.com/D_744237-MLB53667614131_022023-O.jpg",
+      "item_id": "MLB1920829826",
+      "shipping_id": "46746691478",
+      "envio": "Coleta",
+      "data": "2026-03-29T09:58:10.000-04:00",
+      "pedido_id": "2000015748324950",
+      "comprador": "DANIMAFF",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU57945708",
       "produto": "Motor Ventilador Condensadora Rdn-310-43-8a LG Eau57945708 127/220v",
