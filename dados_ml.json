@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-29T13:40:19.999Z",
+  "atualizado_em": "2026-03-29T13:42:19.901Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 51,
+  "total_pedidos": 53,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "021392",
+      "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_735262-MLB103819689684_012026-O.jpg",
+      "item_id": "MLB6154718234",
+      "shipping_id": "46746623684",
+      "envio": "Coleta",
+      "data": "2026-03-29T09:41:43.000-04:00",
+      "pedido_id": "2000015748176866",
+      "comprador": "VALERIA SABATINE",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU64082902",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
+      "quantidade": 1,
+      "valor": 59.36,
+      "foto": "https://http2.mlstatic.com/D_938151-MLA100006940231_122025-O.jpg",
+      "item_id": "MLB5303104460",
+      "shipping_id": "46746348509",
+      "envio": "Flex",
+      "data": "2026-03-29T09:40:34.000-04:00",
+      "pedido_id": "2000015748172272",
+      "comprador": "FIGUEIREDORONALDO00",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1150",
       "produto": "Kit 3 Pas Batedor Do Cesto Lava E Seca Samsung Wd856uhsawqfa Cor Cinza-escuro",
