@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T13:56:13.085Z",
+  "atualizado_em": "2026-03-29T13:58:13.027Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 60,
+  "total_pedidos": 61,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU57945708",
+      "produto": "Motor Ventilador Condensadora Rdn-310-43-8a LG Eau57945708 127/220v",
+      "quantidade": 1,
+      "valor": 255,
+      "foto": "https://http2.mlstatic.com/D_607938-MLB90042935223_082025-O.jpg",
+      "item_id": "MLB3987397947",
+      "shipping_id": "46746414373",
+      "envio": "Coleta",
+      "data": "2026-03-29T09:57:43.000-04:00",
+      "pedido_id": "2000015748336314",
+      "comprador": "PC20240728210708",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DB96-24901C",
       "produto": "Controle Remoto Ar Condicionado Samsung Wind Free Original Branco",
