@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T13:08:21.542Z",
+  "atualizado_em": "2026-03-29T13:10:21.219Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 44,
+  "total_pedidos": 45,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.8,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46746223925",
+      "envio": "Full",
+      "data": "2026-03-29T09:08:30.000-04:00",
+      "pedido_id": "2000015747875476",
+      "comprador": "72VANDER",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1118",
       "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
