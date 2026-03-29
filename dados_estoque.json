@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-03-29T14:00:06.428Z",
+  "atualizado_em": "2026-03-29T14:23:37.611Z",
   "ultima_conclusao": null,
   "fonte": "Tiny ERP",
   "total_produtos": 1685,
-  "proxima_pagina": 8,
-  "concluido": false,
+  "proxima_pagina": 1,
+  "concluido": true,
   "produtos": [
     {
       "id": "603563903",
