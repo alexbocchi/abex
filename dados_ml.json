@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-29T13:46:13.229Z",
+  "atualizado_em": "2026-03-29T13:48:13.065Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 54,
+  "total_pedidos": 56,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
+      "item_id": "MLB5347106848",
+      "shipping_id": "46746647282",
+      "envio": "Full",
+      "data": "2026-03-29T09:47:37.000-04:00",
+      "pedido_id": "2000015748240304",
+      "comprador": "DARODRIGO20220319120615",
+      "pagamento": "digital_currency"
+    },
+    {
+      "sku": "DC34-00026A",
+      "produto": "Trava Da Porta Lava E Seca Samsung Original Wd11j6410axfaz",
+      "quantidade": 1,
+      "valor": 145,
+      "foto": "https://http2.mlstatic.com/D_669993-MLB72817993901_112023-O.jpg",
+      "item_id": "MLB1766638794",
+      "shipping_id": "46746647308",
+      "envio": "Full",
+      "data": "2026-03-29T09:47:34.000-04:00",
+      "pedido_id": "2000015748240278",
+      "comprador": "MARGARETHCHAGAS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1114",
       "produto": "Recipiente De Sabão Lavadora E Lava E Seca Samsung Original",
