@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T13:32:19.870Z",
+  "atualizado_em": "2026-03-29T13:34:19.831Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 50,
+  "total_pedidos": 51,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1150",
+      "produto": "Kit 3 Pas Batedor Do Cesto Lava E Seca Samsung Wd856uhsawqfa Cor Cinza-escuro",
+      "quantidade": 1,
+      "valor": 119.99,
+      "foto": "https://http2.mlstatic.com/D_676474-MLA100045806325_122025-O.jpg",
+      "item_id": "MLB3950550549",
+      "shipping_id": "46746315311",
+      "envio": "Full",
+      "data": "2026-03-29T09:33:10.000-04:00",
+      "pedido_id": "2000015748108214",
+      "comprador": "AZEVEDOTATIANA15",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "760671",
       "produto": "Tampa De Liquidificador Philco Samurai Preto",
