@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T13:00:19.682Z",
+  "atualizado_em": "2026-03-29T13:02:21.371Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 42,
+  "total_pedidos": 43,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_727098-MLB105004612016_012026-O.jpg",
+      "item_id": "MLB1868780838",
+      "shipping_id": "46746195631",
+      "envio": "Flex",
+      "data": "2026-03-29T09:00:06.000-04:00",
+      "pedido_id": "2000015747834758",
+      "comprador": "SIMA7315674",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
