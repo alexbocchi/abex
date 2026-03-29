@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-29T12:52:21.188Z",
+  "atualizado_em": "2026-03-29T12:54:21.027Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 40,
+  "total_pedidos": 42,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46746447636",
+      "envio": "Full",
+      "data": "2026-03-29T08:53:11.000-04:00",
+      "pedido_id": "2000015747778482",
+      "comprador": "VC20251027110515",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Entrada De Água Tripla Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_856580-MLA100041533973_122025-O.jpg",
+      "item_id": "MLB4232117637",
+      "shipping_id": "46746170457",
+      "envio": "Full",
+      "data": "2026-03-29T08:51:13.000-04:00",
+      "pedido_id": "2000015747747918",
+      "comprador": "WILLYAMJHONY",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Para Uso Em Lava E Seca Samsung Dc66-421b Wd10m44530w Wd0854w Wd103u4sawq Wd106uhsagd Wd10j6410 Wd11a4453 Wd856uhsasd Wd90j6410 Wf106u4sa Wf8854ljf1 Ww85j4273mw",
