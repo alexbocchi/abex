@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T14:32:52.450Z",
+  "atualizado_em": "2026-03-29T14:36:18.077Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 73,
+  "total_pedidos": 74,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01827A",
+      "produto": "Guarnição Borracha Da Porta Para Uso Em Lava E Seca Samsung Dc64-01827a Wd106uhsawq Wd0854w8e1 Wd103u4sawq",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_835304-MLA96140907527_102025-O.jpg",
+      "item_id": "MLB4217055173",
+      "shipping_id": "46746571217",
+      "envio": "Full",
+      "data": "2026-03-29T10:32:33.000-04:00",
+      "pedido_id": "2000015748700284",
+      "comprador": "GM20240914195107",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC31-00181B",
       "produto": "Eletrobomba De Drenagem Lava E Seca 220v Samsung Dc31-00030b 220v",
