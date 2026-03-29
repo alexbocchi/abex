@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T13:30:19.939Z",
+  "atualizado_em": "2026-03-29T13:32:19.870Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 49,
+  "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "760671",
+      "produto": "Tampa De Liquidificador Philco Samurai Preto",
+      "quantidade": 1,
+      "valor": 61.03,
+      "foto": "https://http2.mlstatic.com/D_815435-MLU75691183878_042024-O.jpg",
+      "item_id": "MLB6415764554",
+      "shipping_id": "46746581408",
+      "envio": "Coleta",
+      "data": "2026-03-29T09:30:55.000-04:00",
+      "pedido_id": "2000015748080554",
+      "comprador": "NATHANEGAMADERESENDE",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
