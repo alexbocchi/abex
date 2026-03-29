@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T13:54:13.102Z",
+  "atualizado_em": "2026-03-29T13:56:13.085Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 59,
+  "total_pedidos": 60,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB96-24901C",
+      "produto": "Controle Remoto Ar Condicionado Samsung Wind Free Original Branco",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_680728-MLB76139194679_052024-O.jpg",
+      "item_id": "MLB2933189700",
+      "shipping_id": "46746676898",
+      "envio": "Full",
+      "data": "2026-03-29T09:54:54.000-04:00",
+      "pedido_id": "2000015748290796",
+      "comprador": "EVANILSON2613",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "783198",
       "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
