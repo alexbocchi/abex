@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T12:46:19.529Z",
+  "atualizado_em": "2026-03-29T12:48:19.791Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 39,
+  "total_pedidos": 40,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Para Uso Em Lava E Seca Samsung Dc66-421b Wd10m44530w Wd0854w Wd103u4sawq Wd106uhsagd Wd10j6410 Wd11a4453 Wd856uhsasd Wd90j6410 Wf106u4sa Wf8854ljf1 Ww85j4273mw",
+      "quantidade": 1,
+      "valor": 42,
+      "foto": "https://http2.mlstatic.com/D_994396-MLA101914550223_122025-O.jpg",
+      "item_id": "MLB6153610258",
+      "shipping_id": "46746427636",
+      "envio": "Full",
+      "data": "2026-03-29T08:46:50.000-04:00",
+      "pedido_id": "2000015747740276",
+      "comprador": "GRLJ",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
