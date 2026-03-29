@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T13:50:13.165Z",
+  "atualizado_em": "2026-03-29T13:52:12.768Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 57,
+  "total_pedidos": 59,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "783198",
+      "produto": "Filtro Permanente 103 Cafeteira Ph30 Philco 9.5 Cm",
+      "quantidade": 1,
+      "valor": 19,
+      "foto": "https://http2.mlstatic.com/D_680904-MLA105340636743_012026-O.jpg",
+      "item_id": "MLB5272637204",
+      "shipping_id": "46746661274",
+      "envio": "Full",
+      "data": "2026-03-29T09:51:05.000-04:00",
+      "pedido_id": "2000015748272298",
+      "comprador": "GUBR6515438",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC64-01538A",
       "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd106uhsawq",
@@ -115,6 +129,20 @@
       "pedido_id": "2000015748080554",
       "comprador": "NATHANEGAMADERESENDE",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "EBF61315802",
+      "produto": "Trava Porta 110v Lava E Seca LG Wd1252rw.abwfbrs 110v",
+      "quantidade": 1,
+      "valor": 68.34,
+      "foto": "https://http2.mlstatic.com/D_958283-MLA95399897908_102025-O.jpg",
+      "item_id": "MLB5957541496",
+      "shipping_id": "46746284277",
+      "envio": "Full",
+      "data": "2026-03-29T09:25:21.000-04:00",
+      "pedido_id": "2000015748013290",
+      "comprador": "DEMILENA20220501073512",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC97-02250F",
