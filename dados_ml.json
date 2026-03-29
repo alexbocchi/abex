@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-03-29T13:06:21.243Z",
+  "atualizado_em": "2026-03-29T13:08:21.542Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 43,
+  "total_pedidos": 44,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1118",
+      "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
+      "quantidade": 1,
+      "valor": 29.77,
+      "foto": "https://http2.mlstatic.com/D_777802-MLB69500792662_052023-O.jpg",
+      "item_id": "MLB1613568329",
+      "shipping_id": "46746220915",
+      "envio": "Full",
+      "data": "2026-03-29T09:07:25.000-04:00",
+      "pedido_id": "2000015747890256",
+      "comprador": "CIDASOUSASP",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "AKB75215403",
       "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
