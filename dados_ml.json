@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-03-29T13:24:19.859Z",
+  "atualizado_em": "2026-03-29T13:26:19.937Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 47,
+  "total_pedidos": 49,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 1,
+      "valor": 35.5,
+      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
+      "item_id": "MLB3791029185",
+      "shipping_id": "46746283581",
+      "envio": "Full",
+      "data": "2026-03-29T09:25:01.000-04:00",
+      "pedido_id": "2000015748017360",
+      "comprador": "AMANDABGERIK123",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora Ar Condicionado LG S4nq12ja31c Usnq122hsg3 220v",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_957106-MLA99935936501_112025-O.jpg",
+      "item_id": "MLB4145100667",
+      "shipping_id": "46746281547",
+      "envio": "Full",
+      "data": "2026-03-29T09:24:26.000-04:00",
+      "pedido_id": "2000015748017018",
+      "comprador": "CAPELAJAMESON20230719114511",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC31-00181C",
       "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
