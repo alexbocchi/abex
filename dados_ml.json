@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T16:40:16.371Z",
+  "atualizado_em": "2026-04-01T16:42:16.118Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 232,
+  "total_pedidos": 234,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB32-00271A",
+      "produto": "Sensor De Umidade Ar Samsung Db32-00271a Ar09avhabwknaz +nfa",
+      "quantidade": 1,
+      "valor": 175,
+      "foto": "https://http2.mlstatic.com/D_877861-MLB100491241553_122025-O.jpg",
+      "item_id": "MLB4347791021",
+      "shipping_id": "46767923563",
+      "envio": "Coleta",
+      "data": "2026-04-01T12:41:16.000-04:00",
+      "pedido_id": "2000015794996264",
+      "comprador": "DOSJADSON20220321001120",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC97-07618A",
+      "produto": "Gaxeta Feltro Vedação Secadora Samsung Original Dv448agp",
+      "quantidade": 1,
+      "valor": 469.98,
+      "foto": "https://http2.mlstatic.com/D_688404-MLB107255151904_032026-O.jpg",
+      "item_id": "MLB5271153612",
+      "shipping_id": "46767920061",
+      "envio": "Coleta",
+      "data": "2026-04-01T12:40:44.000-04:00",
+      "pedido_id": "2000015794989258",
+      "comprador": "JOAOLUIZRIBEIROMARQUES",
+      "pagamento": "account_money"
+    },
     {
       "sku": "ARAGSD100120",
       "produto": "Sensor Defrost Degelo Refrigerador Panasonic Original",
@@ -61,20 +89,6 @@
       "pagamento": "account_money"
     },
     {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original Nf",
-      "quantidade": 2,
-      "valor": 76,
-      "foto": "https://http2.mlstatic.com/D_904369-MLB107341290355_022026-O.jpg",
-      "item_id": "MLB1492301147",
-      "shipping_id": "46767835227",
-      "envio": "Full",
-      "data": "2026-04-01T12:28:33.000-04:00",
-      "pedido_id": "2000015794806378",
-      "comprador": "CLAUDINEICLAUDINEI202304051021",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "DC62-00233C",
       "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
       "quantidade": 1,
@@ -85,6 +99,20 @@
       "envio": "Full",
       "data": "2026-04-01T12:28:33.000-04:00",
       "pedido_id": "2000015794801602",
+      "comprador": "CLAUDINEICLAUDINEI202304051021",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original Nf",
+      "quantidade": 2,
+      "valor": 76,
+      "foto": "https://http2.mlstatic.com/D_904369-MLB107341290355_022026-O.jpg",
+      "item_id": "MLB1492301147",
+      "shipping_id": "46767835227",
+      "envio": "Full",
+      "data": "2026-04-01T12:28:33.000-04:00",
+      "pedido_id": "2000015794806378",
       "comprador": "CLAUDINEICLAUDINEI202304051021",
       "pagamento": "account_money"
     },
