@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T15:10:15.264Z",
+  "atualizado_em": "2026-04-01T15:12:15.433Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 176,
+  "total_pedidos": 178,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB96-24901C",
+      "produto": "Controle Remoto Ar Condicionado Samsung Wind Free Original Branco",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_680728-MLB76139194679_052024-O.jpg",
+      "item_id": "MLB2933189700",
+      "shipping_id": "46767298609",
+      "envio": "Full",
+      "data": "2026-04-01T11:10:23.000-04:00",
+      "pedido_id": "2000015793674384",
+      "comprador": "SIJO6898759",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EBR73980402",
+      "produto": "Placa Evaporadora Ar Condicionado LG Usnq092wsg3 220v",
+      "quantidade": 1,
+      "valor": 279,
+      "foto": "https://http2.mlstatic.com/D_711707-MLA99456726780_112025-O.jpg",
+      "item_id": "MLB5054515446",
+      "shipping_id": "46767293337",
+      "envio": "Full",
+      "data": "2026-04-01T11:09:35.000-04:00",
+      "pedido_id": "2000015793649594",
+      "comprador": "RAFACBP",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC64-01538B",
       "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
