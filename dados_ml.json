@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T13:20:14.447Z",
+  "atualizado_em": "2026-04-01T13:22:14.193Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 103,
+  "total_pedidos": 104,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
+      "item_id": "MLB5347106848",
+      "shipping_id": "46766824352",
+      "envio": "Flex",
+      "data": "2026-04-01T09:21:17.000-04:00",
+      "pedido_id": "2000015792091690",
+      "comprador": "PAULOMACHADODECAMPOS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "ABQ74883808",
       "produto": "Placa Display Receptora Ar LG S4uq09wa5 S4nq09wa51a",
