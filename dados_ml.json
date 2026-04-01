@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-04-01T13:42:14.359Z",
+  "atualizado_em": "2026-04-01T13:44:14.402Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 126,
+  "total_pedidos": 131,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITLG0002",
+      "produto": "4901er2003a Kit 3 Amortecedores Do Cesto Lava E Seca (100n)",
+      "quantidade": 1,
+      "valor": 65.54,
+      "foto": "https://http2.mlstatic.com/D_746098-MLA100070960459_122025-O.jpg",
+      "item_id": "MLB5339898608",
+      "shipping_id": "46766974818",
+      "envio": "Full",
+      "data": "2026-04-01T09:43:32.000-04:00",
+      "pedido_id": "2000015792412928",
+      "comprador": "JEFE1510JEFE1510",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB93-11009A",
+      "produto": "Placa Receptora Ar Condicionado Samsung Original 9000 12000 220v",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "https://http2.mlstatic.com/D_900626-MLB74485652619_022024-O.jpg",
+      "item_id": "MLB1859903136",
+      "shipping_id": "46766692385",
+      "envio": "Full",
+      "data": "2026-04-01T09:42:32.000-04:00",
+      "pedido_id": "2000015792389146",
+      "comprador": "FAME20240328080808",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
+      "quantidade": 1,
+      "valor": 144.9,
+      "foto": "https://http2.mlstatic.com/D_600152-MLA99506069672_112025-O.jpg",
+      "item_id": "MLB5433795260",
+      "shipping_id": "46766690383",
+      "envio": "Full",
+      "data": "2026-04-01T09:42:16.000-04:00",
+      "pedido_id": "2000015792388984",
+      "comprador": "YY20240923152126",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485/wd1403",
+      "quantidade": 2,
+      "valor": 78.9,
+      "foto": "https://http2.mlstatic.com/D_798213-MLB79858570052_102024-O.jpg",
+      "item_id": "MLB5130572212",
+      "shipping_id": "46766690633",
+      "envio": "Full",
+      "data": "2026-04-01T09:42:10.000-04:00",
+      "pedido_id": "2000015792399134",
+      "comprador": "RADE4459439",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DA47-00301F",
       "produto": "Fusivel Termico Geladeira Samsung Rt35fdajdsl Rt38fdajdsl",
@@ -1402,6 +1458,20 @@
       "data": "2026-04-01T06:22:00.000-04:00",
       "pedido_id": "2000015790421264",
       "comprador": "JOSEOLIMPIOSANTOSDEOLIVEIRA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITLG0004",
+      "produto": "Kit 4 Bases Antiderrapantes P Pé Lava E Seca LG 4620er4002b",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_742198-MLB105572316135_012026-O.jpg",
+      "item_id": "MLB2016405127",
+      "shipping_id": "46765683785",
+      "envio": "Coleta",
+      "data": "2026-04-01T06:18:56.000-04:00",
+      "pedido_id": "2000015790405790",
+      "comprador": "SANDRACARINAREISRAMOS",
       "pagamento": "credit_card"
     },
     {
