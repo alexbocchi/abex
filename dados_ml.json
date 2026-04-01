@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T12:42:13.403Z",
+  "atualizado_em": "2026-04-01T12:44:13.709Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 84,
+  "total_pedidos": 86,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "FIAPOS01",
+      "produto": "Kit 6 Sacos Anti Fiapos Lavanderia Axbx Roupas Delicadas Zíper Poliéster Branco",
+      "quantidade": 1,
+      "valor": 27.48,
+      "foto": "https://http2.mlstatic.com/D_641348-MLA100080526237_122025-O.jpg",
+      "item_id": "MLB3930862125",
+      "shipping_id": "46766311575",
+      "envio": "Full",
+      "data": "2026-04-01T08:43:10.000-04:00",
+      "pedido_id": "2000015791635984",
+      "comprador": "MARINAMARIAOFC",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "GH39-02002B",
+      "produto": "Cabo Usb Tipo C Samsung Dados Carregamento Rápido Preto",
+      "quantidade": 1,
+      "valor": 40,
+      "foto": "https://http2.mlstatic.com/D_607157-MLA100086215765_122025-O.jpg",
+      "item_id": "MLB5536598730",
+      "shipping_id": "46766584570",
+      "envio": "Coleta",
+      "data": "2026-04-01T08:42:42.000-04:00",
+      "pedido_id": "2000015791625000",
+      "comprador": "LUCIANANAVESBAHIA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "784795",
       "produto": "Jarra Cafeteira Philco Ph30 Plus 30 Cafés Tampa Preta",
