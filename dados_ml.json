@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-04-01T13:32:14.036Z",
+  "atualizado_em": "2026-04-01T13:34:15.213Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 109,
+  "total_pedidos": 115,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "383EER2001A",
+      "produto": "Tampa Filtro Fiapos Compatível Lava E Seca LG 383-eer2001a Preto",
+      "quantidade": 1,
+      "valor": 35.15,
+      "foto": "https://http2.mlstatic.com/D_919359-MLB81698222401_122024-O.jpg",
+      "item_id": "MLB3941967505",
+      "shipping_id": "46766903532",
+      "envio": "Flex",
+      "data": "2026-04-01T09:32:59.000-04:00",
+      "pedido_id": "2000015792259248",
+      "comprador": "GN20250707114526",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 37.39,
+      "foto": "https://http2.mlstatic.com/D_939763-MLB47174909814_082021-O.jpg",
+      "item_id": "MLB1775787624",
+      "shipping_id": "46766630013",
+      "envio": "Full",
+      "data": "2026-04-01T09:32:41.000-04:00",
+      "pedido_id": "2000015792266622",
+      "comprador": "XFLAVORS_LOJA",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "AKB75215403",
+      "produto": "Controle Remoto Ar Condicionado LG Original Smart Inverter",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_727098-MLB105004612016_012026-O.jpg",
+      "item_id": "MLB1868780838",
+      "shipping_id": "46766900076",
+      "envio": "Coleta",
+      "data": "2026-04-01T09:32:25.000-04:00",
+      "pedido_id": "2000015792270768",
+      "comprador": "ADRIANOGIRARDI",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1077",
+      "produto": "Kit Pés Reguláveis Lavadora Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 49.9,
+      "foto": "https://http2.mlstatic.com/D_723085-MLB69909692250_062023-O.jpg",
+      "item_id": "MLB1727196972",
+      "shipping_id": "46766624647",
+      "envio": "Full",
+      "data": "2026-04-01T09:32:16.000-04:00",
+      "pedido_id": "2000015792240006",
+      "comprador": "JHOOOWXD",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1118",
       "produto": "Puxador Porta + Mola Lava Seca Samsung Wd856uhsawq Original",
@@ -59,6 +115,20 @@
       "pedido_id": "2000015792189514",
       "comprador": "CAMIPENA",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lavadora Samsung Wf106u4sawqfa",
+      "quantidade": 1,
+      "valor": 34.65,
+      "foto": "https://http2.mlstatic.com/D_992984-MLB54356582085_032023-O.jpg",
+      "item_id": "MLB1772048046",
+      "shipping_id": "46766910900",
+      "envio": "Full",
+      "data": "2026-04-01T09:26:55.000-04:00",
+      "pedido_id": "2000015792175576",
+      "comprador": "JOSUEFRANCISCODASILVAFRANCI",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KITSM1097",
@@ -563,6 +633,20 @@
       "pedido_id": "2000015791224092",
       "comprador": "PATRICIABUBLITZBUBLITZ",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "756750",
+      "produto": "Cabo Alça Puxador Fritadeira Airfyer Philco Saúde 3,2l Preto",
+      "quantidade": 1,
+      "valor": 50.7,
+      "foto": "https://http2.mlstatic.com/D_694014-MLB104420165278_012026-O.jpg",
+      "item_id": "MLB3939612031",
+      "shipping_id": "46766910016",
+      "envio": "Coleta",
+      "data": "2026-04-01T08:02:45.000-04:00",
+      "pedido_id": "2000015791173028",
+      "comprador": "FEEL9215892",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "797360",
