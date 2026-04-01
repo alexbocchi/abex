@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T13:38:14.268Z",
+  "atualizado_em": "2026-04-01T13:40:14.441Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 120,
+  "total_pedidos": 123,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU64082902",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
+      "quantidade": 1,
+      "valor": 59.36,
+      "foto": "https://http2.mlstatic.com/D_938151-MLA100006940231_122025-O.jpg",
+      "item_id": "MLB5303104460",
+      "shipping_id": "46766674795",
+      "envio": "Full",
+      "data": "2026-04-01T09:39:19.000-04:00",
+      "pedido_id": "2000015792341612",
+      "comprador": "KARINEKLAUS",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "EAU62004010",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_949261-MLA99448513640_112025-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46766944224",
+      "envio": "Full",
+      "data": "2026-04-01T09:38:52.000-04:00",
+      "pedido_id": "2000015792333512",
+      "comprador": "ENTRENOCLIMA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KIT1SM1118",
       "produto": "Kit Puxador Mola Trinco E Pino Porta Lava E Seca Samsung",
@@ -17,6 +45,20 @@
       "pedido_id": "2000015792354088",
       "comprador": "HOBINHA",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "765136",
+      "produto": "Copo Preto Aspirador De Pó Philco Rapid Ph1100 Original",
+      "quantidade": 1,
+      "valor": 61.75,
+      "foto": "https://http2.mlstatic.com/D_793417-MLB101556586621_122025-O.jpg",
+      "item_id": "MLB3110120528",
+      "shipping_id": "46766659829",
+      "envio": "Flex",
+      "data": "2026-04-01T09:37:33.000-04:00",
+      "pedido_id": "2000015792340288",
+      "comprador": "HBELCULFINE",
+      "pagamento": "credit_card"
     },
     {
       "sku": "KITLG0002",
