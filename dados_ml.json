@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T15:20:15.240Z",
+  "atualizado_em": "2026-04-01T15:22:15.808Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 182,
+  "total_pedidos": 184,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITEIXOCOMPLETOZZ",
+      "produto": "Kit Eixo Tripé Cruzeta Samsung Dc97-14370c Wd103 Wd106 Wd10 Wd11",
+      "quantidade": 2,
+      "valor": 245,
+      "foto": "https://http2.mlstatic.com/D_716251-MLA107310447282_032026-O.jpg",
+      "item_id": "MLB5732760556",
+      "shipping_id": "46767368549",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:20:56.000-04:00",
+      "pedido_id": "2000015793820272",
+      "comprador": "CRTH3290647",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.5,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46767640886",
+      "envio": "Full",
+      "data": "2026-04-01T11:20:31.000-04:00",
+      "pedido_id": "2000015793807182",
+      "comprador": "ASSOCIACAOCRISTABXG",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC62-00223A",
       "produto": "Retentor Do Tanque Lava E Seca Samsung Wd136 Wd9102 Original",
