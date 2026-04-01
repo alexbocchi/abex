@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:38:15.360Z",
+  "atualizado_em": "2026-04-01T14:40:15.726Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 161,
+  "total_pedidos": 162,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC67-00230E",
+      "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
+      "quantidade": 1,
+      "valor": 30,
+      "foto": "https://http2.mlstatic.com/D_811317-MLB70622251378_072023-O.jpg",
+      "item_id": "MLB3320638231",
+      "shipping_id": "46767077589",
+      "envio": "Flex",
+      "data": "2026-04-01T10:38:26.000-04:00",
+      "pedido_id": "2000015793204138",
+      "comprador": "JAIRPEROSSO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "25906085",
       "produto": "Motor Ventilador Condensadora Split 220v Springer 12000 Btus",
