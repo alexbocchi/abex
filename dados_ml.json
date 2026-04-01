@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T12:56:14.110Z",
+  "atualizado_em": "2026-04-01T12:58:13.793Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 92,
+  "total_pedidos": 94,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-11009A",
+      "produto": "Placa Display Ar Condicionado Samsung Original Convencional 220v",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "https://http2.mlstatic.com/D_727410-MLB89222742362_082025-O.jpg",
+      "item_id": "MLB1859898169",
+      "shipping_id": "46766673864",
+      "envio": "Full",
+      "data": "2026-04-01T08:56:29.000-04:00",
+      "pedido_id": "2000015791796756",
+      "comprador": "LIKA4239435",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_679004-MLB74664482446_022024-O.jpg",
+      "item_id": "MLB1470191674",
+      "shipping_id": "46766392713",
+      "envio": "Full",
+      "data": "2026-04-01T08:56:17.000-04:00",
+      "pedido_id": "2000015791781072",
+      "comprador": "WILIAMMARCELOBORGES",
+      "pagamento": "account_money"
+    },
     {
       "sku": "6501KW2001B",
       "produto": "Sensor Hall Lava E Seca Lavadora LG Wd1412rt Fr1226wc5 Novo",
