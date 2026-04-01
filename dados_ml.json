@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T15:34:15.608Z",
+  "atualizado_em": "2026-04-01T15:36:15.696Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 194,
+  "total_pedidos": 196,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITLG0007",
+      "produto": "Kit Eixo Tripé + Retentor Lava Seca LG 4434er1008a Original",
+      "quantidade": 1,
+      "valor": 215.99,
+      "foto": "https://http2.mlstatic.com/D_983335-MLB108026898728_032026-O.jpg",
+      "item_id": "MLB2020990418",
+      "shipping_id": "46767736960",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:34:18.000-04:00",
+      "pedido_id": "2000015793989234",
+      "comprador": "DIGO143",
+      "pagamento": "digital_currency"
+    },
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd10m44530w Wd90m Wd85m Wd11m Dc64-03235",
+      "quantidade": 1,
+      "valor": 125,
+      "foto": "https://http2.mlstatic.com/D_775283-MLA99958343939_112025-O.jpg",
+      "item_id": "MLB3948817535",
+      "shipping_id": "46767740192",
+      "envio": "Full",
+      "data": "2026-04-01T11:33:29.000-04:00",
+      "pedido_id": "2000015793996604",
+      "comprador": "SIAN7424317",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "784795",
       "produto": "Jarra Cafeteira Philco Ph30 Plus 30 Cafés Tampa Preta",
