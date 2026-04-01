@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T16:20:16.573Z",
+  "atualizado_em": "2026-04-01T16:22:16.120Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 222,
+  "total_pedidos": 224,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-10289C",
+      "produto": "Mangueira Entrada Água Lava Seca LG Samsung Super Resistente Unidade 120cm",
+      "quantidade": 2,
+      "valor": 29.99,
+      "foto": "https://http2.mlstatic.com/D_875101-MLA99630125872_122025-O.jpg",
+      "item_id": "MLB5840773712",
+      "shipping_id": "46768062624",
+      "envio": "Full",
+      "data": "2026-04-01T12:21:53.000-04:00",
+      "pedido_id": "2000015794699756",
+      "comprador": "4420241116121023",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lavadora Lava E Seca Samsung Original Nf",
@@ -44,6 +58,20 @@
       "data": "2026-04-01T12:16:26.000-04:00",
       "pedido_id": "2000015794597996",
       "comprador": "JC20241207124536",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "765161",
+      "produto": "Jarra Plástica Processador Mixer 3 Em 1 Philco Pmx600 Preto 127/220v",
+      "quantidade": 1,
+      "valor": 119,
+      "foto": "https://http2.mlstatic.com/D_615704-MLB108160440584_032026-O.jpg",
+      "item_id": "MLB4539278945",
+      "shipping_id": "46767744953",
+      "envio": "Flex",
+      "data": "2026-04-01T12:15:36.000-04:00",
+      "pedido_id": "2000015794581920",
+      "comprador": "ALEXSANDRACARLADECAMPOSDO",
       "pagamento": "bank_transfer"
     },
     {
