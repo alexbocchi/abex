@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T14:40:15.726Z",
+  "atualizado_em": "2026-04-01T14:42:15.406Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 162,
+  "total_pedidos": 164,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "021392",
+      "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
+      "quantidade": 1,
+      "valor": 32.9,
+      "foto": "https://http2.mlstatic.com/D_735262-MLB103819689684_012026-O.jpg",
+      "item_id": "MLB6154718234",
+      "shipping_id": "46767369906",
+      "envio": "Coleta",
+      "data": "2026-04-01T10:39:52.000-04:00",
+      "pedido_id": "2000015793199750",
+      "comprador": "JANSENGISELLE",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "KITSM0002",
+      "produto": "Placa Display Receptora Ar Condicionado Samsung Inverter 127/220v",
+      "quantidade": 1,
+      "valor": 141.41,
+      "foto": "https://http2.mlstatic.com/D_632838-MLB106249890717_012026-O.jpg",
+      "item_id": "MLB3911591885",
+      "shipping_id": "46767090563",
+      "envio": "Full",
+      "data": "2026-04-01T10:39:42.000-04:00",
+      "pedido_id": "2000015793199608",
+      "comprador": "SOUZACAMPOSWELLINGTON",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC67-00230E",
       "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
