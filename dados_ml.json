@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T12:58:13.793Z",
+  "atualizado_em": "2026-04-01T13:00:14.683Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 94,
+  "total_pedidos": 96,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus 220v 65w Ar Condicionado Barril Split 25906088 Ydk65-6d 38kcb 38kcx 38kqi0 38kqx 38kpca",
+      "quantidade": 1,
+      "valor": 210,
+      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
+      "item_id": "MLB6107728210",
+      "shipping_id": "46766416305",
+      "envio": "Full",
+      "data": "2026-04-01T09:00:03.000-04:00",
+      "pedido_id": "2000015791831436",
+      "comprador": "SEUMITE2016",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM0003",
+      "produto": "Kit Termostato + Termistor Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_756388-MLB50275040834_062022-O.jpg",
+      "item_id": "MLB1492717359",
+      "shipping_id": "46766407479",
+      "envio": "Full",
+      "data": "2026-04-01T08:58:42.000-04:00",
+      "pedido_id": "2000015791809440",
+      "comprador": "LBETANCOR",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DB93-11009A",
       "produto": "Placa Display Ar Condicionado Samsung Original Convencional 220v",
