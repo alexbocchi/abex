@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T15:12:15.433Z",
+  "atualizado_em": "2026-04-01T15:14:15.489Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 178,
+  "total_pedidos": 180,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBR71522401",
+      "produto": "Botão Liga Desliga Ar Condicionado LG Dual Inverter Original",
+      "quantidade": 1,
+      "valor": 40,
+      "foto": "https://http2.mlstatic.com/D_942683-MLB80025090199_102024-O.jpg",
+      "item_id": "MLB5122899102",
+      "shipping_id": "46767598168",
+      "envio": "Full",
+      "data": "2026-04-01T11:13:07.000-04:00",
+      "pedido_id": "2000015793698646",
+      "comprador": "WES_DIKS2007",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 64.62,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46767593156",
+      "envio": "Full",
+      "data": "2026-04-01T11:13:06.000-04:00",
+      "pedido_id": "2000015793698630",
+      "comprador": "MECON NETO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DB96-24901C",
       "produto": "Controle Remoto Ar Condicionado Samsung Wind Free Original Branco",
