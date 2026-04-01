@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:16:14.991Z",
+  "atualizado_em": "2026-04-01T14:18:15.023Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 146,
+  "total_pedidos": 147,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "BN59-01330D",
+      "produto": "Controle Remoto Samsung Smartv Tu8000 Bn59-01330d Un55tu8000",
+      "quantidade": 1,
+      "valor": 93.6,
+      "foto": "https://http2.mlstatic.com/D_700389-MLB106535266602_022026-O.jpg",
+      "item_id": "MLB5537997206",
+      "shipping_id": "46766923887",
+      "envio": "Coleta",
+      "data": "2026-04-01T10:16:13.000-04:00",
+      "pedido_id": "2000015792859412",
+      "comprador": "JEFAOMGA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "AWW024CA4X20",
       "produto": "Placa Aww024ca4x20 Panasonic Na-f140b6 110v Original 127v",
