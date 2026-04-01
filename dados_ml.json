@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T16:24:16.391Z",
+  "atualizado_em": "2026-04-01T16:26:16.406Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 225,
+  "total_pedidos": 226,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "727908",
+      "produto": "Jarra Cafeteira Caf Bcf32a Britania Preto",
+      "quantidade": 1,
+      "valor": 51.3,
+      "foto": "https://http2.mlstatic.com/D_941685-MLA100086184219_122025-O.jpg",
+      "item_id": "MLB6444636096",
+      "shipping_id": "46767801671",
+      "envio": "Coleta",
+      "data": "2026-04-01T12:23:51.000-04:00",
+      "pedido_id": "2000015794713116",
+      "comprador": "ANAPAULACALISTADESOUZA",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "CEL01",
       "produto": "Carregador Turbo Samsung 25w Preto Usb-c Celulares S21 S22 Rápido",
