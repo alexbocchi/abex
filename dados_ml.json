@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-01T13:18:14.012Z",
+  "atualizado_em": "2026-04-01T13:20:14.447Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 100,
+  "total_pedidos": 103,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ABQ74883808",
+      "produto": "Placa Display Receptora Ar LG S4uq09wa5 S4nq09wa51a",
+      "quantidade": 1,
+      "valor": 199,
+      "foto": "https://http2.mlstatic.com/D_998864-MLA105886497944_022026-O.jpg",
+      "item_id": "MLB6102100444",
+      "shipping_id": "46766807838",
+      "envio": "Full",
+      "data": "2026-04-01T09:18:44.000-04:00",
+      "pedido_id": "2000015792080488",
+      "comprador": "MAISLAFERREIRA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd10m44530w Wd90m Wd85m Wd11m Dc64-03235",
+      "quantidade": 1,
+      "valor": 125,
+      "foto": "https://http2.mlstatic.com/D_775283-MLA99958343939_112025-O.jpg",
+      "item_id": "MLB3948817535",
+      "shipping_id": "46766806150",
+      "envio": "Full",
+      "data": "2026-04-01T09:18:31.000-04:00",
+      "pedido_id": "2000015792082898",
+      "comprador": "VIVIANEJATOBDEOLIVEIRAFRAN",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "740985",
+      "produto": "Bocal Para Piso Aspirador Ciclone Force 1250w Philco",
+      "quantidade": 1,
+      "valor": 65.52,
+      "foto": "https://http2.mlstatic.com/D_953964-MLA95833478659_102025-O.jpg",
+      "item_id": "MLB5835134004",
+      "shipping_id": "46766809302",
+      "envio": "Full",
+      "data": "2026-04-01T09:17:45.000-04:00",
+      "pedido_id": "2000015792072414",
+      "comprador": "ML20251021103213",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EBX64329206",
       "produto": "Controle Remoto Magic Tv LG 43/49/50/55/60/65/77/75 Polegada",
