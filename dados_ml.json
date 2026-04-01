@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:04:15.591Z",
+  "atualizado_em": "2026-04-01T15:06:15.415Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 174,
+  "total_pedidos": 175,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saída Lava E Seca Samsung Original Wd106uhsawq",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_612331-MLB107341507277_022026-O.jpg",
+      "item_id": "MLB1773086960",
+      "shipping_id": "46767528820",
+      "envio": "Full",
+      "data": "2026-04-01T11:03:44.000-04:00",
+      "pedido_id": "2000015793547420",
+      "comprador": "DFPEREIRA2006",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM0009",
       "produto": "Kit Amortecedores Lava Seca Samsung Wd136 Completo Original",
