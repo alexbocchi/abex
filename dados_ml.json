@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:12:14.914Z",
+  "atualizado_em": "2026-04-01T14:14:15.136Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 145,
+  "total_pedidos": 146,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AWW024CA4X20",
+      "produto": "Placa Aww024ca4x20 Panasonic Na-f140b6 110v Original 127v",
+      "quantidade": 1,
+      "valor": 400,
+      "foto": "https://http2.mlstatic.com/D_850344-MLB86080004665_062025-O.jpg",
+      "item_id": "MLB5433516756",
+      "shipping_id": "46766892625",
+      "envio": "Coleta",
+      "data": "2026-04-01T10:11:53.000-04:00",
+      "pedido_id": "2000015792820092",
+      "comprador": "MARLIDEJESUSROCHALOPESSILV",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1077",
       "produto": "Kit Pés Regulaveis Lavadora Lava E Seca Samsung Original Nf",
