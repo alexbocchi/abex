@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T15:28:15.912Z",
+  "atualizado_em": "2026-04-01T15:30:15.638Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 189,
+  "total_pedidos": 192,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB31-00636C",
+      "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
+      "quantidade": 1,
+      "valor": 258,
+      "foto": "https://http2.mlstatic.com/D_750454-MLA99949090031_112025-O.jpg",
+      "item_id": "MLB4145061133",
+      "shipping_id": "46767432421",
+      "envio": "Full",
+      "data": "2026-04-01T11:29:53.000-04:00",
+      "pedido_id": "2000015793948110",
+      "comprador": "SILVAGILSON20231129080253",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB31-00680A",
+      "produto": "Motor Ventilador Evaporadora Samsung Inverter 9000-12000 Btus Db31-00680a Aq12uwbunxaz Ar12hsspasn As09uwbvxaz Asv12psbtxaz 127/220v",
+      "quantidade": 1,
+      "valor": 258,
+      "foto": "https://http2.mlstatic.com/D_809832-MLA99468751098_112025-O.jpg",
+      "item_id": "MLB5751110930",
+      "shipping_id": "46767704010",
+      "envio": "Full",
+      "data": "2026-04-01T11:29:17.000-04:00",
+      "pedido_id": "2000015793925176",
+      "comprador": "RR20260401082945",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "783143",
       "produto": "Lâmina Faca Para Mini Processador Britânia 2p Original",
@@ -17,6 +45,20 @@
       "pedido_id": "2000015793913028",
       "comprador": "CALU3455908",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "DC62-00214N",
+      "produto": "Válvula 4 Vias 220v Lava E Seca Samsung Wd10 Wd90 Wd11 220v",
+      "quantidade": 1,
+      "valor": 179.9,
+      "foto": "https://http2.mlstatic.com/D_939177-MLB89455320148_082025-O.jpg",
+      "item_id": "MLB3916395379",
+      "shipping_id": "46767423185",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:27:13.000-04:00",
+      "pedido_id": "2000015793881886",
+      "comprador": "JOSEFRANCISCODASILVAJHF",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "EAU62004010",
