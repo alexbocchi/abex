@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T16:22:16.120Z",
+  "atualizado_em": "2026-04-01T16:24:16.391Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 224,
+  "total_pedidos": 225,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "CEL01",
+      "produto": "Carregador Turbo Samsung 25w Preto Usb-c Celulares S21 S22 Rápido",
+      "quantidade": 1,
+      "valor": 169,
+      "foto": "https://http2.mlstatic.com/D_675849-MLA99983814781_112025-O.jpg",
+      "item_id": "MLB3993664651",
+      "shipping_id": "46768077886",
+      "envio": "Flex",
+      "data": "2026-04-01T12:23:03.000-04:00",
+      "pedido_id": "2000015794718746",
+      "comprador": "A81294949",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC62-10289C",
       "produto": "Mangueira Entrada Água Lava Seca LG Samsung Super Resistente Unidade 120cm",
