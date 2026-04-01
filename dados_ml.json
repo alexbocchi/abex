@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T14:42:15.406Z",
+  "atualizado_em": "2026-04-01T14:44:15.178Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 164,
+  "total_pedidos": 166,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
+      "quantidade": 1,
+      "valor": 235,
+      "foto": "https://http2.mlstatic.com/D_723411-MLB89537660399_082025-O.jpg",
+      "item_id": "MLB3661822075",
+      "shipping_id": "46767112269",
+      "envio": "Full",
+      "data": "2026-04-01T10:42:45.000-04:00",
+      "pedido_id": "2000015793250840",
+      "comprador": "ELIZIARIOLUCAS20211115231628",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "PS-3880-608",
+      "produto": "Sensor Magnético Tampa Lavadora Panasonic Original 14kg 16kg",
+      "quantidade": 1,
+      "valor": 50,
+      "foto": "https://http2.mlstatic.com/D_701492-MLB80474076588_112024-O.jpg",
+      "item_id": "MLB2905059925",
+      "shipping_id": "46767372784",
+      "envio": "Coleta",
+      "data": "2026-04-01T10:41:26.000-04:00",
+      "pedido_id": "2000015793209800",
+      "comprador": "MACR1446239",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "021392",
       "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
