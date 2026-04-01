@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T13:28:13.841Z",
+  "atualizado_em": "2026-04-01T13:30:14.589Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 105,
+  "total_pedidos": 107,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383504",
+      "produto": "Eletrobomba Lava Seca LG 220v Original Eau62263304 220v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_823760-MLB106481102007_022026-O.jpg",
+      "item_id": "MLB3692715870",
+      "shipping_id": "46766606037",
+      "envio": "Full",
+      "data": "2026-04-01T09:29:30.000-04:00",
+      "pedido_id": "2000015792228302",
+      "comprador": "MAYERJEFERSON81",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46766598749",
+      "envio": "Full",
+      "data": "2026-04-01T09:28:38.000-04:00",
+      "pedido_id": "2000015792189514",
+      "comprador": "CAMIPENA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
