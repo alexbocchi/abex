@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:26:15.589Z",
+  "atualizado_em": "2026-04-01T15:28:15.912Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 188,
+  "total_pedidos": 189,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "783143",
+      "produto": "Lâmina Faca Para Mini Processador Britânia 2p Original",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_661299-MLB104793310970_012026-O.jpg",
+      "item_id": "MLB5253187210",
+      "shipping_id": "46767691724",
+      "envio": "Flex",
+      "data": "2026-04-01T11:27:40.000-04:00",
+      "pedido_id": "2000015793913028",
+      "comprador": "CALU3455908",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAU62004010",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
