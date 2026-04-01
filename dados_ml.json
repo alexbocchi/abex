@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T16:16:16.095Z",
+  "atualizado_em": "2026-04-01T16:18:16.258Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 219,
+  "total_pedidos": 221,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_848443-MLB104986321255_012026-O.jpg",
+      "item_id": "MLB5171553694",
+      "shipping_id": "46767761419",
+      "envio": "Full",
+      "data": "2026-04-01T12:17:00.000-04:00",
+      "pedido_id": "2000015794609956",
+      "comprador": "HIPÓLITOJOSÉ20230422130719",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DB93-15882Q",
+      "produto": "Controle Ar Condicionado Split Samsung Virus Doctor Inverter Branco",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_903361-MLB89166263134_082025-O.jpg",
+      "item_id": "MLB1613573954",
+      "shipping_id": "46767759291",
+      "envio": "Full",
+      "data": "2026-04-01T12:16:26.000-04:00",
+      "pedido_id": "2000015794597996",
+      "comprador": "JC20241207124536",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
