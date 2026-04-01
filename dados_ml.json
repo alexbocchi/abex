@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-01T13:40:14.441Z",
+  "atualizado_em": "2026-04-01T13:42:14.359Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 123,
+  "total_pedidos": 126,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DA47-00301F",
+      "produto": "Fusivel Termico Geladeira Samsung Rt35fdajdsl Rt38fdajdsl",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_727811-MLB74799369723_022024-O.jpg",
+      "item_id": "MLB3131229648",
+      "shipping_id": "46766689595",
+      "envio": "Flex",
+      "data": "2026-04-01T09:42:04.000-04:00",
+      "pedido_id": "2000015792377766",
+      "comprador": "SANTOSSILVADAN",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "BN98-06046A",
+      "produto": "Controle Remoto Botão Smart Tv Samsung Bn98-06046a Preto",
+      "quantidade": 2,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_877322-MLA99584403842_122025-O.jpg",
+      "item_id": "MLB6229213482",
+      "shipping_id": "46766685607",
+      "envio": "Flex",
+      "data": "2026-04-01T09:41:24.000-04:00",
+      "pedido_id": "2000015792396266",
+      "comprador": "JI20250110152400",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.5,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46766954230",
+      "envio": "Full",
+      "data": "2026-04-01T09:40:24.000-04:00",
+      "pedido_id": "2000015792349702",
+      "comprador": "GAMECENTERSHOP",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAU64082902",
       "produto": "Bomba De Drenagem Da Máquina De Lavar LG",
@@ -31,6 +73,20 @@
       "pedido_id": "2000015792333512",
       "comprador": "ENTRENOCLIMA",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB31-00371A",
+      "produto": "Motor Swing Aleta Ar Condicionado Samsung Aqv09 Aqv12 Origin",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "https://http2.mlstatic.com/D_666873-MLB70821628531_082023-O.jpg",
+      "item_id": "MLB1991061000",
+      "shipping_id": "46766954168",
+      "envio": "Coleta",
+      "data": "2026-04-01T09:38:48.000-04:00",
+      "pedido_id": "2000015792341236",
+      "comprador": "OLIVEIRAGELCYMAR20230303123837",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "KIT1SM1118",
@@ -1346,20 +1402,6 @@
       "data": "2026-04-01T06:22:00.000-04:00",
       "pedido_id": "2000015790421264",
       "comprador": "JOSEOLIMPIOSANTOSDEOLIVEIRA",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "KITLG0004",
-      "produto": "Kit 4 Bases Antiderrapantes P Pé Lava E Seca LG 4620er4002b",
-      "quantidade": 1,
-      "valor": 150,
-      "foto": "https://http2.mlstatic.com/D_742198-MLB105572316135_012026-O.jpg",
-      "item_id": "MLB2016405127",
-      "shipping_id": "46765683785",
-      "envio": "Coleta",
-      "data": "2026-04-01T06:18:56.000-04:00",
-      "pedido_id": "2000015790405790",
-      "comprador": "SANDRACARINAREISRAMOS",
       "pagamento": "credit_card"
     },
     {
