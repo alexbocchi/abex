@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:36:15.696Z",
+  "atualizado_em": "2026-04-01T15:38:15.814Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 196,
+  "total_pedidos": 197,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "784795",
+      "produto": "Jarra Cafeteira Philco Ph30 Plus 30 Cafés Tampa Preta",
+      "quantidade": 1,
+      "valor": 55.1,
+      "foto": "https://http2.mlstatic.com/D_881695-MLA107369478265_022026-O.jpg",
+      "item_id": "MLB4516053069",
+      "shipping_id": "46767751882",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:36:23.000-04:00",
+      "pedido_id": "2000015794042472",
+      "comprador": "GERMANADOGNANI",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITLG0007",
       "produto": "Kit Eixo Tripé + Retentor Lava Seca LG 4434er1008a Original",
