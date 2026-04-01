@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:48:15.878Z",
+  "atualizado_em": "2026-04-01T15:50:15.805Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 203,
+  "total_pedidos": 205,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus 220v 65w Ar Condicionado Barril Split 25906088 Ydk65-6d 38kcb 38kcx 38kqi0 38kqx 38kpca",
+      "quantidade": 1,
+      "valor": 210,
+      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
+      "item_id": "MLB6107728210",
+      "shipping_id": "46767561111",
+      "envio": "Full",
+      "data": "2026-04-01T11:48:29.000-04:00",
+      "pedido_id": "2000015794201356",
+      "comprador": "MELU1894082",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC67-00230E",
       "produto": "Mangueira Pressostato LG 5214en4001n Borracha 63cm Diâmetro 4mm",
@@ -17,6 +31,20 @@
       "pedido_id": "2000015794199244",
       "comprador": "CASSIAAPARECIDAPINTO",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "021392",
+      "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
+      "quantidade": 1,
+      "valor": 32.9,
+      "foto": "https://http2.mlstatic.com/D_735262-MLB103819689684_012026-O.jpg",
+      "item_id": "MLB6154718234",
+      "shipping_id": "46767835002",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:45:27.000-04:00",
+      "pedido_id": "2000015794164866",
+      "comprador": "AMANDATISSI",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "5220FR2008N",
