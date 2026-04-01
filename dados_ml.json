@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-04-01T16:36:16.409Z",
+  "atualizado_em": "2026-04-01T16:38:16.266Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 232,
   "produtos": [],
@@ -61,20 +61,6 @@
       "pagamento": "account_money"
     },
     {
-      "sku": "DC62-00233C",
-      "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
-      "quantidade": 1,
-      "valor": 144.9,
-      "foto": "https://http2.mlstatic.com/D_600152-MLA99506069672_112025-O.jpg",
-      "item_id": "MLB5433795260",
-      "shipping_id": "46767835227",
-      "envio": "Full",
-      "data": "2026-04-01T12:28:33.000-04:00",
-      "pedido_id": "2000015794801602",
-      "comprador": "CLAUDINEICLAUDINEI202304051021",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original Nf",
       "quantidade": 2,
@@ -85,6 +71,20 @@
       "envio": "Full",
       "data": "2026-04-01T12:28:33.000-04:00",
       "pedido_id": "2000015794806378",
+      "comprador": "CLAUDINEICLAUDINEI202304051021",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
+      "quantidade": 1,
+      "valor": 144.9,
+      "foto": "https://http2.mlstatic.com/D_600152-MLA99506069672_112025-O.jpg",
+      "item_id": "MLB5433795260",
+      "shipping_id": "46767835227",
+      "envio": "Full",
+      "data": "2026-04-01T12:28:33.000-04:00",
+      "pedido_id": "2000015794801602",
       "comprador": "CLAUDINEICLAUDINEI202304051021",
       "pagamento": "account_money"
     },
