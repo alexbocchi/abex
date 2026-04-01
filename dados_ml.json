@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-04-01T16:30:16.632Z",
+  "atualizado_em": "2026-04-01T16:32:16.327Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 231,
+  "total_pedidos": 230,
   "produtos": [],
   "pedidos": [
     {
@@ -1374,20 +1374,6 @@
       "data": "2026-04-01T09:43:40.000-04:00",
       "pedido_id": "2000015792407062",
       "comprador": "DENYSEGUIMARESDOAMARAL",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "KITLG0002",
-      "produto": "4901er2003a Kit 3 Amortecedores Do Cesto Lava E Seca (100n)",
-      "quantidade": 1,
-      "valor": 65.54,
-      "foto": "https://http2.mlstatic.com/D_746098-MLA100070960459_122025-O.jpg",
-      "item_id": "MLB5339898608",
-      "shipping_id": "46766974818",
-      "envio": "Full",
-      "data": "2026-04-01T09:43:32.000-04:00",
-      "pedido_id": "2000015792412928",
-      "comprador": "JEFE1510JEFE1510",
       "pagamento": "credit_card"
     },
     {
