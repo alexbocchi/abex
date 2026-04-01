@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T14:04:14.757Z",
+  "atualizado_em": "2026-04-01T14:06:14.976Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 141,
+  "total_pedidos": 143,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB31-00680A",
+      "produto": "Motor Ventilador Evaporadora Samsung Inverter 9000-12000 Btus Db31-00680a Aq12uwbunxaz Ar12hsspasn As09uwbvxaz Asv12psbtxaz 127/220v",
+      "quantidade": 1,
+      "valor": 258,
+      "foto": "https://http2.mlstatic.com/D_809832-MLA99468751098_112025-O.jpg",
+      "item_id": "MLB5751110930",
+      "shipping_id": "46766843829",
+      "envio": "Full",
+      "data": "2026-04-01T10:04:46.000-04:00",
+      "pedido_id": "2000015792697148",
+      "comprador": "OLAL7244052",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd10m44530w Wd90m Wd85m Wd11m Dc64-03235",
+      "quantidade": 1,
+      "valor": 125,
+      "foto": "https://http2.mlstatic.com/D_775283-MLA99958343939_112025-O.jpg",
+      "item_id": "MLB3948817535",
+      "shipping_id": "46767118568",
+      "envio": "Full",
+      "data": "2026-04-01T10:04:40.000-04:00",
+      "pedido_id": "2000015792718202",
+      "comprador": "JMATEUS ELETRO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1077",
       "produto": "Kit Pés Reguláveis Lavadora Lava E Seca Samsung Original Nf",
