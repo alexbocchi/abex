@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T16:14:16.169Z",
+  "atualizado_em": "2026-04-01T16:16:16.095Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 217,
+  "total_pedidos": 219,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
+      "quantidade": 1,
+      "valor": 35.5,
+      "foto": "https://http2.mlstatic.com/D_726995-MLA100049109765_122025-O.jpg",
+      "item_id": "MLB3791029185",
+      "shipping_id": "46768020104",
+      "envio": "Full",
+      "data": "2026-04-01T12:15:32.000-04:00",
+      "pedido_id": "2000015794620248",
+      "comprador": "ALEFONT19",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC67-00230E",
+      "produto": "Mangueira Pressostato Lava Seca Samsung Wd8854 Wd106 Wd85",
+      "quantidade": 1,
+      "valor": 30,
+      "foto": "https://http2.mlstatic.com/D_811317-MLB70622251378_072023-O.jpg",
+      "item_id": "MLB3320638231",
+      "shipping_id": "46768015582",
+      "envio": "Full",
+      "data": "2026-04-01T12:14:49.000-04:00",
+      "pedido_id": "2000015794608238",
+      "comprador": "PAMELABEATRIZVIEIRADEFREITA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EBF61315802",
       "produto": "Trava Porta 110v Lava E Seca LG Wd1252rw.abwfbrs 110v",
