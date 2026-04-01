@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-01T15:58:15.786Z",
+  "atualizado_em": "2026-04-01T16:00:16.066Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 210,
+  "total_pedidos": 213,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "BH-145521-BE",
+      "produto": "Forma Bandeja De Gelo Refrigerador Panasonic Original",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_914748-MLB105793667630_022026-O.jpg",
+      "item_id": "MLB3448790031",
+      "shipping_id": "46767906564",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:58:50.000-04:00",
+      "pedido_id": "2000015794367782",
+      "comprador": "MARLLON14",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "W2921-28806",
+      "produto": "Válvula Dupla Lavadora Panasonic 12kg A 17kg 220v",
+      "quantidade": 1,
+      "valor": 76.99,
+      "foto": "https://http2.mlstatic.com/D_864447-MLA106260092631_012026-O.jpg",
+      "item_id": "MLB4031141319",
+      "shipping_id": "46767631443",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:58:45.000-04:00",
+      "pedido_id": "2000015794353552",
+      "comprador": "BONFIMADIVALDO20230116140854",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "764308",
+      "produto": "Filtro Hepa Aspirador De Po Britania Dustoff Bas01v",
+      "quantidade": 1,
+      "valor": 29.64,
+      "foto": "https://http2.mlstatic.com/D_926849-MLA103147423423_122025-O.jpg",
+      "item_id": "MLB5304911580",
+      "shipping_id": "46767898494",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:57:38.000-04:00",
+      "pedido_id": "2000015794355332",
+      "comprador": "VLCRM",
+      "pagamento": "account_money"
+    },
     {
       "sku": "AKB76040003",
       "produto": "Controle Smart Magic Mr22gn Nfc Tv LG Nano Oled Qned Orig Nf",
