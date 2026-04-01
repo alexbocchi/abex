@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T13:10:14.031Z",
+  "atualizado_em": "2026-04-01T13:12:14.338Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 97,
+  "total_pedidos": 99,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBR71522401",
+      "produto": "Placa Botão Ligar Ar Condicionado LG Dual Inverter 220v",
+      "quantidade": 1,
+      "valor": 40,
+      "foto": "https://http2.mlstatic.com/D_904208-MLA100084590745_122025-O.jpg",
+      "item_id": "MLB4196682061",
+      "shipping_id": "46766486473",
+      "envio": "Flex",
+      "data": "2026-04-01T09:11:21.000-04:00",
+      "pedido_id": "2000015791961856",
+      "comprador": "FAFA2603917",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB93-10943B",
+      "produto": "Cabo Flat Ar Condicionado Placa Display Samsung Original",
+      "quantidade": 1,
+      "valor": 70,
+      "foto": "https://http2.mlstatic.com/D_703275-MLB88778850006_082025-O.jpg",
+      "item_id": "MLB5225838204",
+      "shipping_id": "46766758440",
+      "envio": "Coleta",
+      "data": "2026-04-01T09:10:49.000-04:00",
+      "pedido_id": "2000015791978966",
+      "comprador": "M20250404010905",
+      "pagamento": "account_money"
+    },
     {
       "sku": "761321",
       "produto": "Jarra Cafeteira Philco Pcf38 Pcf38d Platinum Original Preta",
