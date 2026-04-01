@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:20:15.061Z",
+  "atualizado_em": "2026-04-01T14:22:15.127Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 150,
+  "total_pedidos": 152,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "421945063691",
+      "produto": "Descalcificante Líquido 250ml Maquinas De Café Oster Philips",
+      "quantidade": 2,
+      "valor": 69.2,
+      "foto": "https://http2.mlstatic.com/D_958847-MLB101466928047_122025-O.jpg",
+      "item_id": "MLB4349586873",
+      "shipping_id": "46767232536",
+      "envio": "Full",
+      "data": "2026-04-01T10:21:15.000-04:00",
+      "pedido_id": "2000015792950882",
+      "comprador": "WELTONF738",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saída Lava E Seca Samsung Original Wd106uhsawq",
@@ -31,6 +45,20 @@
       "pedido_id": "2000015792918702",
       "comprador": "NUJE2721442",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "797263",
+      "produto": "Copo Original Para Liquidificador Philco Samurai",
+      "quantidade": 1,
+      "valor": 123.54,
+      "foto": "https://http2.mlstatic.com/D_700498-MLB107635194412_032026-O.jpg",
+      "item_id": "MLB4026157113",
+      "shipping_id": "46767236186",
+      "envio": "Coleta",
+      "data": "2026-04-01T10:18:04.000-04:00",
+      "pedido_id": "2000015792892954",
+      "comprador": "ALLU788370",
+      "pagamento": "credit_card"
     },
     {
       "sku": "765136",
