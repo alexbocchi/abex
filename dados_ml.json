@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T16:26:16.406Z",
+  "atualizado_em": "2026-04-01T16:28:16.290Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 226,
+  "total_pedidos": 227,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB93-10861D",
+      "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
+      "quantidade": 1,
+      "valor": 74.86,
+      "foto": "https://http2.mlstatic.com/D_699662-MLB108659154185_032026-O.jpg",
+      "item_id": "MLB1464885381",
+      "shipping_id": "46768098418",
+      "envio": "Flex",
+      "data": "2026-04-01T12:26:49.000-04:00",
+      "pedido_id": "2000015794748010",
+      "comprador": "WILLIAMMACEDOLUX2010",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "727908",
       "produto": "Jarra Cafeteira Caf Bcf32a Britania Preto",
@@ -779,7 +793,7 @@
       "produto": "Sensor Do Motor Para Lava E Seca Samsung Wd136uv Original",
       "quantidade": 1,
       "valor": 78,
-      "foto": "https://http2.mlstatic.com/D_972748-MLB70651230449_072023-O.jpg",
+      "foto": "https://http2.mlstatic.com/D_827689-MLB109090910750_042026-O.jpg",
       "item_id": "MLB1868992251",
       "shipping_id": "46767218133",
       "envio": "Coleta",
