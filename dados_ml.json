@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:08:15.588Z",
+  "atualizado_em": "2026-04-01T15:10:15.264Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 175,
+  "total_pedidos": 176,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_679004-MLB74664482446_022024-O.jpg",
+      "item_id": "MLB1470191674",
+      "shipping_id": "46767565434",
+      "envio": "Full",
+      "data": "2026-04-01T11:09:00.000-04:00",
+      "pedido_id": "2000015793627356",
+      "comprador": "BUBBLES_TECNOLOGIA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saída Lava E Seca Samsung Original Wd106uhsawq",
