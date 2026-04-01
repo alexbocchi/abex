@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-04-01T14:28:15.125Z",
+  "atualizado_em": "2026-04-01T14:30:15.088Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 156,
+  "total_pedidos": 157,
   "produtos": [],
   "pedidos": [
     {
@@ -17,6 +17,20 @@
       "pedido_id": "2000015793026890",
       "comprador": "SEOD8444834",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "6501KW2001B",
+      "produto": "Sensor Hall Lava E Seca Lavadora LG Wd1412rt Fr1226wc5 Novo",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_762277-MLB106748710716_022026-O.jpg",
+      "item_id": "MLB3948813121",
+      "shipping_id": "46767282502",
+      "envio": "Full",
+      "data": "2026-04-01T10:27:19.000-04:00",
+      "pedido_id": "2000015793015848",
+      "comprador": "SANDOVALPEGODEMIRANDA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "5220FR2008N",
