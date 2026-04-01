@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:38:15.814Z",
+  "atualizado_em": "2026-04-01T15:40:16.211Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 197,
+  "total_pedidos": 198,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAD64108410",
+      "produto": "Cabo De Força Tipo 8 Tv LG Smart 32/43/49/50/55/65 Polegadas 127/220v",
+      "quantidade": 1,
+      "valor": 35.2,
+      "foto": "https://http2.mlstatic.com/D_947568-MLB105333762521_012026-O.jpg",
+      "item_id": "MLB3490025733",
+      "shipping_id": "46767769092",
+      "envio": "Full",
+      "data": "2026-04-01T11:38:48.000-04:00",
+      "pedido_id": "2000015794064842",
+      "comprador": "FRRE5031672",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "784795",
       "produto": "Jarra Cafeteira Philco Ph30 Plus 30 Cafés Tampa Preta",
