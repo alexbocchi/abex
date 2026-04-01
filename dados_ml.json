@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T16:00:16.066Z",
+  "atualizado_em": "2026-04-01T16:02:15.755Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 213,
+  "total_pedidos": 214,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "759185",
+      "produto": "Lâmina Faca Liquidificador Multiprocessador All In One 2",
+      "quantidade": 1,
+      "valor": 20,
+      "foto": "https://http2.mlstatic.com/D_860852-MLB95576503121_102025-O.jpg",
+      "item_id": "MLB5823496146",
+      "shipping_id": "46767912710",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:59:48.000-04:00",
+      "pedido_id": "2000015794351864",
+      "comprador": "WCARVALHO5820",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "BH-145521-BE",
       "produto": "Forma Bandeja De Gelo Refrigerador Panasonic Original",
