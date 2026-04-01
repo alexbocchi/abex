@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:44:15.178Z",
+  "atualizado_em": "2026-04-01T14:46:15.225Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 166,
+  "total_pedidos": 167,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung Wd8854 Dc64-01538a 220v",
+      "quantidade": 1,
+      "valor": 42.15,
+      "foto": "https://http2.mlstatic.com/D_856220-MLA95221986266_102025-O.jpg",
+      "item_id": "MLB4130417677",
+      "shipping_id": "46767392556",
+      "envio": "Coleta",
+      "data": "2026-04-01T10:44:06.000-04:00",
+      "pedido_id": "2000015793265414",
+      "comprador": "DL20250708125320",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu Original 127/220v Eixo Curto",
