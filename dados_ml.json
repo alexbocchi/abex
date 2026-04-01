@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T13:36:14.162Z",
+  "atualizado_em": "2026-04-01T13:38:14.268Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 119,
+  "total_pedidos": 120,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KIT1SM1118",
+      "produto": "Kit Puxador Mola Trinco E Pino Porta Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 121.32,
+      "foto": "https://http2.mlstatic.com/D_631636-MLB70622317932_072023-O.jpg",
+      "item_id": "MLB1864058523",
+      "shipping_id": "46766938214",
+      "envio": "Full",
+      "data": "2026-04-01T09:38:01.000-04:00",
+      "pedido_id": "2000015792354088",
+      "comprador": "HOBINHA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITLG0002",
       "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
