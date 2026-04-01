@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T16:18:16.258Z",
+  "atualizado_em": "2026-04-01T16:20:16.573Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 221,
+  "total_pedidos": 222,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Lavadora Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 45.1,
+      "foto": "https://http2.mlstatic.com/D_701337-MLB106680856170_022026-O.jpg",
+      "item_id": "MLB1492739586",
+      "shipping_id": "46767766837",
+      "envio": "Full",
+      "data": "2026-04-01T12:18:47.000-04:00",
+      "pedido_id": "2000015794635326",
+      "comprador": "DIULIASANDER",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v",
