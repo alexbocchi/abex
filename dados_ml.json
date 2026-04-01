@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T12:44:13.709Z",
+  "atualizado_em": "2026-04-01T12:46:13.695Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 86,
+  "total_pedidos": 88,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "4434ER1008A",
+      "produto": "Eixo Tripé Suporte Aranha Cesto LG Wd1403 Wd1409 4434er1008a",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_990339-MLA95737950462_102025-O.jpg",
+      "item_id": "MLB5182942036",
+      "shipping_id": "46766598108",
+      "envio": "Coleta",
+      "data": "2026-04-01T08:44:55.000-04:00",
+      "pedido_id": "2000015791647150",
+      "comprador": "DEWILLIAM20230912081148",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46766601968",
+      "envio": "Flex",
+      "data": "2026-04-01T08:44:35.000-04:00",
+      "pedido_id": "2000015791658232",
+      "comprador": "GODA5027493",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "FIAPOS01",
       "produto": "Kit 6 Sacos Anti Fiapos Lavanderia Axbx Roupas Delicadas Zíper Poliéster Branco",
