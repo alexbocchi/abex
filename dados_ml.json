@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T12:46:13.695Z",
+  "atualizado_em": "2026-04-01T12:48:13.949Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 88,
+  "total_pedidos": 89,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AXBX01",
+      "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
+      "quantidade": 1,
+      "valor": 39.9,
+      "foto": "https://http2.mlstatic.com/D_618047-MLB79773766608_102024-O.jpg",
+      "item_id": "MLB5122979702",
+      "shipping_id": "46766336831",
+      "envio": "Flex",
+      "data": "2026-04-01T08:47:19.000-04:00",
+      "pedido_id": "2000015791676952",
+      "comprador": "VINICIUSPARISVINICIUSPARIS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "4434ER1008A",
       "produto": "Eixo Tripé Suporte Aranha Cesto LG Wd1403 Wd1409 4434er1008a",
