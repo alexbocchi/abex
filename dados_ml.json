@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T13:04:13.788Z",
+  "atualizado_em": "2026-04-01T13:06:13.760Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 96,
+  "total_pedidos": 97,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "761321",
+      "produto": "Jarra Cafeteira Philco Pcf38 Pcf38d Platinum Original Preta",
+      "quantidade": 1,
+      "valor": 52.73,
+      "foto": "https://http2.mlstatic.com/D_631335-MLB104426715006_012026-O.jpg",
+      "item_id": "MLB5095428926",
+      "shipping_id": "46766716318",
+      "envio": "Full",
+      "data": "2026-04-01T09:04:09.000-04:00",
+      "pedido_id": "2000015791888684",
+      "comprador": "MAVI4569512",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "25906088",
       "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus 220v 65w Ar Condicionado Barril Split 25906088 Ydk65-6d 38kcb 38kcx 38kqi0 38kqx 38kpca",
