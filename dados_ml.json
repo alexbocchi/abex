@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T12:50:13.815Z",
+  "atualizado_em": "2026-04-01T12:52:13.724Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 89,
+  "total_pedidos": 90,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Interface Ar Condicionado LG Asnq092wsa0 Abq73301301",
+      "quantidade": 1,
+      "valor": 240,
+      "foto": "https://http2.mlstatic.com/D_704150-MLA106094521939_012026-O.jpg",
+      "item_id": "MLB5276510674",
+      "shipping_id": "46766632494",
+      "envio": "Full",
+      "data": "2026-04-01T08:49:43.000-04:00",
+      "pedido_id": "2000015791714446",
+      "comprador": "FORTGAS10",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "AXBX01",
       "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
