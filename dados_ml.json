@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:56:15.795Z",
+  "atualizado_em": "2026-04-01T15:58:15.786Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 209,
+  "total_pedidos": 210,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB76040003",
+      "produto": "Controle Smart Magic Mr22gn Nfc Tv LG Nano Oled Qned Orig Nf",
+      "quantidade": 1,
+      "valor": 190,
+      "foto": "https://http2.mlstatic.com/D_752953-MLB81447458405_122024-O.jpg",
+      "item_id": "MLB3906595385",
+      "shipping_id": "46767894340",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:56:58.000-04:00",
+      "pedido_id": "2000015794342458",
+      "comprador": "ALLAN_CARPES",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "AXBX01",
       "produto": "Controle Remoto Universal Ar Condicionado 9000 12000 18000",
