@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T12:54:13.753Z",
+  "atualizado_em": "2026-04-01T12:56:14.110Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 89,
+  "total_pedidos": 92,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "6501KW2001B",
+      "produto": "Sensor Hall Lava E Seca Lavadora LG Wd1412rt Fr1226wc5 Novo",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_762277-MLB106748710716_022026-O.jpg",
+      "item_id": "MLB3948813121",
+      "shipping_id": "46766651308",
+      "envio": "Full",
+      "data": "2026-04-01T08:53:46.000-04:00",
+      "pedido_id": "2000015791770386",
+      "comprador": "VIRA968846",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora Springer Carrier Midea 18000 30000 Btus 220v",
+      "quantidade": 1,
+      "valor": 198,
+      "foto": "https://http2.mlstatic.com/D_947138-MLB104865309025_012026-O.jpg",
+      "item_id": "MLB5677069402",
+      "shipping_id": "46766375405",
+      "envio": "Full",
+      "data": "2026-04-01T08:53:33.000-04:00",
+      "pedido_id": "2000015791753986",
+      "comprador": "GUSTAVOCARDOSOSANTANA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "ABQ73301301",
       "produto": "Placa Interface Ar Condicionado LG Asnq092wsa0 Abq73301301",
@@ -689,6 +717,20 @@
       "pedido_id": "2000015790676506",
       "comprador": "RICARDOVINICIUS123",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Condensadora Springer Midea Carrier Welling 18000 22000 24000 30000 Btus 220v 65w Ar Condicionado Barril Split 25906088 Ydk65-6d 38kcb 38kcx 38kqi0 38kqx 38kpca",
+      "quantidade": 1,
+      "valor": 210,
+      "foto": "https://http2.mlstatic.com/D_740500-MLA101183757244_122025-O.jpg",
+      "item_id": "MLB6107728210",
+      "shipping_id": "46766379499",
+      "envio": "Full",
+      "data": "2026-04-01T06:59:46.000-04:00",
+      "pedido_id": "2000015790647680",
+      "comprador": "ANDRE_LVS",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "MDS55242601",
