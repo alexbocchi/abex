@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:46:15.225Z",
+  "atualizado_em": "2026-04-01T14:48:15.584Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 167,
+  "total_pedidos": 168,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1170",
+      "produto": "Kit 2 Molas Suspensão Tanque Lava E Seca Samsung Wd10 Wd11",
+      "quantidade": 1,
+      "valor": 140.9,
+      "foto": "https://http2.mlstatic.com/D_860855-MLB88990109769_072025-O.jpg",
+      "item_id": "MLB5240331900",
+      "shipping_id": "46767405826",
+      "envio": "Coleta",
+      "data": "2026-04-01T10:46:05.000-04:00",
+      "pedido_id": "2000015793302598",
+      "comprador": "ELUCAS8013",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC64-01538A",
       "produto": "Trava Da Porta Lava E Seca Samsung Wd8854 Dc64-01538a 220v",
