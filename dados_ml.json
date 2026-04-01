@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:52:15.608Z",
+  "atualizado_em": "2026-04-01T15:54:15.835Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 206,
+  "total_pedidos": 207,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB96-24901V",
+      "produto": "Controle Remoto Ar Condicionado Wind Free Db96-24901f  Branco",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_897270-MLB92291978204_092025-O.jpg",
+      "item_id": "MLB2933158141",
+      "shipping_id": "46767585357",
+      "envio": "Full",
+      "data": "2026-04-01T11:52:09.000-04:00",
+      "pedido_id": "2000015794276238",
+      "comprador": "SIBR912040",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "5220FR2008N",
       "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG Cv30 Cv50",
