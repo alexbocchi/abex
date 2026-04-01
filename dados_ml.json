@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:06:14.976Z",
+  "atualizado_em": "2026-04-01T14:08:14.935Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 143,
+  "total_pedidos": 144,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
+      "quantidade": 2,
+      "valor": 227,
+      "foto": "https://http2.mlstatic.com/D_737002-MLA99943156387_112025-O.jpg",
+      "item_id": "MLB5886754752",
+      "shipping_id": "46766857515",
+      "envio": "Full",
+      "data": "2026-04-01T10:06:31.000-04:00",
+      "pedido_id": "2000015792746202",
+      "comprador": "ISRAELRAMOSPALOSCHI",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DB31-00680A",
       "produto": "Motor Ventilador Evaporadora Samsung Inverter 9000-12000 Btus Db31-00680a Aq12uwbunxaz Ar12hsspasn As09uwbvxaz Asv12psbtxaz 127/220v",
