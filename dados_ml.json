@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T15:16:15.703Z",
+  "atualizado_em": "2026-04-01T15:18:15.677Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 180,
+  "total_pedidos": 182,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC62-00223A",
+      "produto": "Retentor Do Tanque Lava E Seca Samsung Wd136 Wd9102 Original",
+      "quantidade": 1,
+      "valor": 55.2,
+      "foto": "https://http2.mlstatic.com/D_749108-MLB51228187339_082022-O.jpg",
+      "item_id": "MLB1541289162",
+      "shipping_id": "46767623396",
+      "envio": "Coleta",
+      "data": "2026-04-01T11:17:45.000-04:00",
+      "pedido_id": "2000015793776064",
+      "comprador": "CAROLINECOSTA00",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC34-00026B",
+      "produto": "Trava Da Porta Lava E Seca Samsung Wd11j64e4ax",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_700943-MLA99496662604_112025-O.jpg",
+      "item_id": "MLB6448355766",
+      "shipping_id": "46767621694",
+      "envio": "Flex",
+      "data": "2026-04-01T11:17:32.000-04:00",
+      "pedido_id": "2000015793747644",
+      "comprador": "IVOMOSCA",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EBR71522401",
       "produto": "Botão Liga Desliga Ar Condicionado LG Dual Inverter Original",
