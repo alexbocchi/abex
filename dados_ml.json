@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:42:15.870Z",
+  "atualizado_em": "2026-04-01T15:44:15.595Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 201,
+  "total_pedidos": 202,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5220FR2008N",
+      "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG Cv30 Cv50",
+      "quantidade": 1,
+      "valor": 177,
+      "foto": "https://http2.mlstatic.com/D_923012-MLA70855708078_082023-O.jpg",
+      "item_id": "MLB2652177661",
+      "shipping_id": "46767518787",
+      "envio": "Full",
+      "data": "2026-04-01T11:41:47.000-04:00",
+      "pedido_id": "2000015794103464",
+      "comprador": "EDERSONJESKEDACONCEIO",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EBF61315801",
       "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
