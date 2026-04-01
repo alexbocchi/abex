@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T15:22:15.808Z",
+  "atualizado_em": "2026-04-01T15:24:15.776Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 184,
+  "total_pedidos": 186,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01827A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Wd106 Wd103 Wd856 Orig",
+      "quantidade": 1,
+      "valor": 150,
+      "foto": "https://http2.mlstatic.com/D_707161-MLB52931403574_122022-O.jpg",
+      "item_id": "MLB1603896821",
+      "shipping_id": "46767386381",
+      "envio": "Full",
+      "data": "2026-04-01T11:23:20.000-04:00",
+      "pedido_id": "2000015793846724",
+      "comprador": "SILVANIA ANDRIOTTI",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 64.62,
+      "foto": "https://http2.mlstatic.com/D_817203-MLA99535813012_122025-O.jpg",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46767385849",
+      "envio": "Full",
+      "data": "2026-04-01T11:23:18.000-04:00",
+      "pedido_id": "2000015793860066",
+      "comprador": "REGVICTORELLI",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITEIXOCOMPLETOZZ",
       "produto": "Kit Eixo Tripé Cruzeta Samsung Dc97-14370c Wd103 Wd106 Wd10 Wd11",
