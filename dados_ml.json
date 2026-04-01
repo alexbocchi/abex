@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T16:06:15.794Z",
+  "atualizado_em": "2026-04-01T16:08:16.339Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 216,
+  "total_pedidos": 217,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBF61315802",
+      "produto": "Trava Porta 110v Lava E Seca LG Wd1252rw.abwfbrs 110v",
+      "quantidade": 1,
+      "valor": 68.34,
+      "foto": "https://http2.mlstatic.com/D_958283-MLA95399897908_102025-O.jpg",
+      "item_id": "MLB5957541496",
+      "shipping_id": "46767970386",
+      "envio": "Full",
+      "data": "2026-04-01T12:08:04.000-04:00",
+      "pedido_id": "2000015794500836",
+      "comprador": "CLEISSOMJOSEDIASCARDOSODIAS",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "BORRACHA02",
       "produto": "Pé Máquina De Lavar Lava E Seca Almofada Antivibração",
