@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:10:14.743Z",
+  "atualizado_em": "2026-04-01T14:12:14.914Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 144,
+  "total_pedidos": 145,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1077",
+      "produto": "Kit Pés Regulaveis Lavadora Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 50.7,
+      "foto": "https://http2.mlstatic.com/D_634756-MLB74568521169_022024-O.jpg",
+      "item_id": "MLB1507981766",
+      "shipping_id": "46767159620",
+      "envio": "Flex",
+      "data": "2026-04-01T10:06:34.000-04:00",
+      "pedido_id": "2000015792723302",
+      "comprador": "MERO9897747",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAU62983004",
       "produto": "Motor Evaporadora LG Inverter 7000 À 24000 Btus Eau62004010 220v",
