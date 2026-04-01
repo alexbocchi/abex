@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:52:15.196Z",
+  "atualizado_em": "2026-04-01T14:54:15.220Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 168,
+  "total_pedidos": 169,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Interface Ar Condicionado LG Asnq092wsa0 Abq73301301",
+      "quantidade": 1,
+      "valor": 240,
+      "foto": "https://http2.mlstatic.com/D_704150-MLA106094521939_012026-O.jpg",
+      "item_id": "MLB5276510674",
+      "shipping_id": "46767182929",
+      "envio": "Full",
+      "data": "2026-04-01T10:53:26.000-04:00",
+      "pedido_id": "2000015793407146",
+      "comprador": "JOSANCHIETADEOLIVERAJUNIOR",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1170",
       "produto": "Kit 2 Molas Suspensão Tanque Lava E Seca Samsung Wd10 Wd11",
