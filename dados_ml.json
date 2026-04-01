@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T13:58:14.830Z",
+  "atualizado_em": "2026-04-01T14:00:16.571Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 138,
+  "total_pedidos": 139,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "756750",
+      "produto": "Alça Da Fritadeira Philco Air Fry Saude Inox Ph3.2l Original",
+      "quantidade": 1,
+      "valor": 50.4,
+      "foto": "https://http2.mlstatic.com/D_938747-MLB104977266015_012026-O.jpg",
+      "item_id": "MLB5233265524",
+      "shipping_id": "46767084052",
+      "envio": "Coleta",
+      "data": "2026-04-01T09:59:40.000-04:00",
+      "pedido_id": "2000015792632754",
+      "comprador": "JIA_FRAMARTINO",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC64-01827A",
       "produto": "Guarnição Borracha Da Porta Lava E Seca Samsung Original",
