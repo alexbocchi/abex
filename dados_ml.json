@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T16:42:16.118Z",
+  "atualizado_em": "2026-04-01T16:44:16.312Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 234,
+  "total_pedidos": 235,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46768212492",
+      "envio": "Flex",
+      "data": "2026-04-01T12:43:05.000-04:00",
+      "pedido_id": "2000015795012778",
+      "comprador": "DOSPAULO20220403181702",
+      "pagamento": "digital_currency"
+    },
     {
       "sku": "DB32-00271A",
       "produto": "Sensor De Umidade Ar Samsung Db32-00271a Ar09avhabwknaz +nfa",
@@ -89,20 +103,6 @@
       "pagamento": "account_money"
     },
     {
-      "sku": "DC62-00233C",
-      "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
-      "quantidade": 1,
-      "valor": 144.9,
-      "foto": "https://http2.mlstatic.com/D_600152-MLA99506069672_112025-O.jpg",
-      "item_id": "MLB5433795260",
-      "shipping_id": "46767835227",
-      "envio": "Full",
-      "data": "2026-04-01T12:28:33.000-04:00",
-      "pedido_id": "2000015794801602",
-      "comprador": "CLAUDINEICLAUDINEI202304051021",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original Nf",
       "quantidade": 2,
@@ -113,6 +113,20 @@
       "envio": "Full",
       "data": "2026-04-01T12:28:33.000-04:00",
       "pedido_id": "2000015794806378",
+      "comprador": "CLAUDINEICLAUDINEI202304051021",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC62-00233C",
+      "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
+      "quantidade": 1,
+      "valor": 144.9,
+      "foto": "https://http2.mlstatic.com/D_600152-MLA99506069672_112025-O.jpg",
+      "item_id": "MLB5433795260",
+      "shipping_id": "46767835227",
+      "envio": "Full",
+      "data": "2026-04-01T12:28:33.000-04:00",
+      "pedido_id": "2000015794801602",
       "comprador": "CLAUDINEICLAUDINEI202304051021",
       "pagamento": "account_money"
     },
