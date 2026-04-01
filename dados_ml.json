@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:46:17.819Z",
+  "atualizado_em": "2026-04-01T15:48:15.878Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 202,
+  "total_pedidos": 203,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC67-00230E",
+      "produto": "Mangueira Pressostato LG 5214en4001n Borracha 63cm Diâmetro 4mm",
+      "quantidade": 1,
+      "valor": 30,
+      "foto": "https://http2.mlstatic.com/D_625583-MLA107830629802_032026-O.jpg",
+      "item_id": "MLB4065327353",
+      "shipping_id": "46767552715",
+      "envio": "Flex",
+      "data": "2026-04-01T11:47:20.000-04:00",
+      "pedido_id": "2000015794199244",
+      "comprador": "CASSIAAPARECIDAPINTO",
+      "pagamento": "account_money"
+    },
     {
       "sku": "5220FR2008N",
       "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG Cv30 Cv50",
