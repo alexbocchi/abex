@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T13:52:14.358Z",
+  "atualizado_em": "2026-04-01T13:54:14.746Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 135,
+  "total_pedidos": 137,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Condensador 25948043 / 25906088 Ar Split Midea / Springer Midea",
+      "quantidade": 1,
+      "valor": 228,
+      "foto": "https://http2.mlstatic.com/D_795862-MLA99479954424_112025-O.jpg",
+      "item_id": "MLB4203020919",
+      "shipping_id": "46766766985",
+      "envio": "Full",
+      "data": "2026-04-01T09:53:38.000-04:00",
+      "pedido_id": "2000015792562182",
+      "comprador": "ITAMARAMORIMRIBEIROAMORIMRI",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC62-00214Q",
+      "produto": "Valvula 4 Vias Lava E Seca Samsung Wd10j6410ax 110v",
+      "quantidade": 1,
+      "valor": 170,
+      "foto": "https://http2.mlstatic.com/D_636820-MLA99411187840_112025-O.jpg",
+      "item_id": "MLB5425077334",
+      "shipping_id": "46766760653",
+      "envio": "Full",
+      "data": "2026-04-01T09:52:34.000-04:00",
+      "pedido_id": "2000015792550058",
+      "comprador": "LIVIASCORPIONI",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EBR71522401",
       "produto": "Placa Botão Ligar Ar Condicionado LG Dual Inverter 220v",
