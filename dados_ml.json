@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:22:15.127Z",
+  "atualizado_em": "2026-04-01T14:24:15.327Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 152,
+  "total_pedidos": 154,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5220FR2008N",
+      "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG Cv30 Cv50",
+      "quantidade": 1,
+      "valor": 177,
+      "foto": "https://http2.mlstatic.com/D_917146-MLA99465137554_112025-O.jpg",
+      "item_id": "MLB3772897841",
+      "shipping_id": "46767251598",
+      "envio": "Full",
+      "data": "2026-04-01T10:24:01.000-04:00",
+      "pedido_id": "2000015792987194",
+      "comprador": "ANGELICAGORETECAYE",
+      "pagamento": "account_money"
+    },
     {
       "sku": "421945063691",
       "produto": "Descalcificante Líquido 250ml Maquinas De Café Oster Philips",
@@ -451,6 +465,20 @@
       "pedido_id": "2000015792354088",
       "comprador": "HOBINHA",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "DB93-10861D",
+      "produto": "Placa Receptora Ar Condicionado Samsung Inverter",
+      "quantidade": 1,
+      "valor": 74.86,
+      "foto": "https://http2.mlstatic.com/D_699662-MLB108659154185_032026-O.jpg",
+      "item_id": "MLB1464885381",
+      "shipping_id": "46766934972",
+      "envio": "Full",
+      "data": "2026-04-01T09:37:45.000-04:00",
+      "pedido_id": "2000015792338328",
+      "comprador": "ALBERTONPEDRO20220108203147",
+      "pagamento": "ticket"
     },
     {
       "sku": "765136",
