@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:26:15.421Z",
+  "atualizado_em": "2026-04-01T14:28:15.125Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 154,
+  "total_pedidos": 156,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "2x Amortecedor Cesto Lava E Seca Samsung Dc66-00421b",
+      "quantidade": 1,
+      "valor": 34.65,
+      "foto": "https://http2.mlstatic.com/D_881497-MLA99619497368_122025-O.jpg",
+      "item_id": "MLB5461532516",
+      "shipping_id": "46767004263",
+      "envio": "Full",
+      "data": "2026-04-01T10:27:51.000-04:00",
+      "pedido_id": "2000015793026890",
+      "comprador": "SEOD8444834",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "5220FR2008N",
       "produto": "Válvula Entrada De Água 4 Vias 12v Lava Seca LG Cv30 Cv50",
@@ -101,6 +115,20 @@
       "pedido_id": "2000015792859412",
       "comprador": "JEFAOMGA",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "25906085",
+      "produto": "Motor Ventilador Condensa 25906085 Ar Split Springer",
+      "quantidade": 1,
+      "valor": 228,
+      "foto": "https://http2.mlstatic.com/D_846364-MLA99949698917_112025-O.jpg",
+      "item_id": "MLB4256468015",
+      "shipping_id": "46767000565",
+      "envio": "Full",
+      "data": "2026-04-01T10:12:07.000-04:00",
+      "pedido_id": "2000015792801646",
+      "comprador": "LEOMAROGUIDINI",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "AWW024CA4X20",
