@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:30:15.638Z",
+  "atualizado_em": "2026-04-01T15:32:15.805Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 192,
+  "total_pedidos": 193,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
+      "quantidade": 1,
+      "valor": 27.72,
+      "foto": "https://http2.mlstatic.com/D_961117-MLA102610137716_122025-O.jpg",
+      "item_id": "MLB4041539053",
+      "shipping_id": "46767437769",
+      "envio": "Full",
+      "data": "2026-04-01T11:30:14.000-04:00",
+      "pedido_id": "2000015793927924",
+      "comprador": "KMACHADO63902",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DB31-00636C",
       "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
