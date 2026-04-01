@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-01T15:40:16.211Z",
+  "atualizado_em": "2026-04-01T15:42:15.870Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 198,
+  "total_pedidos": 201,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EBF61315801",
+      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
+      "quantidade": 1,
+      "valor": 56.95,
+      "foto": "https://http2.mlstatic.com/D_610795-MLB69462070001_052023-O.jpg",
+      "item_id": "MLB1894278277",
+      "shipping_id": "46767785596",
+      "envio": "Full",
+      "data": "2026-04-01T11:41:14.000-04:00",
+      "pedido_id": "2000015794103064",
+      "comprador": "ALEXLCC",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC60-00104A",
+      "produto": "Chave De Ajuste Pé Lavadora Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_600046-MLB54741416745_032023-O.jpg",
+      "item_id": "MLB1490250265",
+      "shipping_id": "46767783592",
+      "envio": "Full",
+      "data": "2026-04-01T11:40:56.000-04:00",
+      "pedido_id": "2000015794114342",
+      "comprador": "LCGEO2009",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_758710-MLA99545945196_122025-O.jpg",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46767781500",
+      "envio": "Flex",
+      "data": "2026-04-01T11:40:32.000-04:00",
+      "pedido_id": "2000015794106246",
+      "comprador": "CIDALMONTEIRO2011",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAD64108410",
       "produto": "Cabo De Força Tipo 8 Tv LG Smart 32/43/49/50/55/65 Polegadas 127/220v",
