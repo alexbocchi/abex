@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T15:02:15.289Z",
+  "atualizado_em": "2026-04-01T15:04:15.591Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 173,
+  "total_pedidos": 174,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM0009",
+      "produto": "Kit Amortecedores Lava Seca Samsung Wd136 Completo Original",
+      "quantidade": 1,
+      "valor": 300,
+      "foto": "https://http2.mlstatic.com/D_626362-MLB105470189639_012026-O.jpg",
+      "item_id": "MLB4671113976",
+      "shipping_id": "46767519794",
+      "envio": "Flex",
+      "data": "2026-04-01T11:01:38.000-04:00",
+      "pedido_id": "2000015793517692",
+      "comprador": "YA20240625100258",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DB95-01438G",
       "produto": "Sensor Temperatura Evaporadora Samsung Ar09mvspbgmnaz Origin",
