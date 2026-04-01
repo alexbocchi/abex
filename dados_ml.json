@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T16:04:16.204Z",
+  "atualizado_em": "2026-04-01T16:06:15.794Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 214,
+  "total_pedidos": 216,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "BORRACHA02",
+      "produto": "Pé Máquina De Lavar Lava E Seca Almofada Antivibração",
+      "quantidade": 2,
+      "valor": 35,
+      "foto": "https://http2.mlstatic.com/D_717120-MLB81573930475_122024-O.jpg",
+      "item_id": "MLB5216900020",
+      "shipping_id": "46767675723",
+      "envio": "Coleta",
+      "data": "2026-04-01T12:05:14.000-04:00",
+      "pedido_id": "2000015794467032",
+      "comprador": "TEVI7672657",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC47-00008F",
+      "produto": "Resistência Secagem 220v Lava Seca Samsung Dc47-00008f",
+      "quantidade": 1,
+      "valor": 423.5,
+      "foto": "https://http2.mlstatic.com/D_631453-MLB92969639132_092025-O.jpg",
+      "item_id": "MLB5741335166",
+      "shipping_id": "46767944242",
+      "envio": "Coleta",
+      "data": "2026-04-01T12:04:12.000-04:00",
+      "pedido_id": "2000015794429878",
+      "comprador": "EUSOUBATMAN",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "759185",
       "produto": "Lâmina Faca Liquidificador Multiprocessador All In One 2",
