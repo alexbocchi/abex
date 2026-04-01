@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T12:38:13.506Z",
+  "atualizado_em": "2026-04-01T12:40:13.700Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 80,
+  "total_pedidos": 82,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 4,
+      "valor": 196.5,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46766562784",
+      "envio": "Full",
+      "data": "2026-04-01T08:39:06.000-04:00",
+      "pedido_id": "2000015791591086",
+      "comprador": "SANTINHOALAN",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 6,
+      "valor": 196.5,
+      "foto": "https://http2.mlstatic.com/D_978696-MLA99502529316_112025-O.jpg",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46766556292",
+      "envio": "Full",
+      "data": "2026-04-01T08:38:00.000-04:00",
+      "pedido_id": "2000015791571514",
+      "comprador": "SANTINHOALAN",
+      "pagamento": "account_money"
+    },
     {
       "sku": "EAU62004010",
       "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
