@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T16:44:16.312Z",
+  "atualizado_em": "2026-04-01T16:46:19.442Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 235,
+  "total_pedidos": 237,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Original Wd10m44530w",
+      "quantidade": 1,
+      "valor": 125,
+      "foto": "https://http2.mlstatic.com/D_862644-MLB106679807944_022026-O.jpg",
+      "item_id": "MLB1766425934",
+      "shipping_id": "46767955029",
+      "envio": "Full",
+      "data": "2026-04-01T12:45:30.000-04:00",
+      "pedido_id": "2000015795025646",
+      "comprador": "GODOIW2012",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "6501KW2001B",
+      "produto": "Sensor Hall Lava E Seca LG Wd1412 Wd-1485 Wd-1410 Wd-1403 Nf",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_748489-MLB107417968931_022026-O.jpg",
+      "item_id": "MLB3899996139",
+      "shipping_id": "46768227344",
+      "envio": "Full",
+      "data": "2026-04-01T12:45:09.000-04:00",
+      "pedido_id": "2000015795043816",
+      "comprador": "ESDRASAMORIMROCHA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
@@ -103,20 +131,6 @@
       "pagamento": "account_money"
     },
     {
-      "sku": "KITSM1097",
-      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original Nf",
-      "quantidade": 2,
-      "valor": 76,
-      "foto": "https://http2.mlstatic.com/D_904369-MLB107341290355_022026-O.jpg",
-      "item_id": "MLB1492301147",
-      "shipping_id": "46767835227",
-      "envio": "Full",
-      "data": "2026-04-01T12:28:33.000-04:00",
-      "pedido_id": "2000015794806378",
-      "comprador": "CLAUDINEICLAUDINEI202304051021",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "DC62-00233C",
       "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
       "quantidade": 1,
@@ -127,6 +141,20 @@
       "envio": "Full",
       "data": "2026-04-01T12:28:33.000-04:00",
       "pedido_id": "2000015794801602",
+      "comprador": "CLAUDINEICLAUDINEI202304051021",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original Nf",
+      "quantidade": 2,
+      "valor": 76,
+      "foto": "https://http2.mlstatic.com/D_904369-MLB107341290355_022026-O.jpg",
+      "item_id": "MLB1492301147",
+      "shipping_id": "46767835227",
+      "envio": "Full",
+      "data": "2026-04-01T12:28:33.000-04:00",
+      "pedido_id": "2000015794806378",
       "comprador": "CLAUDINEICLAUDINEI202304051021",
       "pagamento": "account_money"
     },
