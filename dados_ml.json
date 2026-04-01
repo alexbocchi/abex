@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T14:30:15.088Z",
+  "atualizado_em": "2026-04-01T14:32:15.244Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 157,
+  "total_pedidos": 158,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Original Wd11m4453jw",
+      "quantidade": 1,
+      "valor": 37.39,
+      "foto": "https://http2.mlstatic.com/D_939763-MLB47174909814_082021-O.jpg",
+      "item_id": "MLB1775787624",
+      "shipping_id": "46767303412",
+      "envio": "Full",
+      "data": "2026-04-01T10:31:18.000-04:00",
+      "pedido_id": "2000015793061746",
+      "comprador": "YZABETTAHECTOR20221213110810",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1097",
       "produto": "2x Amortecedor Cesto Lava E Seca Samsung Dc66-00421b",
