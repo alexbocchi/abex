@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-01T13:44:14.402Z",
+  "atualizado_em": "2026-04-01T13:46:14.405Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 131,
+  "total_pedidos": 132,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "021392",
+      "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
+      "quantidade": 1,
+      "valor": 32.9,
+      "foto": "https://http2.mlstatic.com/D_735262-MLB103819689684_012026-O.jpg",
+      "item_id": "MLB6154718234",
+      "shipping_id": "46766700285",
+      "envio": "Flex",
+      "data": "2026-04-01T09:43:40.000-04:00",
+      "pedido_id": "2000015792407062",
+      "comprador": "DENYSEGUIMARESDOAMARAL",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITLG0002",
       "produto": "4901er2003a Kit 3 Amortecedores Do Cesto Lava E Seca (100n)",
