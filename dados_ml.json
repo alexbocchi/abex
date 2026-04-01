@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-01T16:52:16.548Z",
+  "atualizado_em": "2026-04-01T16:54:16.543Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 243,
+  "total_pedidos": 245,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-14370C",
+      "produto": "Eixo Tripe Lava Seca Samsung Original De Verdade Dc97-14370c",
+      "quantidade": 1,
+      "valor": 211.5,
+      "foto": "https://http2.mlstatic.com/D_621159-MLB108364425605_032026-O.jpg",
+      "item_id": "MLB3069345509",
+      "shipping_id": "46768011599",
+      "envio": "Flex",
+      "data": "2026-04-01T12:53:29.000-04:00",
+      "pedido_id": "2000015795178428",
+      "comprador": "WILSONDESOUZALUIZ",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EBF61315801",
+      "produto": "Trava Da Porta 220v Lava E Seca LG Wd1252rwa - Ebf61315801",
+      "quantidade": 1,
+      "valor": 56.95,
+      "foto": "https://http2.mlstatic.com/D_618717-MLA99961927357_112025-O.jpg",
+      "item_id": "MLB3608140493",
+      "shipping_id": "46768279794",
+      "envio": "Full",
+      "data": "2026-04-01T12:52:36.000-04:00",
+      "pedido_id": "2000015795164226",
+      "comprador": "MARCUSVH",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC31-00098A",
       "produto": "Sensor Do Estator Motor Samsung Original Novo Dc31-00098a",
