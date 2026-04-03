@@ -2,8 +2,8 @@
   "atualizado_em": "2026-04-01T00:00:02.855Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 100,
-  "proxima_pagina": 0,
-  "concluido": true,
+  "proxima_pagina": 1,
+  "concluido": false,
   "periodo": {
     "from": "2026-01-01",
     "to": "2026-03-31"
