@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-04-03T17:53:13.207Z",
+  "atualizado_em": "2026-04-03T18:10:12.657Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 195,
+  "total_pedidos": 199,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "767702",
+      "produto": "Bomba Agua 110v / 127v Climatizadores Elgin Consul 280l/h Nf",
+      "quantidade": 1,
+      "valor": 60.06,
+      "foto": "",
+      "item_id": "MLB5847644148",
+      "shipping_id": "46781095918",
+      "envio": "Full",
+      "data": "2026-04-03T14:02:07.000-04:00",
+      "pedido_id": "2000015822385650",
+      "comprador": "EURISAN",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC31-00098A",
+      "produto": "Sensor Do Estator Motor Samsung Original Novo Wf448aap/xaz",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3946604395",
+      "shipping_id": "46780816589",
+      "envio": "Coleta",
+      "data": "2026-04-03T14:01:22.000-04:00",
+      "pedido_id": "2000015822406250",
+      "comprador": "BLUEINFOR",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "ADP74113501",
+      "produto": "Hélice Condensadora Ar LG 9000 E 12000 Adp73193307 Original",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3913189913",
+      "shipping_id": "46781075178",
+      "envio": "Coleta",
+      "data": "2026-04-03T13:58:34.000-04:00",
+      "pedido_id": "2000015822356826",
+      "comprador": "TFBR1958137",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "756750",
+      "produto": "Alça Da Fritadeira Philco Air Fry Saude Inox Ph3.2l Original",
+      "quantidade": 1,
+      "valor": 50.4,
+      "foto": "",
+      "item_id": "MLB5233265524",
+      "shipping_id": "46781074580",
+      "envio": "Coleta",
+      "data": "2026-04-03T13:58:14.000-04:00",
+      "pedido_id": "2000015822331956",
+      "comprador": "EVANGEASSIS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EBR71522401",
       "produto": "Botao Liga Desliga Ar Condicionado LG 9000 12000 Original",
@@ -2231,20 +2287,6 @@
       "pagamento": "account_money"
     },
     {
-      "sku": "757325",
-      "produto": "Bocal Para Piso Aspirador De Po Dust Off Bas1000p Original",
-      "quantidade": 1,
-      "valor": 65.26,
-      "foto": "",
-      "item_id": "MLB6419997806",
-      "shipping_id": "46779208558",
-      "envio": "Coleta",
-      "data": "2026-04-03T08:01:36.000-04:00",
-      "pedido_id": "2000015818251706",
-      "comprador": "TOLINA2011",
-      "pagamento": "credit_card"
-    },
-    {
       "sku": "733219",
       "produto": "Batedor Clara Em Neve Batedeira Planetária Philco Php500 Nf",
       "quantidade": 1,
@@ -2256,6 +2298,20 @@
       "data": "2026-04-03T08:01:36.000-04:00",
       "pedido_id": "2000015818274276",
       "comprador": "NOMA8650514",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "757325",
+      "produto": "Bocal Para Piso Aspirador De Po Dust Off Bas1000p Original",
+      "quantidade": 1,
+      "valor": 65.26,
+      "foto": "",
+      "item_id": "MLB6419997806",
+      "shipping_id": "46779208558",
+      "envio": "Coleta",
+      "data": "2026-04-03T08:01:36.000-04:00",
+      "pedido_id": "2000015818251706",
+      "comprador": "TOLINA2011",
       "pagamento": "credit_card"
     },
     {
