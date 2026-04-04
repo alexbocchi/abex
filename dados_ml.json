@@ -1,7 +1,64 @@
 {
-  "atualizado_em": "2026-04-04T03:00:52.271Z",
+  "atualizado_em": "2026-04-04T03:10:52.511Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 0,
+  "total_pedidos": 4,
   "produtos": [],
-  "pedidos": []
+  "pedidos": [
+    {
+      "sku": "DA63-05506A",
+      "produto": "Bandeja Do Dispenser Refrigerador Samsung Rfg28mesl1",
+      "quantidade": 1,
+      "valor": 30,
+      "foto": "https://http2.mlstatic.com/D_713973-MLB82111739137_012025-O.jpg",
+      "item_id": "MLB3960562409",
+      "shipping_id": "46783587979",
+      "envio": "Coleta",
+      "data": "2026-04-03T23:06:56.000-04:00",
+      "pedido_id": "2000015828659790",
+      "comprador": "AZEVEDOYAGO20220531213235",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "740985",
+      "produto": "Acessório Bocal Piso Aspirador De Pó Ciclone Pas06 Philco",
+      "quantidade": 1,
+      "valor": 53.9,
+      "foto": "https://http2.mlstatic.com/D_683388-MLB106275450724_022026-O.jpg",
+      "item_id": "MLB3936229477",
+      "shipping_id": "46783581493",
+      "envio": "Full",
+      "data": "2026-04-03T23:05:36.000-04:00",
+      "pedido_id": "2000015828653678",
+      "comprador": "DCMAUES",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "5214FR3188G",
+      "produto": "Mangueira Drenagem Saida LG Wd-1409rd Wd1412rta5 Wd-1403rd",
+      "quantidade": 1,
+      "valor": 38.47,
+      "foto": "https://http2.mlstatic.com/D_701607-MLA100053665147_122025-O.jpg",
+      "item_id": "MLB4107406623",
+      "shipping_id": "46783850090",
+      "envio": "Flex",
+      "data": "2026-04-03T23:03:35.000-04:00",
+      "pedido_id": "2000015828643260",
+      "comprador": "BUYTECH.COM.BR",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC32-00004C",
+      "produto": "Sensor Termistor Duto Secagem Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "https://http2.mlstatic.com/D_841903-MLB72744386214_112023-O.jpg",
+      "item_id": "MLB1529993590",
+      "shipping_id": "46783570913",
+      "envio": "Full",
+      "data": "2026-04-03T23:02:01.000-04:00",
+      "pedido_id": "2000015828631342",
+      "comprador": "LR20240921210122",
+      "pagamento": "credit_card"
+    }
+  ]
 }
