@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-04T05:00:53.341Z",
+  "atualizado_em": "2026-04-04T05:10:53.528Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 12,
+  "total_pedidos": 14,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AKB76045004",
+      "produto": "Controle Smart Magic LG Akb76043204 Com Nfc Alexa Tvs 2023 Preto",
+      "quantidade": 1,
+      "valor": 180,
+      "foto": "https://http2.mlstatic.com/D_947200-MLA99933341551_112025-O.jpg",
+      "item_id": "MLB5327184908",
+      "shipping_id": "46783871913",
+      "envio": "Full",
+      "data": "2026-04-04T01:05:05.000-04:00",
+      "pedido_id": "2000015829303846",
+      "comprador": "ROLU3393856",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46783858539",
+      "envio": "Full",
+      "data": "2026-04-04T01:01:38.000-04:00",
+      "pedido_id": "2000015829289788",
+      "comprador": "JOSEGABRIELARJ",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "EAU61383504",
       "produto": "Bomba De Drenagem Lava Seca LG Eau61383504 220v Original 220v",
