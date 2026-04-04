@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-04T03:20:52.438Z",
+  "atualizado_em": "2026-04-04T03:30:52.612Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 4,
+  "total_pedidos": 6,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Eletrobomba Lava E Seca LG 127v Originial Eau62263306 Nova",
+      "quantidade": 1,
+      "valor": 74.1,
+      "foto": "https://http2.mlstatic.com/D_915341-MLA107415548833_022026-O.jpg",
+      "item_id": "MLB3598677405",
+      "shipping_id": "46783656623",
+      "envio": "Full",
+      "data": "2026-04-03T23:30:35.000-04:00",
+      "pedido_id": "2000015828850698",
+      "comprador": "FELCIADOCARMOQUEIROZ",
+      "pagamento": "digital_currency"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485/wd1403",
+      "quantidade": 1,
+      "valor": 65.42,
+      "foto": "https://http2.mlstatic.com/D_757239-MLB79858707458_102024-O.jpg",
+      "item_id": "MLB3883902697",
+      "shipping_id": "46783903038",
+      "envio": "Coleta",
+      "data": "2026-04-03T23:20:55.000-04:00",
+      "pedido_id": "2000015828791978",
+      "comprador": "BLSILVA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DA63-05506A",
       "produto": "Bandeja Do Dispenser Refrigerador Samsung Rfg28mesl1",
