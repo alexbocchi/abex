@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-04T03:40:52.629Z",
+  "atualizado_em": "2026-04-04T03:50:53.113Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 7,
+  "total_pedidos": 10,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAD60714618",
+      "produto": "Cabo Chicote Placa Display Ar Condicionado LG 3 Pontas Orig",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "https://http2.mlstatic.com/D_862354-MLB80358074892_112024-O.jpg",
+      "item_id": "MLB3905357615",
+      "shipping_id": "46783985820",
+      "envio": "Full",
+      "data": "2026-04-03T23:50:30.000-04:00",
+      "pedido_id": "2000015828996074",
+      "comprador": "CAIOLUCASSOUZA",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "AKB74675304",
+      "produto": "Controle Remoto P/ Ar Condicionado LG Usnq092wsg3 Cor Branco",
+      "quantidade": 1,
+      "valor": 135.03,
+      "foto": "https://http2.mlstatic.com/D_850058-MLA108014753533_032026-O.jpg",
+      "item_id": "MLB3950524883",
+      "shipping_id": "46783971398",
+      "envio": "Coleta",
+      "data": "2026-04-03T23:45:09.000-04:00",
+      "pedido_id": "2000015828950392",
+      "comprador": "MARCIOSINISCALCHI",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "6324W1A003E",
+      "produto": "Magnetron 2m214 Microondas LG Ms3052 Ms3057 Ms309 Mh7053",
+      "quantidade": 1,
+      "valor": 170,
+      "foto": "https://http2.mlstatic.com/D_726684-MLA99991086935_112025-O.jpg",
+      "item_id": "MLB6239001844",
+      "shipping_id": "46783688449",
+      "envio": "Full",
+      "data": "2026-04-03T23:41:20.000-04:00",
+      "pedido_id": "2000015828922498",
+      "comprador": "FIXAGABRIEL",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "BORRACHA02",
       "produto": "Pé Anti-vibração Para Máquina Lava E Seca E Moveis Universal",
