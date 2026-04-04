@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-04T05:10:53.528Z",
+  "atualizado_em": "2026-04-04T05:20:53.689Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 14,
+  "total_pedidos": 15,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC67-00904A",
+      "produto": "Turbina Helice Motor De Secagem Lava E Seca Original Samsung",
+      "quantidade": 1,
+      "valor": 70.39,
+      "foto": "https://http2.mlstatic.com/D_894843-MLB81246558554_122024-O.jpg",
+      "item_id": "MLB5229448852",
+      "shipping_id": "46783881121",
+      "envio": "Full",
+      "data": "2026-04-04T01:16:43.000-04:00",
+      "pedido_id": "2000015829400378",
+      "comprador": "MAXIMILIANOAZAM",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "AKB76045004",
       "produto": "Controle Smart Magic LG Akb76043204 Com Nfc Alexa Tvs 2023 Preto",
