@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-04-04T04:20:53.246Z",
+  "atualizado_em": "2026-04-04T04:30:53.247Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 11,
+  "total_pedidos": 12,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383504",
+      "produto": "Bomba De Drenagem Lava Seca LG Eau61383504 220v Original 220v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_755770-MLB105869293042_022026-O.jpg",
+      "item_id": "MLB3692715248",
+      "shipping_id": "46783795231",
+      "envio": "Full",
+      "data": "2026-04-04T00:27:16.000-04:00",
+      "pedido_id": "2000015829145834",
+      "comprador": "FABIANASOARES559",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAD60714618",
       "produto": "Cabo Chicote Placa Display Ar Condicionado LG 3 Pontas Orig",
