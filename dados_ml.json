@@ -1,7 +1,7 @@
 {
-  "atualizado_em": "2026-04-04T03:50:53.113Z",
+  "atualizado_em": "2026-04-04T04:00:53.082Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 10,
+  "total_pedidos": 11,
   "produtos": [],
   "pedidos": [
     {
@@ -16,6 +16,20 @@
       "data": "2026-04-03T23:50:30.000-04:00",
       "pedido_id": "2000015828996074",
       "comprador": "CAIOLUCASSOUZA",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1078",
+      "produto": "Pezinho Alto Lava Seca Samsung Original Ecobubble Wd10 Wd103",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_779993-MLB105344387233_012026-O.jpg",
+      "item_id": "MLB4008193225",
+      "shipping_id": "46783710279",
+      "envio": "Full",
+      "data": "2026-04-03T23:50:26.000-04:00",
+      "pedido_id": "2000015828987850",
+      "comprador": "JUNIORCASSIOLATO",
       "pagamento": "account_money"
     },
     {
