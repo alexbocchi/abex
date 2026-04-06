@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-06T23:01:25.686Z",
+  "atualizado_em": "2026-04-06T23:11:24.070Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 467,
+  "total_pedidos": 469,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46800056298",
+      "envio": "Full",
+      "data": "2026-04-06T19:07:51.000-04:00",
+      "pedido_id": "2000015864782516",
+      "comprador": "TELESGABRIEL20230903095156",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lavadora Samsung Wd856uhsasdfaz",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "",
+      "item_id": "MLB4144720129",
+      "shipping_id": "46800011030",
+      "envio": "Full",
+      "data": "2026-04-06T19:02:20.000-04:00",
+      "pedido_id": "2000015864674994",
+      "comprador": "GLAUBERDINIZ31",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM1173",
       "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
