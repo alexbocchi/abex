@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-04-06T14:51:06.251Z",
+  "atualizado_em": "2026-04-06T15:01:06.566Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 179,
+  "total_pedidos": 183,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU61383506",
+      "produto": "Eletrobomba Lava E Seca LG 127v Originial Eau62263306 Nova",
+      "quantidade": 1,
+      "valor": 74.1,
+      "foto": "https://http2.mlstatic.com/D_915341-MLA107415548833_022026-O.jpg",
+      "item_id": "MLB3598677405",
+      "shipping_id": "46796051581",
+      "envio": "Full",
+      "data": "2026-04-06T10:59:00.000-04:00",
+      "pedido_id": "2000015856943658",
+      "comprador": "PALOMACMDANTAS",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC93-00139A",
+      "produto": "Cabo De Força Lavadora Lava Seca Samsung Dc98-01976a Origina",
+      "quantidade": 1,
+      "valor": 78.31,
+      "foto": "https://http2.mlstatic.com/D_916230-MLB107420973105_022026-O.jpg",
+      "item_id": "MLB2109806057",
+      "shipping_id": "46796323658",
+      "envio": "Full",
+      "data": "2026-04-06T10:58:35.000-04:00",
+      "pedido_id": "2000015856962250",
+      "comprador": "SB_SILVIO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITLG0011",
+      "produto": "Kit 2 Amortecedores Lava Seca LG Wd1412 Wd1410 Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 74.2,
+      "foto": "https://http2.mlstatic.com/D_613747-MLA99441337948_112025-O.jpg",
+      "item_id": "MLB4264368281",
+      "shipping_id": "46796312668",
+      "envio": "Full",
+      "data": "2026-04-06T10:56:57.000-04:00",
+      "pedido_id": "2000015856938252",
+      "comprador": "PAZZETTOARRUDASILVANA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB95-04566A",
+      "produto": "Sensor De Temperatura Para Compressor Ar Samsung Db95-04566a",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_988344-MLB74716299711_022024-O.jpg",
+      "item_id": "MLB1719691528",
+      "shipping_id": "46795995723",
+      "envio": "Coleta",
+      "data": "2026-04-06T10:51:20.000-04:00",
+      "pedido_id": "2000015856858092",
+      "comprador": "SEG.PUB",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "02100475P",
       "produto": "Copo Para Liquidificador Britania Diamante Black",
@@ -271,20 +327,6 @@
       "pagamento": "bank_transfer"
     },
     {
-      "sku": "023254",
-      "produto": "Botão Knob Do Timer Centrifuga 023254 Britânia Original Botão Knob",
-      "quantidade": 1,
-      "valor": 22,
-      "foto": "https://http2.mlstatic.com/D_812858-MLB104027446412_012026-O.jpg",
-      "item_id": "MLB6161417850",
-      "shipping_id": "46795739299",
-      "envio": "Flex",
-      "data": "2026-04-06T10:16:08.000-04:00",
-      "pedido_id": "2000015856308408",
-      "comprador": "ITALACARLA",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "KITSM1097",
       "produto": "2x Amortecedor Cesto Lava E Seca Samsung Dc66-00421b",
       "quantidade": 8,
@@ -296,6 +338,20 @@
       "data": "2026-04-06T10:16:08.000-04:00",
       "pedido_id": "2000015856314866",
       "comprador": "ROGE271179",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "023254",
+      "produto": "Botão Knob Do Timer Centrifuga 023254 Britânia Original Botão Knob",
+      "quantidade": 1,
+      "valor": 22,
+      "foto": "https://http2.mlstatic.com/D_812858-MLB104027446412_012026-O.jpg",
+      "item_id": "MLB6161417850",
+      "shipping_id": "46795739299",
+      "envio": "Flex",
+      "data": "2026-04-06T10:16:08.000-04:00",
+      "pedido_id": "2000015856308408",
+      "comprador": "ITALACARLA",
       "pagamento": "account_money"
     },
     {
