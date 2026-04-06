@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-04-06T16:51:03.614Z",
+  "atualizado_em": "2026-04-06T17:01:03.796Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 249,
+  "total_pedidos": 254,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira Drenagem Lava E Seca Samsung Original Wd856uhsawq",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "",
+      "item_id": "MLB1753367562",
+      "shipping_id": "46796926603",
+      "envio": "Flex",
+      "data": "2026-04-06T12:55:55.000-04:00",
+      "pedido_id": "2000015858796128",
+      "comprador": "ROGERKELIAN",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC31-00181B",
+      "produto": "Eletrobomba De Drenagem Lava E Seca 220v Samsung Dc31-00030b 220v",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "",
+      "item_id": "MLB1788777098",
+      "shipping_id": "46797176228",
+      "envio": "Full",
+      "data": "2026-04-06T12:51:57.000-04:00",
+      "pedido_id": "2000015858720494",
+      "comprador": "ALMA2944750",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "756750",
+      "produto": "Alça Para Cesto Fritadeira Philco Air Fry Saude Inox Ph 3,2l",
+      "quantidade": 1,
+      "valor": 50.36,
+      "foto": "",
+      "item_id": "MLB3939587117",
+      "shipping_id": "46796893755",
+      "envio": "Coleta",
+      "data": "2026-04-06T12:51:51.000-04:00",
+      "pedido_id": "2000015858709114",
+      "comprador": "VIVIGOMESVITAL",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "",
+      "item_id": "MLB1470191674",
+      "shipping_id": "46797168368",
+      "envio": "Full",
+      "data": "2026-04-06T12:51:19.000-04:00",
+      "pedido_id": "2000015858679978",
+      "comprador": "JOISETRETTEL",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "021392",
       "produto": "Tampa Da Jarra Multiprocessador Philco Pmp1600 Pmp1600 Glass",
@@ -2607,6 +2663,20 @@
       "pedido_id": "2000015854615280",
       "comprador": "ALEXANDROKRAINSKICAVALHEIRO",
       "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "ABQ73301301",
+      "produto": "Display Evaporadora Alojamento Cabo Botão LG Abq73301301 127/220v",
+      "quantidade": 1,
+      "valor": 225,
+      "foto": "",
+      "item_id": "MLB4403522855",
+      "shipping_id": "46795178336",
+      "envio": "Full",
+      "data": "2026-04-06T08:07:40.000-04:00",
+      "pedido_id": "2000015854599956",
+      "comprador": "ABATEDOURODEAVESIDEALLTD",
+      "pagamento": "ticket"
     },
     {
       "sku": "KITSM1097",
