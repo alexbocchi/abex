@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-06T17:11:04.906Z",
+  "atualizado_em": "2026-04-06T17:21:04.693Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 260,
+  "total_pedidos": 263,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "",
+      "item_id": "MLB3935360223",
+      "shipping_id": "46797352804",
+      "envio": "Full",
+      "data": "2026-04-06T13:14:26.000-04:00",
+      "pedido_id": "2000015859063704",
+      "comprador": "SITH8050428",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DB31-00636C",
+      "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
+      "quantidade": 1,
+      "valor": 258,
+      "foto": "",
+      "item_id": "MLB4145061133",
+      "shipping_id": "46797078567",
+      "envio": "Full",
+      "data": "2026-04-06T13:13:16.000-04:00",
+      "pedido_id": "2000015859074274",
+      "comprador": "DACA2956470",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB32-00274A",
+      "produto": "Sensor Duplo Evaporadora Ar Condicionado Samsung Ar12tvhzdwk",
+      "quantidade": 1,
+      "valor": 61.05,
+      "foto": "",
+      "item_id": "MLB3767040589",
+      "shipping_id": "46797340214",
+      "envio": "Flex",
+      "data": "2026-04-06T13:12:55.000-04:00",
+      "pedido_id": "2000015859056932",
+      "comprador": "ORDIS00",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC64-03235A",
       "produto": "Borracha Da Porta Lava E Seca Samsung Wd11m4453jw",
