@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-06T22:11:20.649Z",
+  "atualizado_em": "2026-04-06T22:20:34.950Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 429,
+  "total_pedidos": 433,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wf106",
+      "quantidade": 1,
+      "valor": 42.11,
+      "foto": "",
+      "item_id": "MLB5363470676",
+      "shipping_id": "46799647396",
+      "envio": "Flex",
+      "data": "2026-04-06T18:12:04.000-04:00",
+      "pedido_id": "2000015863864898",
+      "comprador": "MRCIAFERREIRADOURADOLEITEL",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit Amortecedor Lava E Seca LG 4901er2003a Wd1485 Wd1403 C/3",
+      "quantidade": 1,
+      "valor": 66.02,
+      "foto": "",
+      "item_id": "MLB5339934854",
+      "shipping_id": "46799355757",
+      "envio": "Full",
+      "data": "2026-04-06T18:10:37.000-04:00",
+      "pedido_id": "2000015863854698",
+      "comprador": "GONALVESJANIELSON",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd8854rjf Original",
+      "quantidade": 1,
+      "valor": 48,
+      "foto": "",
+      "item_id": "MLB1934400391",
+      "shipping_id": "46799351059",
+      "envio": "Full",
+      "data": "2026-04-06T18:09:55.000-04:00",
+      "pedido_id": "2000015863848534",
+      "comprador": "EMPORIODAS LÃS",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC97-02250F",
       "produto": "Mangueira De Saida Lava E Seca Samsung Wd106",
@@ -1783,20 +1825,6 @@
       "pagamento": "account_money"
     },
     {
-      "sku": "KITLG0002",
-      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
-      "quantidade": 3,
-      "valor": 64.62,
-      "foto": "",
-      "item_id": "MLB3950524903",
-      "shipping_id": "46797620259",
-      "envio": "Full",
-      "data": "2026-04-06T14:22:05.000-04:00",
-      "pedido_id": "2000015860207376",
-      "comprador": "AS20241029190411",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "DC64-01538A",
       "produto": "Trava Da Porta Lava E Seca Samsung 220v Dc64-01538a",
       "quantidade": 3,
@@ -1807,6 +1835,20 @@
       "envio": "Full",
       "data": "2026-04-06T14:22:05.000-04:00",
       "pedido_id": "2000015860201924",
+      "comprador": "AS20241029190411",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 3,
+      "valor": 64.62,
+      "foto": "",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46797620259",
+      "envio": "Full",
+      "data": "2026-04-06T14:22:05.000-04:00",
+      "pedido_id": "2000015860207376",
       "comprador": "AS20241029190411",
       "pagamento": "account_money"
     },
@@ -4160,6 +4202,20 @@
       "data": "2026-04-06T09:38:04.000-04:00",
       "pedido_id": "2000015855754480",
       "comprador": "RODRIGORADIO77",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM0022",
+      "produto": "Trava Da Porta + Puxador Lava E Seca Samsung 110v Wd106 Wd10",
+      "quantidade": 1,
+      "valor": 78.9,
+      "foto": "",
+      "item_id": "MLB3917442465",
+      "shipping_id": "46795743248",
+      "envio": "Flex",
+      "data": "2026-04-06T09:37:59.000-04:00",
+      "pedido_id": "2000015855733830",
+      "comprador": "LUCASPETRIAGGI",
       "pagamento": "credit_card"
     },
     {
