@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-06T23:31:26.937Z",
+  "atualizado_em": "2026-04-06T23:41:26.422Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 481,
+  "total_pedidos": 484,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava De Tampa Samsung Lava E Seca Dc64-01538a 220v Modelos Compatíveis",
+      "quantidade": 1,
+      "valor": 45.49,
+      "foto": "",
+      "item_id": "MLB5476650842",
+      "shipping_id": "46800278290",
+      "envio": "Full",
+      "data": "2026-04-06T19:38:09.000-04:00",
+      "pedido_id": "2000015865249414",
+      "comprador": "PERUZZOARI20220131233239",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC61-10673C",
+      "produto": "Tampa De Escoamento De Água Lava E Seca Samsung Dc61-10673c",
+      "quantidade": 1,
+      "valor": 25,
+      "foto": "",
+      "item_id": "MLB2023934824",
+      "shipping_id": "46800278022",
+      "envio": "Coleta",
+      "data": "2026-04-06T19:37:58.000-04:00",
+      "pedido_id": "2000015865247928",
+      "comprador": "MAURICIOFERREIRAMAZZONI",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung Wd8854 Wd0854 Wd11m 110v",
+      "quantidade": 1,
+      "valor": 33.5,
+      "foto": "",
+      "item_id": "MLB5476596114",
+      "shipping_id": "46799992787",
+      "envio": "Full",
+      "data": "2026-04-06T19:36:44.000-04:00",
+      "pedido_id": "2000015865260308",
+      "comprador": "CHVI7323157",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "EAU61383506",
       "produto": "Eletrobomba Lava E Seca LG 127v Originial Eau62263306 Nova",
@@ -2497,20 +2539,6 @@
       "pagamento": "account_money"
     },
     {
-      "sku": "DC64-01538A",
-      "produto": "Trava Da Porta Lava E Seca Samsung 220v Dc64-01538a",
-      "quantidade": 3,
-      "valor": 28.35,
-      "foto": "",
-      "item_id": "MLB3951125433",
-      "shipping_id": "46797620259",
-      "envio": "Full",
-      "data": "2026-04-06T14:22:05.000-04:00",
-      "pedido_id": "2000015860201924",
-      "comprador": "AS20241029190411",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "KITLG0002",
       "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
       "quantidade": 3,
@@ -2521,6 +2549,20 @@
       "envio": "Full",
       "data": "2026-04-06T14:22:05.000-04:00",
       "pedido_id": "2000015860207376",
+      "comprador": "AS20241029190411",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC64-01538A",
+      "produto": "Trava Da Porta Lava E Seca Samsung 220v Dc64-01538a",
+      "quantidade": 3,
+      "valor": 28.35,
+      "foto": "",
+      "item_id": "MLB3951125433",
+      "shipping_id": "46797620259",
+      "envio": "Full",
+      "data": "2026-04-06T14:22:05.000-04:00",
+      "pedido_id": "2000015860201924",
       "comprador": "AS20241029190411",
       "pagamento": "account_money"
     },
