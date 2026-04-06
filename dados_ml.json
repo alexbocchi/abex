@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-04-06T21:21:18.784Z",
+  "atualizado_em": "2026-04-06T21:31:18.576Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 405,
+  "total_pedidos": 410,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "5900AR1266A",
+      "produto": "Hélice Condensadora Para Ar Condicionado LG 9000 Original",
+      "quantidade": 1,
+      "valor": 171.6,
+      "foto": "",
+      "item_id": "MLB1863977646",
+      "shipping_id": "46799337816",
+      "envio": "Full",
+      "data": "2026-04-06T17:29:49.000-04:00",
+      "pedido_id": "2000015863212050",
+      "comprador": "DENISVNOGUEIRA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DA31-00146B",
+      "produto": "Motor Ventilador Refrigerador Side Samsung Da31-00146b Nf 127/220v",
+      "quantidade": 1,
+      "valor": 160,
+      "foto": "",
+      "item_id": "MLB1659869482",
+      "shipping_id": "46799049727",
+      "envio": "Coleta",
+      "data": "2026-04-06T17:27:57.000-04:00",
+      "pedido_id": "2000015863182700",
+      "comprador": "MASSONCLÁUDIA20230424162717",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EAU61383504",
+      "produto": "Eletrobomba Lava Seca LG 220v Original Eau62263304 220v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3692715870",
+      "shipping_id": "46799319780",
+      "envio": "Full",
+      "data": "2026-04-06T17:27:21.000-04:00",
+      "pedido_id": "2000015863121270",
+      "comprador": "DUARTE1978",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU61383504",
+      "produto": "Eletrobomba Lava Seca LG 220v Original Eau62263304 220v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3692715870",
+      "shipping_id": "46799028733",
+      "envio": "Full",
+      "data": "2026-04-06T17:25:07.000-04:00",
+      "pedido_id": "2000015863093286",
+      "comprador": "DUARTE1978",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "768586",
       "produto": "Jarra Cafeteira Elétrica Britânia Bcf15i Preto",
@@ -1557,6 +1613,20 @@
       "pedido_id": "2000015859989540",
       "comprador": "THIAGAO2001",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "ABQ73301301",
+      "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "",
+      "item_id": "MLB5677380018",
+      "shipping_id": "46799271708",
+      "envio": "Full",
+      "data": "2026-04-06T14:08:19.000-04:00",
+      "pedido_id": "2000015859963336",
+      "comprador": "RASA6525167",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "25906088",
