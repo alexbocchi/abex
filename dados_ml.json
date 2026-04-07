@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-07T10:20:38.640Z",
+  "atualizado_em": "2026-04-07T10:30:38.891Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 29,
+  "total_pedidos": 31,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ARAGSD100120",
+      "produto": "Sensor Defrost Degelo Refrigerador Panasonic Original",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_757286-MLB100967243432_122025-O.jpg",
+      "item_id": "MLB1742684424",
+      "shipping_id": "46802470654",
+      "envio": "Full",
+      "data": "2026-04-07T06:21:18.000-04:00",
+      "pedido_id": "2000015870234234",
+      "comprador": "CLEONESERPA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB93-10918C",
+      "produto": "Chicote Placa Evaporadora Ar Condicionado Samsung",
+      "quantidade": 1,
+      "valor": 75,
+      "foto": "https://http2.mlstatic.com/D_749011-MLA95981085532_102025-O.jpg",
+      "item_id": "MLB5299192580",
+      "shipping_id": "46802470482",
+      "envio": "Coleta",
+      "data": "2026-04-07T06:21:16.000-04:00",
+      "pedido_id": "2000015870232406",
+      "comprador": "ROLA8302795",
+      "pagamento": "account_money"
+    },
     {
       "sku": "DC64-03235A",
       "produto": "Borracha Da Porta Lava E Seca Samsung Original Wd10m44530w",
