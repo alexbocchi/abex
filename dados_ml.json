@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-07T14:00:55.244Z",
+  "atualizado_em": "2026-04-07T14:10:55.056Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 169,
+  "total_pedidos": 172,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC31-00181C",
+      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Wd11m44530w",
+      "quantidade": 1,
+      "valor": 93.67,
+      "foto": "https://http2.mlstatic.com/D_885958-MLB107251988191_022026-O.jpg",
+      "item_id": "MLB1786776711",
+      "shipping_id": "46803790746",
+      "envio": "Full",
+      "data": "2026-04-07T10:07:34.000-04:00",
+      "pedido_id": "2000015872821670",
+      "comprador": "FRBR1402747",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
+      "quantidade": 1,
+      "valor": 69.73,
+      "foto": "https://http2.mlstatic.com/D_621012-MLA96402086289_102025-O.jpg",
+      "item_id": "MLB4106668967",
+      "shipping_id": "46803515165",
+      "envio": "Flex",
+      "data": "2026-04-07T10:07:20.000-04:00",
+      "pedido_id": "2000015872817648",
+      "comprador": "SAHE9743032",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EAU61383506",
+      "produto": "Bomba De Drenagem Da Máquina De Lavar Do Plástico LG Eau61383506 127v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_715996-MLA99453481652_112025-O.jpg",
+      "item_id": "MLB3909444153",
+      "shipping_id": "46803739236",
+      "envio": "Flex",
+      "data": "2026-04-07T10:00:43.000-04:00",
+      "pedido_id": "2000015872736380",
+      "comprador": "CRISTINARODRIGUES835",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITTERMOSTATO",
       "produto": "Kit Termostatos Lava E Seca Samsung Operacional E Segurança",
@@ -369,20 +411,6 @@
       "pagamento": "account_money"
     },
     {
-      "sku": "25906088",
-      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
-      "quantidade": 1,
-      "valor": 198,
-      "foto": "https://http2.mlstatic.com/D_697027-MLA99594896114_122025-O.jpg",
-      "item_id": "MLB5676655880",
-      "shipping_id": "46803222291",
-      "envio": "Full",
-      "data": "2026-04-07T09:29:32.000-04:00",
-      "pedido_id": "2000015872239806",
-      "comprador": "ROMATEC_INFOR",
-      "pagamento": "account_money"
-    },
-    {
       "sku": "25906085",
       "produto": "Motor Ventilador Condensadora Split 220v Springer 12000 Btus",
       "quantidade": 2,
@@ -393,6 +421,20 @@
       "envio": "Full",
       "data": "2026-04-07T09:29:32.000-04:00",
       "pedido_id": "2000015872243580",
+      "comprador": "ROMATEC_INFOR",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
+      "quantidade": 1,
+      "valor": 198,
+      "foto": "https://http2.mlstatic.com/D_697027-MLA99594896114_122025-O.jpg",
+      "item_id": "MLB5676655880",
+      "shipping_id": "46803222291",
+      "envio": "Full",
+      "data": "2026-04-07T09:29:32.000-04:00",
+      "pedido_id": "2000015872239806",
       "comprador": "ROMATEC_INFOR",
       "pagamento": "account_money"
     },
