@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-07T22:11:26.001Z",
+  "atualizado_em": "2026-04-07T22:21:27.303Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 487,
+  "total_pedidos": 488,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 74.7,
+      "foto": "",
+      "item_id": "MLB1584616358",
+      "shipping_id": "46807701484",
+      "envio": "Full",
+      "data": "2026-04-07T18:16:27.000-04:00",
+      "pedido_id": "2000015881002210",
+      "comprador": "ALIRIOBATISTASOBRINHO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "761321",
+      "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
+      "quantidade": 1,
+      "valor": 52.73,
+      "foto": "",
+      "item_id": "MLB6419003916",
+      "shipping_id": "46807660182",
+      "envio": "Full",
+      "data": "2026-04-07T18:10:47.000-04:00",
+      "pedido_id": "2000015880891602",
+      "comprador": "PEDI4432038",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC62-00233C",
       "produto": "Válvula Entrada De Água Tripla Samsung 127v Lava E Seca Wd856uhsasd",
@@ -353,20 +381,6 @@
       "pedido_id": "2000015880242752",
       "comprador": "JATS1973",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC64-01602A",
-      "produto": "Guarnição Borracha Porta Lavadora Samsung Wf106u4sawq",
-      "quantidade": 1,
-      "valor": 280,
-      "foto": "",
-      "item_id": "MLB1874380288",
-      "shipping_id": "46807077639",
-      "envio": "Full",
-      "data": "2026-04-07T17:28:17.000-04:00",
-      "pedido_id": "2000015880244618",
-      "comprador": "JLAERCIOSANTOS",
-      "pagamento": "account_money"
     },
     {
       "sku": "AKB75215403",
