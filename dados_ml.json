@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-07T23:01:26.577Z",
+  "atualizado_em": "2026-04-07T23:11:26.718Z",
   "fonte": "Mercado Livre",
   "total_pedidos": 500,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906088",
+      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier 220v",
+      "quantidade": 1,
+      "valor": 196.5,
+      "foto": "",
+      "item_id": "MLB5173925130",
+      "shipping_id": "46807837833",
+      "envio": "Full",
+      "data": "2026-04-07T19:09:51.000-04:00",
+      "pedido_id": "2000015881902206",
+      "comprador": "EE20241219153316",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DB31-00371A",
+      "produto": "Motor Swing Aleta Ar Condicionado Samsung Aqv09 Aqv12 Origin",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "",
+      "item_id": "MLB1991061000",
+      "shipping_id": "46808085998",
+      "envio": "Coleta",
+      "data": "2026-04-07T19:06:49.000-04:00",
+      "pedido_id": "2000015881821724",
+      "comprador": "BOCA2211700",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KIT1SM1117",
       "produto": "Kit Puxador Da Porta Lavadora Lava E Seca Samsung Original",
@@ -6975,34 +7003,6 @@
       "pedido_id": "2000015870064986",
       "comprador": "5520250430081037",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "EBF61315802",
-      "produto": "Trava Da Porta Lavadora Lava Seca LG Fv5011wg4 Original 110v",
-      "quantidade": 1,
-      "valor": 70,
-      "foto": "",
-      "item_id": "MLB5249744440",
-      "shipping_id": "46802101001",
-      "envio": "Full",
-      "data": "2026-04-07T05:38:49.000-04:00",
-      "pedido_id": "2000015870044638",
-      "comprador": "JOICEMARADAROCHA",
-      "pagamento": "credit_card"
-    },
-    {
-      "sku": "761321",
-      "produto": "Jarra Para Cafeteira Philco Pcf38d Pcfd38v Pcf38t Pcf38l Preta",
-      "quantidade": 1,
-      "valor": 52.73,
-      "foto": "",
-      "item_id": "MLB6419003916",
-      "shipping_id": "46802364482",
-      "envio": "Flex",
-      "data": "2026-04-07T05:30:46.000-04:00",
-      "pedido_id": "2000015870012808",
-      "comprador": "SIMONEURIAS12",
-      "pagamento": "bank_transfer"
     }
   ]
 }
