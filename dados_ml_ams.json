@@ -1,8 +1,78 @@
 {
-  "atualizado_em": "",
+  "atualizado_em": "2026-04-07T21:19:09.592Z",
   "fonte": "Mercado Livre",
-  "conta": "AMS",
-  "total_pedidos": 0,
+  "total_pedidos": 5,
   "produtos": [],
-  "pedidos": []
+  "pedidos": [
+    {
+      "sku": "740985",
+      "produto": "Bocal Piso Aspirador Ciclone Force Pas06 Philco",
+      "quantidade": 1,
+      "valor": 59.9,
+      "foto": "",
+      "item_id": "MLB3663767149",
+      "shipping_id": "46807018120",
+      "envio": "N/A",
+      "data": "2026-04-07T16:42:25.000-04:00",
+      "pedido_id": "2000015879536246",
+      "comprador": "VAPMAGIC",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "K-1028E",
+      "produto": "Controle Universal Ar Condicionado Springer Midea Carrier Branco",
+      "quantidade": 1,
+      "valor": 37,
+      "foto": "",
+      "item_id": "MLB3907680923",
+      "shipping_id": "46805803909",
+      "envio": "N/A",
+      "data": "2026-04-07T14:44:14.000-04:00",
+      "pedido_id": "2000015877619482",
+      "comprador": "BRUNEIXOM",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "ARAGFA200031-CS",
+      "produto": "Cooler Ventilador Interno Refrigerador Panasonic Original Nf",
+      "quantidade": 1,
+      "valor": 147,
+      "foto": "",
+      "item_id": "MLB5275398370",
+      "shipping_id": "46804341811",
+      "envio": "N/A",
+      "data": "2026-04-07T11:46:41.000-04:00",
+      "pedido_id": "2000015874553850",
+      "comprador": "MAVI9181585",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "ARAGFA200031-CS",
+      "produto": "Cooler Ventilador Interno Refrigerador Panasonic Original Nf",
+      "quantidade": 1,
+      "valor": 147,
+      "foto": "",
+      "item_id": "MLB5275398370",
+      "shipping_id": "46804268610",
+      "envio": "N/A",
+      "data": "2026-04-07T11:07:24.000-04:00",
+      "pedido_id": "2000015873846144",
+      "comprador": "REIS101112",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "ARAGFA200031-CS",
+      "produto": "Cooler Ventilador Interno Refrigerador Panasonic Original Nf",
+      "quantidade": 1,
+      "valor": 147,
+      "foto": "",
+      "item_id": "MLB5275398370",
+      "shipping_id": "46803944961",
+      "envio": "N/A",
+      "data": "2026-04-07T11:01:06.000-04:00",
+      "pedido_id": "2000015873724942",
+      "comprador": "QQ20250509102750",
+      "pagamento": "credit_card"
+    }
+  ]
 }
