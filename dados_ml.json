@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-07T10:30:38.891Z",
+  "atualizado_em": "2026-04-07T10:40:39.223Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 31,
+  "total_pedidos": 34,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Ventilador Evaporadora Ar LG S4nq18kl3wb",
+      "quantidade": 1,
+      "valor": 217.9,
+      "foto": "https://http2.mlstatic.com/D_805496-MLA99376151044_112025-O.jpg",
+      "item_id": "MLB4135368041",
+      "shipping_id": "46802235681",
+      "envio": "Full",
+      "data": "2026-04-07T06:34:31.000-04:00",
+      "pedido_id": "2000015870294736",
+      "comprador": "MARCELO BARBOZZA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "AKB76045004",
+      "produto": "Controle Smart Magic LG Akb76043204 Com Nfc Alexa Tvs 2023 Preto",
+      "quantidade": 1,
+      "valor": 180,
+      "foto": "https://http2.mlstatic.com/D_947200-MLA99933341551_112025-O.jpg",
+      "item_id": "MLB5327184908",
+      "shipping_id": "46802231497",
+      "envio": "Full",
+      "data": "2026-04-07T06:32:59.000-04:00",
+      "pedido_id": "2000015870275540",
+      "comprador": "LOPE20240427094744",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
+      "quantidade": 1,
+      "valor": 27.72,
+      "foto": "https://http2.mlstatic.com/D_961117-MLA102610137716_122025-O.jpg",
+      "item_id": "MLB4041539053",
+      "shipping_id": "46802500856",
+      "envio": "Full",
+      "data": "2026-04-07T06:31:21.000-04:00",
+      "pedido_id": "2000015870281414",
+      "comprador": "CAAN1185004",
+      "pagamento": "account_money"
+    },
     {
       "sku": "ARAGSD100120",
       "produto": "Sensor Defrost Degelo Refrigerador Panasonic Original",
