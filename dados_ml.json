@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-07T11:10:40.873Z",
+  "atualizado_em": "2026-04-07T11:20:41.543Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 48,
+  "total_pedidos": 51,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "530626065",
+      "produto": "Serra Copo Diamantada 65mm Braskoki Para Alvenaria E Cerâmica",
+      "quantidade": 1,
+      "valor": 231,
+      "foto": "https://http2.mlstatic.com/D_840067-MLA99451139698_112025-O.jpg",
+      "item_id": "MLB5137918226",
+      "shipping_id": "46802670168",
+      "envio": "Flex",
+      "data": "2026-04-07T07:17:40.000-04:00",
+      "pedido_id": "2000015870587884",
+      "comprador": "BRPA1423841",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC62-00214Q",
+      "produto": "Valvula 4 Vias Lava E Seca Samsung Wd90j6410aw Original 110v",
+      "quantidade": 1,
+      "valor": 155,
+      "foto": "https://http2.mlstatic.com/D_871435-MLB70790910796_082023-O.jpg",
+      "item_id": "MLB1809270546",
+      "shipping_id": "46802657438",
+      "envio": "Full",
+      "data": "2026-04-07T07:14:49.000-04:00",
+      "pedido_id": "2000015870580902",
+      "comprador": "MAICONGUEDES27",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU62004010",
+      "produto": "Motor Evaporadora LG Dual Inverter 9000 A 24000 Btu",
+      "quantidade": 1,
+      "valor": 207.08,
+      "foto": "https://http2.mlstatic.com/D_779280-MLA109232688420_042026-O.jpg",
+      "item_id": "MLB4057130417",
+      "shipping_id": "46802381167",
+      "envio": "Full",
+      "data": "2026-04-07T07:14:22.000-04:00",
+      "pedido_id": "2000015870578826",
+      "comprador": "RJO_OLIVEIRA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITGUARNICAO01",
       "produto": "Guarnição Borracha Vedação Porta Samsung Lava E Seca Wd11m E Modelos",
