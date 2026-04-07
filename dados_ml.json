@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-07T10:10:38.312Z",
+  "atualizado_em": "2026-04-07T10:20:38.640Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 26,
+  "total_pedidos": 29,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Lava E Seca Samsung Original Wd10m44530w",
+      "quantidade": 1,
+      "valor": 125,
+      "foto": "https://http2.mlstatic.com/D_862644-MLB106679807944_022026-O.jpg",
+      "item_id": "MLB1766425934",
+      "shipping_id": "46802468152",
+      "envio": "Full",
+      "data": "2026-04-07T06:20:16.000-04:00",
+      "pedido_id": "2000015870207448",
+      "comprador": "DJ20240617082329",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "020219",
+      "produto": "Suporte Faca Para Multiprocessador Britânia Bmp900p Original",
+      "quantidade": 1,
+      "valor": 25.5,
+      "foto": "https://http2.mlstatic.com/D_721001-MLB104967366823_012026-O.jpg",
+      "item_id": "MLB5286753890",
+      "shipping_id": "46802191591",
+      "envio": "Coleta",
+      "data": "2026-04-07T06:19:42.000-04:00",
+      "pedido_id": "2000015870224058",
+      "comprador": "SARADOSSANTOSJUSTINO",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Nota Fiscal",
+      "quantidade": 1,
+      "valor": 55,
+      "foto": "https://http2.mlstatic.com/D_679004-MLB74664482446_022024-O.jpg",
+      "item_id": "MLB1470191674",
+      "shipping_id": "46802463006",
+      "envio": "Flex",
+      "data": "2026-04-07T06:16:30.000-04:00",
+      "pedido_id": "2000015870204512",
+      "comprador": "HARONRIZZA",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "783198",
       "produto": "Filtro Permanente Cafeteira Britânia Cp30 Cp38 Ph30 Original",
