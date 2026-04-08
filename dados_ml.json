@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-04-08T19:31:10.968Z",
+  "atualizado_em": "2026-04-08T19:41:12.181Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 340,
+  "total_pedidos": 345,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "780540",
+      "produto": "Jarra De Reposição Para Cafeteira Philco Ph14 Inox / Ph14 Plus Preto",
+      "quantidade": 1,
+      "valor": 25.2,
+      "foto": "",
+      "item_id": "MLB4516108005",
+      "shipping_id": "46814523972",
+      "envio": "Flex",
+      "data": "2026-04-08T15:35:06.000-04:00",
+      "pedido_id": "2000015895479014",
+      "comprador": "RE20240722165752",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DC31-00181C",
+      "produto": "Bomba De Drenagem Lavadora E Lava E Seca Samsung Original Nf",
+      "quantidade": 1,
+      "valor": 121.8,
+      "foto": "",
+      "item_id": "MLB1491074149",
+      "shipping_id": "46814245023",
+      "envio": "Flex",
+      "data": "2026-04-08T15:34:48.000-04:00",
+      "pedido_id": "2000015895467376",
+      "comprador": "FERNANDOHENRIQUEDOSSANTOSNA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB93-11009A",
+      "produto": "Placa Receptora Ar Condicionado Samsung Original 9000 12000 220v",
+      "quantidade": 1,
+      "valor": 130,
+      "foto": "",
+      "item_id": "MLB1859903136",
+      "shipping_id": "46814241821",
+      "envio": "Full",
+      "data": "2026-04-08T15:34:24.000-04:00",
+      "pedido_id": "2000015895488120",
+      "comprador": "ELOIZE_SALVI",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "ABQ74883808",
+      "produto": "Placa Receptora Ar Condicionado LG 9000 S4nq09wa51a Original 127/220v Abq74883808",
+      "quantidade": 1,
+      "valor": 205,
+      "foto": "",
+      "item_id": "MLB4806728174",
+      "shipping_id": "46814224251",
+      "envio": "Full",
+      "data": "2026-04-08T15:32:17.000-04:00",
+      "pedido_id": "2000015895421636",
+      "comprador": "UEDSONFELIXRODRIGUES",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC62-00233B",
       "produto": "Valvula Samsung Dc62-00233b 3 Vias Entrada De Agua Lavadora E Lava E Seca 220v",
@@ -16,6 +72,20 @@
       "data": "2026-04-08T15:27:56.000-04:00",
       "pedido_id": "2000015895364936",
       "comprador": "NAYANNALCANTARA",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
+      "quantidade": 1,
+      "valor": 198,
+      "foto": "",
+      "item_id": "MLB5676655880",
+      "shipping_id": "46814146165",
+      "envio": "Full",
+      "data": "2026-04-08T15:22:44.000-04:00",
+      "pedido_id": "2000015895269308",
+      "comprador": "MANUTENCAO2025",
       "pagamento": "bank_transfer"
     },
     {
