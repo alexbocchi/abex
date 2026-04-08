@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-08T19:41:12.181Z",
+  "atualizado_em": "2026-04-08T19:51:13.172Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 345,
+  "total_pedidos": 348,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITLG0002",
+      "produto": "Kit 3 Amortecedores Lava E Seca LG 4901er2003a Wd1485 Wd1403",
+      "quantidade": 1,
+      "valor": 64.62,
+      "foto": "",
+      "item_id": "MLB3950524903",
+      "shipping_id": "46814635764",
+      "envio": "Full",
+      "data": "2026-04-08T15:50:09.000-04:00",
+      "pedido_id": "2000015895711556",
+      "comprador": "TOMAZIKLEBERLUIZ",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1077",
+      "produto": "Pé Regulável Lava E Seca E Lavadora Samsung 4 Peças",
+      "quantidade": 3,
+      "valor": 27.32,
+      "foto": "",
+      "item_id": "MLB5461527358",
+      "shipping_id": "46814562814",
+      "envio": "Full",
+      "data": "2026-04-08T15:40:31.000-04:00",
+      "pedido_id": "2000015895577414",
+      "comprador": "ALVESSIDRAQUE",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1077",
+      "produto": "Pé Regulável Lava E Seca E Lavadora Samsung 4 Peças",
+      "quantidade": 1,
+      "valor": 27.32,
+      "foto": "",
+      "item_id": "MLB5461527358",
+      "shipping_id": "46814562528",
+      "envio": "Full",
+      "data": "2026-04-08T15:40:31.000-04:00",
+      "pedido_id": "2000015895592256",
+      "comprador": "ALVESSIDRAQUE",
+      "pagamento": "account_money"
+    },
     {
       "sku": "780540",
       "produto": "Jarra De Reposição Para Cafeteira Philco Ph14 Inox / Ph14 Plus Preto",
