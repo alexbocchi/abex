@@ -1,9 +1,65 @@
 {
-  "atualizado_em": "2026-04-08T17:21:05.646Z",
+  "atualizado_em": "2026-04-08T17:31:07.628Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 274,
+  "total_pedidos": 278,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3920495205",
+      "shipping_id": "46813501456",
+      "envio": "Full",
+      "data": "2026-04-08T13:28:55.000-04:00",
+      "pedido_id": "2000015893406138",
+      "comprador": "CAIQUEBERSERK",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "780540",
+      "produto": "Jarra De Reposição Para Cafeteira Philco Ph14 Inox / Ph14 Plus Preto",
+      "quantidade": 1,
+      "valor": 25.2,
+      "foto": "",
+      "item_id": "MLB4516108005",
+      "shipping_id": "46813223249",
+      "envio": "Coleta",
+      "data": "2026-04-08T13:28:16.000-04:00",
+      "pedido_id": "2000015893384386",
+      "comprador": "JOAO FRACARO",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "EAU62983004",
+      "produto": "Motor Evaporadora LG Inverter Original 12/18/24 Eau62004010 127/220v Eau62004010",
+      "quantidade": 1,
+      "valor": 217.9,
+      "foto": "",
+      "item_id": "MLB1861305494",
+      "shipping_id": "46813469992",
+      "envio": "Full",
+      "data": "2026-04-08T13:25:03.000-04:00",
+      "pedido_id": "2000015893313378",
+      "comprador": "EDSONDUARTE128",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1077",
+      "produto": "Pé Regulável Lava E Seca E Lavadora Samsung 4 Peças",
+      "quantidade": 1,
+      "valor": 27.32,
+      "foto": "",
+      "item_id": "MLB5461527358",
+      "shipping_id": "46813161211",
+      "envio": "Full",
+      "data": "2026-04-08T13:20:27.000-04:00",
+      "pedido_id": "2000015893258694",
+      "comprador": "GABRIELTORRESGBR",
+      "pagamento": "account_money"
+    },
     {
       "sku": "780540",
       "produto": "Jarra De Reposição Para Cafeteira Philco Ph14 Inox / Ph14 Plus Preto",
@@ -87,6 +143,20 @@
       "pedido_id": "2000015893161312",
       "comprador": "MARTINSGEAN45",
       "pagamento": "credit_card"
+    },
+    {
+      "sku": "DB31-00680A",
+      "produto": "Motor Da Evaporadora Ar Condicionado Samsung Max Plus",
+      "quantidade": 1,
+      "valor": 280,
+      "foto": "",
+      "item_id": "MLB1464731829",
+      "shipping_id": "46813445022",
+      "envio": "Full",
+      "data": "2026-04-08T13:15:21.000-04:00",
+      "pedido_id": "2000015893159022",
+      "comprador": "JOSCICLECIOJOAQUIMDEOLIVEIRA",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DC31-00181C",
@@ -1515,20 +1585,6 @@
       "pedido_id": "2000015890813110",
       "comprador": "SL20241212180442",
       "pagamento": "account_money"
-    },
-    {
-      "sku": "25906088",
-      "produto": "Motor Condensadora 18000 A 30000 Btus Springer Midea Carrier",
-      "quantidade": 1,
-      "valor": 196.5,
-      "foto": "",
-      "item_id": "MLB5173924726",
-      "shipping_id": "46812292556",
-      "envio": "Full",
-      "data": "2026-04-08T10:52:26.000-04:00",
-      "pedido_id": "2000015890785334",
-      "comprador": "VALDIRPEDRODASILVASILVA",
-      "pagamento": "bank_transfer"
     },
     {
       "sku": "ARAGSD100120",
