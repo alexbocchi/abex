@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-08T17:31:07.628Z",
+  "atualizado_em": "2026-04-08T17:41:06.257Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 278,
+  "total_pedidos": 281,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "ARAGSD100120",
+      "produto": "Sensor Degelo 2k Refrigerador Panasonic Nr-bt47 Nr-bt51",
+      "quantidade": 1,
+      "valor": 49.87,
+      "foto": "",
+      "item_id": "MLB3976738079",
+      "shipping_id": "46813562154",
+      "envio": "Full",
+      "data": "2026-04-08T13:36:19.000-04:00",
+      "pedido_id": "2000015893528168",
+      "comprador": "DEMA5962048",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Wd8854rjf1",
+      "quantidade": 1,
+      "valor": 45,
+      "foto": "",
+      "item_id": "MLB5973397360",
+      "shipping_id": "46813546484",
+      "envio": "Full",
+      "data": "2026-04-08T13:34:21.000-04:00",
+      "pedido_id": "2000015893473140",
+      "comprador": "OLCA5659504",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "764308",
+      "produto": "Filtro Hepa Reservatório Aspirador Britania Dust Off Bas1000",
+      "quantidade": 1,
+      "valor": 32.2,
+      "foto": "",
+      "item_id": "MLB5962641410",
+      "shipping_id": "46813539816",
+      "envio": "Flex",
+      "data": "2026-04-08T13:33:30.000-04:00",
+      "pedido_id": "2000015893466822",
+      "comprador": "VITORJOÃO20230314100730",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "739388",
       "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v/pas4000",
