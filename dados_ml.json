@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-08T18:31:07.693Z",
+  "atualizado_em": "2026-04-08T18:41:08.040Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 309,
+  "total_pedidos": 311,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "",
+      "item_id": "MLB5347106848",
+      "shipping_id": "46813780195",
+      "envio": "Full",
+      "data": "2026-04-08T14:36:48.000-04:00",
+      "pedido_id": "2000015894532692",
+      "comprador": "FBGCDHAEDBGCAHFE20230216150349",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "ADP67778501",
+      "produto": "Turbina Evaporadora LG Usnw242csg3 Adp67778501 !!original!!",
+      "quantidade": 1,
+      "valor": 620,
+      "foto": "",
+      "item_id": "MLB5093343982",
+      "shipping_id": "46814014086",
+      "envio": "Coleta",
+      "data": "2026-04-08T14:31:57.000-04:00",
+      "pedido_id": "2000015894464286",
+      "comprador": "NATHHTEIXEIRA",
+      "pagamento": "account_money"
+    },
     {
       "sku": "KITSM1097",
       "produto": "Kit 2 Amortecedores Do Cesto Lava E Seca Samsung Original Nf",
