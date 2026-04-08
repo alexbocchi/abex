@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-08T19:11:12.762Z",
+  "atualizado_em": "2026-04-08T19:21:10.430Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 333,
+  "total_pedidos": 336,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB96-13311A",
+      "produto": "Serpentina Evaporadora Ar Samsung Db96-13311a 9.000 12.000",
+      "quantidade": 1,
+      "valor": 999.9,
+      "foto": "",
+      "item_id": "MLB3913103471",
+      "shipping_id": "46814105079",
+      "envio": "Coleta",
+      "data": "2026-04-08T15:17:22.000-04:00",
+      "pedido_id": "2000015895198688",
+      "comprador": "DD20240922164204",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC97-02250F",
+      "produto": "Mangueira De Saida Drenagem Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 35.5,
+      "foto": "",
+      "item_id": "MLB1358522943",
+      "shipping_id": "46814093111",
+      "envio": "Full",
+      "data": "2026-04-08T15:15:46.000-04:00",
+      "pedido_id": "2000015895145826",
+      "comprador": "ARASERVS",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITGUARNICAO01",
       "produto": "Guarnição Porta Lava E Seca Samsung Wd10 Wd11 Wd85",
@@ -241,6 +269,20 @@
       "pedido_id": "2000015894693110",
       "comprador": "LUCASNATANIELDOSSANTOS",
       "pagamento": "account_money"
+    },
+    {
+      "sku": "25906088",
+      "produto": "Motor Ventilador Para Ar Condicionado Springer Carrier Midea 220v",
+      "quantidade": 1,
+      "valor": 198,
+      "foto": "",
+      "item_id": "MLB5676655880",
+      "shipping_id": "46813857181",
+      "envio": "Full",
+      "data": "2026-04-08T14:46:11.000-04:00",
+      "pedido_id": "2000015894681046",
+      "comprador": "MANUTENCAO2025",
+      "pagamento": "bank_transfer"
     },
     {
       "sku": "DA32-00033D",
