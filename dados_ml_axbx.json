@@ -1,8 +1,92 @@
 {
-  "atualizado_em": "",
+  "atualizado_em": "2026-04-08T10:56:39.625Z",
   "fonte": "Mercado Livre",
-  "conta": "AXBX",
-  "total_pedidos": 0,
+  "total_pedidos": 6,
   "produtos": [],
-  "pedidos": []
+  "pedidos": [
+    {
+      "sku": "DC62-00233B",
+      "produto": "Valvula Samsung Dc62-00233b 3 Vias Entrada De Agua Lavadora E Lava E Seca",
+      "quantidade": 1,
+      "valor": 125,
+      "foto": "",
+      "item_id": "MLB3783596987",
+      "shipping_id": "46810734664",
+      "envio": "N/A",
+      "data": "2026-04-08T06:46:27.000-04:00",
+      "pedido_id": "2000015887704564",
+      "comprador": "WELI6375728",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Original Wf106",
+      "quantidade": 1,
+      "valor": 35,
+      "foto": "",
+      "item_id": "MLB1792119052",
+      "shipping_id": "46810724176",
+      "envio": "N/A",
+      "data": "2026-04-08T06:43:24.000-04:00",
+      "pedido_id": "2000015887684658",
+      "comprador": "MORAES_REFRI",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "7020",
+      "produto": "Registro 1/2 X 3/4 Zinco Para Lavadora 7020 Cinza",
+      "quantidade": 1,
+      "valor": 33.54,
+      "foto": "",
+      "item_id": "MLB4373423543",
+      "shipping_id": "46810405365",
+      "envio": "N/A",
+      "data": "2026-04-08T06:28:52.000-04:00",
+      "pedido_id": "2000015887606086",
+      "comprador": "F20250401100414",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "41041963",
+      "produto": "Placa Potência Lavadora Electrolux Lac16 A13611015",
+      "quantidade": 1,
+      "valor": 169.9,
+      "foto": "",
+      "item_id": "MLB6061883982",
+      "shipping_id": "46810632484",
+      "envio": "N/A",
+      "data": "2026-04-08T06:12:34.000-04:00",
+      "pedido_id": "2000015887489660",
+      "comprador": "VICTORHUGOLIMADASILVALIMA",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "KITSM1112",
+      "produto": "Kit Termostatos Lava E Seca Samsung Operacional E Segurança",
+      "quantidade": 1,
+      "valor": 49.99,
+      "foto": "",
+      "item_id": "MLB3108934914",
+      "shipping_id": "46810625594",
+      "envio": "N/A",
+      "data": "2026-04-08T06:09:59.000-04:00",
+      "pedido_id": "2000015887481434",
+      "comprador": "VITH3201879",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "W2921-28801",
+      "produto": "Valvula Dupla Lavadora Panasonic 12kg A 17kg Orig 127v",
+      "quantidade": 1,
+      "valor": 78.9,
+      "foto": "",
+      "item_id": "MLB5041355106",
+      "shipping_id": "46810480164",
+      "envio": "N/A",
+      "data": "2026-04-08T04:47:45.000-04:00",
+      "pedido_id": "2000015887240092",
+      "comprador": "PETERSON PEPE",
+      "pagamento": "bank_transfer"
+    }
+  ]
 }
