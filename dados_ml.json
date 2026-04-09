@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-09T12:00:40.848Z",
+  "atualizado_em": "2026-04-09T12:10:41.182Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 47,
+  "total_pedidos": 50,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "KITSM1090",
+      "produto": "Kit 3 Parafusos Do Eixo/tripé Lavadora E Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 22.04,
+      "foto": "https://http2.mlstatic.com/D_825975-MLB81502995862_012025-O.jpg",
+      "item_id": "MLB5243902668",
+      "shipping_id": "46818669781",
+      "envio": "Full",
+      "data": "2026-04-09T08:10:14.000-04:00",
+      "pedido_id": "2000015905076804",
+      "comprador": "GERSONELIELTHOMAZ",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "BN59-01432B",
+      "produto": "Controle Remoto Energia Solar Smart Tv Samsung Bn59-01432b",
+      "quantidade": 1,
+      "valor": 230,
+      "foto": "https://http2.mlstatic.com/D_995907-MLB80582152847_112024-O.jpg",
+      "item_id": "MLB5169940274",
+      "shipping_id": "46818931310",
+      "envio": "Flex",
+      "data": "2026-04-09T08:08:26.000-04:00",
+      "pedido_id": "2000015905039912",
+      "comprador": "LIVRARIACORDEIRO",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC64-03235A",
+      "produto": "Borracha Da Porta Guarnição Para Uso Em Lava E Seca Samsung Dc64-03235a Dc64-03235b Wd10m44530w Wd90m4453 Wd85m4453 Wd11m4473 Wd10k6410 Wd11j64e4a Wd90j6410ax Wd11k6410 Wd10j6410 Wd11a4453",
+      "quantidade": 1,
+      "valor": 135,
+      "foto": "https://http2.mlstatic.com/D_647364-MLA107566778006_032026-O.jpg",
+      "item_id": "MLB6302738812",
+      "shipping_id": "46818918070",
+      "envio": "Full",
+      "data": "2026-04-09T08:06:12.000-04:00",
+      "pedido_id": "2000015905031504",
+      "comprador": "ANDRFERREIRA842",
+      "pagamento": "account_money"
+    },
     {
       "sku": "ABQ73301301",
       "produto": "Placa Receptora Ar Condicionado LG Abq73301301 220v",
