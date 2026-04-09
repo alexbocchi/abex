@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-09T11:40:39.862Z",
+  "atualizado_em": "2026-04-09T11:50:40.195Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 40,
+  "total_pedidos": 42,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DB92-04850G",
+      "produto": "Placa Evaporadora Ar Condicionado Samsung - Db92-04850g 220v",
+      "quantidade": 1,
+      "valor": 240,
+      "foto": "https://http2.mlstatic.com/D_899387-MLB92365805894_092025-O.jpg",
+      "item_id": "MLB4210919581",
+      "shipping_id": "46818540635",
+      "envio": "Coleta",
+      "data": "2026-04-09T07:45:42.000-04:00",
+      "pedido_id": "2000015904803706",
+      "comprador": "EVANGELIODEJESUSALMEIDAGEL",
+      "pagamento": "bank_transfer"
+    },
+    {
+      "sku": "DB31-00636C",
+      "produto": "Motor Evaporadora Ar Condicionado Samsung 12000 Btus Db31-00636c",
+      "quantidade": 1,
+      "valor": 251,
+      "foto": "https://http2.mlstatic.com/D_750454-MLA99949090031_112025-O.jpg",
+      "item_id": "MLB4145061133",
+      "shipping_id": "46818532571",
+      "envio": "Full",
+      "data": "2026-04-09T07:45:05.000-04:00",
+      "pedido_id": "2000015904791814",
+      "comprador": "OLIVEIRADOSSANTOSCLEIDSON",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "KITSM0002",
       "produto": "Placa Receptora Ar Samsung Inverter 9 12 18 24.000 Btus 127/220v",
