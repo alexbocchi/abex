@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-09T13:10:45.646Z",
+  "atualizado_em": "2026-04-09T13:20:46.055Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 89,
+  "total_pedidos": 92,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "25906085",
+      "produto": "Motor Ventilador Condensa 25906085 Ar Split Springer 220v",
+      "quantidade": 2,
+      "valor": 229.5,
+      "foto": "https://http2.mlstatic.com/D_636829-MLA99441366392_112025-O.jpg",
+      "item_id": "MLB5823326684",
+      "shipping_id": "46819398466",
+      "envio": "Full",
+      "data": "2026-04-09T09:20:02.000-04:00",
+      "pedido_id": "2000015905996520",
+      "comprador": "ANACLAUDIACORDOBA",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1173",
+      "produto": "Kit 2 Borrachas Vedação Filtro De Fiapo Lava E Seca Samsung",
+      "quantidade": 1,
+      "valor": 29.5,
+      "foto": "https://http2.mlstatic.com/D_941983-MLA102286634919_122025-O.jpg",
+      "item_id": "MLB5347106848",
+      "shipping_id": "46819378972",
+      "envio": "Flex",
+      "data": "2026-04-09T09:17:14.000-04:00",
+      "pedido_id": "2000015905939258",
+      "comprador": "YUGOISOBESATO",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "DC64-01538B",
+      "produto": "Trava Da Porta Lava E Seca Samsung 127v Wd106",
+      "quantidade": 1,
+      "valor": 27.72,
+      "foto": "https://http2.mlstatic.com/D_961117-MLA102610137716_122025-O.jpg",
+      "item_id": "MLB4041539053",
+      "shipping_id": "46819356478",
+      "envio": "Full",
+      "data": "2026-04-09T09:14:00.000-04:00",
+      "pedido_id": "2000015905916056",
+      "comprador": "CLEITON_245",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "KITSM1118",
       "produto": "Puxador Porta E Mola Lava Seca Samsung Cinza Claro Original",
