@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-09T11:00:39.213Z",
+  "atualizado_em": "2026-04-09T11:10:38.214Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 24,
+  "total_pedidos": 27,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC64-01524A",
+      "produto": "Puxador Maçaneta Porta Lavadora Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 30.4,
+      "foto": "https://http2.mlstatic.com/D_950950-MLB75890411763_042024-O.jpg",
+      "item_id": "MLB1667664204",
+      "shipping_id": "46818360509",
+      "envio": "Flex",
+      "data": "2026-04-09T07:06:02.000-04:00",
+      "pedido_id": "2000015904487092",
+      "comprador": "PIPPOPAWLUSYK",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITSM1097",
+      "produto": "2x Amortecedor Cesto Lava E Seca Samsung Dc66-00421b",
+      "quantidade": 1,
+      "valor": 34.65,
+      "foto": "https://http2.mlstatic.com/D_881497-MLA99619497368_122025-O.jpg",
+      "item_id": "MLB5461532516",
+      "shipping_id": "46818348803",
+      "envio": "Full",
+      "data": "2026-04-09T07:02:56.000-04:00",
+      "pedido_id": "2000015904474076",
+      "comprador": "SR20250723215259",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "KITTERMOSTATO",
+      "produto": "Kit Termostatos Lava E Seca Samsung Wd11m4453j Original",
+      "quantidade": 1,
+      "valor": 49,
+      "foto": "https://http2.mlstatic.com/D_762730-MLB89090811517_082025-O.jpg",
+      "item_id": "MLB3935360223",
+      "shipping_id": "46818618912",
+      "envio": "Full",
+      "data": "2026-04-09T07:02:15.000-04:00",
+      "pedido_id": "2000015904455596",
+      "comprador": "SILDO596",
+      "pagamento": "account_money"
+    },
     {
       "sku": "AWW008CA1C00-BE",
       "produto": "Bomba De Drenagem Para Lavadora Panasonic Original 127v 127v",
