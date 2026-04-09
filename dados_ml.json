@@ -1,9 +1,37 @@
 {
-  "atualizado_em": "2026-04-09T10:51:56.503Z",
+  "atualizado_em": "2026-04-09T11:00:39.213Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 22,
+  "total_pedidos": 24,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "AWW008CA1C00-BE",
+      "produto": "Bomba De Drenagem Para Lavadora Panasonic Original 127v 127v",
+      "quantidade": 1,
+      "valor": 119.99,
+      "foto": "https://http2.mlstatic.com/D_832153-MLB106259839945_012026-O.jpg",
+      "item_id": "MLB2060947184",
+      "shipping_id": "46818603546",
+      "envio": "Full",
+      "data": "2026-04-09T06:58:04.000-04:00",
+      "pedido_id": "2000015904430358",
+      "comprador": "PRISCILAGARCIA123",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "739388",
+      "produto": "Bocal Para Piso De Reposição Para Aspirador Philco Pas4000v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "https://http2.mlstatic.com/D_848443-MLB104986321255_012026-O.jpg",
+      "item_id": "MLB5171553694",
+      "shipping_id": "46818573684",
+      "envio": "Full",
+      "data": "2026-04-09T06:49:45.000-04:00",
+      "pedido_id": "2000015904374532",
+      "comprador": "JO RK",
+      "pagamento": "bank_transfer"
+    },
     {
       "sku": "DC64-01827A",
       "produto": "Guarnição Borracha Da Porta Lava E Seca Samsung",
