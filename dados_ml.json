@@ -1,9 +1,51 @@
 {
-  "atualizado_em": "2026-04-09T15:50:58.010Z",
+  "atualizado_em": "2026-04-09T16:00:58.418Z",
   "fonte": "Mercado Livre",
-  "total_pedidos": 205,
+  "total_pedidos": 207,
   "produtos": [],
   "pedidos": [
+    {
+      "sku": "DC32-00004C",
+      "produto": "Sensor Termistor Duto Secagem Lava E Seca Samsung Original",
+      "quantidade": 1,
+      "valor": 65,
+      "foto": "",
+      "item_id": "MLB1529993590",
+      "shipping_id": "46820551104",
+      "envio": "Full",
+      "data": "2026-04-09T11:58:02.000-04:00",
+      "pedido_id": "2000015908381538",
+      "comprador": "MARLENEMATTOS01",
+      "pagamento": "account_money"
+    },
+    {
+      "sku": "EAU61383504",
+      "produto": "Eletrobomba Lava Seca LG 220v Original Eau62263304 220v",
+      "quantidade": 1,
+      "valor": 78,
+      "foto": "",
+      "item_id": "MLB3692715870",
+      "shipping_id": "46820276191",
+      "envio": "Flex",
+      "data": "2026-04-09T11:57:40.000-04:00",
+      "pedido_id": "2000015908361394",
+      "comprador": "MINI1198582",
+      "pagamento": "credit_card"
+    },
+    {
+      "sku": "41029149",
+      "produto": "Placa Purificador Electrolux Bivolt Pa21g Pa26g Pa31g Orig",
+      "quantidade": 1,
+      "valor": 270,
+      "foto": "",
+      "item_id": "MLB4201661165",
+      "shipping_id": "46820526574",
+      "envio": "Coleta",
+      "data": "2026-04-09T11:54:44.000-04:00",
+      "pedido_id": "2000015908303670",
+      "comprador": "MARCIOSM282",
+      "pagamento": "credit_card"
+    },
     {
       "sku": "DC92-02049T",
       "produto": "Placa Principal Máquina Lavar Secar Samsung Wd11a4453bxfaz 220v",
@@ -143,20 +185,6 @@
       "pedido_id": "2000015907965042",
       "comprador": "BORISGOKU",
       "pagamento": "bank_transfer"
-    },
-    {
-      "sku": "DC31-00181C",
-      "produto": "Eletrobomba Lava E Seca Samsung 127v Wd856uhsawq Dc31-00181c",
-      "quantidade": 1,
-      "valor": 69.73,
-      "foto": "",
-      "item_id": "MLB4106668967",
-      "shipping_id": "46820058641",
-      "envio": "Full",
-      "data": "2026-04-09T11:28:56.000-04:00",
-      "pedido_id": "2000015907899704",
-      "comprador": "ENCARDIM",
-      "pagamento": "credit_card"
     },
     {
       "sku": "AKB75675304",
